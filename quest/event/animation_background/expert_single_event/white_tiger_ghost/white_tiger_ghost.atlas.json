@@ -1,0 +1,90 @@
+[
+    {
+        "n": "quest/event/animation_background/expert_single_event/white_tiger_ghost/.gen/background/a",
+        "w": 67,
+        "h": 61,
+        "x": 1,
+        "y": 388,
+        "fx": -27,
+        "fy": -104,
+        "fw": 120,
+        "fh": 182
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/white_tiger_ghost/.gen/background/b",
+        "w": 15,
+        "h": 40,
+        "x": 211,
+        "y": 323,
+        "r": true,
+        "fx": -45,
+        "fy": -154,
+        "fw": 120,
+        "fh": 182
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/white_tiger_ghost/.gen/background/c",
+        "w": 240,
+        "h": 320,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/white_tiger_ghost/.gen/background/d",
+        "w": 67,
+        "h": 65,
+        "x": 75,
+        "y": 386,
+        "r": true,
+        "fx": -28,
+        "fy": -98,
+        "fw": 120,
+        "fh": 182
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/white_tiger_ghost/.gen/background/e",
+        "w": 63,
+        "h": 68,
+        "x": 146,
+        "y": 323,
+        "fx": -29,
+        "fy": -96,
+        "fw": 120,
+        "fh": 182
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/white_tiger_ghost/.gen/background/f",
+        "w": 69,
+        "h": 61,
+        "x": 75,
+        "y": 323,
+        "r": true,
+        "fx": -30,
+        "fy": -94,
+        "fw": 120,
+        "fh": 182
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/white_tiger_ghost/.gen/background/g",
+        "w": 72,
+        "h": 63,
+        "x": 1,
+        "y": 323,
+        "r": true,
+        "fx": -29,
+        "fy": -92,
+        "fw": 120,
+        "fh": 182
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/white_tiger_ghost/.gen/background/h",
+        "w": 65,
+        "h": 51,
+        "x": 144,
+        "y": 393,
+        "fx": -28,
+        "fy": -113,
+        "fw": 120,
+        "fh": 182
+    }
+]

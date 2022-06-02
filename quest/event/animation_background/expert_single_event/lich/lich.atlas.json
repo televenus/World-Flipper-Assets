@@ -1,0 +1,82 @@
+[
+    {
+        "n": "quest/event/animation_background/expert_single_event/lich/.gen/background/a",
+        "w": 64,
+        "h": 52,
+        "x": 1,
+        "y": 417,
+        "fx": -14,
+        "fy": -16,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/lich/.gen/background/b",
+        "w": 29,
+        "h": 17,
+        "x": 194,
+        "y": 359
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/lich/.gen/background/c",
+        "w": 240,
+        "h": 356,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/lich/.gen/background/d",
+        "w": 62,
+        "h": 52,
+        "x": 67,
+        "y": 417,
+        "fx": -14,
+        "fy": -15,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/lich/.gen/background/e",
+        "w": 62,
+        "h": 54,
+        "x": 130,
+        "y": 359,
+        "fx": -14,
+        "fy": -14,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/lich/.gen/background/f",
+        "w": 62,
+        "h": 56,
+        "x": 66,
+        "y": 359,
+        "fx": -14,
+        "fy": -13,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/lich/.gen/background/g",
+        "w": 63,
+        "h": 56,
+        "x": 1,
+        "y": 359,
+        "fx": -14,
+        "fy": -14,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/lich/.gen/background/h",
+        "w": 62,
+        "h": 54,
+        "x": 131,
+        "y": 415,
+        "fx": -14,
+        "fy": -15,
+        "fw": 96,
+        "fh": 128
+    }
+]

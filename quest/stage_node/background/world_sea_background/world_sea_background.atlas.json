@@ -1,0 +1,92 @@
+[
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/a",
+        "w": 273,
+        "h": 92,
+        "x": 549,
+        "y": 393,
+        "r": true
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/b",
+        "w": 94,
+        "h": 88,
+        "x": 941,
+        "y": 387,
+        "r": true
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/c",
+        "w": 115,
+        "h": 83,
+        "x": 824,
+        "y": 381,
+        "r": true
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/d",
+        "w": 112,
+        "h": 223,
+        "x": 1003,
+        "y": 1
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/e",
+        "w": 112,
+        "h": 159,
+        "x": 1003,
+        "y": 226,
+        "r": true
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/f",
+        "w": 149,
+        "h": 104,
+        "x": 823,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/g",
+        "w": 272,
+        "h": 180,
+        "x": 1,
+        "y": 275
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/h",
+        "w": 272,
+        "h": 30,
+        "x": 1,
+        "y": 457
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/i",
+        "w": 1000,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/j",
+        "w": 272,
+        "h": 180,
+        "x": 275,
+        "y": 275
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/k",
+        "w": 272,
+        "h": 30,
+        "x": 275,
+        "y": 457
+    },
+    {
+        "n": "quest/stage_node/background/world_sea_background/.gen/world_sea_background/l",
+        "w": 272,
+        "h": 116,
+        "x": 549,
+        "y": 275
+    }
+]

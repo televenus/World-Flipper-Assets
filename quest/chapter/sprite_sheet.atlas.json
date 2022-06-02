@@ -1,0 +1,715 @@
+[
+    {
+        "n": "quest/chapter/background/world_9/cutin",
+        "w": 240,
+        "h": 125,
+        "x": 1082,
+        "y": 1850
+    },
+    {
+        "n": "quest/chapter/background/world_10/cutin",
+        "w": 240,
+        "h": 125,
+        "x": 838,
+        "y": 1851
+    },
+    {
+        "n": "quest/chapter/background/world_beast/blurry",
+        "w": 240,
+        "h": 320,
+        "x": 1868,
+        "y": 1638
+    },
+    {
+        "n": "quest/chapter/background/world_beast/cutin",
+        "w": 125,
+        "h": 240,
+        "x": 2616,
+        "y": 364,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_brave/cutin",
+        "w": 125,
+        "h": 240,
+        "x": 2512,
+        "y": 608,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_hell/blurry",
+        "w": 320,
+        "h": 240,
+        "x": 2188,
+        "y": 519,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_hell/cutin",
+        "w": 125,
+        "h": 240,
+        "x": 2512,
+        "y": 852,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_japan/blurry",
+        "w": 320,
+        "h": 240,
+        "x": 2188,
+        "y": 763,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_japan/cutin",
+        "w": 125,
+        "h": 240,
+        "x": 2582,
+        "y": 1096,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_light/blurry",
+        "w": 320,
+        "h": 240,
+        "x": 2188,
+        "y": 1007,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_light/cutin",
+        "w": 125,
+        "h": 240,
+        "x": 2582,
+        "y": 1340,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_mecha/blurry",
+        "w": 240,
+        "h": 320,
+        "x": 2094,
+        "y": 1251
+    },
+    {
+        "n": "quest/chapter/background/world_mecha/cutin",
+        "w": 125,
+        "h": 240,
+        "x": 2356,
+        "y": 1575,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_sand/blurry",
+        "w": 240,
+        "h": 320,
+        "x": 2112,
+        "y": 1575
+    },
+    {
+        "n": "quest/chapter/background/world_sand/cutin",
+        "w": 240,
+        "h": 125,
+        "x": 2485,
+        "y": 1584
+    },
+    {
+        "n": "quest/chapter/background/world_sea/blurry",
+        "w": 240,
+        "h": 320,
+        "x": 2338,
+        "y": 1251
+    },
+    {
+        "n": "quest/chapter/background/world_sea/cutin",
+        "w": 240,
+        "h": 125,
+        "x": 2485,
+        "y": 1713
+    },
+    {
+        "n": "quest/chapter/background/world_tree/blurry",
+        "w": 320,
+        "h": 240,
+        "x": 2188,
+        "y": 519,
+        "r": true
+    },
+    {
+        "n": "quest/chapter/background/world_tree/cutin",
+        "w": 240,
+        "h": 125,
+        "x": 2356,
+        "y": 1842
+    },
+    {
+        "n": "quest/chapter/icon/world_9_001",
+        "w": 64,
+        "h": 64,
+        "x": 566,
+        "y": 1897
+    },
+    {
+        "n": "quest/chapter/icon/world_10_001",
+        "w": 64,
+        "h": 64,
+        "x": 498,
+        "y": 1897
+    },
+    {
+        "n": "quest/chapter/icon/world_beast_001",
+        "w": 64,
+        "h": 64,
+        "x": 634,
+        "y": 1897
+    },
+    {
+        "n": "quest/chapter/icon/world_brave_001",
+        "w": 64,
+        "h": 64,
+        "x": 702,
+        "y": 1876
+    },
+    {
+        "n": "quest/chapter/icon/world_hell_001",
+        "w": 64,
+        "h": 64,
+        "x": 770,
+        "y": 1876
+    },
+    {
+        "n": "quest/chapter/icon/world_japan_001",
+        "w": 64,
+        "h": 64,
+        "x": 1038,
+        "y": 1782
+    },
+    {
+        "n": "quest/chapter/icon/world_mecha_001",
+        "w": 64,
+        "h": 64,
+        "x": 1106,
+        "y": 1782
+    },
+    {
+        "n": "quest/chapter/icon/world_sand_001",
+        "w": 64,
+        "h": 64,
+        "x": 1174,
+        "y": 1782
+    },
+    {
+        "n": "quest/chapter/icon/world_sea_001",
+        "w": 64,
+        "h": 64,
+        "x": 1242,
+        "y": 1765
+    },
+    {
+        "n": "quest/chapter/icon/world_tree_001",
+        "w": 64,
+        "h": 64,
+        "x": 1568,
+        "y": 1670
+    },
+    {
+        "n": "quest/chapter/logo/quest_01",
+        "w": 175,
+        "h": 630,
+        "x": 387,
+        "y": 637,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 640,
+        "fh": 182
+    },
+    {
+        "n": "quest/chapter/logo/quest_02",
+        "w": 192,
+        "h": 619,
+        "x": 653,
+        "y": 1,
+        "r": true,
+        "fx": -7,
+        "fy": -4,
+        "fw": 665,
+        "fh": 199
+    },
+    {
+        "n": "quest/chapter/logo/quest_03",
+        "w": 184,
+        "h": 528,
+        "x": 1846,
+        "y": 542,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 665,
+        "fh": 191
+    },
+    {
+        "n": "quest/chapter/logo/quest_04",
+        "w": 181,
+        "h": 525,
+        "x": 1909,
+        "y": 1074,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 665,
+        "fh": 188
+    },
+    {
+        "n": "quest/chapter/logo/quest_05",
+        "w": 181,
+        "h": 581,
+        "x": 1191,
+        "y": 599,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 665,
+        "fh": 188
+    },
+    {
+        "n": "quest/chapter/logo/quest_06",
+        "w": 183,
+        "h": 532,
+        "x": 1722,
+        "y": 1102,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 665,
+        "fh": 188
+    },
+    {
+        "n": "quest/chapter/logo/quest_07",
+        "w": 163,
+        "h": 614,
+        "x": 652,
+        "y": 1258,
+        "r": true,
+        "fx": -1,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/quest_08",
+        "w": 150,
+        "h": 546,
+        "x": 1692,
+        "y": 552,
+        "r": true,
+        "fx": 0,
+        "fy": -19,
+        "fw": 640,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/quest_09",
+        "w": 144,
+        "h": 627,
+        "x": 505,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -18,
+        "fw": 640,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/quest_10",
+        "w": 218,
+        "h": 537,
+        "x": 1823,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 640,
+        "fh": 280
+    },
+    {
+        "n": "quest/chapter/logo/quest_90",
+        "w": 411,
+        "h": 151,
+        "x": 2201,
+        "y": 364,
+        "fx": -115,
+        "fy": -15,
+        "fw": 640,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_01",
+        "w": 186,
+        "h": 665,
+        "x": 1,
+        "y": 670,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 678,
+        "fh": 192
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_02",
+        "w": 194,
+        "h": 665,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -7,
+        "fy": -4,
+        "fw": 678,
+        "fh": 201
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_03",
+        "w": 188,
+        "h": 586,
+        "x": 1038,
+        "y": 1192,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 665,
+        "fh": 194
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_04",
+        "w": 181,
+        "h": 577,
+        "x": 1230,
+        "y": 1184,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 665,
+        "fh": 188
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_05",
+        "w": 181,
+        "h": 612,
+        "x": 849,
+        "y": 1,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 665,
+        "fh": 188
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_06",
+        "w": 183,
+        "h": 570,
+        "x": 1202,
+        "y": 1,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 665,
+        "fh": 188
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_07",
+        "w": 192,
+        "h": 663,
+        "x": 191,
+        "y": 670,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 675,
+        "fh": 198
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_08",
+        "w": 150,
+        "h": 622,
+        "x": 498,
+        "y": 1271,
+        "r": true,
+        "fx": 0,
+        "fy": -19,
+        "fw": 640,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_09",
+        "w": 144,
+        "h": 632,
+        "x": 357,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -18,
+        "fw": 640,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/quest_ex_10",
+        "w": 215,
+        "h": 605,
+        "x": 819,
+        "y": 1242,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 640,
+        "fh": 280
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_01",
+        "w": 147,
+        "h": 604,
+        "x": 887,
+        "y": 617,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_02",
+        "w": 164,
+        "h": 594,
+        "x": 1034,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -6,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_03",
+        "w": 502,
+        "h": 154,
+        "x": 2201,
+        "y": 1,
+        "fx": -2,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_04",
+        "w": 152,
+        "h": 505,
+        "x": 2045,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_05",
+        "w": 149,
+        "h": 555,
+        "x": 1415,
+        "y": 1142,
+        "r": true,
+        "fx": -1,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_06",
+        "w": 150,
+        "h": 507,
+        "x": 2034,
+        "y": 542,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_07",
+        "w": 163,
+        "h": 614,
+        "x": 720,
+        "y": 624,
+        "r": true,
+        "fx": -1,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_08",
+        "w": 150,
+        "h": 547,
+        "x": 1669,
+        "y": 1,
+        "r": true,
+        "fx": -8,
+        "fy": -19,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_09",
+        "w": 136,
+        "h": 556,
+        "x": 1529,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -8,
+        "fw": 560,
+        "fh": 154
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_10",
+        "w": 470,
+        "h": 201,
+        "x": 2201,
+        "y": 159,
+        "fx": 0,
+        "fy": 0,
+        "fw": 540,
+        "fh": 260
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_bg",
+        "w": 154,
+        "h": 656,
+        "x": 199,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 660,
+        "fh": 154
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_01",
+        "w": 155,
+        "h": 642,
+        "x": 1,
+        "y": 1339,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_02",
+        "w": 167,
+        "h": 644,
+        "x": 327,
+        "y": 1337,
+        "r": true,
+        "fx": -2,
+        "fy": -6,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_03",
+        "w": 156,
+        "h": 563,
+        "x": 1376,
+        "y": 575,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_04",
+        "w": 152,
+        "h": 554,
+        "x": 1536,
+        "y": 561,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_05",
+        "w": 149,
+        "h": 589,
+        "x": 1038,
+        "y": 599,
+        "r": true,
+        "fx": -1,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_06",
+        "w": 150,
+        "h": 547,
+        "x": 1568,
+        "y": 1119,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_07",
+        "w": 163,
+        "h": 640,
+        "x": 160,
+        "y": 1339,
+        "r": true,
+        "fx": -1,
+        "fy": -16,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_08",
+        "w": 150,
+        "h": 622,
+        "x": 566,
+        "y": 632,
+        "r": true,
+        "fx": -9,
+        "fy": -19,
+        "fw": 649,
+        "fh": 180
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_09",
+        "w": 136,
+        "h": 560,
+        "x": 1389,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -8,
+        "fw": 560,
+        "fh": 154
+    },
+    {
+        "n": "quest/chapter/logo/stage_node_ex_10",
+        "w": 538,
+        "h": 201,
+        "x": 1326,
+        "y": 1765,
+        "fx": 0,
+        "fy": 0,
+        "fw": 560,
+        "fh": 260
+    }
+]

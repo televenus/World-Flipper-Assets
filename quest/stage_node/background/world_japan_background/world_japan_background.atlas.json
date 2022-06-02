@@ -1,0 +1,137 @@
+[
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/a",
+        "w": 272,
+        "h": 43,
+        "x": 1,
+        "y": 452,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 45
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/b",
+        "w": 272,
+        "h": 175,
+        "x": 1,
+        "y": 275,
+        "fx": 0,
+        "fy": -1,
+        "fw": 272,
+        "fh": 176
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/c",
+        "w": 88,
+        "h": 64,
+        "x": 363,
+        "y": 427,
+        "fx": -25,
+        "fy": -10,
+        "fw": 130,
+        "fh": 89
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/d",
+        "w": 86,
+        "h": 82,
+        "x": 275,
+        "y": 427,
+        "fx": -29,
+        "fy": -5,
+        "fw": 143,
+        "fh": 99
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/e",
+        "w": 163,
+        "h": 198,
+        "x": 530,
+        "y": 275,
+        "fx": -17,
+        "fy": -14,
+        "fw": 208,
+        "fh": 212
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/f",
+        "w": 128,
+        "h": 96,
+        "x": 841,
+        "y": 413,
+        "fx": -26,
+        "fy": -11,
+        "fw": 179,
+        "fh": 117
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/g",
+        "w": 130,
+        "h": 136,
+        "x": 841,
+        "y": 275,
+        "r": true,
+        "fx": -23,
+        "fy": -10,
+        "fw": 183,
+        "fh": 152
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/h",
+        "w": 122,
+        "h": 125,
+        "x": 973,
+        "y": 384,
+        "fx": -27,
+        "fy": 0,
+        "fw": 152,
+        "fh": 140
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/i",
+        "w": 147,
+        "h": 107,
+        "x": 973,
+        "y": 275,
+        "fx": 0,
+        "fy": 0,
+        "fw": 156,
+        "fh": 111
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/j",
+        "w": 140,
+        "h": 272,
+        "x": 1003,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/k",
+        "w": 253,
+        "h": 150,
+        "x": 275,
+        "y": 275
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/l",
+        "w": 144,
+        "h": 222,
+        "x": 695,
+        "y": 275,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 222,
+        "fh": 150
+    },
+    {
+        "n": "quest/stage_node/background/world_japan_background/.gen/world_japan_background/m",
+        "w": 1000,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    }
+]

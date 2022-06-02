@@ -1,0 +1,74 @@
+[
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/a",
+        "w": 10,
+        "h": 7,
+        "x": 67,
+        "y": 769,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/b",
+        "w": 7,
+        "h": 11,
+        "x": 67,
+        "y": 756
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/c",
+        "w": 7,
+        "h": 9,
+        "x": 76,
+        "y": 756
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/d",
+        "w": 13,
+        "h": 15,
+        "x": 41,
+        "y": 760
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/e",
+        "w": 8,
+        "h": 11,
+        "x": 58,
+        "y": 743
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/f",
+        "w": 7,
+        "h": 11,
+        "x": 68,
+        "y": 743
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/g",
+        "w": 9,
+        "h": 13,
+        "x": 56,
+        "y": 760
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/h",
+        "w": 15,
+        "h": 15,
+        "x": 41,
+        "y": 743
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/i",
+        "w": 38,
+        "h": 34,
+        "x": 1,
+        "y": 743,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/yokai_emaki_01/.gen/yokai_emaki_01_background/j",
+        "w": 240,
+        "h": 740,
+        "x": 1,
+        "y": 1
+    }
+]

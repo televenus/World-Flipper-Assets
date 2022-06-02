@@ -1,0 +1,87 @@
+[
+    {
+        "n": "quest/event/animation_background/expert_single_event/gurdian_golem/.gen/background/a",
+        "w": 48,
+        "h": 80,
+        "x": 359,
+        "y": 158,
+        "r": true,
+        "fx": -24,
+        "fy": -24,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/gurdian_golem/.gen/background/b",
+        "w": 18,
+        "h": 44,
+        "x": 443,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/gurdian_golem/.gen/background/c",
+        "w": 356,
+        "h": 240,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/gurdian_golem/.gen/background/d",
+        "w": 46,
+        "h": 82,
+        "x": 439,
+        "y": 53,
+        "r": true,
+        "fx": -23,
+        "fy": -25,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/gurdian_golem/.gen/background/e",
+        "w": 46,
+        "h": 80,
+        "x": 439,
+        "y": 137,
+        "r": true,
+        "fx": -24,
+        "fy": -26,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/gurdian_golem/.gen/background/f",
+        "w": 82,
+        "h": 50,
+        "x": 359,
+        "y": 1,
+        "fx": -23,
+        "fy": -25,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/gurdian_golem/.gen/background/g",
+        "w": 78,
+        "h": 50,
+        "x": 359,
+        "y": 106,
+        "fx": -25,
+        "fy": -24,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/gurdian_golem/.gen/background/h",
+        "w": 78,
+        "h": 51,
+        "x": 359,
+        "y": 53,
+        "fx": -25,
+        "fy": -23,
+        "fw": 128,
+        "fh": 128
+    }
+]

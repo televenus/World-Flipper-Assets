@@ -1,0 +1,168 @@
+[
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/a",
+        "w": 6,
+        "h": 7,
+        "x": 739,
+        "y": 135,
+        "r": true,
+        "fx": -4,
+        "fy": -8,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/b",
+        "w": 272,
+        "h": 200,
+        "x": 1,
+        "y": 275
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/c",
+        "w": 3,
+        "h": 9,
+        "x": 739,
+        "y": 124,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/d",
+        "w": 297,
+        "h": 272,
+        "x": 303,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/e",
+        "w": 247,
+        "h": 203,
+        "x": 533,
+        "y": 275
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/f",
+        "w": 224,
+        "h": 73,
+        "x": 275,
+        "y": 378
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/g",
+        "w": 256,
+        "h": 101,
+        "x": 275,
+        "y": 275
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/h",
+        "w": 135,
+        "h": 272,
+        "x": 602,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/i",
+        "w": 300,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/j",
+        "w": 27,
+        "h": 33,
+        "x": 739,
+        "y": 1,
+        "r": true,
+        "fx": -7,
+        "fy": -9,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/k",
+        "w": 5,
+        "h": 7,
+        "x": 739,
+        "y": 144,
+        "r": true,
+        "fx": -4,
+        "fy": -7,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/l",
+        "w": 21,
+        "h": 32,
+        "x": 739,
+        "y": 36,
+        "r": true,
+        "fx": -7,
+        "fy": -13,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/m",
+        "w": 7,
+        "h": 6,
+        "x": 744,
+        "y": 124,
+        "fx": -4,
+        "fy": -4,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/n",
+        "w": 20,
+        "h": 24,
+        "x": 739,
+        "y": 98,
+        "fx": -15,
+        "fy": -13,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/o",
+        "w": 4,
+        "h": 7,
+        "x": 739,
+        "y": 153,
+        "r": true,
+        "fx": -4,
+        "fy": -6,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/p",
+        "w": 21,
+        "h": 26,
+        "x": 739,
+        "y": 70,
+        "r": true,
+        "fx": -11,
+        "fy": -12,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/fake_princess01/.gen/fake_princess_background/q",
+        "w": 3,
+        "h": 7,
+        "x": 739,
+        "y": 162,
+        "r": true,
+        "fx": -4,
+        "fy": -8,
+        "fw": 15,
+        "fh": 15
+    }
+]

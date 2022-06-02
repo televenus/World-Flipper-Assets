@@ -1,0 +1,143 @@
+[
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/a",
+        "w": 46,
+        "h": 39,
+        "x": 1,
+        "y": 149,
+        "fx": -32,
+        "fy": -57,
+        "fw": 112,
+        "fh": 132
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/b",
+        "w": 14,
+        "h": 14,
+        "x": 161,
+        "y": 149,
+        "fx": -48,
+        "fy": -56,
+        "fw": 112,
+        "fh": 132
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/c",
+        "w": 46,
+        "h": 39,
+        "x": 49,
+        "y": 149,
+        "fx": -32,
+        "fy": -54,
+        "fw": 112,
+        "fh": 132
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/d",
+        "w": 14,
+        "h": 14,
+        "x": 161,
+        "y": 165,
+        "fx": -47,
+        "fy": -53,
+        "fw": 112,
+        "fh": 132
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/e",
+        "w": 46,
+        "h": 39,
+        "x": 97,
+        "y": 149,
+        "fx": -32,
+        "fy": -54,
+        "fw": 112,
+        "fh": 132
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/f",
+        "w": 14,
+        "h": 14,
+        "x": 177,
+        "y": 149,
+        "fx": -49,
+        "fy": -53,
+        "fw": 112,
+        "fh": 132
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/g",
+        "w": 13,
+        "h": 14,
+        "x": 193,
+        "y": 165,
+        "r": true,
+        "fx": -43,
+        "fy": -44,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/h",
+        "w": 14,
+        "h": 14,
+        "x": 177,
+        "y": 165,
+        "fx": -43,
+        "fy": -43,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/i",
+        "w": 14,
+        "h": 16,
+        "x": 145,
+        "y": 149,
+        "fx": -43,
+        "fy": -41,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/j",
+        "w": 14,
+        "h": 15,
+        "x": 145,
+        "y": 167,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/k",
+        "w": 14,
+        "h": 14,
+        "x": 193,
+        "y": 149,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/l",
+        "w": 12,
+        "h": 14,
+        "x": 208,
+        "y": 165,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/top/.gen/background/m",
+        "w": 240,
+        "h": 146,
+        "x": 1,
+        "y": 1
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "n": "quest/stage_node/background/world_mecha_background/.gen/world_mecha_background/a",
+        "w": 272,
+        "h": 891,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "quest/stage_node/background/world_mecha_background/.gen/world_mecha_background/b",
+        "w": 272,
+        "h": 458,
+        "x": 275,
+        "y": 894
+    },
+    {
+        "n": "quest/stage_node/background/world_mecha_background/.gen/world_mecha_background/c",
+        "w": 272,
+        "h": 993,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -7,
+        "fw": 272,
+        "fh": 1000
+    },
+    {
+        "n": "quest/stage_node/background/world_mecha_background/.gen/world_mecha_background/d",
+        "w": 272,
+        "h": 458,
+        "x": 275,
+        "y": 1354
+    },
+    {
+        "n": "quest/stage_node/background/world_mecha_background/.gen/world_mecha_background/e",
+        "w": 258,
+        "h": 843,
+        "x": 549,
+        "y": 851
+    },
+    {
+        "n": "quest/stage_node/background/world_mecha_background/.gen/world_mecha_background/f",
+        "w": 272,
+        "h": 847,
+        "x": 1,
+        "y": 996
+    },
+    {
+        "n": "quest/stage_node/background/world_mecha_background/.gen/world_mecha_background/g",
+        "w": 265,
+        "h": 848,
+        "x": 549,
+        "y": 1
+    }
+]

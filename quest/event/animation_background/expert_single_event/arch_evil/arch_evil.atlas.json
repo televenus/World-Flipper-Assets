@@ -1,0 +1,149 @@
+[
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/a",
+        "w": 39,
+        "h": 67,
+        "x": 81,
+        "y": 323,
+        "r": true,
+        "fx": -94,
+        "fy": -99,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/b",
+        "w": 61,
+        "h": 18,
+        "x": 163,
+        "y": 323,
+        "fx": -99,
+        "fy": -133,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/c",
+        "w": 240,
+        "h": 320,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/d",
+        "w": 69,
+        "h": 40,
+        "x": 1,
+        "y": 396,
+        "fx": -93,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/e",
+        "w": 61,
+        "h": 18,
+        "x": 163,
+        "y": 343,
+        "fx": -99,
+        "fy": -133,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/f",
+        "w": 37,
+        "h": 71,
+        "x": 42,
+        "y": 323,
+        "r": true,
+        "fx": -92,
+        "fy": -101,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/g",
+        "w": 18,
+        "h": 61,
+        "x": 163,
+        "y": 363,
+        "r": true,
+        "fx": -99,
+        "fy": -133,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/h",
+        "w": 39,
+        "h": 71,
+        "x": 1,
+        "y": 323,
+        "r": true,
+        "fx": -92,
+        "fy": -99,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/i",
+        "w": 18,
+        "h": 61,
+        "x": 183,
+        "y": 363,
+        "r": true,
+        "fx": -99,
+        "fy": -133,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/j",
+        "w": 65,
+        "h": 40,
+        "x": 72,
+        "y": 396,
+        "fx": -95,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/k",
+        "w": 18,
+        "h": 61,
+        "x": 203,
+        "y": 363,
+        "r": true,
+        "fx": -99,
+        "fy": -133,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/l",
+        "w": 39,
+        "h": 65,
+        "x": 122,
+        "y": 323,
+        "r": true,
+        "fx": -95,
+        "fy": -99,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/arch_evil/.gen/background/m",
+        "w": 18,
+        "h": 61,
+        "x": 223,
+        "y": 363,
+        "r": true,
+        "fx": -99,
+        "fy": -133,
+        "fw": 256,
+        "fh": 256
+    }
+]

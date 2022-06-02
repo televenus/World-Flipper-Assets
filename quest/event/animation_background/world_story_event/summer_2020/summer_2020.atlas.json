@@ -1,0 +1,100 @@
+[
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/a",
+        "w": 95,
+        "h": 70,
+        "x": 413,
+        "y": 359,
+        "fx": 0,
+        "fy": -38,
+        "fw": 272,
+        "fh": 272
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/b",
+        "w": 272,
+        "h": 474,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/c",
+        "w": 94,
+        "h": 75,
+        "x": 402,
+        "y": 431,
+        "fx": -10,
+        "fy": -39,
+        "fw": 272,
+        "fh": 272
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/d",
+        "w": 82,
+        "h": 81,
+        "x": 419,
+        "y": 276,
+        "r": true,
+        "fx": -30,
+        "fy": -38,
+        "fw": 272,
+        "fh": 272
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/e",
+        "w": 82,
+        "h": 111,
+        "x": 419,
+        "y": 163,
+        "fx": -48,
+        "fy": -16,
+        "fw": 272,
+        "fh": 272
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/f",
+        "w": 125,
+        "h": 77,
+        "x": 275,
+        "y": 431,
+        "r": true,
+        "fx": -63,
+        "fy": -8,
+        "fw": 272,
+        "fh": 272
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/g",
+        "w": 136,
+        "h": 129,
+        "x": 275,
+        "y": 280,
+        "r": true,
+        "fx": -74,
+        "fy": -15,
+        "fw": 272,
+        "fh": 272
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/h",
+        "w": 192,
+        "h": 160,
+        "x": 275,
+        "y": 1,
+        "fx": -68,
+        "fy": -12,
+        "fw": 272,
+        "fh": 272
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/summer_2020/.gen/summer_2020_background/i",
+        "w": 142,
+        "h": 115,
+        "x": 275,
+        "y": 163,
+        "fx": -115,
+        "fy": -55,
+        "fw": 272,
+        "fh": 272
+    }
+]

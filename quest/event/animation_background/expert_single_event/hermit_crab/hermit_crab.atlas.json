@@ -1,0 +1,65 @@
+[
+    {
+        "n": "quest/event/animation_background/expert_single_event/hermit_crab/.gen/background/a",
+        "w": 66,
+        "h": 63,
+        "x": 1,
+        "y": 323,
+        "r": true,
+        "fx": -30,
+        "fy": -50,
+        "fw": 123,
+        "fh": 130
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/hermit_crab/.gen/background/b",
+        "w": 18,
+        "h": 51,
+        "x": 205,
+        "y": 323,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/hermit_crab/.gen/background/c",
+        "w": 240,
+        "h": 320,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/hermit_crab/.gen/background/d",
+        "w": 66,
+        "h": 61,
+        "x": 69,
+        "y": 323,
+        "r": true,
+        "fx": -31,
+        "fy": -51,
+        "fw": 123,
+        "fh": 130
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/hermit_crab/.gen/background/e",
+        "w": 66,
+        "h": 59,
+        "x": 137,
+        "y": 323,
+        "r": true,
+        "fx": -32,
+        "fy": -52,
+        "fw": 123,
+        "fh": 130
+    },
+    {
+        "n": "quest/event/animation_background/expert_single_event/hermit_crab/.gen/background/f",
+        "w": 66,
+        "h": 61,
+        "x": 69,
+        "y": 323,
+        "r": true,
+        "fx": -31,
+        "fy": -51,
+        "fw": 123,
+        "fh": 130
+    }
+]

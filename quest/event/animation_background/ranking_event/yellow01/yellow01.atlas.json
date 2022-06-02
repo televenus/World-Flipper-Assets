@@ -1,0 +1,206 @@
+[
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/a",
+        "w": 33,
+        "h": 21,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -29,
+        "fy": -22,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/b",
+        "w": 70,
+        "h": 69,
+        "x": 100,
+        "y": 1,
+        "fx": -45,
+        "fy": -40,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/c",
+        "w": 15,
+        "h": 8,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/d",
+        "w": 45,
+        "h": 26,
+        "x": 53,
+        "y": 1
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/e",
+        "w": 510,
+        "h": 272,
+        "x": 1,
+        "y": 72,
+        "r": true
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/f",
+        "w": 70,
+        "h": 69,
+        "x": 100,
+        "y": 1,
+        "fx": -45,
+        "fy": -39,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/g",
+        "w": 70,
+        "h": 69,
+        "x": 172,
+        "y": 1,
+        "fx": -45,
+        "fy": -38,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/h",
+        "w": 33,
+        "h": 21,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -29,
+        "fy": -21,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/i",
+        "w": 70,
+        "h": 69,
+        "x": 244,
+        "y": 1,
+        "fx": -45,
+        "fy": -38,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/j",
+        "w": 33,
+        "h": 21,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -29,
+        "fy": -20,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/k",
+        "w": 70,
+        "h": 69,
+        "x": 100,
+        "y": 1,
+        "fx": -45,
+        "fy": -39,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/l",
+        "w": 33,
+        "h": 21,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -29,
+        "fy": -20,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/m",
+        "w": 70,
+        "h": 69,
+        "x": 316,
+        "y": 1,
+        "fx": -45,
+        "fy": -41,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/n",
+        "w": 33,
+        "h": 21,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -29,
+        "fy": -21,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/o",
+        "w": 70,
+        "h": 69,
+        "x": 316,
+        "y": 1,
+        "fx": -45,
+        "fy": -41,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/p",
+        "w": 33,
+        "h": 21,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -29,
+        "fy": -22,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/q",
+        "w": 70,
+        "h": 69,
+        "x": 388,
+        "y": 1,
+        "fx": -45,
+        "fy": -42,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/r",
+        "w": 70,
+        "h": 69,
+        "x": 100,
+        "y": 1,
+        "fx": -45,
+        "fy": -42,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "quest/event/animation_background/ranking_event/yellow01/.gen/yellow01_background/s",
+        "w": 70,
+        "h": 69,
+        "x": 100,
+        "y": 1,
+        "fx": -45,
+        "fy": -41,
+        "fw": 160,
+        "fh": 160
+    }
+]

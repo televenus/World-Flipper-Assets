@@ -1,0 +1,37 @@
+[
+    {
+        "n": "quest/stage_node/background/world_beast_background/.gen/world_beast_background/a",
+        "w": 7,
+        "h": 6,
+        "x": 1,
+        "y": 1003
+    },
+    {
+        "n": "quest/stage_node/background/world_beast_background/.gen/world_beast_background/b",
+        "w": 7,
+        "h": 6,
+        "x": 10,
+        "y": 1003
+    },
+    {
+        "n": "quest/stage_node/background/world_beast_background/.gen/world_beast_background/c",
+        "w": 272,
+        "h": 1000,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "quest/stage_node/background/world_beast_background/.gen/world_beast_background/d",
+        "w": 7,
+        "h": 5,
+        "x": 19,
+        "y": 1003
+    },
+    {
+        "n": "quest/stage_node/background/world_beast_background/.gen/world_beast_background/e",
+        "w": 7,
+        "h": 5,
+        "x": 28,
+        "y": 1003
+    }
+]

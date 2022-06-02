@@ -1,0 +1,86 @@
+[
+    {
+        "n": "quest/event/animation_background/world_story_event/beast/.gen/beast_background/a",
+        "w": 59,
+        "h": 11,
+        "x": 51,
+        "y": 1,
+        "fx": -124,
+        "fy": -229,
+        "fw": 408,
+        "fh": 700
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/beast/.gen/beast_background/b",
+        "w": 36,
+        "h": 7,
+        "x": 13,
+        "y": 1,
+        "fx": -171,
+        "fy": -219,
+        "fw": 408,
+        "fh": 700
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/beast/.gen/beast_background/c",
+        "w": 4,
+        "h": 4,
+        "x": 1,
+        "y": 1,
+        "fx": -188,
+        "fy": -243,
+        "fw": 408,
+        "fh": 700
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/beast/.gen/beast_background/d",
+        "w": 4,
+        "h": 4,
+        "x": 7,
+        "y": 1,
+        "fx": -311,
+        "fy": -77,
+        "fw": 408,
+        "fh": 700
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/beast/.gen/beast_background/e",
+        "w": 4,
+        "h": 4,
+        "x": 7,
+        "y": 1,
+        "fx": -129,
+        "fy": -64,
+        "fw": 408,
+        "fh": 700
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/beast/.gen/beast_background/f",
+        "w": 4,
+        "h": 4,
+        "x": 7,
+        "y": 1,
+        "fx": -98,
+        "fy": -197,
+        "fw": 408,
+        "fh": 700
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/beast/.gen/beast_background/g",
+        "w": 287,
+        "h": 287,
+        "x": 112,
+        "y": 1,
+        "fx": -30,
+        "fy": -413,
+        "fw": 408,
+        "fh": 700
+    },
+    {
+        "n": "quest/event/animation_background/world_story_event/beast/.gen/beast_background/h",
+        "w": 408,
+        "h": 700,
+        "x": 1,
+        "y": 290
+    }
+]
