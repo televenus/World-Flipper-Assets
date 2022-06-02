@@ -1,0 +1,653 @@
+[
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 243,
+        "y": 446
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/aa",
+        "w": 12,
+        "h": 14,
+        "x": 178,
+        "y": 661
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ab",
+        "w": 15,
+        "h": 16,
+        "x": 98,
+        "y": 661
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ac",
+        "w": 10,
+        "h": 16,
+        "x": 243,
+        "y": 220,
+        "fx": -11,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ad",
+        "w": 13,
+        "h": 12,
+        "x": 220,
+        "y": 649,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ae",
+        "w": 41,
+        "h": 24,
+        "x": 212,
+        "y": 553
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/af",
+        "w": 9,
+        "h": 18,
+        "x": 243,
+        "y": 290,
+        "r": true,
+        "fx": -119,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ag",
+        "w": 17,
+        "h": 14,
+        "x": 237,
+        "y": 645,
+        "fx": -119,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ah",
+        "w": 75,
+        "h": 50,
+        "x": 1,
+        "y": 627,
+        "fx": 0,
+        "fy": 0,
+        "fw": 75,
+        "fh": 52
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ai",
+        "w": 20,
+        "h": 21,
+        "x": 78,
+        "y": 627,
+        "r": true,
+        "fx": -118,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/aj",
+        "w": 12,
+        "h": 13,
+        "x": 220,
+        "y": 663,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ak",
+        "w": 7,
+        "h": 18,
+        "x": 243,
+        "y": 387,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/al",
+        "w": 10,
+        "h": 24,
+        "x": 243,
+        "y": 194,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/am",
+        "w": 11,
+        "h": 26,
+        "x": 243,
+        "y": 31,
+        "r": true,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/an",
+        "w": 11,
+        "h": 28,
+        "x": 243,
+        "y": 1,
+        "r": true,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ao",
+        "w": 20,
+        "h": 20,
+        "x": 100,
+        "y": 627
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ap",
+        "w": 20,
+        "h": 20,
+        "x": 122,
+        "y": 627
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/aq",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 627
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ar",
+        "w": 7,
+        "h": 5,
+        "x": 243,
+        "y": 425,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/as",
+        "w": 12,
+        "h": 13,
+        "x": 234,
+        "y": 663,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/at",
+        "w": 11,
+        "h": 7,
+        "x": 243,
+        "y": 185,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/au",
+        "w": 12,
+        "h": 13,
+        "x": 166,
+        "y": 627,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/av",
+        "w": 9,
+        "h": 15,
+        "x": 243,
+        "y": 310,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/aw",
+        "w": 13,
+        "h": 14,
+        "x": 163,
+        "y": 661,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ax",
+        "w": 12,
+        "h": 13,
+        "x": 166,
+        "y": 627,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ay",
+        "w": 8,
+        "h": 16,
+        "x": 243,
+        "y": 364
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/az",
+        "w": 5,
+        "h": 5,
+        "x": 243,
+        "y": 439,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/b",
+        "w": 10,
+        "h": 15,
+        "x": 243,
+        "y": 256,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/ba",
+        "w": 7,
+        "h": 7,
+        "x": 243,
+        "y": 407,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bb",
+        "w": 3,
+        "h": 3,
+        "x": 243,
+        "y": 452,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bc",
+        "w": 23,
+        "h": 21,
+        "x": 212,
+        "y": 626,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bd",
+        "w": 3,
+        "h": 3,
+        "x": 243,
+        "y": 452,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/be",
+        "w": 3,
+        "h": 3,
+        "x": 243,
+        "y": 452,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bf",
+        "w": 5,
+        "h": 5,
+        "x": 243,
+        "y": 439,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bg",
+        "w": 7,
+        "h": 7,
+        "x": 243,
+        "y": 407,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bh",
+        "w": 11,
+        "h": 9,
+        "x": 243,
+        "y": 174,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bi",
+        "w": 23,
+        "h": 21,
+        "x": 212,
+        "y": 626,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bj",
+        "w": 4,
+        "h": 5,
+        "x": 250,
+        "y": 439,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bk",
+        "w": 7,
+        "h": 7,
+        "x": 243,
+        "y": 416,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bl",
+        "w": 7,
+        "h": 5,
+        "x": 243,
+        "y": 432,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/bm",
+        "w": 17,
+        "h": 17,
+        "x": 237,
+        "y": 626,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 243,
+        "y": 337
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/d",
+        "w": 11,
+        "h": 14,
+        "x": 243,
+        "y": 110,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/e",
+        "w": 11,
+        "h": 14,
+        "x": 243,
+        "y": 126,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/f",
+        "w": 209,
+        "h": 72,
+        "x": 1,
+        "y": 553,
+        "fx": -14,
+        "fy": -300,
+        "fw": 240,
+        "fh": 550
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/g",
+        "w": 240,
+        "h": 550,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/h",
+        "w": 4,
+        "h": 4,
+        "x": 249,
+        "y": 446
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/i",
+        "w": 12,
+        "h": 13,
+        "x": 166,
+        "y": 642,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/j",
+        "w": 9,
+        "h": 8,
+        "x": 243,
+        "y": 327
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/k",
+        "w": 18,
+        "h": 16,
+        "x": 78,
+        "y": 661,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/l",
+        "w": 8,
+        "h": 20,
+        "x": 243,
+        "y": 342
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/m",
+        "w": 38,
+        "h": 45,
+        "x": 212,
+        "y": 579,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/n",
+        "w": 11,
+        "h": 15,
+        "x": 243,
+        "y": 59
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/o",
+        "w": 12,
+        "h": 14,
+        "x": 192,
+        "y": 661
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/p",
+        "w": 15,
+        "h": 15,
+        "x": 129,
+        "y": 661
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/q",
+        "w": 10,
+        "h": 16,
+        "x": 243,
+        "y": 238
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/r",
+        "w": 8,
+        "h": 3,
+        "x": 243,
+        "y": 382
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/s",
+        "w": 12,
+        "h": 16,
+        "x": 115,
+        "y": 661
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/t",
+        "w": 11,
+        "h": 15,
+        "x": 243,
+        "y": 76,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/u",
+        "w": 12,
+        "h": 14,
+        "x": 206,
+        "y": 661,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/v",
+        "w": 15,
+        "h": 15,
+        "x": 146,
+        "y": 661,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/w",
+        "w": 10,
+        "h": 15,
+        "x": 243,
+        "y": 273,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/x",
+        "w": 11,
+        "h": 14,
+        "x": 243,
+        "y": 142,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/y",
+        "w": 11,
+        "h": 14,
+        "x": 243,
+        "y": 158,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/system_quest/treasure_shop/.gen/movie/z",
+        "w": 11,
+        "h": 15,
+        "x": 243,
+        "y": 93
+    }
+]

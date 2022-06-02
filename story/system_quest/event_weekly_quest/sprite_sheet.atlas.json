@@ -1,0 +1,549 @@
+[
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 937,
+        "y": 172
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/aa",
+        "w": 10,
+        "h": 13,
+        "x": 931,
+        "y": 198,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ab",
+        "w": 5,
+        "h": 8,
+        "x": 918,
+        "y": 274,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ac",
+        "w": 10,
+        "h": 16,
+        "x": 931,
+        "y": 1
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ad",
+        "w": 16,
+        "h": 12,
+        "x": 896,
+        "y": 150,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ae",
+        "w": 15,
+        "h": 11,
+        "x": 913,
+        "y": 207,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/af",
+        "w": 14,
+        "h": 12,
+        "x": 912,
+        "y": 233,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ag",
+        "w": 16,
+        "h": 8,
+        "x": 914,
+        "y": 180,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ah",
+        "w": 16,
+        "h": 8,
+        "x": 896,
+        "y": 190,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ai",
+        "w": 14,
+        "h": 15,
+        "x": 927,
+        "y": 54,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/aj",
+        "w": 14,
+        "h": 15,
+        "x": 927,
+        "y": 71,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ak",
+        "w": 15,
+        "h": 15,
+        "x": 914,
+        "y": 190,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/al",
+        "w": 11,
+        "h": 15,
+        "x": 930,
+        "y": 213
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/am",
+        "w": 14,
+        "h": 12,
+        "x": 896,
+        "y": 245,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/an",
+        "w": 10,
+        "h": 16,
+        "x": 931,
+        "y": 19
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ao",
+        "w": 16,
+        "h": 12,
+        "x": 919,
+        "y": 166,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ap",
+        "w": 14,
+        "h": 15,
+        "x": 927,
+        "y": 71,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/aq",
+        "w": 6,
+        "h": 5,
+        "x": 925,
+        "y": 280,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ar",
+        "w": 6,
+        "h": 6,
+        "x": 917,
+        "y": 284,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/as",
+        "w": 16,
+        "h": 12,
+        "x": 896,
+        "y": 164,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/at",
+        "w": 14,
+        "h": 14,
+        "x": 896,
+        "y": 229,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/au",
+        "w": 14,
+        "h": 15,
+        "x": 927,
+        "y": 37,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/av",
+        "w": 15,
+        "h": 11,
+        "x": 896,
+        "y": 216,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/aw",
+        "w": 15,
+        "h": 11,
+        "x": 913,
+        "y": 220,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ax",
+        "w": 29,
+        "h": 29,
+        "x": 896,
+        "y": 36,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ay",
+        "w": 29,
+        "h": 29,
+        "x": 896,
+        "y": 67,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/az",
+        "w": 5,
+        "h": 5,
+        "x": 933,
+        "y": 280,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/b",
+        "w": 14,
+        "h": 15,
+        "x": 927,
+        "y": 88,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/ba",
+        "w": 7,
+        "h": 7,
+        "x": 908,
+        "y": 283,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/bb",
+        "w": 3,
+        "h": 3,
+        "x": 914,
+        "y": 171,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/bc",
+        "w": 23,
+        "h": 21,
+        "x": 896,
+        "y": 104,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/bd",
+        "w": 3,
+        "h": 3,
+        "x": 914,
+        "y": 171,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/be",
+        "w": 3,
+        "h": 3,
+        "x": 914,
+        "y": 171,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/bf",
+        "w": 14,
+        "h": 11,
+        "x": 896,
+        "y": 259,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/bg",
+        "w": 8,
+        "h": 7,
+        "x": 908,
+        "y": 274,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/bh",
+        "w": 21,
+        "h": 21,
+        "x": 896,
+        "y": 127,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/bi",
+        "w": 19,
+        "h": 19,
+        "x": 919,
+        "y": 127,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 914,
+        "y": 150,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/d",
+        "w": 207,
+        "h": 295,
+        "x": 687,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -477,
+        "fw": 295,
+        "fh": 684
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/e",
+        "w": 684,
+        "h": 295,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/f",
+        "w": 4,
+        "h": 4,
+        "x": 937,
+        "y": 178
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/g",
+        "w": 4,
+        "h": 4,
+        "x": 937,
+        "y": 273
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/h",
+        "w": 10,
+        "h": 10,
+        "x": 896,
+        "y": 272
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/i",
+        "w": 20,
+        "h": 20,
+        "x": 921,
+        "y": 105
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/j",
+        "w": 4,
+        "h": 10,
+        "x": 937,
+        "y": 148
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/k",
+        "w": 16,
+        "h": 16,
+        "x": 919,
+        "y": 148
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/l",
+        "w": 16,
+        "h": 10,
+        "x": 896,
+        "y": 178,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/m",
+        "w": 33,
+        "h": 33,
+        "x": 896,
+        "y": 1
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/n",
+        "w": 14,
+        "h": 12,
+        "x": 912,
+        "y": 247,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/o",
+        "w": 26,
+        "h": 4,
+        "x": 896,
+        "y": 98,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/p",
+        "w": 11,
+        "h": 15,
+        "x": 930,
+        "y": 230
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/q",
+        "w": 15,
+        "h": 14,
+        "x": 896,
+        "y": 200,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/r",
+        "w": 10,
+        "h": 10,
+        "x": 896,
+        "y": 284
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/s",
+        "w": 10,
+        "h": 5,
+        "x": 925,
+        "y": 273
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/t",
+        "w": 3,
+        "h": 8,
+        "x": 914,
+        "y": 161,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/u",
+        "w": 9,
+        "h": 12,
+        "x": 932,
+        "y": 184,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/v",
+        "w": 4,
+        "h": 10,
+        "x": 937,
+        "y": 160,
+        "r": true
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/w",
+        "w": 12,
+        "h": 12,
+        "x": 928,
+        "y": 259
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/x",
+        "w": 13,
+        "h": 10,
+        "x": 928,
+        "y": 247
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/y",
+        "w": 11,
+        "h": 11,
+        "x": 912,
+        "y": 261
+    },
+    {
+        "n": "story/system_quest/event_weekly_quest/.gen/movie/z",
+        "w": 5,
+        "h": 8,
+        "x": 918,
+        "y": 274,
+        "r": true
+    }
+]
