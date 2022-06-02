@@ -1,0 +1,8408 @@
+[
+    {
+        "n": "item/equipment/event/acce_0001_total",
+        "w": 19,
+        "h": 17,
+        "x": 26,
+        "y": 123,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/advent/acce_0005_PCollab",
+        "w": 20,
+        "h": 20,
+        "x": 102,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/advent/axe_0020_raid",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 126
+    },
+    {
+        "n": "item/equipment/event/advent/book_0018_PCollab",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 842,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/advent/book_0020_raid",
+        "w": 17,
+        "h": 20,
+        "x": 73,
+        "y": 26,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/advent/book_0022_raid",
+        "w": 19,
+        "h": 20,
+        "x": 26,
+        "y": 27,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/advent/book_0023_raid",
+        "w": 18,
+        "h": 20,
+        "x": 73,
+        "y": 50,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/advent/bow_0017_raid",
+        "w": 20,
+        "h": 20,
+        "x": 126,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/advent/bow_0019_raid",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 150
+    },
+    {
+        "n": "item/equipment/event/advent/fist_0016_raid",
+        "w": 20,
+        "h": 20,
+        "x": 150,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/advent/fist_0024_raid",
+        "w": 19,
+        "h": 20,
+        "x": 26,
+        "y": 51,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/advent/fist_0026_raid",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 174
+    },
+    {
+        "n": "item/equipment/event/advent/gun_0003_raid",
+        "w": 20,
+        "h": 20,
+        "x": 174,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/advent/gun_0006_raid",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 198
+    },
+    {
+        "n": "item/equipment/event/advent/gun_0008_raid",
+        "w": 20,
+        "h": 20,
+        "x": 198,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/advent/shield_0016_raid",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 222
+    },
+    {
+        "n": "item/equipment/event/advent/spear_0019",
+        "w": 20,
+        "h": 20,
+        "x": 222,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/advent/spear_0029_raid",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 246
+    },
+    {
+        "n": "item/equipment/event/advent/staff_0016_raid",
+        "w": 20,
+        "h": 20,
+        "x": 246,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/advent/staff_0023_raid",
+        "w": 18,
+        "h": 19,
+        "x": 234,
+        "y": 862,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/advent/staff_0024_raid",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 270
+    },
+    {
+        "n": "item/equipment/event/advent/staff_0026_raid",
+        "w": 20,
+        "h": 20,
+        "x": 270,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/advent/sword_0019",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 294
+    },
+    {
+        "n": "item/equipment/event/advent/sword_0026_PCollab",
+        "w": 20,
+        "h": 20,
+        "x": 294,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/anv1/acce_0012_storyevent",
+        "w": 19,
+        "h": 20,
+        "x": 26,
+        "y": 75,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/anv1/shield_0022_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 318
+    },
+    {
+        "n": "item/equipment/event/anv1/sword_0031_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 318,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/beast/fist_0034_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 342
+    },
+    {
+        "n": "item/equipment/event/beast/shield_0026_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 342,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/beast/sword_0051_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 366
+    },
+    {
+        "n": "item/equipment/event/cyberpunk01/gun_rare5_positron_shooter",
+        "w": 20,
+        "h": 20,
+        "x": 366,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/cyberpunk01/staff_rare5_24_7",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 390
+    },
+    {
+        "n": "item/equipment/event/cyberpunk01/sword_rare4_phl_blade",
+        "w": 20,
+        "h": 20,
+        "x": 390,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/cyberpunk01_re01/fist_0025_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 414
+    },
+    {
+        "n": "item/equipment/event/desert_bonds_01/gun_0010_storyevent",
+        "w": 20,
+        "h": 18,
+        "x": 1,
+        "y": 1062,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/desert_bonds_01/spear_0032_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 414,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/desert_bonds_01/sword_0036_storyevent",
+        "w": 19,
+        "h": 18,
+        "x": 304,
+        "y": 793,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/event_story_valen_20_book",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 438
+    },
+    {
+        "n": "item/equipment/event/event_story_xmas_01_shield",
+        "w": 19,
+        "h": 19,
+        "x": 96,
+        "y": 937,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/fakeprincess01/acce_0006_storyevent",
+        "w": 19,
+        "h": 20,
+        "x": 26,
+        "y": 99,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/fakeprincess01/fist_0021_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 438,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/fakeprincess01/staff_0021_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 462
+    },
+    {
+        "n": "item/equipment/event/fakeprincess01_re01/axe_0029_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 462,
+        "y": 1
+    },
+    {
+        "n": "item/equipment/event/fist_0017_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 486
+    },
+    {
+        "n": "item/equipment/event/spear_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 510
+    },
+    {
+        "n": "item/equipment/event/staff_0017_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 534
+    },
+    {
+        "n": "item/equipment/event/summer_2020/acce_0011_storyevent",
+        "w": 19,
+        "h": 20,
+        "x": 96,
+        "y": 841,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/summer_2020/axe_0021_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 558
+    },
+    {
+        "n": "item/equipment/event/summer_2020/gun_0005_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 582
+    },
+    {
+        "n": "item/equipment/event/summer_2020_re01/sword_0038_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 606
+    },
+    {
+        "n": "item/equipment/event/summer_2021/acce_0021_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 630
+    },
+    {
+        "n": "item/equipment/event/summer_2021/book_0028_storyevent",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 73,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/summer_2021/fist_0031_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 654
+    },
+    {
+        "n": "item/equipment/event/yokai_emaki_01/axe_0022_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 678
+    },
+    {
+        "n": "item/equipment/event/yokai_emaki_01/book_0021_storyevent",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 97,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/event/yokai_emaki_01/spear_0026_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 702
+    },
+    {
+        "n": "item/equipment/event/yokai_emaki_01_re01/sword_0044_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 726
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_01",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 750
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_02",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 774
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_03",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 798
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_04",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 822
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_05",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 846
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_06",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 870
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_07",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 894
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_08",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 918
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_09",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 942
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_10",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 966
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_11",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 990
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_12",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 1014
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_13",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 1038
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_14",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 26
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_15",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 50
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_16",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 74
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_17",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 98
+    },
+    {
+        "n": "item/equipment/general/ability_sphere_18",
+        "w": 20,
+        "h": 20,
+        "x": 94,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0002",
+        "w": 15,
+        "h": 20,
+        "x": 143,
+        "y": 1006,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/acce_0003",
+        "w": 20,
+        "h": 20,
+        "x": 118,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0004",
+        "w": 19,
+        "h": 17,
+        "x": 281,
+        "y": 840,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/acce_0007_total",
+        "w": 19,
+        "h": 20,
+        "x": 479,
+        "y": 49,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/acce_0008_ZCollab",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 74,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/acce_0009_ZCollab",
+        "w": 20,
+        "h": 20,
+        "x": 142,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0010_ZCollab",
+        "w": 20,
+        "h": 20,
+        "x": 166,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0014_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 190,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0015_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 214,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0016_total",
+        "w": 20,
+        "h": 20,
+        "x": 238,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0017_total",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 98,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/acce_0018_decay",
+        "w": 20,
+        "h": 20,
+        "x": 262,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0019_total",
+        "w": 20,
+        "h": 20,
+        "x": 286,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 310,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0023_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 334,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0024_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 358,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0025_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 382,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0026_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 406,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0027_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 430,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0028_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 454,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/acce_0029_newbie",
+        "w": 19,
+        "h": 20,
+        "x": 119,
+        "y": 817,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/axe_0001",
+        "w": 20,
+        "h": 16,
+        "x": 119,
+        "y": 1027,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/axe_0002",
+        "w": 19,
+        "h": 19,
+        "x": 119,
+        "y": 913,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/axe_0003",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 721,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/axe_0004",
+        "w": 20,
+        "h": 20,
+        "x": 478,
+        "y": 25
+    },
+    {
+        "n": "item/equipment/general/axe_0005",
+        "w": 20,
+        "h": 20,
+        "x": 95,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0006",
+        "w": 20,
+        "h": 20,
+        "x": 119,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0007",
+        "w": 20,
+        "h": 20,
+        "x": 143,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0008",
+        "w": 20,
+        "h": 20,
+        "x": 167,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0009",
+        "w": 20,
+        "h": 20,
+        "x": 191,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0010",
+        "w": 20,
+        "h": 20,
+        "x": 215,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0011",
+        "w": 19,
+        "h": 19,
+        "x": 142,
+        "y": 889,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/axe_0012",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 745,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/axe_0013",
+        "w": 20,
+        "h": 20,
+        "x": 239,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0014",
+        "w": 20,
+        "h": 20,
+        "x": 263,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0015",
+        "w": 20,
+        "h": 20,
+        "x": 287,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0016",
+        "w": 20,
+        "h": 20,
+        "x": 311,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0017",
+        "w": 20,
+        "h": 20,
+        "x": 335,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0018_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 359,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0019_coop",
+        "w": 20,
+        "h": 20,
+        "x": 383,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0024",
+        "w": 20,
+        "h": 20,
+        "x": 407,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0025_decay",
+        "w": 20,
+        "h": 20,
+        "x": 431,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0026_raid",
+        "w": 20,
+        "h": 20,
+        "x": 455,
+        "y": 49
+    },
+    {
+        "n": "item/equipment/general/axe_0027_coop",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/axe_0028_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/axe_0030",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/axe_0031_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/axe_0032_raid",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/axe_0033_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/axe_0034_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/axe_0035_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/axe_0036_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/axe_0037",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/axe_0038_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/book_0001",
+        "w": 12,
+        "h": 17,
+        "x": 447,
+        "y": 793,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0002",
+        "w": 15,
+        "h": 18,
+        "x": 143,
+        "y": 1030,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0003",
+        "w": 18,
+        "h": 18,
+        "x": 233,
+        "y": 908,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0004",
+        "w": 16,
+        "h": 18,
+        "x": 304,
+        "y": 888,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0005",
+        "w": 18,
+        "h": 15,
+        "x": 342,
+        "y": 962,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0006",
+        "w": 18,
+        "h": 15,
+        "x": 364,
+        "y": 962,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0007",
+        "w": 18,
+        "h": 18,
+        "x": 211,
+        "y": 909,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0008",
+        "w": 20,
+        "h": 16,
+        "x": 279,
+        "y": 920,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0009",
+        "w": 18,
+        "h": 18,
+        "x": 435,
+        "y": 814,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0010",
+        "w": 17,
+        "h": 18,
+        "x": 234,
+        "y": 953,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0011",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 121,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0012",
+        "w": 17,
+        "h": 20,
+        "x": 73,
+        "y": 1031,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0013",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 145,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0014",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/book_0016_boss_unique",
+        "w": 17,
+        "h": 20,
+        "x": 141,
+        "y": 982,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0017_boss_unique",
+        "w": 17,
+        "h": 20,
+        "x": 73,
+        "y": 1055,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0019_coop",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 169,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0025_decay",
+        "w": 16,
+        "h": 20,
+        "x": 303,
+        "y": 816,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0026",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/book_0027_haniwa",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 193,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0030_raid",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 217,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0031_raid_revival",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 241,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0032_story_event",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 122,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/book_0033_newbie",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 265,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/bow_0001",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0002",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0003",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0004",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0005",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0006",
+        "w": 18,
+        "h": 18,
+        "x": 457,
+        "y": 814,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/bow_0007",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0008",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0009",
+        "w": 19,
+        "h": 19,
+        "x": 165,
+        "y": 865,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/bow_0010",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0011",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0012",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0013",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0014",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0015",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0016",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0018_coop",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0020_score",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0021",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0022",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 73
+    },
+    {
+        "n": "item/equipment/general/bow_0023_coop",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 97
+    },
+    {
+        "n": "item/equipment/general/bow_0024_raid",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 144
+    },
+    {
+        "n": "item/equipment/general/bow_0025_raid",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 122
+    },
+    {
+        "n": "item/equipment/general/bow_0026_decay",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 168
+    },
+    {
+        "n": "item/equipment/general/bow_0027_boss_unique",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 146,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/bow_0028_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 146
+    },
+    {
+        "n": "item/equipment/general/bow_0029_decay",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 192
+    },
+    {
+        "n": "item/equipment/general/bow_0030_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 170
+    },
+    {
+        "n": "item/equipment/general/bow_0031_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 216
+    },
+    {
+        "n": "item/equipment/general/chapter_1_orb",
+        "w": 18,
+        "h": 18,
+        "x": 365,
+        "y": 836,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_2_orb",
+        "w": 18,
+        "h": 18,
+        "x": 387,
+        "y": 836,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_3_orb",
+        "w": 18,
+        "h": 18,
+        "x": 409,
+        "y": 836,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_4_orb",
+        "w": 18,
+        "h": 18,
+        "x": 431,
+        "y": 836,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_5_orb",
+        "w": 18,
+        "h": 18,
+        "x": 453,
+        "y": 836,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_6_orb",
+        "w": 18,
+        "h": 18,
+        "x": 343,
+        "y": 858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_7_orb",
+        "w": 18,
+        "h": 18,
+        "x": 365,
+        "y": 858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_8_orb",
+        "w": 18,
+        "h": 18,
+        "x": 387,
+        "y": 858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_9_orb",
+        "w": 18,
+        "h": 18,
+        "x": 409,
+        "y": 858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/chapter_10_orb",
+        "w": 18,
+        "h": 18,
+        "x": 343,
+        "y": 836,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/craft_point",
+        "w": 18,
+        "h": 16,
+        "x": 386,
+        "y": 962,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/fist_0001",
+        "w": 18,
+        "h": 17,
+        "x": 435,
+        "y": 880,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/fist_0002",
+        "w": 19,
+        "h": 20,
+        "x": 142,
+        "y": 793,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/fist_0003",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 194
+    },
+    {
+        "n": "item/equipment/general/fist_0004",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 240
+    },
+    {
+        "n": "item/equipment/general/fist_0005",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 218
+    },
+    {
+        "n": "item/equipment/general/fist_0006",
+        "w": 18,
+        "h": 18,
+        "x": 431,
+        "y": 858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/fist_0007",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 170,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/fist_0008",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 264
+    },
+    {
+        "n": "item/equipment/general/fist_0009",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 242
+    },
+    {
+        "n": "item/equipment/general/fist_0010",
+        "w": 17,
+        "h": 17,
+        "x": 479,
+        "y": 880,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/fist_0011",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 288
+    },
+    {
+        "n": "item/equipment/general/fist_0012",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 266
+    },
+    {
+        "n": "item/equipment/general/fist_0013",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 312
+    },
+    {
+        "n": "item/equipment/general/fist_0014",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 290
+    },
+    {
+        "n": "item/equipment/general/fist_0015",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 336
+    },
+    {
+        "n": "item/equipment/general/fist_0018",
+        "w": 18,
+        "h": 18,
+        "x": 453,
+        "y": 858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/fist_0019_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 314
+    },
+    {
+        "n": "item/equipment/general/fist_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 360
+    },
+    {
+        "n": "item/equipment/general/fist_0022",
+        "w": 18,
+        "h": 18,
+        "x": 475,
+        "y": 837,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/fist_0023",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 338
+    },
+    {
+        "n": "item/equipment/general/fist_0027",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 384
+    },
+    {
+        "n": "item/equipment/general/fist_0028_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 362
+    },
+    {
+        "n": "item/equipment/general/fist_0029_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 408
+    },
+    {
+        "n": "item/equipment/general/fist_0030_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 386
+    },
+    {
+        "n": "item/equipment/general/fist_0032_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 432
+    },
+    {
+        "n": "item/equipment/general/fist_0033_raid",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 410
+    },
+    {
+        "n": "item/equipment/general/fist_0035_newbie",
+        "w": 20,
+        "h": 19,
+        "x": 454,
+        "y": 769,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/gun_0002",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 456
+    },
+    {
+        "n": "item/equipment/general/gun_0004_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 434
+    },
+    {
+        "n": "item/equipment/general/gun_0007",
+        "w": 13,
+        "h": 14,
+        "x": 451,
+        "y": 1024,
+        "fx": -4,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/gun_0009_coop",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 480
+    },
+    {
+        "n": "item/equipment/general/gun_0011_score",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 194,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/gun_0012_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 458
+    },
+    {
+        "n": "item/equipment/general/gun_0013_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 504
+    },
+    {
+        "n": "item/equipment/general/gun_0014_story_event",
+        "w": 19,
+        "h": 18,
+        "x": 463,
+        "y": 792,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/gun_0015_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 482
+    },
+    {
+        "n": "item/equipment/general/gun_0016_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 528
+    },
+    {
+        "n": "item/equipment/general/shield_0001",
+        "w": 17,
+        "h": 14,
+        "x": 312,
+        "y": 1042,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0002",
+        "w": 18,
+        "h": 16,
+        "x": 408,
+        "y": 962,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0003",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 506
+    },
+    {
+        "n": "item/equipment/general/shield_0004",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 289,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0005",
+        "w": 20,
+        "h": 14,
+        "x": 210,
+        "y": 953,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0006",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 552
+    },
+    {
+        "n": "item/equipment/general/shield_0007",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 530
+    },
+    {
+        "n": "item/equipment/general/shield_0008",
+        "w": 17,
+        "h": 16,
+        "x": 332,
+        "y": 1022,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0009",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 576
+    },
+    {
+        "n": "item/equipment/general/shield_0010",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 554
+    },
+    {
+        "n": "item/equipment/general/shield_0011",
+        "w": 20,
+        "h": 19,
+        "x": 478,
+        "y": 769,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0012",
+        "w": 18,
+        "h": 19,
+        "x": 188,
+        "y": 934,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0013",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 313,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0015",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 600
+    },
+    {
+        "n": "item/equipment/general/shield_0017",
+        "w": 19,
+        "h": 19,
+        "x": 188,
+        "y": 841,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/shield_0018_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 578
+    },
+    {
+        "n": "item/equipment/general/shield_0019",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 624
+    },
+    {
+        "n": "item/equipment/general/shield_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 602
+    },
+    {
+        "n": "item/equipment/general/shield_0021",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 648
+    },
+    {
+        "n": "item/equipment/general/shield_0023_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 626
+    },
+    {
+        "n": "item/equipment/general/shield_0024_raid",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 672
+    },
+    {
+        "n": "item/equipment/general/shield_0025_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 650
+    },
+    {
+        "n": "item/equipment/general/shield_0027",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 696
+    },
+    {
+        "n": "item/equipment/general/shield_0028_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 674
+    },
+    {
+        "n": "item/equipment/general/shield_0029_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 720
+    },
+    {
+        "n": "item/equipment/general/spear_0001",
+        "w": 18,
+        "h": 18,
+        "x": 342,
+        "y": 896,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/spear_0002",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 698
+    },
+    {
+        "n": "item/equipment/general/spear_0003",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 744
+    },
+    {
+        "n": "item/equipment/general/spear_0004",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 722
+    },
+    {
+        "n": "item/equipment/general/spear_0005",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 768
+    },
+    {
+        "n": "item/equipment/general/spear_0006",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 746
+    },
+    {
+        "n": "item/equipment/general/spear_0007",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 792
+    },
+    {
+        "n": "item/equipment/general/spear_0008",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 770
+    },
+    {
+        "n": "item/equipment/general/spear_0009",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 816
+    },
+    {
+        "n": "item/equipment/general/spear_0010",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 794
+    },
+    {
+        "n": "item/equipment/general/spear_0011",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 840
+    },
+    {
+        "n": "item/equipment/general/spear_0012",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 218,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/spear_0013",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 242,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/spear_0014",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 818
+    },
+    {
+        "n": "item/equipment/general/spear_0015",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 864
+    },
+    {
+        "n": "item/equipment/general/spear_0016",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 842
+    },
+    {
+        "n": "item/equipment/general/spear_0017",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 888
+    },
+    {
+        "n": "item/equipment/general/spear_0018",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 866
+    },
+    {
+        "n": "item/equipment/general/spear_0021_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 912
+    },
+    {
+        "n": "item/equipment/general/spear_0022_coop",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 890
+    },
+    {
+        "n": "item/equipment/general/spear_0023_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 936
+    },
+    {
+        "n": "item/equipment/general/spear_0024",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 914
+    },
+    {
+        "n": "item/equipment/general/spear_0025",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 960
+    },
+    {
+        "n": "item/equipment/general/spear_0027",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 938
+    },
+    {
+        "n": "item/equipment/general/spear_0028_score",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 984
+    },
+    {
+        "n": "item/equipment/general/spear_0030_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 962
+    },
+    {
+        "n": "item/equipment/general/spear_0033_Gcollab",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 1008
+    },
+    {
+        "n": "item/equipment/general/spear_0034_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 986
+    },
+    {
+        "n": "item/equipment/general/spear_0035_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 1032
+    },
+    {
+        "n": "item/equipment/general/spear_0036_raid",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 1010
+    },
+    {
+        "n": "item/equipment/general/spear_0037_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 25,
+        "y": 1056
+    },
+    {
+        "n": "item/equipment/general/staff_0001",
+        "w": 18,
+        "h": 18,
+        "x": 342,
+        "y": 918,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/staff_0002",
+        "w": 20,
+        "h": 20,
+        "x": 49,
+        "y": 1034
+    },
+    {
+        "n": "item/equipment/general/staff_0003",
+        "w": 18,
+        "h": 17,
+        "x": 457,
+        "y": 880,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/staff_0004",
+        "w": 19,
+        "h": 19,
+        "x": 211,
+        "y": 816,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/staff_0005",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0006",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 866,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/staff_0007",
+        "w": 19,
+        "h": 20,
+        "x": 96,
+        "y": 865,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/staff_0008",
+        "w": 19,
+        "h": 19,
+        "x": 235,
+        "y": 793,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/staff_0009",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0010",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0011",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0012",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0013",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0014",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0015",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0019_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0022",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0025",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0027_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0028",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0029_boss_unique",
+        "w": 19,
+        "h": 20,
+        "x": 119,
+        "y": 841,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/staff_0030_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/staff_0031_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 121
+    },
+    {
+        "n": "item/equipment/general/sword_0001",
+        "w": 14,
+        "h": 14,
+        "x": 415,
+        "y": 1044,
+        "fx": -3,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0002",
+        "w": 19,
+        "h": 19,
+        "x": 73,
+        "y": 962,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0003",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0004",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 266,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0005",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0006",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0007",
+        "w": 18,
+        "h": 15,
+        "x": 430,
+        "y": 967,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0008",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 290,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0009",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 314,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0010",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0011",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0012",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0013",
+        "w": 18,
+        "h": 15,
+        "x": 452,
+        "y": 967,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0014",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0015",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0016",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0017",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0018",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0020_coop",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0022_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0023_april",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0024_coop",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0025_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 145
+    },
+    {
+        "n": "item/equipment/general/sword_0027",
+        "w": 19,
+        "h": 17,
+        "x": 96,
+        "y": 1029,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0028",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0029_boss_unique",
+        "w": 19,
+        "h": 19,
+        "x": 96,
+        "y": 960,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0030_coop",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0032_score",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0033_decay",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0034_raid",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0035",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0037_coop",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0039_Gcollab",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0040_boss_unique",
+        "w": 19,
+        "h": 20,
+        "x": 142,
+        "y": 817,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0041_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0042_decay",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0043_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0045_score",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0046_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0048_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0049_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0050_boss_unique",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 338
+    },
+    {
+        "n": "item/equipment/general/sword_0052_raid_revival",
+        "w": 19,
+        "h": 19,
+        "x": 119,
+        "y": 936,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0053",
+        "w": 18,
+        "h": 15,
+        "x": 474,
+        "y": 967,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0054_coop",
+        "w": 19,
+        "h": 20,
+        "x": 165,
+        "y": 793,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0055_story_event",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 169
+    },
+    {
+        "n": "item/equipment/general/sword_0056_score",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 362,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/sword_0057_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 193
+    },
+    {
+        "n": "item/equipment/general/trophy_rarity_1",
+        "w": 19,
+        "h": 19,
+        "x": 142,
+        "y": 912,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/trophy_rarity_2",
+        "w": 20,
+        "h": 18,
+        "x": 49,
+        "y": 1058,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/trophy_rarity_3",
+        "w": 16,
+        "h": 15,
+        "x": 165,
+        "y": 1048,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/trophy_rarity_4",
+        "w": 16,
+        "h": 15,
+        "x": 333,
+        "y": 1042,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/general/trophy_rarity_5",
+        "w": 16,
+        "h": 15,
+        "x": 421,
+        "y": 986,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/unique/alk_equipment_3",
+        "w": 17,
+        "h": 17,
+        "x": 269,
+        "y": 1017,
+        "fx": -1,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/equipment/unique/non_playable_equipment_1",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 193
+    },
+    {
+        "n": "item/equipment/unique/trophy_maou_hunt",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 193
+    },
+    {
+        "n": "item/etc/1half_anniversary_special_set_a",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 193,
+        "fx": -1,
+        "fy": -1,
+        "fw": 21,
+        "fh": 21
+    },
+    {
+        "n": "item/etc/1half_anniversary_special_set_b",
+        "w": 21,
+        "h": 21,
+        "x": 1,
+        "y": 27
+    },
+    {
+        "n": "item/etc/boost_monthly_package",
+        "w": 19,
+        "h": 19,
+        "x": 165,
+        "y": 888,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/boost_point",
+        "w": 18,
+        "h": 18,
+        "x": 342,
+        "y": 940,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/boss_boost_monthly_package",
+        "w": 19,
+        "h": 19,
+        "x": 188,
+        "y": 864,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/challenge_point",
+        "w": 18,
+        "h": 18,
+        "x": 364,
+        "y": 896,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/degree",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 193
+    },
+    {
+        "n": "item/etc/element_package_black",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 193
+    },
+    {
+        "n": "item/etc/element_package_blue",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 193
+    },
+    {
+        "n": "item/etc/element_package_green",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 193
+    },
+    {
+        "n": "item/etc/element_package_red",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 193
+    },
+    {
+        "n": "item/etc/element_package_white",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 193
+    },
+    {
+        "n": "item/etc/element_package_yellow",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 193
+    },
+    {
+        "n": "item/etc/equip_highlight_pakage",
+        "w": 20,
+        "h": 18,
+        "x": 257,
+        "y": 816,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/equip_perfection_pakage",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 193
+    },
+    {
+        "n": "item/etc/fukubukuro_2020",
+        "w": 21,
+        "h": 21,
+        "x": 27,
+        "y": 1
+    },
+    {
+        "n": "item/etc/fukubukuro_2021_matsu",
+        "w": 21,
+        "h": 21,
+        "x": 1,
+        "y": 52
+    },
+    {
+        "n": "item/etc/fukubukuro_2021_take",
+        "w": 21,
+        "h": 20,
+        "x": 77,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 21,
+        "fh": 21
+    },
+    {
+        "n": "item/etc/fukubukuro_2021_ume",
+        "w": 21,
+        "h": 20,
+        "x": 1,
+        "y": 102,
+        "fx": 0,
+        "fy": -1,
+        "fw": 21,
+        "fh": 21
+    },
+    {
+        "n": "item/etc/gold_package",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 193
+    },
+    {
+        "n": "item/etc/item_set_prize_1",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 193
+    },
+    {
+        "n": "item/etc/item_set_prize_2",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 217
+    },
+    {
+        "n": "item/etc/item_set_prize_3",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 217
+    },
+    {
+        "n": "item/etc/item_set_prize_4",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 217
+    },
+    {
+        "n": "item/etc/lookie",
+        "w": 14,
+        "h": 18,
+        "x": 162,
+        "y": 982,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/Mega_package",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 193
+    },
+    {
+        "n": "item/etc/platinum_package",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 217
+    },
+    {
+        "n": "item/etc/plural_remuneration",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 217
+    },
+    {
+        "n": "item/etc/plural_remuneration_dark",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 217
+    },
+    {
+        "n": "item/etc/plural_remuneration_fire",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 217
+    },
+    {
+        "n": "item/etc/plural_remuneration_light",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 217
+    },
+    {
+        "n": "item/etc/plural_remuneration_thunder",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 217
+    },
+    {
+        "n": "item/etc/plural_remuneration_water",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 217
+    },
+    {
+        "n": "item/etc/plural_remuneration_wind",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 217
+    },
+    {
+        "n": "item/etc/present_box_icon_a",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 217
+    },
+    {
+        "n": "item/etc/prize_ranking_event",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 217
+    },
+    {
+        "n": "item/etc/proof_of_tie",
+        "w": 22,
+        "h": 22,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "item/etc/silver_package",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 217
+    },
+    {
+        "n": "item/etc/stamina_l_pakage",
+        "w": 20,
+        "h": 17,
+        "x": 351,
+        "y": 793,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/stamina_m_pakage",
+        "w": 19,
+        "h": 16,
+        "x": 281,
+        "y": 861,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/Stamina_monthly_package",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 193
+    },
+    {
+        "n": "item/etc/stamina_s_pakage",
+        "w": 15,
+        "h": 19,
+        "x": 324,
+        "y": 839,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/etc/star_fragments",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 890,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "item/etc/stone_set_01",
+        "w": 21,
+        "h": 21,
+        "x": 52,
+        "y": 1
+    },
+    {
+        "n": "item/etc/stone_set_02",
+        "w": 21,
+        "h": 21,
+        "x": 1,
+        "y": 77
+    },
+    {
+        "n": "item/etc/stone_set_03",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 217,
+        "fx": 0,
+        "fy": 0,
+        "fw": 21,
+        "fh": 21
+    },
+    {
+        "n": "item/generated/ability_soul/event/acce_0001_total",
+        "w": 17,
+        "h": 19,
+        "x": 303,
+        "y": 910,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/acce_0005_PCollab",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 217
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/axe_0020_raid",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/book_0018_PCollab",
+        "w": 19,
+        "h": 20,
+        "x": 96,
+        "y": 889,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/book_0020_raid",
+        "w": 20,
+        "h": 17,
+        "x": 375,
+        "y": 793,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/book_0022_raid",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 386,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/book_0023_raid",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 337,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/bow_0017_raid",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/bow_0019_raid",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/fist_0016_raid",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/fist_0024_raid",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 410,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/fist_0026_raid",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/gun_0003_raid",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/gun_0006_raid",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/gun_0008_raid",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/shield_0016_raid",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/spear_0019",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/spear_0029_raid",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/staff_0016_raid",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/staff_0023_raid",
+        "w": 18,
+        "h": 19,
+        "x": 233,
+        "y": 885,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/staff_0024_raid",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/staff_0026_raid",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/sword_0019",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/advent/sword_0026_PCollab",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 241
+    },
+    {
+        "n": "item/generated/ability_soul/event/anv1/acce_0012_storyevent",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 434,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/anv1/shield_0022_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/anv1/sword_0031_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/beast/fist_0034_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/beast/shield_0026_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/beast/sword_0051_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/cyberpunk01/gun_rare5_positron_shooter",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/cyberpunk01/staff_rare5_24_7",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/cyberpunk01/sword_rare4_phl_blade",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/cyberpunk01_re01/fist_0025_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/desert_bonds_01/gun_0010_storyevent",
+        "w": 18,
+        "h": 20,
+        "x": 119,
+        "y": 982,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/desert_bonds_01/spear_0032_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/desert_bonds_01/sword_0036_storyevent",
+        "w": 19,
+        "h": 18,
+        "x": 210,
+        "y": 931,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/event_story_valen_20_book",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/event_story_xmas_01_shield",
+        "w": 19,
+        "h": 19,
+        "x": 211,
+        "y": 839,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/fakeprincess01/acce_0006_storyevent",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 458,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/fakeprincess01/fist_0021_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/fakeprincess01/staff_0021_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/fakeprincess01_re01/axe_0029_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/fist_0017_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/spear_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 265
+    },
+    {
+        "n": "item/generated/ability_soul/event/staff_0017_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/event/summer_2020/acce_0011_storyevent",
+        "w": 19,
+        "h": 20,
+        "x": 119,
+        "y": 865,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/summer_2020/axe_0021_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/event/summer_2020/gun_0005_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/event/summer_2020_re01/sword_0038_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/event/summer_2021/acce_0021_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/event/summer_2021/book_0028_storyevent",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 361,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/summer_2021/fist_0031_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/event/yokai_emaki_01/axe_0022_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/event/yokai_emaki_01/book_0021_storyevent",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 385,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/event/yokai_emaki_01/spear_0026_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/event/yokai_emaki_01_re01/sword_0044_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_01",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_02",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_03",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_04",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_05",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_06",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_07",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 289
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_08",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_09",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_10",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_11",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_12",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_13",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_14",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_15",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_16",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_17",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/ability_sphere_18",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0002",
+        "w": 20,
+        "h": 15,
+        "x": 280,
+        "y": 881,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0003",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0004",
+        "w": 17,
+        "h": 19,
+        "x": 303,
+        "y": 933,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0007_total",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 482,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0008_ZCollab",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 506,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0009_ZCollab",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0010_ZCollab",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0014_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0015_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 313
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0016_total",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0017_total",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 530,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0018_decay",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0019_total",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0023_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0024_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0025_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0026_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0027_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0028_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/acce_0029_newbie",
+        "w": 19,
+        "h": 20,
+        "x": 142,
+        "y": 841,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0001",
+        "w": 20,
+        "h": 16,
+        "x": 119,
+        "y": 1047,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0002",
+        "w": 19,
+        "h": 19,
+        "x": 234,
+        "y": 816,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0003",
+        "w": 18,
+        "h": 20,
+        "x": 142,
+        "y": 958,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0004",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0005",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0006",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0007",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0008",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0009",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 337
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0010",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0011",
+        "w": 19,
+        "h": 19,
+        "x": 258,
+        "y": 793,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0012",
+        "w": 18,
+        "h": 20,
+        "x": 188,
+        "y": 910,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0013",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0014",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0015",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0016",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0017",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0018_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0019_coop",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0024",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0025_decay",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0026_raid",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0027_coop",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0028_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0030",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0031_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0032_raid",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 361
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0033_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0034_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0035_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0036_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0037",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/axe_0038_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0001",
+        "w": 12,
+        "h": 17,
+        "x": 223,
+        "y": 1063,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0002",
+        "w": 15,
+        "h": 18,
+        "x": 162,
+        "y": 1004,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0003",
+        "w": 18,
+        "h": 18,
+        "x": 364,
+        "y": 918,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0004",
+        "w": 16,
+        "h": 18,
+        "x": 162,
+        "y": 1026,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0005",
+        "w": 15,
+        "h": 18,
+        "x": 164,
+        "y": 958,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0006",
+        "w": 18,
+        "h": 15,
+        "x": 205,
+        "y": 971,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0007",
+        "w": 18,
+        "h": 18,
+        "x": 364,
+        "y": 940,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0008",
+        "w": 16,
+        "h": 20,
+        "x": 304,
+        "y": 840,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0009",
+        "w": 18,
+        "h": 18,
+        "x": 386,
+        "y": 896,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0010",
+        "w": 17,
+        "h": 18,
+        "x": 182,
+        "y": 1021,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0011",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 409,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0012",
+        "w": 20,
+        "h": 17,
+        "x": 399,
+        "y": 793,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0013",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 433,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0014",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0016_boss_unique",
+        "w": 20,
+        "h": 17,
+        "x": 423,
+        "y": 793,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0017_boss_unique",
+        "w": 20,
+        "h": 17,
+        "x": 255,
+        "y": 918,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0019_coop",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 457,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0025_decay",
+        "w": 16,
+        "h": 20,
+        "x": 304,
+        "y": 864,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0026",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0027_haniwa",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 481,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0030_raid",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 505,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0031_raid_revival",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 529,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0032_story_event",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 554,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/book_0033_newbie",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 553,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0001",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0002",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0003",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0004",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0005",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0006",
+        "w": 18,
+        "h": 18,
+        "x": 386,
+        "y": 918,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0007",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0008",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0009",
+        "w": 19,
+        "h": 19,
+        "x": 73,
+        "y": 985,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0010",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 385
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0011",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0012",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0013",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0014",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0015",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0016",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0018_coop",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0020_score",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0021",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0022",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0023_coop",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0024_raid",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0025_raid",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0026_decay",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0027_boss_unique",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 578,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0028_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0029_decay",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 409
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0030_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/bow_0031_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_1_orb",
+        "w": 18,
+        "h": 18,
+        "x": 408,
+        "y": 896,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_2_orb",
+        "w": 18,
+        "h": 18,
+        "x": 408,
+        "y": 918,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_3_orb",
+        "w": 18,
+        "h": 18,
+        "x": 408,
+        "y": 940,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_4_orb",
+        "w": 18,
+        "h": 18,
+        "x": 430,
+        "y": 901,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_5_orb",
+        "w": 18,
+        "h": 18,
+        "x": 430,
+        "y": 923,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_6_orb",
+        "w": 18,
+        "h": 18,
+        "x": 452,
+        "y": 901,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_7_orb",
+        "w": 18,
+        "h": 18,
+        "x": 430,
+        "y": 945,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_8_orb",
+        "w": 18,
+        "h": 18,
+        "x": 452,
+        "y": 923,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_9_orb",
+        "w": 18,
+        "h": 18,
+        "x": 474,
+        "y": 901,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/chapter_10_orb",
+        "w": 18,
+        "h": 18,
+        "x": 386,
+        "y": 940,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/craft_point",
+        "w": 18,
+        "h": 16,
+        "x": 183,
+        "y": 979,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0001",
+        "w": 18,
+        "h": 17,
+        "x": 205,
+        "y": 990,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0002",
+        "w": 19,
+        "h": 20,
+        "x": 165,
+        "y": 817,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0003",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0004",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0005",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0006",
+        "w": 18,
+        "h": 18,
+        "x": 452,
+        "y": 945,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0007",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 602,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0008",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0009",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0010",
+        "w": 17,
+        "h": 17,
+        "x": 315,
+        "y": 1000,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0011",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0012",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0013",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0014",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0015",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0018",
+        "w": 18,
+        "h": 18,
+        "x": 474,
+        "y": 923,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0019_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0022",
+        "w": 18,
+        "h": 18,
+        "x": 474,
+        "y": 945,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0023",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0027",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 433
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0028_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0029_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0030_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0032_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0033_raid",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/fist_0035_newbie",
+        "w": 19,
+        "h": 20,
+        "x": 188,
+        "y": 793,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0002",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0004_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0007",
+        "w": 13,
+        "h": 14,
+        "x": 451,
+        "y": 1042,
+        "fx": -4,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0009_coop",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0011_score",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 626,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0012_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0013_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0014_story_event",
+        "w": 19,
+        "h": 18,
+        "x": 343,
+        "y": 814,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0015_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/gun_0016_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0001",
+        "w": 17,
+        "h": 14,
+        "x": 353,
+        "y": 1044,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0002",
+        "w": 16,
+        "h": 18,
+        "x": 185,
+        "y": 1043,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0003",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0004",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 577,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0005",
+        "w": 20,
+        "h": 14,
+        "x": 255,
+        "y": 957,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0006",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0007",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0008",
+        "w": 17,
+        "h": 16,
+        "x": 378,
+        "y": 1003,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0009",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 457
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0010",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0011",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 914,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0012",
+        "w": 18,
+        "h": 19,
+        "x": 94,
+        "y": 1050,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0013",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 601,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0015",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0017",
+        "w": 19,
+        "h": 19,
+        "x": 96,
+        "y": 983,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0018_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0019",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0021",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0023_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0024_raid",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0025_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0027",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0028_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/shield_0029_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0001",
+        "w": 18,
+        "h": 18,
+        "x": 183,
+        "y": 957,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0002",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0003",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0004",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0005",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 481
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0006",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0007",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0008",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0009",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0010",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0011",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0012",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 650,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0013",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 674,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0014",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0015",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0016",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0017",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0018",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0021_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0022_coop",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0023_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0024",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0025",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 505
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0027",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0028_score",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0030_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0033_Gcollab",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0034_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0035_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0036_raid",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/spear_0037_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0001",
+        "w": 18,
+        "h": 18,
+        "x": 181,
+        "y": 999,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0002",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0003",
+        "w": 18,
+        "h": 17,
+        "x": 225,
+        "y": 1016,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0004",
+        "w": 19,
+        "h": 19,
+        "x": 119,
+        "y": 959,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0005",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0006",
+        "w": 19,
+        "h": 20,
+        "x": 96,
+        "y": 913,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0007",
+        "w": 19,
+        "h": 20,
+        "x": 119,
+        "y": 889,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0008",
+        "w": 19,
+        "h": 19,
+        "x": 142,
+        "y": 935,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0009",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0010",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0011",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0012",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0013",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0014",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 529
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0015",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0019_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0020_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0022",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0025",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0027_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0028",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0029_boss_unique",
+        "w": 19,
+        "h": 20,
+        "x": 142,
+        "y": 865,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0030_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/staff_0031_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0001",
+        "w": 14,
+        "h": 14,
+        "x": 433,
+        "y": 1024,
+        "fx": -3,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0002",
+        "w": 19,
+        "h": 19,
+        "x": 165,
+        "y": 911,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0003",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0004",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 698,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0005",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0006",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0007",
+        "w": 18,
+        "h": 15,
+        "x": 201,
+        "y": 1065,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0008",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 722,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0009",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 746,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0010",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0011",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0012",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0013",
+        "w": 18,
+        "h": 15,
+        "x": 227,
+        "y": 997,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0014",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 553
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0015",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0016",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0017",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0018",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0020_coop",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0022_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0023_april",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0024_coop",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0025_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0027",
+        "w": 17,
+        "h": 19,
+        "x": 303,
+        "y": 956,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0028",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0029_boss_unique",
+        "w": 19,
+        "h": 19,
+        "x": 188,
+        "y": 887,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0030_coop",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0032_score",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0033_decay",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0034_raid",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0035",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0037_coop",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 577
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0039_Gcollab",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0040_boss_unique",
+        "w": 19,
+        "h": 20,
+        "x": 165,
+        "y": 841,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0041_storyevent",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0042_decay",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0043_boss_unique",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0045_score",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0046_haniwa",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0048_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0049_raid_revival",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0050_boss_unique",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 770
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0052_raid_revival",
+        "w": 19,
+        "h": 19,
+        "x": 211,
+        "y": 862,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0053",
+        "w": 18,
+        "h": 15,
+        "x": 249,
+        "y": 997,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0054_coop",
+        "w": 19,
+        "h": 20,
+        "x": 188,
+        "y": 817,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0055_story_event",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0056_score",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 794,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/sword_0057_newbie",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/general/trophy_rarity_1",
+        "w": 19,
+        "h": 19,
+        "x": 234,
+        "y": 839,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/trophy_rarity_2",
+        "w": 18,
+        "h": 20,
+        "x": 211,
+        "y": 885,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/trophy_rarity_3",
+        "w": 16,
+        "h": 15,
+        "x": 441,
+        "y": 986,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/trophy_rarity_4",
+        "w": 16,
+        "h": 15,
+        "x": 461,
+        "y": 986,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/general/trophy_rarity_5",
+        "w": 16,
+        "h": 15,
+        "x": 420,
+        "y": 1005,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/unique/alk_equipment_3",
+        "w": 17,
+        "h": 17,
+        "x": 290,
+        "y": 1021,
+        "fx": -1,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/generated/ability_soul/unique/non_playable_equipment_1",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 601
+    },
+    {
+        "n": "item/generated/ability_soul/unique/trophy_maou_hunt",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 601
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/awaking_crystal_03",
+        "w": 14,
+        "h": 14,
+        "x": 433,
+        "y": 1042,
+        "fx": -3,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/awaking_crystal_04",
+        "w": 16,
+        "h": 16,
+        "x": 395,
+        "y": 1023,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/awaking_crystal_05",
+        "w": 19,
+        "h": 20,
+        "x": 96,
+        "y": 793,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/awaking_crystal_piece_03",
+        "w": 12,
+        "h": 12,
+        "x": 408,
+        "y": 1063,
+        "fx": -4,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/awaking_crystal_piece_04",
+        "w": 13,
+        "h": 13,
+        "x": 468,
+        "y": 1024,
+        "fx": -3,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/awaking_crystal_piece_05",
+        "w": 18,
+        "h": 17,
+        "x": 315,
+        "y": 979,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/equipment_awaking_crystal_4",
+        "w": 20,
+        "h": 17,
+        "x": 119,
+        "y": 1006,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/equipment_awaking_crystal_5",
+        "w": 20,
+        "h": 17,
+        "x": 327,
+        "y": 793,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/awaking_crystal/general/equipment_awaking_crystal_piece_5",
+        "w": 16,
+        "h": 13,
+        "x": 181,
+        "y": 1067,
+        "r": true,
+        "fx": -4,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/boss_coin/administrator_1",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 601
+    },
+    {
+        "n": "item/materials/boss_coin/administrator_2",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 601
+    },
+    {
+        "n": "item/materials/boss_coin/administrator_3",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 601
+    },
+    {
+        "n": "item/materials/boss_coin/administrator_another_1",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 601
+    },
+    {
+        "n": "item/materials/boss_coin/administrator_another_2",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/arch_evil_1",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/arch_evil_2",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/arch_evil_3",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/boar_rider_1",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/boar_rider_2",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/boar_rider_3",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/boss_coin_elements_1",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/boss_coin_elements_2",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_dark_1",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_dark_2",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_dark_3",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_fire_1",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_fire_2",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_fire_3",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_light_1",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 625
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_light_2",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_light_3",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_thunder_1",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_thunder_2",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_thunder_3",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_water_1",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_water_2",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_water_3",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_wind_1",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_wind_2",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/discarded_dragon_wind_3",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/dorsal_brothers_1",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/dorsal_brothers_2",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/dorsal_brothers_3",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/fragment_gold",
+        "w": 18,
+        "h": 15,
+        "x": 225,
+        "y": 1037,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/boss_coin/fragment_purple",
+        "w": 16,
+        "h": 18,
+        "x": 205,
+        "y": 1033,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/boss_coin/fragment_silver",
+        "w": 18,
+        "h": 12,
+        "x": 271,
+        "y": 1001,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/boss_coin/ghost_fox_1",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/ghost_fox_2",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 649
+    },
+    {
+        "n": "item/materials/boss_coin/ghost_fox_3",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/grizzly_fire_1",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/grizzly_fire_2",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/grizzly_fire_3",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_golem_1",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_golem_2",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_golem_3",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_golem_another_light_1",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_golem_another_light_2",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_golem_another_water_1",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_golem_another_water_2",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_totem_1",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/guardian_totem_2",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/hermit_crab_1",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/hermit_crab_2",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/hermit_crab_3",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 673
+    },
+    {
+        "n": "item/materials/boss_coin/hermit_crab_another_1",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/hermit_crab_another_2",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/kraken_1",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/kraken_2",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/lich_1",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/lich_2",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/lich_3",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/lich_another_thunder_1",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/lich_another_thunder_2",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/light_guardian_1",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/light_guardian_2",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/multi_battle_pickup_empress_1_1",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/multi_battle_pickup_empress_1_2",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/multi_battle_pickup_empress_1_3",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/multi_battle_pickup_empress_2_1",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/multi_battle_pickup_empress_2_2",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 697
+    },
+    {
+        "n": "item/materials/boss_coin/multi_battle_pickup_empress_2_3",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/orochi_1",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/orochi_2",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/orochi_3",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/owl_1",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/owl_2",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/security_armor_1",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/security_armor_2",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/security_armor_3",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/spirit_beast_thunder_1",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/spirit_beast_thunder_2",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/spirit_beast_thunder_3",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/spirit_beast_water_1",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/spirit_beast_water_2",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/spirit_beast_water_3",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/treant_1",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 721
+    },
+    {
+        "n": "item/materials/boss_coin/treant_2",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 745
+    },
+    {
+        "n": "item/materials/boss_coin/white_tiger_ghost_1",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 745
+    },
+    {
+        "n": "item/materials/boss_coin/white_tiger_ghost_2",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 745
+    },
+    {
+        "n": "item/materials/boss_coin/white_tiger_ghost_3",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 745
+    },
+    {
+        "n": "item/materials/boss_coin/white_tiger_ghost_another_1",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 745
+    },
+    {
+        "n": "item/materials/boss_coin/white_tiger_ghost_another_2",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 745
+    },
+    {
+        "n": "item/materials/elements/black/item_aether_dark_01",
+        "w": 17,
+        "h": 17,
+        "x": 311,
+        "y": 1021,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/black/item_aether_dark_02",
+        "w": 18,
+        "h": 18,
+        "x": 203,
+        "y": 1011,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/black/item_aether_dark_03",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 745
+    },
+    {
+        "n": "item/materials/elements/black/item_jewel_dark_01",
+        "w": 13,
+        "h": 12,
+        "x": 374,
+        "y": 1063,
+        "fx": -3,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/black/item_jewel_dark_02",
+        "w": 13,
+        "h": 13,
+        "x": 485,
+        "y": 1024,
+        "fx": -4,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/black/item_jewel_dark_03",
+        "w": 15,
+        "h": 15,
+        "x": 440,
+        "y": 1005,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/black/item_jewel_dark_04",
+        "w": 15,
+        "h": 19,
+        "x": 324,
+        "y": 862,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/blue/item_aether_blue_01",
+        "w": 17,
+        "h": 17,
+        "x": 358,
+        "y": 981,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/blue/item_aether_blue_02",
+        "w": 18,
+        "h": 18,
+        "x": 227,
+        "y": 975,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/blue/item_aether_blue_03",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 745
+    },
+    {
+        "n": "item/materials/elements/blue/item_jewel_blue_01",
+        "w": 14,
+        "h": 13,
+        "x": 269,
+        "y": 1058,
+        "fx": -3,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/blue/item_jewel_blue_02",
+        "w": 18,
+        "h": 11,
+        "x": 143,
+        "y": 1052,
+        "fx": -1,
+        "fy": -5,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/blue/item_jewel_blue_03",
+        "w": 18,
+        "h": 15,
+        "x": 247,
+        "y": 1038,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/blue/item_jewel_blue_04",
+        "w": 19,
+        "h": 19,
+        "x": 281,
+        "y": 793,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/green/item_aether_green_01",
+        "w": 17,
+        "h": 17,
+        "x": 336,
+        "y": 1001,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/green/item_aether_green_02",
+        "w": 18,
+        "h": 18,
+        "x": 249,
+        "y": 975,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/green/item_aether_green_03",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 745
+    },
+    {
+        "n": "item/materials/elements/green/item_jewel_green_01",
+        "w": 13,
+        "h": 12,
+        "x": 391,
+        "y": 1063,
+        "fx": -3,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/green/item_jewel_green_02",
+        "w": 16,
+        "h": 14,
+        "x": 459,
+        "y": 1005,
+        "fx": -2,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/green/item_jewel_green_03",
+        "w": 11,
+        "h": 14,
+        "x": 254,
+        "y": 1057,
+        "fx": -4,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/green/item_jewel_green_04",
+        "w": 19,
+        "h": 17,
+        "x": 479,
+        "y": 816,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/red/item_aether_red_01",
+        "w": 17,
+        "h": 17,
+        "x": 357,
+        "y": 1002,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/red/item_aether_red_02",
+        "w": 18,
+        "h": 18,
+        "x": 247,
+        "y": 1016,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/red/item_aether_red_03",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 745
+    },
+    {
+        "n": "item/materials/elements/red/item_jewel_red_01",
+        "w": 13,
+        "h": 15,
+        "x": 481,
+        "y": 986,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/red/item_jewel_red_02",
+        "w": 11,
+        "h": 13,
+        "x": 359,
+        "y": 1062,
+        "fx": -4,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/red/item_jewel_red_03",
+        "w": 17,
+        "h": 13,
+        "x": 160,
+        "y": 1067,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/red/item_jewel_red_04",
+        "w": 19,
+        "h": 19,
+        "x": 73,
+        "y": 1008,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/white/item_aether_light_01",
+        "w": 17,
+        "h": 17,
+        "x": 353,
+        "y": 1023,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/white/item_aether_light_02",
+        "w": 18,
+        "h": 18,
+        "x": 271,
+        "y": 979,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/white/item_aether_light_03",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 745
+    },
+    {
+        "n": "item/materials/elements/white/item_jewel_light_01",
+        "w": 15,
+        "h": 15,
+        "x": 479,
+        "y": 1005,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/white/item_jewel_light_02",
+        "w": 14,
+        "h": 16,
+        "x": 415,
+        "y": 1024,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/white/item_jewel_light_03",
+        "w": 17,
+        "h": 15,
+        "x": 374,
+        "y": 1044,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/white/item_jewel_light_04",
+        "w": 19,
+        "h": 18,
+        "x": 366,
+        "y": 814,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/yellow/item_aether_yellow_01",
+        "w": 17,
+        "h": 17,
+        "x": 379,
+        "y": 982,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/yellow/item_aether_yellow_02",
+        "w": 18,
+        "h": 18,
+        "x": 293,
+        "y": 979,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/yellow/item_aether_yellow_03",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 745
+    },
+    {
+        "n": "item/materials/elements/yellow/item_jewel_yellow_01",
+        "w": 14,
+        "h": 13,
+        "x": 306,
+        "y": 1060,
+        "fx": -3,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/yellow/item_jewel_yellow_02",
+        "w": 15,
+        "h": 12,
+        "x": 287,
+        "y": 1060,
+        "r": true,
+        "fx": -4,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/yellow/item_jewel_yellow_03",
+        "w": 11,
+        "h": 17,
+        "x": 239,
+        "y": 1063,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/elements/yellow/item_jewel_yellow_04",
+        "w": 19,
+        "h": 19,
+        "x": 96,
+        "y": 1006,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/advent_hw20/hw20_cookies_1",
+        "w": 18,
+        "h": 17,
+        "x": 475,
+        "y": 859,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/advent_hw20/hw20_cookies_2",
+        "w": 19,
+        "h": 20,
+        "x": 408,
+        "y": 769,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/advent_hw20/hw20_cookies_3",
+        "w": 20,
+        "h": 20,
+        "x": 432,
+        "y": 745
+    },
+    {
+        "n": "item/materials/event/advent_xm20/xm20_exchange_item_01",
+        "w": 18,
+        "h": 13,
+        "x": 116,
+        "y": 1067,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/advent_xm20/xm20_exchange_item_02",
+        "w": 18,
+        "h": 19,
+        "x": 233,
+        "y": 930,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/advent_xm20/xm20_exchange_item_03",
+        "w": 19,
+        "h": 19,
+        "x": 165,
+        "y": 934,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/anv2/box_token_anv2_01",
+        "w": 18,
+        "h": 13,
+        "x": 138,
+        "y": 1067,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/anv_story_01/box_token_anv_story_01",
+        "w": 18,
+        "h": 16,
+        "x": 293,
+        "y": 1001,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/challenge_dungeon/event_abyss_matter",
+        "w": 20,
+        "h": 20,
+        "x": 456,
+        "y": 745
+    },
+    {
+        "n": "item/materials/event/challenge_dungeon/event_chaos_matter",
+        "w": 16,
+        "h": 16,
+        "x": 395,
+        "y": 1043,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/challenge_dungeon/event_dark_matter",
+        "w": 20,
+        "h": 20,
+        "x": 96,
+        "y": 769
+    },
+    {
+        "n": "item/materials/event/challenge_dungeon/event_shadow_matter",
+        "w": 14,
+        "h": 14,
+        "x": 324,
+        "y": 1061,
+        "fx": -3,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/challenge_dungeon/yumemi_no_monsho_05",
+        "w": 20,
+        "h": 20,
+        "x": 120,
+        "y": 769
+    },
+    {
+        "n": "item/materials/event/crown_beasts/box_token_crown_beasts",
+        "w": 17,
+        "h": 16,
+        "x": 269,
+        "y": 1038,
+        "fx": -1,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/cyberpunk01/box_token_cyberpunk01",
+        "w": 19,
+        "h": 18,
+        "x": 389,
+        "y": 814,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/cyberpunk02_hero/box_token_cyberpunk02_hero",
+        "w": 20,
+        "h": 18,
+        "x": 257,
+        "y": 838,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/desert_bonds_01/box_token_desert_bonds_01",
+        "w": 17,
+        "h": 17,
+        "x": 400,
+        "y": 982,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/fakeprincess01/box_token_fakeprincess01",
+        "w": 20,
+        "h": 20,
+        "x": 144,
+        "y": 769
+    },
+    {
+        "n": "item/materials/event/Gcollab_event/gcollab_exchange_item_01",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 625,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/Gcollab_event/gcollab_exchange_item_02",
+        "w": 20,
+        "h": 17,
+        "x": 279,
+        "y": 940,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/Gcollab_event/gcollab_exchange_item_03",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 745
+    },
+    {
+        "n": "item/materials/event/haniwa_carnival/haniwa_medal_bronze",
+        "w": 20,
+        "h": 14,
+        "x": 279,
+        "y": 961,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/haniwa_carnival/haniwa_medal_gold",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 818,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/haniwa_carnival/haniwa_medal_silver",
+        "w": 20,
+        "h": 20,
+        "x": 168,
+        "y": 769
+    },
+    {
+        "n": "item/materials/event/newyear_21/newyear_21_stamina",
+        "w": 17,
+        "h": 16,
+        "x": 337,
+        "y": 981,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/raid_event/box_token_raid_event_01",
+        "w": 17,
+        "h": 16,
+        "x": 399,
+        "y": 1003,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/side_story_event/side_story_event_quest_unlock_certificate",
+        "w": 20,
+        "h": 20,
+        "x": 192,
+        "y": 769
+    },
+    {
+        "n": "item/materials/event/story_event_valen_20/exchange_item_01",
+        "w": 17,
+        "h": 17,
+        "x": 374,
+        "y": 1023,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/story_event_valen_20/exchange_item_02",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 673,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/story_event_valen_20/valentine_2020",
+        "w": 19,
+        "h": 20,
+        "x": 96,
+        "y": 817,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/story_event_xmas_01/present_box",
+        "w": 18,
+        "h": 19,
+        "x": 233,
+        "y": 930,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/story_event_xmas_01/sox",
+        "w": 18,
+        "h": 13,
+        "x": 116,
+        "y": 1067,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/summer_2020/box_token_summer_2020",
+        "w": 18,
+        "h": 20,
+        "x": 281,
+        "y": 816,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/summer_2021/box_token_summer_2021",
+        "w": 19,
+        "h": 20,
+        "x": 119,
+        "y": 793,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/target_item_drop_event/target_item_drop_event_mushroom",
+        "w": 12,
+        "h": 14,
+        "x": 468,
+        "y": 1041,
+        "fx": -4,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/target_item_drop_event/target_item_drop_event_snowman",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 769
+    },
+    {
+        "n": "item/materials/event/target_item_drop_event/target_item_drop_event_yuragi_no_shizuku",
+        "w": 9,
+        "h": 12,
+        "x": 424,
+        "y": 1062,
+        "fx": -5,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/target_item_drop_event/yuragi_no_kesshou",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 697,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/treasure_cave_quest/treasure_cave_quest_item",
+        "w": 19,
+        "h": 20,
+        "x": 431,
+        "y": 769,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/whiteday_21/white_day_2021",
+        "w": 19,
+        "h": 18,
+        "x": 412,
+        "y": 814,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/yokai_emaki_01/box_token_yokai_emaki_01",
+        "w": 14,
+        "h": 20,
+        "x": 324,
+        "y": 885,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/Zcollab_event/zcollab_exchange_item_01",
+        "w": 18,
+        "h": 20,
+        "x": 480,
+        "y": 649,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/materials/event/Zcollab_event/zcollab_exchange_item_02",
+        "w": 20,
+        "h": 20,
+        "x": 408,
+        "y": 745
+    },
+    {
+        "n": "item/spends/encyclopedia/item_encyclopedia_logkey",
+        "w": 20,
+        "h": 20,
+        "x": 240,
+        "y": 769
+    },
+    {
+        "n": "item/spends/ex_point/ex_point",
+        "w": 18,
+        "h": 14,
+        "x": 290,
+        "y": 1042,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/exchange_item/star_grain",
+        "w": 14,
+        "h": 9,
+        "x": 484,
+        "y": 1041,
+        "fx": -3,
+        "fy": -6,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/experience_item/experience_item_01",
+        "w": 18,
+        "h": 6,
+        "x": 94,
+        "y": 1073,
+        "r": true,
+        "fx": -7,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/experience_item/experience_item_02",
+        "w": 19,
+        "h": 12,
+        "x": 343,
+        "y": 880,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/experience_item/experience_item_03",
+        "w": 14,
+        "h": 20,
+        "x": 324,
+        "y": 909,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/general/stamina_fixed_bit_01",
+        "w": 13,
+        "h": 13,
+        "x": 342,
+        "y": 1062,
+        "fx": -9,
+        "fy": -9,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "item/spends/general/stamina_fixed_large_04",
+        "w": 16,
+        "h": 20,
+        "x": 323,
+        "y": 815,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/general/stamina_fixed_middle_03",
+        "w": 14,
+        "h": 19,
+        "x": 324,
+        "y": 933,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/general/stamina_fixed_small_02",
+        "w": 19,
+        "h": 12,
+        "x": 366,
+        "y": 880,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/general/stamina_rate_large_04",
+        "w": 14,
+        "h": 19,
+        "x": 324,
+        "y": 956,
+        "fx": -3,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/general/stamina_rate_middle_03",
+        "w": 19,
+        "h": 12,
+        "x": 389,
+        "y": 880,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/general/stamina_rate_small_02",
+        "w": 19,
+        "h": 12,
+        "x": 412,
+        "y": 880,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/bonus_gacha_ticket",
+        "w": 12,
+        "h": 20,
+        "x": 486,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/normal_10gacha_ticket_05",
+        "w": 20,
+        "h": 20,
+        "x": 264,
+        "y": 769
+    },
+    {
+        "n": "item/spends/tickets/normal_gacha_ticket_05",
+        "w": 12,
+        "h": 20,
+        "x": 486,
+        "y": 792,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/rare_10gacha_ticket_05",
+        "w": 20,
+        "h": 20,
+        "x": 288,
+        "y": 769
+    },
+    {
+        "n": "item/spends/tickets/rare_gacha_ticket_05",
+        "w": 20,
+        "h": 19,
+        "x": 211,
+        "y": 793,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/special_exchange_equipment_ticket",
+        "w": 20,
+        "h": 16,
+        "x": 257,
+        "y": 860,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/special_exchange_ticket",
+        "w": 20,
+        "h": 16,
+        "x": 255,
+        "y": 898,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/special_gacha_ticket_05",
+        "w": 20,
+        "h": 20,
+        "x": 312,
+        "y": 769
+    },
+    {
+        "n": "item/spends/tickets/startdash_exchange_ticket",
+        "w": 20,
+        "h": 16,
+        "x": 279,
+        "y": 900,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/ticket_equipment_001",
+        "w": 20,
+        "h": 14,
+        "x": 256,
+        "y": 880,
+        "fx": 0,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/ticket_equipment_002",
+        "w": 20,
+        "h": 20,
+        "x": 336,
+        "y": 769
+    },
+    {
+        "n": "item/spends/tickets/wildcard_once_gacha_character_ticket",
+        "w": 19,
+        "h": 20,
+        "x": 73,
+        "y": 938,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/wildcard_once_gacha_equipment_ticket",
+        "w": 20,
+        "h": 14,
+        "x": 255,
+        "y": 939,
+        "fx": 0,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "item/spends/tickets/wildcard_ten_times_gacha_character_ticket",
+        "w": 20,
+        "h": 20,
+        "x": 360,
+        "y": 769
+    },
+    {
+        "n": "item/spends/tickets/wildcard_ten_times_gacha_equipment_ticket",
+        "w": 20,
+        "h": 20,
+        "x": 384,
+        "y": 769
+    }
+]
