@@ -1,0 +1,549 @@
+[
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/a",
+        "w": 25,
+        "h": 36,
+        "x": 630,
+        "y": 759
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/b",
+        "w": 10,
+        "h": 40,
+        "x": 594,
+        "y": 796
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/c",
+        "w": 4,
+        "h": 24,
+        "x": 925,
+        "y": 195
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/d",
+        "w": 4,
+        "h": 4,
+        "x": 965,
+        "y": 619
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/e",
+        "w": 20,
+        "h": 20,
+        "x": 813,
+        "y": 625
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/f",
+        "w": 15,
+        "h": 30,
+        "x": 965,
+        "y": 588,
+        "fx": -1,
+        "fy": -1,
+        "fw": 17,
+        "fh": 31
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/g",
+        "w": 15,
+        "h": 15,
+        "x": 772,
+        "y": 689,
+        "fx": -1,
+        "fy": -1,
+        "fw": 17,
+        "fh": 16
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/h",
+        "w": 40,
+        "h": 40,
+        "x": 935,
+        "y": 2
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/i",
+        "w": 9,
+        "h": 12,
+        "x": 795,
+        "y": 666
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/j",
+        "w": 9,
+        "h": 10,
+        "x": 813,
+        "y": 646
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/k",
+        "w": 10,
+        "h": 12,
+        "x": 935,
+        "y": 84,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/l",
+        "w": 9,
+        "h": 10,
+        "x": 834,
+        "y": 625
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/m",
+        "w": 8,
+        "h": 10,
+        "x": 981,
+        "y": 588,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/n",
+        "w": 10,
+        "h": 40,
+        "x": 935,
+        "y": 43
+    },
+    {
+        "n": "battle/common/score_attack/.gen/phase_threshold/o",
+        "w": 10,
+        "h": 40,
+        "x": 976,
+        "y": 2
+    },
+    {
+        "n": "battle/common/score_attack/.gen/quest_finish/a",
+        "w": 40,
+        "h": 40,
+        "x": 772,
+        "y": 625
+    },
+    {
+        "n": "battle/common/score_attack/.gen/quest_finish/b",
+        "w": 231,
+        "h": 367,
+        "x": 666,
+        "y": 2,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 367,
+        "fh": 232
+    },
+    {
+        "n": "battle/common/score_attack/.gen/quest_finish/c",
+        "w": 663,
+        "h": 421,
+        "x": 2,
+        "y": 2
+    },
+    {
+        "n": "battle/common/score_attack/.gen/quest_finish/d",
+        "w": 334,
+        "h": 334,
+        "x": 437,
+        "y": 424
+    },
+    {
+        "n": "battle/common/score_attack/.gen/quest_finish/e",
+        "w": 434,
+        "h": 434,
+        "x": 2,
+        "y": 424
+    },
+    {
+        "n": "battle/common/score_attack/.gen/quest_finish/f",
+        "w": 217,
+        "h": 217,
+        "x": 772,
+        "y": 370
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/a",
+        "w": 16,
+        "h": 16,
+        "x": 466,
+        "y": 841
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/b",
+        "w": 16,
+        "h": 16,
+        "x": 656,
+        "y": 759
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/c",
+        "w": 1,
+        "h": 1,
+        "x": 594,
+        "y": 837,
+        "fx": 0,
+        "fy": 0,
+        "fw": 166,
+        "fh": 54
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/d",
+        "w": 156,
+        "h": 44,
+        "x": 437,
+        "y": 796,
+        "fx": -5,
+        "fy": -22,
+        "fw": 165,
+        "fh": 86
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/e",
+        "w": 16,
+        "h": 16,
+        "x": 898,
+        "y": 224
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/f",
+        "w": 16,
+        "h": 16,
+        "x": 605,
+        "y": 796
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/g",
+        "w": 28,
+        "h": 21,
+        "x": 666,
+        "y": 402,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/h",
+        "w": 28,
+        "h": 6,
+        "x": 695,
+        "y": 402,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/i",
+        "w": 26,
+        "h": 28,
+        "x": 898,
+        "y": 195
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/j",
+        "w": 28,
+        "h": 17,
+        "x": 437,
+        "y": 841,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/k",
+        "w": 22,
+        "h": 22,
+        "x": 772,
+        "y": 666
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/l",
+        "w": 105,
+        "h": 31,
+        "x": 666,
+        "y": 370,
+        "fx": -2,
+        "fy": -1,
+        "fw": 112,
+        "fh": 36
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/m",
+        "w": 1,
+        "h": 1,
+        "x": 594,
+        "y": 837,
+        "fx": 0,
+        "fy": 0,
+        "fw": 326,
+        "fh": 44
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/n",
+        "w": 192,
+        "h": 36,
+        "x": 437,
+        "y": 759,
+        "fx": -4,
+        "fy": -12,
+        "fw": 200,
+        "fh": 60
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase2/o",
+        "w": 16,
+        "h": 16,
+        "x": 946,
+        "y": 43
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/a",
+        "w": 16,
+        "h": 16,
+        "x": 466,
+        "y": 841
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/b",
+        "w": 16,
+        "h": 16,
+        "x": 656,
+        "y": 759
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/c",
+        "w": 1,
+        "h": 1,
+        "x": 594,
+        "y": 837,
+        "fx": 0,
+        "fy": 0,
+        "fw": 166,
+        "fh": 54
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/d",
+        "w": 156,
+        "h": 44,
+        "x": 437,
+        "y": 796,
+        "fx": -5,
+        "fy": -22,
+        "fw": 165,
+        "fh": 86
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/e",
+        "w": 16,
+        "h": 16,
+        "x": 898,
+        "y": 224
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/f",
+        "w": 16,
+        "h": 16,
+        "x": 605,
+        "y": 796
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/g",
+        "w": 28,
+        "h": 21,
+        "x": 666,
+        "y": 402,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/h",
+        "w": 28,
+        "h": 6,
+        "x": 695,
+        "y": 402,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/i",
+        "w": 26,
+        "h": 28,
+        "x": 898,
+        "y": 195
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/j",
+        "w": 28,
+        "h": 17,
+        "x": 437,
+        "y": 841,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/k",
+        "w": 22,
+        "h": 22,
+        "x": 772,
+        "y": 666
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/l",
+        "w": 105,
+        "h": 31,
+        "x": 666,
+        "y": 370,
+        "fx": -2,
+        "fy": -1,
+        "fw": 112,
+        "fh": 36
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/m",
+        "w": 1,
+        "h": 1,
+        "x": 594,
+        "y": 837,
+        "fx": 0,
+        "fy": 0,
+        "fw": 326,
+        "fh": 44
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/n",
+        "w": 36,
+        "h": 192,
+        "x": 898,
+        "y": 2,
+        "r": true,
+        "fx": -4,
+        "fy": -12,
+        "fw": 200,
+        "fh": 60
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase3/o",
+        "w": 16,
+        "h": 16,
+        "x": 946,
+        "y": 43
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/a",
+        "w": 16,
+        "h": 16,
+        "x": 466,
+        "y": 841
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/b",
+        "w": 16,
+        "h": 16,
+        "x": 656,
+        "y": 759
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/c",
+        "w": 1,
+        "h": 1,
+        "x": 594,
+        "y": 837,
+        "fx": 0,
+        "fy": 0,
+        "fw": 166,
+        "fh": 54
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/d",
+        "w": 156,
+        "h": 44,
+        "x": 437,
+        "y": 796,
+        "fx": -5,
+        "fy": -22,
+        "fw": 165,
+        "fh": 86
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/e",
+        "w": 16,
+        "h": 16,
+        "x": 898,
+        "y": 224
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/f",
+        "w": 16,
+        "h": 16,
+        "x": 605,
+        "y": 796
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/g",
+        "w": 28,
+        "h": 21,
+        "x": 666,
+        "y": 402,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/h",
+        "w": 28,
+        "h": 6,
+        "x": 695,
+        "y": 402,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/i",
+        "w": 26,
+        "h": 28,
+        "x": 898,
+        "y": 195
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/j",
+        "w": 28,
+        "h": 17,
+        "x": 437,
+        "y": 841,
+        "r": true
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/k",
+        "w": 22,
+        "h": 22,
+        "x": 772,
+        "y": 666
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/l",
+        "w": 105,
+        "h": 31,
+        "x": 666,
+        "y": 370,
+        "fx": -2,
+        "fy": -1,
+        "fw": 112,
+        "fh": 36
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/m",
+        "w": 1,
+        "h": 1,
+        "x": 594,
+        "y": 837,
+        "fx": 0,
+        "fy": 0,
+        "fw": 326,
+        "fh": 44
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/n",
+        "w": 192,
+        "h": 36,
+        "x": 772,
+        "y": 588,
+        "fx": -4,
+        "fy": -12,
+        "fw": 200,
+        "fh": 60
+    },
+    {
+        "n": "battle/common/score_attack/.gen/score_attack_time_add_phase4/o",
+        "w": 16,
+        "h": 16,
+        "x": 946,
+        "y": 43
+    }
+]

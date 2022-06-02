@@ -1,0 +1,61 @@
+[
+    {
+        "n": "battle/field/world_evil/evil_tower_top/foreground/.gen/foreground/a",
+        "w": 272,
+        "h": 276,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -353,
+        "fw": 272,
+        "fh": 750
+    },
+    {
+        "n": "battle/field/world_evil/evil_tower_top/foreground/.gen/foreground/b",
+        "w": 32,
+        "h": 15,
+        "x": 37,
+        "y": 279,
+        "r": true,
+        "fx": -1,
+        "fy": -6,
+        "fw": 17,
+        "fh": 41
+    },
+    {
+        "n": "battle/field/world_evil/evil_tower_top/foreground/.gen/foreground/c",
+        "w": 31,
+        "h": 15,
+        "x": 105,
+        "y": 279,
+        "r": true,
+        "fx": -1,
+        "fy": -8,
+        "fw": 17,
+        "fh": 41
+    },
+    {
+        "n": "battle/field/world_evil/evil_tower_top/foreground/.gen/foreground/d",
+        "w": 32,
+        "h": 15,
+        "x": 71,
+        "y": 279,
+        "r": true,
+        "fx": -1,
+        "fy": -6,
+        "fw": 17,
+        "fh": 41
+    },
+    {
+        "n": "battle/field/world_evil/evil_tower_top/foreground/.gen/foreground/e",
+        "w": 34,
+        "h": 15,
+        "x": 1,
+        "y": 279,
+        "r": true,
+        "fx": -1,
+        "fy": -4,
+        "fw": 17,
+        "fh": 41
+    }
+]

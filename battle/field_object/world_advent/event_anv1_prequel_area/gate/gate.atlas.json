@@ -1,0 +1,79 @@
+[
+    {
+        "n": "battle/field_object/world_advent/event_anv1_prequel_area/gate/.gen/event_anv1_prequel_gate/f0011",
+        "w": 54,
+        "h": 15,
+        "x": 1,
+        "y": 21,
+        "fx": -37,
+        "fy": -56,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/field_object/world_advent/event_anv1_prequel_area/gate/.gen/event_anv1_prequel_gate/f0016",
+        "w": 54,
+        "h": 15,
+        "x": 1,
+        "y": 38,
+        "fx": -37,
+        "fy": -56,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/field_object/world_advent/event_anv1_prequel_area/gate/.gen/event_anv1_prequel_gate/f0021",
+        "w": 54,
+        "h": 15,
+        "x": 1,
+        "y": 55,
+        "fx": -37,
+        "fy": -56,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/field_object/world_advent/event_anv1_prequel_area/gate/.gen/event_anv1_prequel_gate/f0031",
+        "w": 54,
+        "h": 17,
+        "x": 1,
+        "y": 72,
+        "fx": -37,
+        "fy": -54,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/field_object/world_advent/event_anv1_prequel_area/gate/.gen/event_anv1_prequel_gate/f0036",
+        "w": 54,
+        "h": 6,
+        "x": 1,
+        "y": 13,
+        "fx": -37,
+        "fy": -65,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/field_object/world_advent/event_anv1_prequel_area/gate/.gen/event_anv1_prequel_gate/f0041",
+        "w": 54,
+        "h": 4,
+        "x": 1,
+        "y": 1,
+        "fx": -37,
+        "fy": -67,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/field_object/world_advent/event_anv1_prequel_area/gate/.gen/event_anv1_prequel_gate/f0046",
+        "w": 54,
+        "h": 4,
+        "x": 1,
+        "y": 7,
+        "fx": -37,
+        "fy": -67,
+        "fw": 128,
+        "fh": 128
+    }
+]

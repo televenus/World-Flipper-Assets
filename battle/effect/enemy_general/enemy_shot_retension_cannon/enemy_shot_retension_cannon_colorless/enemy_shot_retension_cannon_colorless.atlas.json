@@ -1,0 +1,35 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_retension_cannon/enemy_shot_retension_cannon_colorless/.gen/enemy_shot_retension_cannon_colorless/a",
+        "w": 20,
+        "h": 20,
+        "x": 51,
+        "y": 1,
+        "fx": -28,
+        "fy": -29,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_retension_cannon/enemy_shot_retension_cannon_colorless/.gen/enemy_shot_retension_cannon_colorless/b",
+        "w": 22,
+        "h": 22,
+        "x": 27,
+        "y": 1,
+        "fx": -27,
+        "fy": -28,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_retension_cannon/enemy_shot_retension_cannon_colorless/.gen/enemy_shot_retension_cannon_colorless/c",
+        "w": 24,
+        "h": 24,
+        "x": 1,
+        "y": 1,
+        "fx": -26,
+        "fy": -27,
+        "fw": 80,
+        "fh": 80
+    }
+]

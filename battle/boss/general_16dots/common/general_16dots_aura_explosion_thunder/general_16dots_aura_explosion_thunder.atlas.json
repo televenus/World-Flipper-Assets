@@ -1,0 +1,105 @@
+[
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0003",
+        "w": 51,
+        "h": 51,
+        "x": 59,
+        "y": 484,
+        "fx": -42,
+        "fy": -42,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0006",
+        "w": 45,
+        "h": 45,
+        "x": 59,
+        "y": 537,
+        "fx": -45,
+        "fy": -45,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0014",
+        "w": 56,
+        "h": 56,
+        "x": 1,
+        "y": 484,
+        "fx": -41,
+        "fy": -38,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0022",
+        "w": 96,
+        "h": 93,
+        "x": 1,
+        "y": 300,
+        "r": true,
+        "fx": -23,
+        "fy": -23,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0030",
+        "w": 105,
+        "h": 100,
+        "x": 1,
+        "y": 105,
+        "r": true,
+        "fx": -20,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0039",
+        "w": 109,
+        "h": 102,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -16,
+        "fy": -16,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0048",
+        "w": 100,
+        "h": 91,
+        "x": 1,
+        "y": 207,
+        "fx": -11,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0057",
+        "w": 93,
+        "h": 87,
+        "x": 1,
+        "y": 395,
+        "r": true,
+        "fx": -25,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_thunder/.gen/general_16dots_aura_explosion_thunder/f0059",
+        "w": 1,
+        "h": 1,
+        "x": 108,
+        "y": 105,
+        "fx": 0,
+        "fy": 0,
+        "fw": 136,
+        "fh": 136
+    }
+]

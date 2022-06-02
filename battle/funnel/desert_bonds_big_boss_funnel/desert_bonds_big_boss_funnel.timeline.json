@@ -1,0 +1,59 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 43,
+            "name": "popup",
+            "kind": "once"
+        },
+        {
+            "begin": 44,
+            "end": 80,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 81,
+            "end": 99,
+            "name": "shot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 100,
+            "end": 116,
+            "name": "shot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 117,
+            "end": 186,
+            "name": "shot_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 187,
+            "end": 269,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 270,
+            "end": 300,
+            "name": "damage",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/weapon/se_bullet_short",
+            "begin": 141,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

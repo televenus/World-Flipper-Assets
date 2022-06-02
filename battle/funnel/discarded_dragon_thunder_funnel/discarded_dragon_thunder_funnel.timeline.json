@@ -1,0 +1,67 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 24,
+            "name": "start",
+            "kind": "loop"
+        },
+        {
+            "begin": 25,
+            "end": 34,
+            "name": "landing",
+            "kind": "once"
+        },
+        {
+            "begin": 35,
+            "end": 81,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 82,
+            "end": 106,
+            "name": "charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 107,
+            "end": 127,
+            "name": "attack",
+            "kind": "once"
+        },
+        {
+            "begin": 128,
+            "end": 145,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_rip",
+            "begin": 35,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 83,
+            "loop": -1,
+            "end": 107,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_discharge",
+            "begin": 107,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

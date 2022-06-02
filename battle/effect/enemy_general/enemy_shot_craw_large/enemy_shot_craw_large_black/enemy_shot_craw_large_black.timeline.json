@@ -1,0 +1,32 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 17,
+            "name": "normal",
+            "kind": "once"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [
+        {
+            "path": "hit_rectangle",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": -537.1,
+                            "y": -0.9,
+                            "w": 1058.8000000000002,
+                            "h": 327
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "matrices": []
+}

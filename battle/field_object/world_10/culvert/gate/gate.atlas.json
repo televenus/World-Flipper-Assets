@@ -1,0 +1,81 @@
+[
+    {
+        "n": "battle/field_object/world_10/culvert/gate/.gen/culvert_gate/f0005",
+        "w": 20,
+        "h": 29,
+        "x": 24,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_10/culvert/gate/.gen/culvert_gate/f0011",
+        "w": 21,
+        "h": 29,
+        "x": 1,
+        "y": 1,
+        "fx": -21,
+        "fy": -12,
+        "fw": 54,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_10/culvert/gate/.gen/culvert_gate/f0014",
+        "w": 21,
+        "h": 27,
+        "x": 46,
+        "y": 1,
+        "fx": -21,
+        "fy": -12,
+        "fw": 54,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_10/culvert/gate/.gen/culvert_gate/f0018",
+        "w": 20,
+        "h": 21,
+        "x": 69,
+        "y": 1,
+        "r": true,
+        "fx": -21,
+        "fy": -12,
+        "fw": 54,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_10/culvert/gate/.gen/culvert_gate/f0024",
+        "w": 12,
+        "h": 21,
+        "x": 91,
+        "y": 1,
+        "r": true,
+        "fx": -21,
+        "fy": -12,
+        "fw": 54,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_10/culvert/gate/.gen/culvert_gate/f0030",
+        "w": 18,
+        "h": 6,
+        "x": 69,
+        "y": 24,
+        "fx": -23,
+        "fy": -12,
+        "fw": 54,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_10/culvert/gate/.gen/culvert_gate/f0032",
+        "w": 1,
+        "h": 1,
+        "x": 89,
+        "y": 24,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 53
+    }
+]

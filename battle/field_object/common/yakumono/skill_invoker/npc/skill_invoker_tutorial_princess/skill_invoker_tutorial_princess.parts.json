@@ -1,0 +1,613 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/a"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/b"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/c"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/d"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/e"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/f"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/g"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/h"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/i"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/j"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/k"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/l"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/m"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/n"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/o"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/p"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/q"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/r"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/s"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/t"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/u"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/v"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/w"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/x"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/y"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_princess/.gen/skill_invoker_tutorial_princess/z"
+        }
+    ],
+    "g": [
+        {
+            "t": 188,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 188,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 204,
+            "s": [
+                {
+                    "s": -2147483633,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 16646154,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 8447,
+                            "t": 167,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483633,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 16646154,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 7,
+                            "r": -2147483638
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 36,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "r": 1073741937
+                        },
+                        {
+                            "m": 255,
+                            "t": 26,
+                            "r": -2147483618
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 115,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 65541,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 16639,
+                            "t": 327685,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 20735,
+                            "t": 3,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 5,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483618,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 60,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 1,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 1,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 25,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 1,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 2,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 3,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 6,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 7,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 9,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 11,
+                    "i": 13,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 14,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 13,
+                    "i": 15,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 14,
+                    "i": 16,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 15,
+                    "i": 17,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 18,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 17,
+                    "i": 19,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 18,
+                    "i": 20,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 19,
+                    "i": 21,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 22,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 21,
+                    "i": 23,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 22,
+                    "i": 24,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                },
+                {
+                    "s": 23,
+                    "i": 25,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -14336,
+            "y": -2048
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 2048,
+            "y": -2048
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -16384,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -32768
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -4096
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -524288,
+            "y": -524288
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -18432,
+            "y": -6144
+        }
+    ],
+    "c": [
+        [
+            333333,
+            666667,
+            666667,
+            1000000
+        ],
+        [
+            333333,
+            0,
+            666667,
+            333333
+        ]
+    ],
+    "s": 6
+}

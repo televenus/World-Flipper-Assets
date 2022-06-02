@@ -1,0 +1,139 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "CreateCondition",
+                    -17,
+                    [
+                        [
+                            "ACDamageOfElement",
+                            {
+                                "min": 8400,
+                                "max": 8400
+                            },
+                            254,
+                            {
+                                "min": 500,
+                                "max": 500
+                            },
+                            1
+                        ]
+                    ],
+                    {
+                        "min": 1,
+                        "max": 1
+                    },
+                    [
+                        "GenericConditionHitEffect"
+                    ],
+                    true,
+                    false
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "CreateCondition",
+                    -17,
+                    [
+                        [
+                            "ACToleranceOfDebuff",
+                            {
+                                "min": 8400,
+                                "max": 8400
+                            },
+                            {
+                                "min": 1,
+                                "max": 1
+                            },
+                            1
+                        ]
+                    ],
+                    {
+                        "min": 1,
+                        "max": 1
+                    },
+                    [
+                        "None"
+                    ],
+                    true,
+                    false
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "CreateCondition",
+                    -17,
+                    [
+                        [
+                            "ACAttackPoint",
+                            {
+                                "min": 8400,
+                                "max": 8400
+                            },
+                            {
+                                "min": 0.2,
+                                "max": 0.2
+                            },
+                            1
+                        ]
+                    ],
+                    {
+                        "min": 1,
+                        "max": 1
+                    },
+                    [
+                        "None"
+                    ],
+                    true,
+                    false
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "CreateCondition",
+                    -17,
+                    [
+                        [
+                            "ACToleranceOfElement",
+                            {
+                                "min": 8400,
+                                "max": 8400
+                            },
+                            254,
+                            {
+                                "min": 0.2,
+                                "max": 0.2
+                            },
+                            1
+                        ]
+                    ],
+                    {
+                        "min": 1,
+                        "max": 1
+                    },
+                    [
+                        "None"
+                    ],
+                    true,
+                    false
+                ]
+            ]
+        ]
+    ]
+]

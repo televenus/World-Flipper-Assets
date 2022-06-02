@@ -1,0 +1,58 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_village_battle/gate/.gen/japan_village_battle_gate/f0011",
+        "w": 46,
+        "h": 33,
+        "x": 4,
+        "y": 1,
+        "fx": -23,
+        "fy": -51,
+        "fw": 95,
+        "fh": 94
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_village_battle/gate/.gen/japan_village_battle_gate/f0017",
+        "w": 48,
+        "h": 41,
+        "x": 1,
+        "y": 36,
+        "fx": -22,
+        "fy": -42,
+        "fw": 95,
+        "fh": 94
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_village_battle/gate/.gen/japan_village_battle_gate/f0023",
+        "w": 48,
+        "h": 47,
+        "x": 1,
+        "y": 79,
+        "fx": -22,
+        "fy": -35,
+        "fw": 95,
+        "fh": 94
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_village_battle/gate/.gen/japan_village_battle_gate/f0029",
+        "w": 52,
+        "h": 50,
+        "x": 1,
+        "y": 128,
+        "r": true,
+        "fx": -22,
+        "fy": -29,
+        "fw": 95,
+        "fh": 94
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_village_battle/gate/.gen/japan_village_battle_gate/f0032",
+        "w": 1,
+        "h": 1,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 95,
+        "fh": 94
+    }
+]

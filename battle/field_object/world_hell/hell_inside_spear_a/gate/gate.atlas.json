@@ -1,0 +1,79 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/gate/.gen/hell_inside_spear_a_gate/a",
+        "w": 24,
+        "h": 41,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -1,
+        "fw": 32,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/gate/.gen/hell_inside_spear_a_gate/b",
+        "w": 24,
+        "h": 40,
+        "x": 1,
+        "y": 44,
+        "fx": -4,
+        "fy": -2,
+        "fw": 32,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/gate/.gen/hell_inside_spear_a_gate/c",
+        "w": 24,
+        "h": 40,
+        "x": 1,
+        "y": 86,
+        "fx": -4,
+        "fy": -2,
+        "fw": 32,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/gate/.gen/hell_inside_spear_a_gate/d",
+        "w": 24,
+        "h": 31,
+        "x": 1,
+        "y": 128,
+        "fx": -4,
+        "fy": -11,
+        "fw": 32,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/gate/.gen/hell_inside_spear_a_gate/e",
+        "w": 24,
+        "h": 30,
+        "x": 1,
+        "y": 161,
+        "fx": -4,
+        "fy": -12,
+        "fw": 32,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/gate/.gen/hell_inside_spear_a_gate/f",
+        "w": 24,
+        "h": 29,
+        "x": 1,
+        "y": 193,
+        "fx": -4,
+        "fy": -13,
+        "fw": 32,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/gate/.gen/hell_inside_spear_a_gate/g",
+        "w": 24,
+        "h": 25,
+        "x": 1,
+        "y": 224,
+        "fx": -4,
+        "fy": -17,
+        "fw": 32,
+        "fh": 48
+    }
+]

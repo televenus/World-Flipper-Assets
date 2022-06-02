@@ -1,0 +1,46 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_ship_villain/gate/.gen/sea_ship_villain_gate/f0011",
+        "w": 40,
+        "h": 29,
+        "x": 1,
+        "y": 112,
+        "fx": -2,
+        "fy": -9,
+        "fw": 44,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_villain/gate/.gen/sea_ship_villain_gate/f0016",
+        "w": 40,
+        "h": 34,
+        "x": 1,
+        "y": 76,
+        "fx": -2,
+        "fy": -4,
+        "fw": 44,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_villain/gate/.gen/sea_ship_villain_gate/f0021",
+        "w": 40,
+        "h": 36,
+        "x": 1,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_villain/gate/.gen/sea_ship_villain_gate/f0023",
+        "w": 40,
+        "h": 35,
+        "x": 1,
+        "y": 39,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 39
+    }
+]

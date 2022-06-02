@@ -1,0 +1,245 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 41,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 42,
+            "end": 82,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 83,
+            "end": 125,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 126,
+            "end": 136,
+            "name": "guard_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 137,
+            "end": 151,
+            "name": "guard",
+            "kind": "pass"
+        },
+        {
+            "begin": 152,
+            "end": 162,
+            "name": "guard_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 163,
+            "end": 173,
+            "name": "guard_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 174,
+            "end": 216,
+            "name": "guard_move",
+            "kind": "loop"
+        },
+        {
+            "begin": 217,
+            "end": 245,
+            "name": "funnel_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 246,
+            "end": 256,
+            "name": "funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 257,
+            "end": 275,
+            "name": "funnel_attack1",
+            "kind": "loop"
+        },
+        {
+            "begin": 276,
+            "end": 294,
+            "name": "funnel_attack2",
+            "kind": "loop"
+        },
+        {
+            "begin": 295,
+            "end": 313,
+            "name": "funnel_attack3",
+            "kind": "loop"
+        },
+        {
+            "begin": 314,
+            "end": 332,
+            "name": "funnel_attack4",
+            "kind": "loop"
+        },
+        {
+            "begin": 333,
+            "end": 351,
+            "name": "funnel_attack5",
+            "kind": "loop"
+        },
+        {
+            "begin": 352,
+            "end": 370,
+            "name": "blow_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 371,
+            "end": 376,
+            "name": "blow_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 377,
+            "end": 393,
+            "name": "blow_attack",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 394,
+            "end": 446,
+            "name": "special_start",
+            "kind": "once"
+        },
+        {
+            "begin": 447,
+            "end": 527,
+            "name": "special_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 528,
+            "end": 601,
+            "name": "special_attack",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 602,
+            "end": 650,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 651,
+            "end": 699,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 700,
+            "end": 748,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 749,
+            "end": 797,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 798,
+            "end": 932,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 933,
+            "end": 943,
+            "name": "special_initial",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/weapon/se_shield",
+            "begin": 137,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 261,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 280,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 299,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 318,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 337,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_shot_wind2",
+            "begin": 377,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_shield",
+            "begin": 394,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 447,
+            "loop": -1,
+            "end": 528,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_shot_big",
+            "begin": 536,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

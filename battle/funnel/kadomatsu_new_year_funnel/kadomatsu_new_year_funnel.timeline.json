@@ -1,0 +1,35 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 36,
+            "name": "popup",
+            "kind": "once"
+        },
+        {
+            "begin": 37,
+            "end": 87,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 88,
+            "end": 115,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/yakumono/se_yuremono_dust_hit",
+            "begin": 6,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

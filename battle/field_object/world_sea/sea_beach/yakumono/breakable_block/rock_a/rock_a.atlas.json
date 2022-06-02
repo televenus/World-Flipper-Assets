@@ -1,0 +1,103 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/a",
+        "w": 17,
+        "h": 17,
+        "x": 45,
+        "y": 1,
+        "fx": -16,
+        "fy": -8,
+        "fw": 48,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/b",
+        "w": 17,
+        "h": 17,
+        "x": 45,
+        "y": 20,
+        "fx": -16,
+        "fy": -8,
+        "fw": 48,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/c",
+        "w": 18,
+        "h": 18,
+        "x": 44,
+        "y": 39,
+        "fx": -15,
+        "fy": -7,
+        "fw": 48,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/d",
+        "w": 19,
+        "h": 22,
+        "x": 43,
+        "y": 59,
+        "r": true,
+        "fx": -13,
+        "fy": -6,
+        "fw": 48,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/e",
+        "w": 33,
+        "h": 26,
+        "x": 29,
+        "y": 83,
+        "fx": -6,
+        "fy": -1,
+        "fw": 48,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/f",
+        "w": 26,
+        "h": 38,
+        "x": 1,
+        "y": 83,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 48,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/g",
+        "w": 41,
+        "h": 28,
+        "x": 1,
+        "y": 25,
+        "fx": -3,
+        "fy": 0,
+        "fw": 48,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/h",
+        "w": 40,
+        "h": 26,
+        "x": 1,
+        "y": 55,
+        "fx": -5,
+        "fy": -2,
+        "fw": 48,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/yakumono/breakable_block/rock_a/.gen/rock_a/i",
+        "w": 42,
+        "h": 22,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -6,
+        "fw": 48,
+        "fh": 29
+    }
+]

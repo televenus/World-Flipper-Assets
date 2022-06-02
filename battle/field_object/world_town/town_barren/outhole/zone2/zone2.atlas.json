@@ -1,0 +1,58 @@
+[
+    {
+        "n": "battle/field_object/world_town/town_barren/outhole/zone2/.gen/town_barren_outhole_zone2/f0011",
+        "w": 70,
+        "h": 18,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 73,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_town/town_barren/outhole/zone2/.gen/town_barren_outhole_zone2/f0014",
+        "w": 70,
+        "h": 17,
+        "x": 1,
+        "y": 21,
+        "fx": -1,
+        "fy": -2,
+        "fw": 73,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_town/town_barren/outhole/zone2/.gen/town_barren_outhole_zone2/f0017",
+        "w": 70,
+        "h": 17,
+        "x": 1,
+        "y": 40,
+        "fx": -1,
+        "fy": -2,
+        "fw": 73,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_town/town_barren/outhole/zone2/.gen/town_barren_outhole_zone2/f0020",
+        "w": 70,
+        "h": 17,
+        "x": 1,
+        "y": 59,
+        "fx": -1,
+        "fy": -2,
+        "fw": 73,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_town/town_barren/outhole/zone2/.gen/town_barren_outhole_zone2/f0044",
+        "w": 17,
+        "h": 70,
+        "x": 73,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 73,
+        "fh": 20
+    }
+]

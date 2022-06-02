@@ -1,0 +1,151 @@
+[
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/a",
+        "w": 15,
+        "h": 18,
+        "x": 18,
+        "y": 295,
+        "r": true,
+        "fx": -247,
+        "fy": -249,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/b",
+        "w": 15,
+        "h": 20,
+        "x": 1,
+        "y": 295,
+        "r": true,
+        "fx": -246,
+        "fy": -249,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/c",
+        "w": 22,
+        "h": 17,
+        "x": 35,
+        "y": 295,
+        "fx": -245,
+        "fy": -247,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/d",
+        "w": 24,
+        "h": 17,
+        "x": 1,
+        "y": 250,
+        "fx": -244,
+        "fy": -247,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/e",
+        "w": 24,
+        "h": 17,
+        "x": 27,
+        "y": 250,
+        "fx": -244,
+        "fy": -247,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/f",
+        "w": 17,
+        "h": 24,
+        "x": 1,
+        "y": 269,
+        "r": true,
+        "fx": -244,
+        "fy": -247,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/g",
+        "w": 17,
+        "h": 24,
+        "x": 20,
+        "y": 269,
+        "r": true,
+        "fx": -244,
+        "fy": -247,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/h",
+        "w": 17,
+        "h": 24,
+        "x": 39,
+        "y": 269,
+        "r": true,
+        "fx": -244,
+        "fy": -247,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/i",
+        "w": 46,
+        "h": 40,
+        "x": 1,
+        "y": 208,
+        "r": true,
+        "fx": -236,
+        "fy": -233,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/j",
+        "w": 50,
+        "h": 49,
+        "x": 1,
+        "y": 157,
+        "fx": -231,
+        "fy": -231,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/k",
+        "w": 56,
+        "h": 50,
+        "x": 1,
+        "y": 1,
+        "fx": -228,
+        "fy": -230,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/l",
+        "w": 56,
+        "h": 50,
+        "x": 1,
+        "y": 53,
+        "fx": -228,
+        "fy": -230,
+        "fw": 512,
+        "fh": 512
+    },
+    {
+        "n": "battle/funnel/guardian_golem_bomb/guardian_golem_another_light_bomb/.gen/guardian_golem_another_light_bomb/m",
+        "w": 56,
+        "h": 50,
+        "x": 1,
+        "y": 105,
+        "fx": -228,
+        "fy": -230,
+        "fw": 512,
+        "fh": 512
+    }
+]

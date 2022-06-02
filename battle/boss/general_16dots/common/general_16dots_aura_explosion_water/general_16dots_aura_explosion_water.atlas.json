@@ -1,0 +1,104 @@
+[
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0003",
+        "w": 51,
+        "h": 51,
+        "x": 55,
+        "y": 491,
+        "fx": -42,
+        "fy": -42,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0006",
+        "w": 45,
+        "h": 45,
+        "x": 55,
+        "y": 544,
+        "fx": -45,
+        "fy": -45,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0014",
+        "w": 52,
+        "h": 53,
+        "x": 1,
+        "y": 491,
+        "fx": -43,
+        "fy": -40,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0022",
+        "w": 96,
+        "h": 93,
+        "x": 1,
+        "y": 307,
+        "r": true,
+        "fx": -23,
+        "fy": -23,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0030",
+        "w": 105,
+        "h": 100,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -20,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0039",
+        "w": 102,
+        "h": 109,
+        "x": 1,
+        "y": 103,
+        "fx": -16,
+        "fy": -16,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0048",
+        "w": 100,
+        "h": 91,
+        "x": 1,
+        "y": 214,
+        "fx": -11,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0057",
+        "w": 93,
+        "h": 87,
+        "x": 1,
+        "y": 402,
+        "r": true,
+        "fx": -25,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_water/.gen/general_16dots_aura_explosion_water/f0059",
+        "w": 1,
+        "h": 1,
+        "x": 105,
+        "y": 103,
+        "fx": 0,
+        "fy": 0,
+        "fw": 136,
+        "fh": 136
+    }
+]

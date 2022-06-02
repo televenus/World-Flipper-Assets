@@ -1,0 +1,62 @@
+[
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree_evil/gate/.gen/tree_worldtree_evil_gate/f0011",
+        "w": 19,
+        "h": 75,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -36,
+        "fw": 77,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree_evil/gate/.gen/tree_worldtree_evil_gate/f0015",
+        "w": 26,
+        "h": 75,
+        "x": 22,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -27,
+        "fw": 77,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree_evil/gate/.gen/tree_worldtree_evil_gate/f0018",
+        "w": 39,
+        "h": 75,
+        "x": 1,
+        "y": 78,
+        "r": true,
+        "fx": -1,
+        "fy": -14,
+        "fw": 77,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree_evil/gate/.gen/tree_worldtree_evil_gate/f0021",
+        "w": 48,
+        "h": 75,
+        "x": 1,
+        "y": 155,
+        "r": true,
+        "fx": -1,
+        "fy": -5,
+        "fw": 77,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree_evil/gate/.gen/tree_worldtree_evil_gate/f0023",
+        "w": 52,
+        "h": 75,
+        "x": 1,
+        "y": 232,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 77,
+        "fh": 56
+    }
+]

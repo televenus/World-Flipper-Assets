@@ -1,0 +1,62 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    0,
+                    33,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateRatioHeal",
+                                    0,
+                                    2,
+                                    {
+                                        "min": 0.25,
+                                        "max": 0.25
+                                    },
+                                    [],
+                                    {
+                                        "min": 0,
+                                        "max": 0
+                                    },
+                                    [
+                                        "SpecifyHealEffectDirectly",
+                                        [
+                                            "SpecifyEffectDirectly",
+                                            "battle/effect/skill_unique/tutorial_priest/heal_tutorial_priest"
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

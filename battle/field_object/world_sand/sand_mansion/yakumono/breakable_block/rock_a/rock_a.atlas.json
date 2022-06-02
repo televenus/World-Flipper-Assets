@@ -1,0 +1,105 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/a",
+        "w": 17,
+        "h": 17,
+        "x": 187,
+        "y": 36,
+        "fx": -39,
+        "fy": -31,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/b",
+        "w": 17,
+        "h": 18,
+        "x": 168,
+        "y": 36,
+        "r": true,
+        "fx": -39,
+        "fy": -31,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/c",
+        "w": 19,
+        "h": 20,
+        "x": 112,
+        "y": 37,
+        "r": true,
+        "fx": -38,
+        "fy": -30,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/d",
+        "w": 27,
+        "h": 23,
+        "x": 139,
+        "y": 36,
+        "fx": -34,
+        "fy": -25,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/e",
+        "w": 34,
+        "h": 50,
+        "x": 38,
+        "y": 1,
+        "r": true,
+        "fx": -22,
+        "fy": -18,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/f",
+        "w": 35,
+        "h": 58,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -19,
+        "fy": -19,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/g",
+        "w": 63,
+        "h": 34,
+        "x": 74,
+        "y": 1,
+        "fx": -17,
+        "fy": -22,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/h",
+        "w": 68,
+        "h": 33,
+        "x": 139,
+        "y": 1,
+        "fx": -15,
+        "fy": -24,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/rock_a/.gen/rock_a/i",
+        "w": 72,
+        "h": 5,
+        "x": 38,
+        "y": 53,
+        "fx": -12,
+        "fy": -44,
+        "fw": 96,
+        "fh": 64
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "n": "battle/field/world_beast/lion_tribe_sanctuary_kings_room/foreground/.gen/foreground/a",
+        "w": 177,
+        "h": 58,
+        "x": 1,
+        "y": 1,
+        "fx": -47,
+        "fy": -270,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "battle/field/world_beast/lion_tribe_sanctuary_kings_room/foreground/.gen/foreground/b",
+        "w": 175,
+        "h": 56,
+        "x": 1,
+        "y": 61,
+        "fx": -48,
+        "fy": -271,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "battle/field/world_beast/lion_tribe_sanctuary_kings_room/foreground/.gen/foreground/c",
+        "w": 177,
+        "h": 58,
+        "x": 180,
+        "y": 1,
+        "fx": -47,
+        "fy": -270,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "battle/field/world_beast/lion_tribe_sanctuary_kings_room/foreground/.gen/foreground/d",
+        "w": 175,
+        "h": 56,
+        "x": 178,
+        "y": 61,
+        "fx": -48,
+        "fy": -271,
+        "fw": 272,
+        "fh": 368
+    }
+]

@@ -1,0 +1,175 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 55,
+            "name": "move_a",
+            "kind": "pass"
+        },
+        {
+            "begin": 56,
+            "end": 110,
+            "name": "move_b",
+            "kind": "goto",
+            "target": "move_a"
+        },
+        {
+            "begin": 111,
+            "end": 178,
+            "name": "vulcan_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 179,
+            "end": 246,
+            "name": "vulcan_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 247,
+            "end": 259,
+            "name": "move_shot",
+            "kind": "loop"
+        },
+        {
+            "begin": 260,
+            "end": 272,
+            "name": "vulcan",
+            "kind": "loop"
+        },
+        {
+            "begin": 273,
+            "end": 285,
+            "name": "vulcan_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 286,
+            "end": 316,
+            "name": "bit_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 317,
+            "end": 375,
+            "name": "bit_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 376,
+            "end": 395,
+            "name": "target_set",
+            "kind": "loop"
+        },
+        {
+            "begin": 396,
+            "end": 451,
+            "name": "bit_fire_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 452,
+            "end": 471,
+            "name": "bit_fire1",
+            "kind": "loop"
+        },
+        {
+            "begin": 472,
+            "end": 491,
+            "name": "bit_fire2",
+            "kind": "loop"
+        },
+        {
+            "begin": 492,
+            "end": 507,
+            "name": "bit_fire_end",
+            "kind": "goto",
+            "target": "move_b"
+        },
+        {
+            "begin": 508,
+            "end": 524,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 525,
+            "end": 541,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 542,
+            "end": 590,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 591,
+            "end": 639,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 640,
+            "end": 744,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/sf/se_siren_alert",
+            "begin": 179,
+            "loop": -1,
+            "end": 247,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_machinegun_oneshot",
+            "begin": 247,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_attack1",
+            "begin": 260,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_siren_normal",
+            "begin": 317,
+            "loop": -1,
+            "end": 376,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_siren_short",
+            "begin": 376,
+            "loop": -1,
+            "end": 396,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_grenade",
+            "begin": 455,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_grenade",
+            "begin": 475,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

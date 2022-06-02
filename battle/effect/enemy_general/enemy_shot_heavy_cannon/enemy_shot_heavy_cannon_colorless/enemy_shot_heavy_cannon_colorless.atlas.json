@@ -1,0 +1,93 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_heavy_cannon/enemy_shot_heavy_cannon_colorless/.gen/enemy_shot_heavy_cannon_colorless/a",
+        "w": 31,
+        "h": 34,
+        "x": 1,
+        "y": 34,
+        "fx": -22,
+        "fy": -21,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_heavy_cannon/enemy_shot_heavy_cannon_colorless/.gen/enemy_shot_heavy_cannon_colorless/b",
+        "w": 31,
+        "h": 34,
+        "x": 34,
+        "y": 34,
+        "fx": -22,
+        "fy": -21,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_heavy_cannon/enemy_shot_heavy_cannon_colorless/.gen/enemy_shot_heavy_cannon_colorless/c",
+        "w": 35,
+        "h": 31,
+        "x": 39,
+        "y": 1,
+        "r": true,
+        "fx": -22,
+        "fy": -20,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_heavy_cannon/enemy_shot_heavy_cannon_colorless/.gen/enemy_shot_heavy_cannon_colorless/d",
+        "w": 36,
+        "h": 31,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -22,
+        "fy": -19,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_heavy_cannon/enemy_shot_heavy_cannon_colorless/.gen/enemy_shot_heavy_cannon_colorless/e",
+        "w": 33,
+        "h": 31,
+        "x": 67,
+        "y": 34,
+        "r": true,
+        "fx": -22,
+        "fy": -21,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_heavy_cannon/enemy_shot_heavy_cannon_colorless/.gen/enemy_shot_heavy_cannon_colorless/f",
+        "w": 32,
+        "h": 33,
+        "x": 1,
+        "y": 70,
+        "fx": -21,
+        "fy": -21,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_heavy_cannon/enemy_shot_heavy_cannon_colorless/.gen/enemy_shot_heavy_cannon_colorless/g",
+        "w": 32,
+        "h": 33,
+        "x": 35,
+        "y": 70,
+        "fx": -21,
+        "fy": -21,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_heavy_cannon/enemy_shot_heavy_cannon_colorless/.gen/enemy_shot_heavy_cannon_colorless/h",
+        "w": 30,
+        "h": 32,
+        "x": 69,
+        "y": 67,
+        "fx": -23,
+        "fy": -22,
+        "fw": 80,
+        "fh": 80
+    }
+]

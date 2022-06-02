@@ -1,0 +1,200 @@
+[
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/a",
+        "w": 40,
+        "h": 40,
+        "x": 63,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/b",
+        "w": 39,
+        "h": 39,
+        "x": 43,
+        "y": 85,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/c",
+        "w": 39,
+        "h": 39,
+        "x": 1,
+        "y": 104,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/d",
+        "w": 40,
+        "h": 40,
+        "x": 63,
+        "y": 43,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/e",
+        "w": 39,
+        "h": 39,
+        "x": 84,
+        "y": 85,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/f",
+        "w": 4,
+        "h": 4,
+        "x": 105,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/g",
+        "w": 20,
+        "h": 20,
+        "x": 36,
+        "y": 186
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/h",
+        "w": 32,
+        "h": 40,
+        "x": 58,
+        "y": 167,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 34
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_appear/i",
+        "w": 39,
+        "h": 39,
+        "x": 42,
+        "y": 126,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_disappear/a",
+        "w": 40,
+        "h": 40,
+        "x": 63,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_disappear/b",
+        "w": 39,
+        "h": 39,
+        "x": 43,
+        "y": 85,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_disappear/c",
+        "w": 39,
+        "h": 39,
+        "x": 1,
+        "y": 104,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_disappear/d",
+        "w": 33,
+        "h": 25,
+        "x": 1,
+        "y": 186
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_disappear/e",
+        "w": 32,
+        "h": 40,
+        "x": 58,
+        "y": 167,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 34
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_disappear/f",
+        "w": 39,
+        "h": 39,
+        "x": 42,
+        "y": 126,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_ready/a",
+        "w": 60,
+        "h": 60,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_ready/b",
+        "w": 27,
+        "h": 27,
+        "x": 92,
+        "y": 167,
+        "fx": -7,
+        "fy": -7,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_ready/c",
+        "w": 39,
+        "h": 39,
+        "x": 1,
+        "y": 145,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_ready/d",
+        "w": 39,
+        "h": 39,
+        "x": 83,
+        "y": 126,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_general/multiball/multiball_general_effect/.gen/multiball_general_effect_ready/e",
+        "w": 40,
+        "h": 39,
+        "x": 1,
+        "y": 63,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    }
+]

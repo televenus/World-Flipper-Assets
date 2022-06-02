@@ -1,0 +1,56 @@
+[
+    {
+        "n": "battle/effect/hit/down_fever_gauge/down_fever_gauge/.gen/down_fever_gauge/a",
+        "w": 2,
+        "h": 2,
+        "x": 1,
+        "y": 157
+    },
+    {
+        "n": "battle/effect/hit/down_fever_gauge/down_fever_gauge/.gen/down_fever_gauge/b",
+        "w": 2,
+        "h": 2,
+        "x": 5,
+        "y": 157
+    },
+    {
+        "n": "battle/effect/hit/down_fever_gauge/down_fever_gauge/.gen/down_fever_gauge/c",
+        "w": 2,
+        "h": 2,
+        "x": 9,
+        "y": 157
+    },
+    {
+        "n": "battle/effect/hit/down_fever_gauge/down_fever_gauge/.gen/down_fever_gauge/d",
+        "w": 49,
+        "h": 50,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/hit/down_fever_gauge/down_fever_gauge/.gen/down_fever_gauge/e",
+        "w": 49,
+        "h": 50,
+        "x": 1,
+        "y": 53,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/hit/down_fever_gauge/down_fever_gauge/.gen/down_fever_gauge/f",
+        "w": 49,
+        "h": 50,
+        "x": 1,
+        "y": 105,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_stone_steps/gate/.gen/japan_stone_steps_gate/f0011",
+        "w": 19,
+        "h": 46,
+        "x": 39,
+        "y": 1,
+        "r": true,
+        "fx": -9,
+        "fy": -22,
+        "fw": 64,
+        "fh": 41
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_stone_steps/gate/.gen/japan_stone_steps_gate/f0014",
+        "w": 25,
+        "h": 46,
+        "x": 34,
+        "y": 102,
+        "r": true,
+        "fx": -9,
+        "fy": -15,
+        "fw": 64,
+        "fh": 41
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_stone_steps/gate/.gen/japan_stone_steps_gate/f0018",
+        "w": 31,
+        "h": 48,
+        "x": 1,
+        "y": 102,
+        "r": true,
+        "fx": -8,
+        "fy": -8,
+        "fw": 64,
+        "fh": 41
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_stone_steps/gate/.gen/japan_stone_steps_gate/f0024",
+        "w": 55,
+        "h": 34,
+        "x": 1,
+        "y": 66,
+        "fx": -5,
+        "fy": -4,
+        "fw": 64,
+        "fh": 41
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_stone_steps/gate/.gen/japan_stone_steps_gate/f0030",
+        "w": 36,
+        "h": 63,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 41
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_stone_steps/gate/.gen/japan_stone_steps_gate/f0032",
+        "w": 1,
+        "h": 1,
+        "x": 39,
+        "y": 49,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 41
+    }
+]

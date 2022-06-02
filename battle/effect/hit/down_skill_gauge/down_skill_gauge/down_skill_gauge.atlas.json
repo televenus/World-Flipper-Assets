@@ -1,0 +1,48 @@
+[
+    {
+        "n": "battle/effect/hit/down_skill_gauge/down_skill_gauge/.gen/down_skill_gauge/a",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/down_skill_gauge/down_skill_gauge/.gen/down_skill_gauge/b",
+        "w": 30,
+        "h": 30,
+        "x": 33,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/down_skill_gauge/down_skill_gauge/.gen/down_skill_gauge/c",
+        "w": 29,
+        "h": 29,
+        "x": 65,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/hit/down_skill_gauge/down_skill_gauge/.gen/down_skill_gauge/d",
+        "w": 2,
+        "h": 2,
+        "x": 96,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/down_skill_gauge/down_skill_gauge/.gen/down_skill_gauge/e",
+        "w": 2,
+        "h": 2,
+        "x": 96,
+        "y": 5
+    },
+    {
+        "n": "battle/effect/hit/down_skill_gauge/down_skill_gauge/.gen/down_skill_gauge/f",
+        "w": 2,
+        "h": 2,
+        "x": 96,
+        "y": 9
+    }
+]

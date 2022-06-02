@@ -1,0 +1,70 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 10,
+            "name": "deactivate",
+            "kind": "once"
+        },
+        {
+            "begin": 11,
+            "end": 22,
+            "name": "open",
+            "kind": "pass"
+        },
+        {
+            "begin": 23,
+            "end": 64,
+            "name": "activate",
+            "kind": "loop"
+        },
+        {
+            "begin": 65,
+            "end": 75,
+            "name": "touch",
+            "kind": "pass"
+        },
+        {
+            "begin": 76,
+            "end": 85,
+            "name": "off",
+            "kind": "once"
+        },
+        {
+            "begin": 86,
+            "end": 97,
+            "name": "close",
+            "kind": "goto",
+            "target": "deactivate"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/yakumono/se_mana_get",
+            "begin": 65,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [
+        {
+            "path": "shape",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -34.5,
+                            "r": 92.252197265625
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rectangles": [],
+    "matrices": []
+}

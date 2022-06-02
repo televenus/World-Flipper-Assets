@@ -1,0 +1,71 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_cannon/enemy_shot_pierce_cannon_red/.gen/enemy_shot_pierce_cannon_red/a",
+        "w": 20,
+        "h": 17,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -30,
+        "fy": -27,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_cannon/enemy_shot_pierce_cannon_red/.gen/enemy_shot_pierce_cannon_red/b",
+        "w": 22,
+        "h": 17,
+        "x": 23,
+        "y": 1,
+        "r": true,
+        "fx": -30,
+        "fy": -26,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_cannon/enemy_shot_pierce_cannon_red/.gen/enemy_shot_pierce_cannon_red/c",
+        "w": 24,
+        "h": 19,
+        "x": 21,
+        "y": 20,
+        "r": true,
+        "fx": -29,
+        "fy": -25,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_cannon/enemy_shot_pierce_cannon_red/.gen/enemy_shot_pierce_cannon_red/d",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 20,
+        "fx": -29,
+        "fy": -29,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_cannon/enemy_shot_pierce_cannon_red/.gen/enemy_shot_pierce_cannon_red/e",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 41,
+        "fx": -28,
+        "fy": -28,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_cannon/enemy_shot_pierce_cannon_red/.gen/enemy_shot_pierce_cannon_red/f",
+        "w": 22,
+        "h": 22,
+        "x": 23,
+        "y": 41,
+        "fx": -27,
+        "fy": -27,
+        "fw": 80,
+        "fh": 80
+    }
+]

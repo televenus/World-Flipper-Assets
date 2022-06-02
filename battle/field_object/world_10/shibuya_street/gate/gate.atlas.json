@@ -1,0 +1,57 @@
+[
+    {
+        "n": "battle/field_object/world_10/shibuya_street/gate/.gen/shibuya_street_gate/f0003",
+        "w": 49,
+        "h": 38,
+        "x": 1,
+        "y": 164,
+        "fx": -3,
+        "fy": -1,
+        "fw": 56,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_10/shibuya_street/gate/.gen/shibuya_street_gate/f0006",
+        "w": 50,
+        "h": 39,
+        "x": 1,
+        "y": 123,
+        "fx": -3,
+        "fy": -1,
+        "fw": 56,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_10/shibuya_street/gate/.gen/shibuya_street_gate/f0009",
+        "w": 52,
+        "h": 39,
+        "x": 1,
+        "y": 82,
+        "fx": -2,
+        "fy": -1,
+        "fw": 56,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_10/shibuya_street/gate/.gen/shibuya_street_gate/f0015",
+        "w": 54,
+        "h": 39,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 56,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_10/shibuya_street/gate/.gen/shibuya_street_gate/f0025",
+        "w": 54,
+        "h": 38,
+        "x": 1,
+        "y": 42,
+        "fx": -1,
+        "fy": -2,
+        "fw": 56,
+        "fh": 44
+    }
+]

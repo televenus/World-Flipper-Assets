@@ -1,0 +1,33 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 1,
+            "name": "normal",
+            "kind": "stop"
+        },
+        {
+            "begin": 2,
+            "end": 2,
+            "name": "angle_22_5",
+            "kind": "stop"
+        },
+        {
+            "begin": 3,
+            "end": 3,
+            "name": "angle_45",
+            "kind": "stop"
+        },
+        {
+            "begin": 4,
+            "end": 4,
+            "name": "angle_67_5",
+            "kind": "stop"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

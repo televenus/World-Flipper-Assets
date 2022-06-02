@@ -1,0 +1,147 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/a",
+        "w": 19,
+        "h": 19,
+        "x": 65,
+        "y": 63,
+        "fx": -22,
+        "fy": -23,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/b",
+        "w": 19,
+        "h": 19,
+        "x": 86,
+        "y": 63,
+        "fx": -21,
+        "fy": -23,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/c",
+        "w": 21,
+        "h": 20,
+        "x": 93,
+        "y": 23,
+        "fx": -25,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/d",
+        "w": 24,
+        "h": 20,
+        "x": 98,
+        "y": 1,
+        "r": true,
+        "fx": -22,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/e",
+        "w": 26,
+        "h": 29,
+        "x": 1,
+        "y": 55,
+        "r": true,
+        "fx": -13,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/f",
+        "w": 34,
+        "h": 27,
+        "x": 29,
+        "y": 55,
+        "fx": -12,
+        "fy": -15,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/g",
+        "w": 39,
+        "h": 23,
+        "x": 52,
+        "y": 23,
+        "fx": -9,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/h",
+        "w": 44,
+        "h": 20,
+        "x": 52,
+        "y": 1,
+        "fx": -7,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/i",
+        "w": 49,
+        "h": 13,
+        "x": 65,
+        "y": 48,
+        "fx": -7,
+        "fy": -30,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/j",
+        "w": 49,
+        "h": 17,
+        "x": 1,
+        "y": 1,
+        "fx": -7,
+        "fy": -30,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/k",
+        "w": 49,
+        "h": 15,
+        "x": 1,
+        "y": 38,
+        "fx": -7,
+        "fy": -31,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/l",
+        "w": 49,
+        "h": 16,
+        "x": 1,
+        "y": 20,
+        "fx": -7,
+        "fy": -31,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/board_a/.gen/board_a/m",
+        "w": 1,
+        "h": 1,
+        "x": 93,
+        "y": 45,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    }
+]

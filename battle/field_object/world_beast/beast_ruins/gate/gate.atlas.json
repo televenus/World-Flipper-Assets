@@ -1,0 +1,69 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0011",
+        "w": 42,
+        "h": 47,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0012",
+        "w": 42,
+        "h": 47,
+        "x": 1,
+        "y": 50
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0013",
+        "w": 42,
+        "h": 47,
+        "x": 1,
+        "y": 99
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0014",
+        "w": 42,
+        "h": 47,
+        "x": 1,
+        "y": 148
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0016",
+        "w": 42,
+        "h": 47,
+        "x": 1,
+        "y": 197
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0019",
+        "w": 42,
+        "h": 47,
+        "x": 1,
+        "y": 246
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0021",
+        "w": 42,
+        "h": 47,
+        "x": 1,
+        "y": 295
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0023",
+        "w": 42,
+        "h": 47,
+        "x": 1,
+        "y": 344
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/gate/.gen/beast_ruins_gate/f0025",
+        "w": 42,
+        "h": 42,
+        "x": 1,
+        "y": 393,
+        "fx": 0,
+        "fy": -5,
+        "fw": 42,
+        "fh": 47
+    }
+]

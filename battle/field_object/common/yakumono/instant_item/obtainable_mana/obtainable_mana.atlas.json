@@ -1,0 +1,119 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/mana_get/a",
+        "w": 7,
+        "h": 12,
+        "x": 15,
+        "y": 19,
+        "fx": -3,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/mana_get/b",
+        "w": 7,
+        "h": 12,
+        "x": 24,
+        "y": 19,
+        "fx": -2,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/mana_get/c",
+        "w": 12,
+        "h": 10,
+        "x": 1,
+        "y": 21,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/mana_get/d",
+        "w": 12,
+        "h": 12,
+        "x": 1,
+        "y": 7
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/mana_get/e",
+        "w": 12,
+        "h": 10,
+        "x": 15,
+        "y": 7,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/mana_get_ripple/a",
+        "w": 23,
+        "h": 4,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 24,
+        "fh": 4
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/obtainable_mana/a",
+        "w": 12,
+        "h": 12,
+        "x": 1,
+        "y": 7
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/obtainable_mana/b",
+        "w": 12,
+        "h": 10,
+        "x": 15,
+        "y": 7,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/obtainable_mana/c",
+        "w": 7,
+        "h": 12,
+        "x": 15,
+        "y": 19,
+        "fx": -3,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/obtainable_mana/d",
+        "w": 7,
+        "h": 12,
+        "x": 24,
+        "y": 19,
+        "fx": -2,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/instant_item/obtainable_mana/.gen/obtainable_mana/e",
+        "w": 12,
+        "h": 10,
+        "x": 1,
+        "y": 21,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    }
+]

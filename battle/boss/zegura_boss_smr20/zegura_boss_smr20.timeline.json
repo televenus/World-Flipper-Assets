@@ -1,0 +1,337 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 29,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 30,
+            "end": 62,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 63,
+            "end": 91,
+            "name": "move_in",
+            "kind": "once"
+        },
+        {
+            "begin": 92,
+            "end": 100,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 101,
+            "end": 129,
+            "name": "move_out",
+            "kind": "once"
+        },
+        {
+            "begin": 130,
+            "end": 158,
+            "name": "move_in_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 159,
+            "end": 179,
+            "name": "move_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 180,
+            "end": 208,
+            "name": "move_out_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 209,
+            "end": 217,
+            "name": "shot_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 218,
+            "end": 226,
+            "name": "shot_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 227,
+            "end": 247,
+            "name": "shot_fire1",
+            "kind": "once"
+        },
+        {
+            "begin": 248,
+            "end": 256,
+            "name": "shot_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 257,
+            "end": 265,
+            "name": "shot_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 266,
+            "end": 274,
+            "name": "shot_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 275,
+            "end": 323,
+            "name": "shot_fire2",
+            "kind": "once"
+        },
+        {
+            "begin": 324,
+            "end": 331,
+            "name": "shot_end2",
+            "kind": "once"
+        },
+        {
+            "begin": 332,
+            "end": 353,
+            "name": "skill_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 354,
+            "end": 370,
+            "name": "skill_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 371,
+            "end": 391,
+            "name": "skill_fire1",
+            "kind": "loop"
+        },
+        {
+            "begin": 392,
+            "end": 408,
+            "name": "skill_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 409,
+            "end": 437,
+            "name": "skill_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 438,
+            "end": 454,
+            "name": "skill_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 455,
+            "end": 467,
+            "name": "skill_fire_start2",
+            "kind": "pass"
+        },
+        {
+            "begin": 468,
+            "end": 480,
+            "name": "skill_fire_loop2",
+            "kind": "loop"
+        },
+        {
+            "begin": 481,
+            "end": 501,
+            "name": "skill_end2",
+            "kind": "once"
+        },
+        {
+            "begin": 502,
+            "end": 510,
+            "name": "funnel_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 511,
+            "end": 519,
+            "name": "funnel_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 520,
+            "end": 528,
+            "name": "funnel_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 529,
+            "end": 537,
+            "name": "special_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 538,
+            "end": 562,
+            "name": "special_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 563,
+            "end": 595,
+            "name": "special_fire1",
+            "kind": "once"
+        },
+        {
+            "begin": 596,
+            "end": 600,
+            "name": "special_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 601,
+            "end": 615,
+            "name": "wince_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 616,
+            "end": 630,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 631,
+            "end": 661,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 662,
+            "end": 692,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 693,
+            "end": 729,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 1,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 63,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 101,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 130,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_arm_swing",
+            "begin": 159,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 180,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_arm_swing",
+            "begin": 227,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_arm_swing",
+            "begin": 275,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_arm_swing",
+            "begin": 302,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_jump_up",
+            "begin": 332,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_medium",
+            "begin": 354,
+            "loop": -1,
+            "end": 371,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 371,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 438,
+            "loop": -1,
+            "end": 455,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_eyes_flash",
+            "begin": 455,
+            "loop": -1,
+            "end": 511,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_wave_charge",
+            "begin": 511,
+            "loop": -1,
+            "end": 730,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

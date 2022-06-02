@@ -1,0 +1,61 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 21,
+            "name": "popup",
+            "kind": "once"
+        },
+        {
+            "begin": 22,
+            "end": 46,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 47,
+            "end": 71,
+            "name": "charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 72,
+            "end": 96,
+            "name": "attack",
+            "kind": "once"
+        },
+        {
+            "begin": 97,
+            "end": 121,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_warp_in",
+            "begin": 1,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/light/se_beam_blade_shot",
+            "begin": 72,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_burn_out",
+            "begin": 97,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

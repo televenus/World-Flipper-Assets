@@ -1,0 +1,51 @@
+[
+    {
+        "n": "battle/effect/hit/condition/enhancing_regeneration/.gen/enhancing_regeneration/a",
+        "w": 40,
+        "h": 40,
+        "x": 52,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_regeneration/.gen/enhancing_regeneration/b",
+        "w": 50,
+        "h": 30,
+        "x": 163,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_regeneration/.gen/enhancing_regeneration/c",
+        "w": 39,
+        "h": 39,
+        "x": 122,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_regeneration/.gen/enhancing_regeneration/d",
+        "w": 49,
+        "h": 40,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_regeneration/.gen/enhancing_regeneration/e",
+        "w": 26,
+        "h": 40,
+        "x": 94,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 50
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_yellow/.gen/enemy_shot_target_yellow/a",
+        "w": 57,
+        "h": 41,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -45,
+        "fy": -24,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_yellow/.gen/enemy_shot_target_yellow/b",
+        "w": 51,
+        "h": 42,
+        "x": 1,
+        "y": 44,
+        "r": true,
+        "fx": -45,
+        "fy": -33,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_yellow/.gen/enemy_shot_target_yellow/c",
+        "w": 46,
+        "h": 42,
+        "x": 1,
+        "y": 175,
+        "fx": -43,
+        "fy": -44,
+        "fw": 136,
+        "fh": 135
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_yellow/.gen/enemy_shot_target_yellow/d",
+        "w": 49,
+        "h": 42,
+        "x": 1,
+        "y": 131,
+        "fx": -41,
+        "fy": -45,
+        "fw": 136,
+        "fh": 135
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_yellow/.gen/enemy_shot_target_yellow/e",
+        "w": 50,
+        "h": 41,
+        "x": 1,
+        "y": 88,
+        "fx": -41,
+        "fy": -46,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_yellow/.gen/enemy_shot_target_yellow/f",
+        "w": 42,
+        "h": 26,
+        "x": 1,
+        "y": 219,
+        "fx": -45,
+        "fy": -57,
+        "fw": 136,
+        "fh": 136
+    }
+]

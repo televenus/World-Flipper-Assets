@@ -1,0 +1,54 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 26,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 27,
+            "end": 57,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 58,
+            "end": 88,
+            "name": "charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 89,
+            "end": 98,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 99,
+            "end": 160,
+            "name": "attack",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/element/se_tornado",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bullet_continuous_small",
+            "begin": 99,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

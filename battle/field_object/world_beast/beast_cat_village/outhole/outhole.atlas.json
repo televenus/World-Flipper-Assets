@@ -1,0 +1,88 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone1/f0044",
+        "w": 23,
+        "h": 62,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0004",
+        "w": 67,
+        "h": 30,
+        "x": 26,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0008",
+        "w": 67,
+        "h": 30,
+        "x": 26,
+        "y": 33
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0012",
+        "w": 67,
+        "h": 30,
+        "x": 95,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0016",
+        "w": 67,
+        "h": 30,
+        "x": 95,
+        "y": 33
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0020",
+        "w": 67,
+        "h": 30,
+        "x": 164,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0028",
+        "w": 67,
+        "h": 30,
+        "x": 164,
+        "y": 33
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0032",
+        "w": 67,
+        "h": 30,
+        "x": 233,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0036",
+        "w": 67,
+        "h": 30,
+        "x": 233,
+        "y": 33
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0040",
+        "w": 66,
+        "h": 30,
+        "x": 302,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 67,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/outhole/.gen/beast_cat_village_outhole_zone2/f0044",
+        "w": 63,
+        "h": 24,
+        "x": 302,
+        "y": 33,
+        "fx": -2,
+        "fy": -2,
+        "fw": 67,
+        "fh": 30
+    }
+]

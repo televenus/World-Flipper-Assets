@@ -1,0 +1,150 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/a",
+        "w": 27,
+        "h": 30,
+        "x": 36,
+        "y": 119,
+        "r": true,
+        "fx": -28,
+        "fy": -16,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/b",
+        "w": 27,
+        "h": 30,
+        "x": 93,
+        "y": 146,
+        "r": true,
+        "fx": -28,
+        "fy": -16,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/c",
+        "w": 28,
+        "h": 32,
+        "x": 93,
+        "y": 112,
+        "r": true,
+        "fx": -27,
+        "fy": -15,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/d",
+        "w": 40,
+        "h": 32,
+        "x": 66,
+        "y": 78,
+        "fx": -23,
+        "fy": -8,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/e",
+        "w": 55,
+        "h": 37,
+        "x": 66,
+        "y": 39,
+        "fx": -14,
+        "fy": -3,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/f",
+        "w": 56,
+        "h": 36,
+        "x": 66,
+        "y": 1,
+        "fx": -13,
+        "fy": -6,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/g",
+        "w": 33,
+        "h": 58,
+        "x": 1,
+        "y": 119,
+        "r": true,
+        "fx": -12,
+        "fy": -11,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/h",
+        "w": 26,
+        "h": 60,
+        "x": 65,
+        "y": 112,
+        "r": true,
+        "fx": -11,
+        "fy": -19,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/i",
+        "w": 62,
+        "h": 23,
+        "x": 1,
+        "y": 94,
+        "fx": -10,
+        "fy": -22,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/j",
+        "w": 63,
+        "h": 22,
+        "x": 1,
+        "y": 1,
+        "fx": -9,
+        "fy": -23,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/k",
+        "w": 63,
+        "h": 21,
+        "x": 1,
+        "y": 25,
+        "fx": -9,
+        "fy": -24,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/l",
+        "w": 63,
+        "h": 21,
+        "x": 1,
+        "y": 48,
+        "fx": -9,
+        "fy": -24,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/yakumono/breakable_block/shell_a/.gen/shell_a/m",
+        "w": 63,
+        "h": 21,
+        "x": 1,
+        "y": 71,
+        "fx": -9,
+        "fy": -24,
+        "fw": 85,
+        "fh": 51
+    }
+]

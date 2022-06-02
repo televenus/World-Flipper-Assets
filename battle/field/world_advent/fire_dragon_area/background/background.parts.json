@@ -1,0 +1,92 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/background/.gen/background/a"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/background/.gen/background/b"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/background/.gen/background/c"
+        }
+    ],
+    "g": [
+        {
+            "t": 96,
+            "s": [
+                {
+                    "s": 23,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 24
+                        }
+                    ]
+                },
+                {
+                    "s": 71,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 25
+                        }
+                    ]
+                },
+                {
+                    "s": 0,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 23
+                        }
+                    ]
+                },
+                {
+                    "s": 47,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 24
+                        }
+                    ]
+                },
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 96
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "c": [],
+    "s": 6
+}

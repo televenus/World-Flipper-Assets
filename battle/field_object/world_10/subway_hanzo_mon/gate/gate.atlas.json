@@ -1,0 +1,57 @@
+[
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/gate/.gen/subway_hanzo_mon_gate/f0003",
+        "w": 50,
+        "h": 38,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 51,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/gate/.gen/subway_hanzo_mon_gate/f0006",
+        "w": 50,
+        "h": 38,
+        "x": 1,
+        "y": 41,
+        "fx": 0,
+        "fy": 0,
+        "fw": 51,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/gate/.gen/subway_hanzo_mon_gate/f0009",
+        "w": 50,
+        "h": 38,
+        "x": 1,
+        "y": 81,
+        "fx": 0,
+        "fy": 0,
+        "fw": 51,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/gate/.gen/subway_hanzo_mon_gate/f0015",
+        "w": 50,
+        "h": 38,
+        "x": 1,
+        "y": 121,
+        "fx": 0,
+        "fy": 0,
+        "fw": 51,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/gate/.gen/subway_hanzo_mon_gate/f0025",
+        "w": 50,
+        "h": 38,
+        "x": 1,
+        "y": 161,
+        "fx": 0,
+        "fy": 0,
+        "fw": 51,
+        "fh": 44
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_yellow/.gen/enemy_shot_cannon_yellow/a",
+        "w": 20,
+        "h": 18,
+        "x": 1,
+        "y": 22,
+        "r": true,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_yellow/.gen/enemy_shot_cannon_yellow/b",
+        "w": 20,
+        "h": 18,
+        "x": 22,
+        "y": 1,
+        "r": true,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_yellow/.gen/enemy_shot_cannon_yellow/c",
+        "w": 18,
+        "h": 20,
+        "x": 23,
+        "y": 21,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_yellow/.gen/enemy_shot_cannon_yellow/d",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 1,
+        "fx": -11,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_yellow/.gen/enemy_shot_cannon_yellow/e",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 42,
+        "fx": -11,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_yellow/.gen/enemy_shot_cannon_yellow/f",
+        "w": 19,
+        "h": 18,
+        "x": 22,
+        "y": 43,
+        "r": true,
+        "fx": -12,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    }
+]

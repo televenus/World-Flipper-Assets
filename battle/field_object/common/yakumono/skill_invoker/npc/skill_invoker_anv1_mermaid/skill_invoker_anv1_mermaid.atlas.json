@@ -1,0 +1,145 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/a",
+        "w": 15,
+        "h": 12,
+        "x": 24,
+        "y": 19,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/b",
+        "w": 3,
+        "h": 9,
+        "x": 71,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/c",
+        "w": 9,
+        "h": 4,
+        "x": 13,
+        "y": 23,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/d",
+        "w": 10,
+        "h": 6,
+        "x": 1,
+        "y": 23,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/e",
+        "w": 15,
+        "h": 12,
+        "x": 24,
+        "y": 19,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/f",
+        "w": 5,
+        "h": 2,
+        "x": 13,
+        "y": 29,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/g",
+        "w": 15,
+        "h": 12,
+        "x": 41,
+        "y": 19,
+        "fx": -121,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/h",
+        "w": 15,
+        "h": 12,
+        "x": 24,
+        "y": 19,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/i",
+        "w": 15,
+        "h": 12,
+        "x": 58,
+        "y": 18,
+        "fx": -121,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/j",
+        "w": 23,
+        "h": 15,
+        "x": 46,
+        "y": 1,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/k",
+        "w": 22,
+        "h": 16,
+        "x": 22,
+        "y": 1,
+        "fx": -121,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/l",
+        "w": 19,
+        "h": 20,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -121,
+        "fy": -109,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_mermaid/.gen/skill_invoker_anv1_mermaid/m",
+        "w": 22,
+        "h": 16,
+        "x": 22,
+        "y": 1,
+        "fx": -121,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    }
+]

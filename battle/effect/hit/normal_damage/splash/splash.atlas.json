@@ -1,0 +1,49 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/splash/.gen/splash/a",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/splash/.gen/splash/b",
+        "w": 12,
+        "h": 12,
+        "x": 1,
+        "y": 113,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/splash/.gen/splash/c",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 33,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/splash/.gen/splash/d",
+        "w": 24,
+        "h": 24,
+        "x": 1,
+        "y": 87,
+        "fx": -1,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/splash/.gen/splash/e",
+        "w": 30,
+        "h": 20,
+        "x": 1,
+        "y": 65
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/gate/.gen/sand_ruins_gate/f0011",
+        "w": 28,
+        "h": 33,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 28,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/gate/.gen/sand_ruins_gate/f0016",
+        "w": 28,
+        "h": 29,
+        "x": 1,
+        "y": 36,
+        "fx": 0,
+        "fy": -4,
+        "fw": 28,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/gate/.gen/sand_ruins_gate/f0021",
+        "w": 28,
+        "h": 28,
+        "x": 1,
+        "y": 67,
+        "fx": 0,
+        "fy": -5,
+        "fw": 28,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/gate/.gen/sand_ruins_gate/f0026",
+        "w": 28,
+        "h": 27,
+        "x": 1,
+        "y": 97,
+        "fx": 0,
+        "fy": -7,
+        "fw": 28,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/gate/.gen/sand_ruins_gate/f0031",
+        "w": 28,
+        "h": 14,
+        "x": 1,
+        "y": 126,
+        "fx": 0,
+        "fy": -20,
+        "fw": 28,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/gate/.gen/sand_ruins_gate/f0036",
+        "w": 18,
+        "h": 3,
+        "x": 1,
+        "y": 151,
+        "fx": -5,
+        "fy": -31,
+        "fw": 28,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/gate/.gen/sand_ruins_gate/f0041",
+        "w": 28,
+        "h": 2,
+        "x": 1,
+        "y": 147,
+        "fx": 0,
+        "fy": -32,
+        "fw": 28,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/gate/.gen/sand_ruins_gate/f0043",
+        "w": 28,
+        "h": 3,
+        "x": 1,
+        "y": 142,
+        "fx": 0,
+        "fy": -31,
+        "fw": 28,
+        "fh": 34
+    }
+]

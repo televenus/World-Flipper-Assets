@@ -1,0 +1,149 @@
+[
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/a",
+        "w": 25,
+        "h": 29,
+        "x": 215,
+        "y": 34,
+        "fx": -28,
+        "fy": -13,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/b",
+        "w": 25,
+        "h": 29,
+        "x": 276,
+        "y": 17,
+        "fx": -28,
+        "fy": -13,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/c",
+        "w": 31,
+        "h": 27,
+        "x": 182,
+        "y": 34,
+        "r": true,
+        "fx": -27,
+        "fy": -11,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/d",
+        "w": 32,
+        "h": 36,
+        "x": 242,
+        "y": 17,
+        "r": true,
+        "fx": -22,
+        "fy": -8,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/e",
+        "w": 35,
+        "h": 46,
+        "x": 33,
+        "y": 1,
+        "r": true,
+        "fx": -19,
+        "fy": -5,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/f",
+        "w": 30,
+        "h": 56,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -13,
+        "fy": -12,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/g",
+        "w": 64,
+        "h": 23,
+        "x": 70,
+        "y": 1,
+        "fx": -8,
+        "fy": -21,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/h",
+        "w": 71,
+        "h": 17,
+        "x": 70,
+        "y": 26,
+        "fx": -4,
+        "fy": -27,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/i",
+        "w": 72,
+        "h": 16,
+        "x": 108,
+        "y": 45,
+        "fx": -3,
+        "fy": -28,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/j",
+        "w": 72,
+        "h": 15,
+        "x": 136,
+        "y": 1,
+        "fx": -3,
+        "fy": -29,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/k",
+        "w": 73,
+        "h": 14,
+        "x": 33,
+        "y": 49,
+        "fx": -3,
+        "fy": -30,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/l",
+        "w": 73,
+        "h": 14,
+        "x": 143,
+        "y": 18,
+        "fx": -3,
+        "fy": -30,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_back_alley/yakumono/breakable_block/cyber_punk_back_alley_block_b/.gen/cyber_punk_back_alley_block_b/m",
+        "w": 73,
+        "h": 14,
+        "x": 210,
+        "y": 1,
+        "fx": -3,
+        "fy": -30,
+        "fw": 80,
+        "fh": 48
+    }
+]

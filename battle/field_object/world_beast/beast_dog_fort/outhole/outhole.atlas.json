@@ -1,0 +1,111 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone1/f0044",
+        "w": 14,
+        "h": 48,
+        "x": 224,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0011",
+        "w": 54,
+        "h": 4,
+        "x": 68,
+        "y": 56,
+        "fx": -11,
+        "fy": -26,
+        "fw": 73,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0014",
+        "w": 12,
+        "h": 59,
+        "x": 240,
+        "y": 1,
+        "r": true,
+        "fx": -9,
+        "fy": -18,
+        "fw": 73,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0017",
+        "w": 20,
+        "h": 62,
+        "x": 202,
+        "y": 1,
+        "r": true,
+        "fx": -6,
+        "fy": -10,
+        "fw": 73,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0020",
+        "w": 65,
+        "h": 23,
+        "x": 68,
+        "y": 31,
+        "fx": -4,
+        "fy": -7,
+        "fw": 73,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0023",
+        "w": 65,
+        "h": 26,
+        "x": 135,
+        "y": 1,
+        "fx": -4,
+        "fy": -4,
+        "fw": 73,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0026",
+        "w": 65,
+        "h": 25,
+        "x": 135,
+        "y": 29,
+        "fx": -4,
+        "fy": -5,
+        "fw": 73,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0029",
+        "w": 65,
+        "h": 28,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -2,
+        "fw": 73,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0032",
+        "w": 65,
+        "h": 25,
+        "x": 1,
+        "y": 31,
+        "fx": -4,
+        "fy": -3,
+        "fw": 73,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/outhole/.gen/beast_dog_fort_outhole_zone2/f0044",
+        "w": 65,
+        "h": 28,
+        "x": 68,
+        "y": 1,
+        "fx": -4,
+        "fy": -2,
+        "fw": 73,
+        "fh": 34
+    }
+]

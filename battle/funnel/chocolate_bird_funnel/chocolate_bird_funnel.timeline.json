@@ -1,0 +1,47 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 31,
+            "name": "popup",
+            "kind": "once"
+        },
+        {
+            "begin": 32,
+            "end": 52,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 53,
+            "end": 61,
+            "name": "charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 62,
+            "end": 85,
+            "name": "attack",
+            "kind": "once"
+        },
+        {
+            "begin": 86,
+            "end": 99,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/situation/se_impress_smallflap",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

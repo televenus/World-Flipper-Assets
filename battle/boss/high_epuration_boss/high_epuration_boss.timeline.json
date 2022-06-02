@@ -1,0 +1,530 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 45,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 46,
+            "end": 160,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 161,
+            "end": 216,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 217,
+            "end": 276,
+            "name": "shot_start1-1",
+            "kind": "once"
+        },
+        {
+            "begin": 277,
+            "end": 289,
+            "name": "shot_charge1-1",
+            "kind": "loop"
+        },
+        {
+            "begin": 290,
+            "end": 317,
+            "name": "shot_attack1-1",
+            "kind": "once"
+        },
+        {
+            "begin": 318,
+            "end": 342,
+            "name": "shot_attack_end1-1",
+            "kind": "once"
+        },
+        {
+            "begin": 343,
+            "end": 403,
+            "name": "shot_start1-2",
+            "kind": "once"
+        },
+        {
+            "begin": 404,
+            "end": 416,
+            "name": "shot_charge1-2",
+            "kind": "loop"
+        },
+        {
+            "begin": 417,
+            "end": 444,
+            "name": "shot_attack1-2",
+            "kind": "once"
+        },
+        {
+            "begin": 445,
+            "end": 469,
+            "name": "shot_attack_end1-2",
+            "kind": "once"
+        },
+        {
+            "begin": 470,
+            "end": 482,
+            "name": "shot_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 483,
+            "end": 525,
+            "name": "shot_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 526,
+            "end": 544,
+            "name": "shot_attack2",
+            "kind": "once"
+        },
+        {
+            "begin": 545,
+            "end": 569,
+            "name": "shot_attack_loop2",
+            "kind": "loop"
+        },
+        {
+            "begin": 570,
+            "end": 595,
+            "name": "shot_attack_end2",
+            "kind": "once"
+        },
+        {
+            "begin": 596,
+            "end": 632,
+            "name": "shot_start3-1",
+            "kind": "once"
+        },
+        {
+            "begin": 633,
+            "end": 675,
+            "name": "shot_charge3-1",
+            "kind": "loop"
+        },
+        {
+            "begin": 676,
+            "end": 704,
+            "name": "shot_attack3-1",
+            "kind": "once"
+        },
+        {
+            "begin": 705,
+            "end": 711,
+            "name": "shot_attack_loop3-1",
+            "kind": "loop"
+        },
+        {
+            "begin": 712,
+            "end": 732,
+            "name": "shot_attack_end3-1",
+            "kind": "once"
+        },
+        {
+            "begin": 733,
+            "end": 769,
+            "name": "shot_start3-2",
+            "kind": "once"
+        },
+        {
+            "begin": 770,
+            "end": 812,
+            "name": "shot_charge3-2",
+            "kind": "loop"
+        },
+        {
+            "begin": 813,
+            "end": 841,
+            "name": "shot_attack3-2",
+            "kind": "once"
+        },
+        {
+            "begin": 842,
+            "end": 848,
+            "name": "shot_attack_loop3-2",
+            "kind": "loop"
+        },
+        {
+            "begin": 849,
+            "end": 869,
+            "name": "shot_attack_end3-2",
+            "kind": "once"
+        },
+        {
+            "begin": 870,
+            "end": 905,
+            "name": "shot_start3-3",
+            "kind": "once"
+        },
+        {
+            "begin": 906,
+            "end": 948,
+            "name": "shot_charge3-3",
+            "kind": "loop"
+        },
+        {
+            "begin": 949,
+            "end": 969,
+            "name": "shot_attack3-3",
+            "kind": "once"
+        },
+        {
+            "begin": 970,
+            "end": 975,
+            "name": "shot_attack_loop3-3",
+            "kind": "loop"
+        },
+        {
+            "begin": 976,
+            "end": 996,
+            "name": "shot_attack_end3-3",
+            "kind": "once"
+        },
+        {
+            "begin": 997,
+            "end": 1033,
+            "name": "skill_start3-1",
+            "kind": "once"
+        },
+        {
+            "begin": 1034,
+            "end": 1076,
+            "name": "skill_charge3-1",
+            "kind": "loop"
+        },
+        {
+            "begin": 1077,
+            "end": 1105,
+            "name": "skill_attack3-1",
+            "kind": "once"
+        },
+        {
+            "begin": 1106,
+            "end": 1112,
+            "name": "skill_attack_loop3-1",
+            "kind": "loop"
+        },
+        {
+            "begin": 1113,
+            "end": 1133,
+            "name": "skill_attack_end3-1",
+            "kind": "once"
+        },
+        {
+            "begin": 1134,
+            "end": 1146,
+            "name": "skill_start3-2",
+            "kind": "once"
+        },
+        {
+            "begin": 1147,
+            "end": 1196,
+            "name": "skill_charge3-2",
+            "kind": "loop"
+        },
+        {
+            "begin": 1197,
+            "end": 1221,
+            "name": "skill_attack3-2",
+            "kind": "once"
+        },
+        {
+            "begin": 1222,
+            "end": 1252,
+            "name": "skill_attack_loop3-2",
+            "kind": "loop"
+        },
+        {
+            "begin": 1253,
+            "end": 1278,
+            "name": "skill_attack_end3-2",
+            "kind": "once"
+        },
+        {
+            "begin": 1279,
+            "end": 1315,
+            "name": "skill_start3-3",
+            "kind": "once"
+        },
+        {
+            "begin": 1316,
+            "end": 1358,
+            "name": "skill_charge3-3",
+            "kind": "loop"
+        },
+        {
+            "begin": 1359,
+            "end": 1383,
+            "name": "skill_attack3-3",
+            "kind": "once"
+        },
+        {
+            "begin": 1384,
+            "end": 1390,
+            "name": "skill_attack_loop3-3",
+            "kind": "loop"
+        },
+        {
+            "begin": 1391,
+            "end": 1411,
+            "name": "skill_attack_end3-3",
+            "kind": "once"
+        },
+        {
+            "begin": 1412,
+            "end": 1442,
+            "name": "funnel_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 1443,
+            "end": 1468,
+            "name": "funnel_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 1469,
+            "end": 1496,
+            "name": "funnel_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 1497,
+            "end": 1517,
+            "name": "funnel_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 1518,
+            "end": 1528,
+            "name": "funnel_attack_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 1529,
+            "end": 1559,
+            "name": "ex_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 1560,
+            "end": 1590,
+            "name": "ex_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 1591,
+            "end": 1647,
+            "name": "ex_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 1648,
+            "end": 1656,
+            "name": "ex_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 1657,
+            "end": 1675,
+            "name": "ex_attack_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 1676,
+            "end": 1712,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1713,
+            "end": 1749,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 1750,
+            "end": 1780,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1781,
+            "end": 1811,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 1812,
+            "end": 1955,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 277,
+            "loop": -1,
+            "end": 290,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 290,
+            "loop": -1,
+            "end": 318,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 404,
+            "loop": -1,
+            "end": 417,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 417,
+            "loop": -1,
+            "end": 445,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 483,
+            "loop": -1,
+            "end": 526,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 526,
+            "loop": -1,
+            "end": 545,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 633,
+            "loop": -1,
+            "end": 676,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 676,
+            "loop": -1,
+            "end": 705,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 770,
+            "loop": -1,
+            "end": 813,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 813,
+            "loop": -1,
+            "end": 842,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 906,
+            "loop": -1,
+            "end": 949,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 949,
+            "loop": -1,
+            "end": 970,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 1034,
+            "loop": -1,
+            "end": 1077,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 1077,
+            "loop": -1,
+            "end": 1106,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 1147,
+            "loop": -1,
+            "end": 1197,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 1197,
+            "loop": -1,
+            "end": 1222,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 1316,
+            "loop": -1,
+            "end": 1359,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 1359,
+            "loop": -1,
+            "end": 1384,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 1443,
+            "loop": -1,
+            "end": 1469,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_attack",
+            "begin": 1469,
+            "loop": -1,
+            "end": 1497,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 1560,
+            "loop": -1,
+            "end": 1591,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 1591,
+            "loop": -1,
+            "end": 1648,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

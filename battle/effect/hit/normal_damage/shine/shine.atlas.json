@@ -1,0 +1,89 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/a",
+        "w": 40,
+        "h": 35,
+        "x": 26,
+        "y": 23,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 36
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/b",
+        "w": 4,
+        "h": 4,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/c",
+        "w": 20,
+        "h": 20,
+        "x": 29,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/d",
+        "w": 23,
+        "h": 23,
+        "x": 73,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/e",
+        "w": 23,
+        "h": 23,
+        "x": 98,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/f",
+        "w": 23,
+        "h": 23,
+        "x": 1,
+        "y": 22,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/g",
+        "w": 39,
+        "h": 35,
+        "x": 68,
+        "y": 26,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 36
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/h",
+        "w": 20,
+        "h": 19,
+        "x": 7,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/shine/.gen/shine/i",
+        "w": 20,
+        "h": 20,
+        "x": 51,
+        "y": 1
+    }
+]

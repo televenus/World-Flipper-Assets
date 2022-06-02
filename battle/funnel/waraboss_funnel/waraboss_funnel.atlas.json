@@ -1,0 +1,108 @@
+[
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel/a",
+        "w": 19,
+        "h": 23,
+        "x": 1,
+        "y": 1,
+        "fx": -40,
+        "fy": -34,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel/b",
+        "w": 19,
+        "h": 22,
+        "x": 1,
+        "y": 51,
+        "fx": -40,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel/c",
+        "w": 19,
+        "h": 22,
+        "x": 1,
+        "y": 75,
+        "fx": -40,
+        "fy": -34,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel/d",
+        "w": 19,
+        "h": 22,
+        "x": 1,
+        "y": 75,
+        "fx": -40,
+        "fy": -33,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel/e",
+        "w": 19,
+        "h": 23,
+        "x": 1,
+        "y": 26,
+        "fx": -40,
+        "fy": -34,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel_marker/a",
+        "w": 19,
+        "h": 23,
+        "x": 1,
+        "y": 1,
+        "fx": -40,
+        "fy": -34,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel_marker/b",
+        "w": 19,
+        "h": 22,
+        "x": 1,
+        "y": 51,
+        "fx": -40,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel_marker/c",
+        "w": 19,
+        "h": 22,
+        "x": 1,
+        "y": 75,
+        "fx": -40,
+        "fy": -34,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel_marker/d",
+        "w": 19,
+        "h": 22,
+        "x": 1,
+        "y": 75,
+        "fx": -40,
+        "fy": -33,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/funnel/waraboss_funnel/.gen/waraboss_funnel_shadow/a",
+        "w": 9,
+        "h": 4,
+        "x": 1,
+        "y": 99
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/frozen/.gen/frozen/a",
+        "w": 23,
+        "h": 23,
+        "x": 73,
+        "y": 23,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/frozen/.gen/frozen/b",
+        "w": 23,
+        "h": 23,
+        "x": 98,
+        "y": 23,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/frozen/.gen/frozen/c",
+        "w": 16,
+        "h": 50,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/frozen/.gen/frozen/d",
+        "w": 16,
+        "h": 50,
+        "x": 19,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/frozen/.gen/frozen/e",
+        "w": 16,
+        "h": 50,
+        "x": 37,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/frozen/.gen/frozen/f",
+        "w": 16,
+        "h": 50,
+        "x": 55,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/frozen/.gen/frozen/g",
+        "w": 30,
+        "h": 20,
+        "x": 73,
+        "y": 1
+    }
+]

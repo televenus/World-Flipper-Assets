@@ -1,0 +1,146 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/a",
+        "w": 11,
+        "h": 14,
+        "x": 1,
+        "y": 1,
+        "fx": -123,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/b",
+        "w": 9,
+        "h": 3,
+        "x": 86,
+        "y": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/c",
+        "w": 4,
+        "h": 9,
+        "x": 86,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/d",
+        "w": 6,
+        "h": 10,
+        "x": 78,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/e",
+        "w": 11,
+        "h": 14,
+        "x": 1,
+        "y": 1,
+        "fx": -123,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/f",
+        "w": 5,
+        "h": 2,
+        "x": 78,
+        "y": 13,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/g",
+        "w": 11,
+        "h": 14,
+        "x": 14,
+        "y": 1,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/h",
+        "w": 11,
+        "h": 14,
+        "x": 1,
+        "y": 1,
+        "fx": -123,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/i",
+        "w": 11,
+        "h": 14,
+        "x": 27,
+        "y": 1,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/j",
+        "w": 11,
+        "h": 14,
+        "x": 1,
+        "y": 1,
+        "fx": -123,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/k",
+        "w": 15,
+        "h": 13,
+        "x": 61,
+        "y": 1,
+        "r": true,
+        "fx": -123,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/l",
+        "w": 19,
+        "h": 13,
+        "x": 40,
+        "y": 1,
+        "r": true,
+        "fx": -123,
+        "fy": -109,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1half_rec_android/.gen/skill_invoker_anv1half_rec_android/m",
+        "w": 15,
+        "h": 13,
+        "x": 61,
+        "y": 1,
+        "r": true,
+        "fx": -123,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    }
+]

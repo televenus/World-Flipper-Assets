@@ -1,0 +1,28 @@
+[
+    {
+        "n": "battle/uncommon/layer1/combo_boost/.gen/combo_boost_icon/a",
+        "w": 1,
+        "h": 1,
+        "x": 44,
+        "y": 24,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_boost/.gen/combo_boost_icon/b",
+        "w": 62,
+        "h": 21,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_boost/.gen/combo_boost_icon/c",
+        "w": 41,
+        "h": 37,
+        "x": 1,
+        "y": 24,
+        "r": true
+    }
+]

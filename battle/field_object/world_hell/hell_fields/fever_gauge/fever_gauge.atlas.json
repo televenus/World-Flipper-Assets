@@ -1,0 +1,20 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_fields/fever_gauge/.gen/hell_fields_fever_gauge/a",
+        "w": 42,
+        "h": 9,
+        "x": 1,
+        "y": 1,
+        "fx": -5,
+        "fy": -6,
+        "fw": 51,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/fever_gauge/.gen/hell_fields_fever_gauge/b",
+        "w": 92,
+        "h": 29,
+        "x": 1,
+        "y": 12
+    }
+]

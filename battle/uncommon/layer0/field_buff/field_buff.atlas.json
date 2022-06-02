@@ -1,0 +1,37 @@
+[
+    {
+        "n": "battle/uncommon/layer0/field_buff/.gen/field_buff/a",
+        "w": 10,
+        "h": 10,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/uncommon/layer0/field_buff/.gen/field_buff/b",
+        "w": 2,
+        "h": 2,
+        "x": 1,
+        "y": 13
+    },
+    {
+        "n": "battle/uncommon/layer0/field_buff/.gen/field_buff/c",
+        "w": 2,
+        "h": 2,
+        "x": 5,
+        "y": 13
+    },
+    {
+        "n": "battle/uncommon/layer0/field_buff/.gen/field_buff/d",
+        "w": 2,
+        "h": 2,
+        "x": 9,
+        "y": 13
+    },
+    {
+        "n": "battle/uncommon/layer0/field_buff/.gen/field_buff_end/a",
+        "w": 10,
+        "h": 10,
+        "x": 1,
+        "y": 1
+    }
+]

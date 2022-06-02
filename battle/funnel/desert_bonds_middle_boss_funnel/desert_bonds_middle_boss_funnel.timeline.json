@@ -1,0 +1,182 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 74,
+            "name": "start",
+            "kind": "once"
+        },
+        {
+            "begin": 75,
+            "end": 195,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 196,
+            "end": 221,
+            "name": "shot1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 222,
+            "end": 236,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 237,
+            "end": 249,
+            "name": "shot1_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 250,
+            "end": 262,
+            "name": "shot1_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 263,
+            "end": 290,
+            "name": "shot1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 291,
+            "end": 311,
+            "name": "shot2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 312,
+            "end": 326,
+            "name": "shot2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 327,
+            "end": 351,
+            "name": "shot2_jump",
+            "kind": "once"
+        },
+        {
+            "begin": 352,
+            "end": 356,
+            "name": "shot2_jump_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 357,
+            "end": 366,
+            "name": "shot2_fall",
+            "kind": "once"
+        },
+        {
+            "begin": 367,
+            "end": 400,
+            "name": "shot2_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 401,
+            "end": 429,
+            "name": "shot2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 430,
+            "end": 450,
+            "name": "shot3_start",
+            "kind": "once"
+        },
+        {
+            "begin": 451,
+            "end": 465,
+            "name": "shot3_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 466,
+            "end": 478,
+            "name": "shot3_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 479,
+            "end": 491,
+            "name": "shot3_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 492,
+            "end": 529,
+            "name": "shot3_end",
+            "kind": "once"
+        },
+        {
+            "begin": 530,
+            "end": 567,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 568,
+            "end": 640,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 641,
+            "end": 678,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 679,
+            "end": 751,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 752,
+            "end": 820,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/weapon/se_bit_bullet",
+            "begin": 237,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_deep_slash",
+            "begin": 327,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb",
+            "begin": 367,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_flare_rapid_fire",
+            "begin": 466,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

@@ -1,0 +1,96 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/outhole/.gen/sea_seabed02_outhole_zone1/f0044",
+        "w": 48,
+        "h": 15,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 17
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/outhole/.gen/sea_seabed02_outhole_zone2/f0011",
+        "w": 23,
+        "h": 74,
+        "x": 22,
+        "y": 18,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 77,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/outhole/.gen/sea_seabed02_outhole_zone2/f0014",
+        "w": 24,
+        "h": 75,
+        "x": 35,
+        "y": 94,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 77,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/outhole/.gen/sea_seabed02_outhole_zone2/f0017",
+        "w": 19,
+        "h": 73,
+        "x": 1,
+        "y": 18,
+        "r": true,
+        "fx": -3,
+        "fy": -5,
+        "fw": 77,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/outhole/.gen/sea_seabed02_outhole_zone2/f0020",
+        "w": 15,
+        "h": 74,
+        "x": 47,
+        "y": 18,
+        "r": true,
+        "fx": -2,
+        "fy": -6,
+        "fw": 77,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/outhole/.gen/sea_seabed02_outhole_zone2/f0023",
+        "w": 15,
+        "h": 74,
+        "x": 1,
+        "y": 93,
+        "r": true,
+        "fx": -2,
+        "fy": -6,
+        "fw": 77,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/outhole/.gen/sea_seabed02_outhole_zone2/f0026",
+        "w": 15,
+        "h": 74,
+        "x": 18,
+        "y": 94,
+        "r": true,
+        "fx": -2,
+        "fy": -6,
+        "fw": 77,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/outhole/.gen/sea_seabed02_outhole_zone2/f0044",
+        "w": 48,
+        "h": 15,
+        "x": 1,
+        "y": 1,
+        "fx": -15,
+        "fy": -7,
+        "fw": 77,
+        "fh": 27
+    }
+]

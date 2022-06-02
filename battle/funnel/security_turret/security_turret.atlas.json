@@ -1,0 +1,230 @@
+[
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/a",
+        "w": 10,
+        "h": 13,
+        "x": 20,
+        "y": 1,
+        "fx": -19,
+        "fy": -18,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/b",
+        "w": 10,
+        "h": 13,
+        "x": 20,
+        "y": 16,
+        "fx": -19,
+        "fy": -18,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/c",
+        "w": 12,
+        "h": 18,
+        "x": 19,
+        "y": 36,
+        "fx": -18,
+        "fy": -12,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/d",
+        "w": 14,
+        "h": 19,
+        "x": 17,
+        "y": 70,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/e",
+        "w": 14,
+        "h": 19,
+        "x": 17,
+        "y": 91,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/f",
+        "w": 14,
+        "h": 19,
+        "x": 17,
+        "y": 112,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/g",
+        "w": 14,
+        "h": 19,
+        "x": 17,
+        "y": 133,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/h",
+        "w": 14,
+        "h": 19,
+        "x": 17,
+        "y": 154,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/i",
+        "w": 14,
+        "h": 19,
+        "x": 17,
+        "y": 175,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/j",
+        "w": 17,
+        "h": 33,
+        "x": 1,
+        "y": 1,
+        "fx": -14,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/k",
+        "w": 16,
+        "h": 32,
+        "x": 1,
+        "y": 36,
+        "fx": -15,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/l",
+        "w": 14,
+        "h": 31,
+        "x": 1,
+        "y": 70,
+        "fx": -17,
+        "fy": -12,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/m",
+        "w": 14,
+        "h": 27,
+        "x": 1,
+        "y": 167,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/n",
+        "w": 14,
+        "h": 25,
+        "x": 1,
+        "y": 196,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/o",
+        "w": 14,
+        "h": 25,
+        "x": 1,
+        "y": 223,
+        "fx": -17,
+        "fy": -12,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/p",
+        "w": 14,
+        "h": 29,
+        "x": 1,
+        "y": 136,
+        "fx": -17,
+        "fy": -12,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/q",
+        "w": 14,
+        "h": 31,
+        "x": 1,
+        "y": 103,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/r",
+        "w": 14,
+        "h": 19,
+        "x": 17,
+        "y": 196,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/s",
+        "w": 14,
+        "h": 19,
+        "x": 17,
+        "y": 217,
+        "fx": -17,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret/t",
+        "w": 22,
+        "h": 15,
+        "x": 1,
+        "y": 250,
+        "r": true,
+        "fx": -16,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/funnel/security_turret/.gen/security_turret_shadow/f0128",
+        "w": 10,
+        "h": 4,
+        "x": 19,
+        "y": 56
+    }
+]

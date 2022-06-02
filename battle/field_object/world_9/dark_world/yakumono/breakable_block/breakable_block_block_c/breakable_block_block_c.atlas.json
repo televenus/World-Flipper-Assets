@@ -1,0 +1,94 @@
+[
+    {
+        "n": "battle/field_object/world_9/dark_world/yakumono/breakable_block/breakable_block_block_c/.gen/block_c/a",
+        "w": 8,
+        "h": 21,
+        "x": 90,
+        "y": 22,
+        "fx": -56,
+        "fy": -28,
+        "fw": 121,
+        "fh": 76
+    },
+    {
+        "n": "battle/field_object/world_9/dark_world/yakumono/breakable_block/breakable_block_block_c/.gen/block_c/b",
+        "w": 19,
+        "h": 10,
+        "x": 88,
+        "y": 47,
+        "r": true,
+        "fx": -55,
+        "fy": -29,
+        "fw": 121,
+        "fh": 76
+    },
+    {
+        "n": "battle/field_object/world_9/dark_world/yakumono/breakable_block/breakable_block_block_c/.gen/block_c/c",
+        "w": 12,
+        "h": 16,
+        "x": 100,
+        "y": 22,
+        "fx": -54,
+        "fy": -32,
+        "fw": 121,
+        "fh": 76
+    },
+    {
+        "n": "battle/field_object/world_9/dark_world/yakumono/breakable_block/breakable_block_block_c/.gen/block_c/d",
+        "w": 21,
+        "h": 19,
+        "x": 90,
+        "y": 1,
+        "fx": -49,
+        "fy": -28,
+        "fw": 121,
+        "fh": 76
+    },
+    {
+        "n": "battle/field_object/world_9/dark_world/yakumono/breakable_block/breakable_block_block_c/.gen/block_c/e",
+        "w": 28,
+        "h": 44,
+        "x": 60,
+        "y": 1,
+        "r": true,
+        "fx": -40,
+        "fy": -22,
+        "fw": 121,
+        "fh": 76
+    },
+    {
+        "n": "battle/field_object/world_9/dark_world/yakumono/breakable_block/breakable_block_block_c/.gen/block_c/f",
+        "w": 31,
+        "h": 48,
+        "x": 27,
+        "y": 1,
+        "r": true,
+        "fx": -37,
+        "fy": -23,
+        "fw": 121,
+        "fh": 76
+    },
+    {
+        "n": "battle/field_object/world_9/dark_world/yakumono/breakable_block/breakable_block_block_c/.gen/block_c/g",
+        "w": 24,
+        "h": 55,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -34,
+        "fy": -31,
+        "fw": 121,
+        "fh": 76
+    },
+    {
+        "n": "battle/field_object/world_9/dark_world/yakumono/breakable_block/breakable_block_block_c/.gen/block_c/h",
+        "w": 59,
+        "h": 6,
+        "x": 27,
+        "y": 51,
+        "fx": -31,
+        "fy": -46,
+        "fw": 121,
+        "fh": 76
+    }
+]

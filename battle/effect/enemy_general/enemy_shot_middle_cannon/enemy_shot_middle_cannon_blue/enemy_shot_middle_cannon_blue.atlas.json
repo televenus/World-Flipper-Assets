@@ -1,0 +1,90 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_middle_cannon/enemy_shot_middle_cannon_blue/.gen/enemy_shot_middle_cannon_blue/a",
+        "w": 22,
+        "h": 23,
+        "x": 1,
+        "y": 53,
+        "fx": -26,
+        "fy": -26,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_middle_cannon/enemy_shot_middle_cannon_blue/.gen/enemy_shot_middle_cannon_blue/b",
+        "w": 22,
+        "h": 23,
+        "x": 1,
+        "y": 78,
+        "fx": -26,
+        "fy": -26,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_middle_cannon/enemy_shot_middle_cannon_blue/.gen/enemy_shot_middle_cannon_blue/c",
+        "w": 22,
+        "h": 24,
+        "x": 1,
+        "y": 1,
+        "fx": -26,
+        "fy": -25,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_middle_cannon/enemy_shot_middle_cannon_blue/.gen/enemy_shot_middle_cannon_blue/d",
+        "w": 22,
+        "h": 24,
+        "x": 1,
+        "y": 27,
+        "fx": -26,
+        "fy": -25,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_middle_cannon/enemy_shot_middle_cannon_blue/.gen/enemy_shot_middle_cannon_blue/e",
+        "w": 23,
+        "h": 23,
+        "x": 25,
+        "y": 1,
+        "fx": -25,
+        "fy": -26,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_middle_cannon/enemy_shot_middle_cannon_blue/.gen/enemy_shot_middle_cannon_blue/f",
+        "w": 23,
+        "h": 23,
+        "x": 25,
+        "y": 26,
+        "fx": -25,
+        "fy": -26,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_middle_cannon/enemy_shot_middle_cannon_blue/.gen/enemy_shot_middle_cannon_blue/g",
+        "w": 23,
+        "h": 23,
+        "x": 25,
+        "y": 51,
+        "fx": -25,
+        "fy": -26,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_middle_cannon/enemy_shot_middle_cannon_blue/.gen/enemy_shot_middle_cannon_blue/h",
+        "w": 23,
+        "h": 23,
+        "x": 25,
+        "y": 76,
+        "fx": -25,
+        "fy": -26,
+        "fw": 80,
+        "fh": 80
+    }
+]

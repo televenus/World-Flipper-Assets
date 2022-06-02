@@ -1,0 +1,83 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 41,
+            "name": "start",
+            "kind": "once"
+        },
+        {
+            "begin": 42,
+            "end": 96,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 97,
+            "end": 129,
+            "name": "shot1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 130,
+            "end": 162,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 163,
+            "end": 173,
+            "name": "shot1_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 174,
+            "end": 204,
+            "name": "shot1_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 205,
+            "end": 220,
+            "name": "shot1_fire_end",
+            "kind": "once"
+        },
+        {
+            "begin": 221,
+            "end": 239,
+            "name": "shot2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 240,
+            "end": 272,
+            "name": "shot2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 273,
+            "end": 320,
+            "name": "shot2_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 321,
+            "end": 364,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/thunder/se_thunder_sonic_slash",
+            "begin": 275,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

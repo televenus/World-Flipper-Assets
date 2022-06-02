@@ -1,0 +1,61 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/outhole/.gen/sea_ruins_outhole_zone1/f0044",
+        "w": 20,
+        "h": 56,
+        "x": 68,
+        "y": 68,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/outhole/.gen/sea_ruins_outhole_zone2/f0011",
+        "w": 65,
+        "h": 21,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/outhole/.gen/sea_ruins_outhole_zone2/f0014",
+        "w": 65,
+        "h": 21,
+        "x": 1,
+        "y": 24
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/outhole/.gen/sea_ruins_outhole_zone2/f0017",
+        "w": 65,
+        "h": 21,
+        "x": 1,
+        "y": 47
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/outhole/.gen/sea_ruins_outhole_zone2/f0020",
+        "w": 21,
+        "h": 65,
+        "x": 68,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/outhole/.gen/sea_ruins_outhole_zone2/f0023",
+        "w": 65,
+        "h": 21,
+        "x": 1,
+        "y": 70
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/outhole/.gen/sea_ruins_outhole_zone2/f0026",
+        "w": 21,
+        "h": 65,
+        "x": 91,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ruins/outhole/.gen/sea_ruins_outhole_zone2/f0044",
+        "w": 65,
+        "h": 21,
+        "x": 1,
+        "y": 93
+    }
+]

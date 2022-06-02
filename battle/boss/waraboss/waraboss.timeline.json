@@ -1,0 +1,117 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 61,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 62,
+            "end": 91,
+            "name": "attack",
+            "kind": "once"
+        },
+        {
+            "begin": 92,
+            "end": 152,
+            "name": "move_up",
+            "kind": "once"
+        },
+        {
+            "begin": 153,
+            "end": 213,
+            "name": "move_upper_right",
+            "kind": "once"
+        },
+        {
+            "begin": 214,
+            "end": 274,
+            "name": "move_right",
+            "kind": "once"
+        },
+        {
+            "begin": 275,
+            "end": 335,
+            "name": "move_bottom_right",
+            "kind": "once"
+        },
+        {
+            "begin": 336,
+            "end": 396,
+            "name": "move_bottom",
+            "kind": "once"
+        },
+        {
+            "begin": 397,
+            "end": 457,
+            "name": "move_bottom_left",
+            "kind": "once"
+        },
+        {
+            "begin": 458,
+            "end": 518,
+            "name": "move_left",
+            "kind": "once"
+        },
+        {
+            "begin": 519,
+            "end": 579,
+            "name": "move_up_left",
+            "kind": "once"
+        },
+        {
+            "begin": 580,
+            "end": 640,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 641,
+            "end": 701,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 702,
+            "end": 762,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 763,
+            "end": 823,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 824,
+            "end": 928,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 929,
+            "end": 967,
+            "name": "moving",
+            "kind": "loop"
+        },
+        {
+            "begin": 968,
+            "end": 977,
+            "name": "move_out",
+            "kind": "once"
+        },
+        {
+            "begin": 978,
+            "end": 987,
+            "name": "move_in",
+            "kind": "once"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

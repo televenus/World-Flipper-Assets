@@ -1,0 +1,211 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 49,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 50,
+            "end": 98,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 99,
+            "end": 138,
+            "name": "jump_out",
+            "kind": "pass"
+        },
+        {
+            "begin": 139,
+            "end": 164,
+            "name": "jump",
+            "kind": "once"
+        },
+        {
+            "begin": 165,
+            "end": 190,
+            "name": "jump_no_shadow",
+            "kind": "once"
+        },
+        {
+            "begin": 191,
+            "end": 218,
+            "name": "jump_in",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 219,
+            "end": 234,
+            "name": "funnel_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 235,
+            "end": 285,
+            "name": "funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 286,
+            "end": 306,
+            "name": "funnel_shot",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 307,
+            "end": 321,
+            "name": "lazer_shot",
+            "kind": "once"
+        },
+        {
+            "begin": 322,
+            "end": 327,
+            "name": "lazer_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 328,
+            "end": 342,
+            "name": "skill_start",
+            "kind": "once"
+        },
+        {
+            "begin": 343,
+            "end": 373,
+            "name": "skill_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 374,
+            "end": 403,
+            "name": "skill_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 404,
+            "end": 420,
+            "name": "skill_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 421,
+            "end": 475,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 476,
+            "end": 530,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 531,
+            "end": 585,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 586,
+            "end": 640,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 641,
+            "end": 727,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 728,
+            "end": 788,
+            "name": "mini_avatar_start",
+            "kind": "once"
+        },
+        {
+            "begin": 789,
+            "end": 819,
+            "name": "mini_avatar_neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 820,
+            "end": 850,
+            "name": "mini_avatar_move",
+            "kind": "loop"
+        },
+        {
+            "begin": 851,
+            "end": 869,
+            "name": "mini_avatar_move_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 870,
+            "end": 887,
+            "name": "mini_avatar_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 888,
+            "end": 909,
+            "name": "mini_avatar_dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_jump",
+            "begin": 131,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_jump_in",
+            "begin": 197,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 343,
+            "loop": -1,
+            "end": 374,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bullet_continuous_big",
+            "begin": 374,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_ghost",
+            "begin": 729,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bullet_short",
+            "begin": 870,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

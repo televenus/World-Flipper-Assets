@@ -1,0 +1,150 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/a",
+        "w": 25,
+        "h": 33,
+        "x": 101,
+        "y": 93,
+        "fx": -35,
+        "fy": -15,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/b",
+        "w": 25,
+        "h": 33,
+        "x": 101,
+        "y": 128,
+        "fx": -35,
+        "fy": -15,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/c",
+        "w": 33,
+        "h": 25,
+        "x": 31,
+        "y": 146,
+        "r": true,
+        "fx": -35,
+        "fy": -15,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/d",
+        "w": 33,
+        "h": 26,
+        "x": 31,
+        "y": 118,
+        "r": true,
+        "fx": -34,
+        "fy": -15,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/e",
+        "w": 28,
+        "h": 35,
+        "x": 1,
+        "y": 118,
+        "fx": -33,
+        "fy": -13,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/f",
+        "w": 42,
+        "h": 38,
+        "x": 78,
+        "y": 1,
+        "r": true,
+        "fx": -28,
+        "fy": -6,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/g",
+        "w": 41,
+        "h": 50,
+        "x": 78,
+        "y": 41,
+        "r": true,
+        "fx": -23,
+        "fy": -5,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/h",
+        "w": 32,
+        "h": 60,
+        "x": 67,
+        "y": 93,
+        "r": true,
+        "fx": -19,
+        "fy": -7,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/i",
+        "w": 64,
+        "h": 34,
+        "x": 1,
+        "y": 82,
+        "fx": -14,
+        "fy": -9,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/j",
+        "w": 74,
+        "h": 25,
+        "x": 1,
+        "y": 55,
+        "fx": -10,
+        "fy": -19,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/k",
+        "w": 75,
+        "h": 25,
+        "x": 1,
+        "y": 1,
+        "fx": -9,
+        "fy": -20,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/l",
+        "w": 75,
+        "h": 25,
+        "x": 1,
+        "y": 28,
+        "fx": -9,
+        "fy": -20,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/yakumono/breakable_block/big_slot_a/.gen/big_slot_a/m",
+        "w": 1,
+        "h": 1,
+        "x": 122,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 96,
+        "fh": 64
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone1/f0044",
+        "w": 43,
+        "h": 32,
+        "x": 65,
+        "y": 124,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0011",
+        "w": 64,
+        "h": 27,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0016",
+        "w": 27,
+        "h": 64,
+        "x": 67,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0026",
+        "w": 27,
+        "h": 64,
+        "x": 96,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0036",
+        "w": 62,
+        "h": 26,
+        "x": 1,
+        "y": 60,
+        "fx": -2,
+        "fy": -3,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0041",
+        "w": 62,
+        "h": 26,
+        "x": 65,
+        "y": 67,
+        "fx": -2,
+        "fy": -3,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0046",
+        "w": 62,
+        "h": 26,
+        "x": 1,
+        "y": 88,
+        "fx": -2,
+        "fy": -3,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0051",
+        "w": 62,
+        "h": 22,
+        "x": 1,
+        "y": 116,
+        "fx": -2,
+        "fy": -3,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0061",
+        "w": 1,
+        "h": 1,
+        "x": 125,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0066",
+        "w": 8,
+        "h": 38,
+        "x": 110,
+        "y": 124,
+        "r": true,
+        "fx": -14,
+        "fy": -21,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0071",
+        "w": 58,
+        "h": 21,
+        "x": 1,
+        "y": 140,
+        "fx": -4,
+        "fy": -8,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0076",
+        "w": 58,
+        "h": 28,
+        "x": 1,
+        "y": 30,
+        "fx": -4,
+        "fy": -1,
+        "fw": 66,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_old_town/outhole/.gen/mecha_old_town_outhole_zone2/f0078",
+        "w": 58,
+        "h": 27,
+        "x": 65,
+        "y": 95,
+        "fx": -4,
+        "fy": -2,
+        "fw": 66,
+        "fh": 30
+    }
+]

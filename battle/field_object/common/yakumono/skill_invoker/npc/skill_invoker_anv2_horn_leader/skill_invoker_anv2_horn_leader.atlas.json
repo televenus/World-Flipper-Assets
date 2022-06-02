@@ -1,0 +1,143 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/a",
+        "w": 13,
+        "h": 13,
+        "x": 33,
+        "y": 1,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/b",
+        "w": 9,
+        "h": 3,
+        "x": 93,
+        "y": 9
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/c",
+        "w": 4,
+        "h": 9,
+        "x": 105,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/d",
+        "w": 10,
+        "h": 6,
+        "x": 93,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/e",
+        "w": 13,
+        "h": 13,
+        "x": 48,
+        "y": 1,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/f",
+        "w": 5,
+        "h": 2,
+        "x": 104,
+        "y": 12,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/g",
+        "w": 13,
+        "h": 13,
+        "x": 63,
+        "y": 1,
+        "fx": -122,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/h",
+        "w": 13,
+        "h": 13,
+        "x": 48,
+        "y": 1,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/i",
+        "w": 13,
+        "h": 13,
+        "x": 78,
+        "y": 1,
+        "fx": -122,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/j",
+        "w": 13,
+        "h": 13,
+        "x": 48,
+        "y": 1,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/k",
+        "w": 13,
+        "h": 14,
+        "x": 18,
+        "y": 1,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/l",
+        "w": 15,
+        "h": 14,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -122,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_horn_leader/.gen/skill_invoker_anv2_horn_leader/m",
+        "w": 13,
+        "h": 14,
+        "x": 18,
+        "y": 1,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    }
+]

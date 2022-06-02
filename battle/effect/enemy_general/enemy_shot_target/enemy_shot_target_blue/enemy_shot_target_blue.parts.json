@@ -1,0 +1,157 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_blue/.gen/enemy_shot_target_blue/a"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_blue/.gen/enemy_shot_target_blue/b"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_blue/.gen/enemy_shot_target_blue/c"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_blue/.gen/enemy_shot_target_blue/d"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_blue/.gen/enemy_shot_target_blue/e"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_target/enemy_shot_target_blue/.gen/enemy_shot_target_blue/f"
+        }
+    ],
+    "g": [
+        {
+            "t": 22,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 22,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 22,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 20,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 21,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 7,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 11,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 15,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 18,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -270336,
+            "y": -270336
+        }
+    ],
+    "c": [],
+    "s": 6
+}

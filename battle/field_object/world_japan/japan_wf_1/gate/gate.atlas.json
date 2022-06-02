@@ -1,0 +1,128 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0011",
+        "w": 75,
+        "h": 27,
+        "x": 1,
+        "y": 1,
+        "fx": -8,
+        "fy": -18,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0014",
+        "w": 74,
+        "h": 27,
+        "x": 1,
+        "y": 30,
+        "fx": -8,
+        "fy": -18,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0017",
+        "w": 72,
+        "h": 27,
+        "x": 1,
+        "y": 59,
+        "fx": -9,
+        "fy": -18,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0020",
+        "w": 69,
+        "h": 27,
+        "x": 1,
+        "y": 88,
+        "fx": -10,
+        "fy": -18,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0023",
+        "w": 27,
+        "h": 65,
+        "x": 1,
+        "y": 117,
+        "r": true,
+        "fx": -12,
+        "fy": -18,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0026",
+        "w": 29,
+        "h": 46,
+        "x": 65,
+        "y": 130,
+        "r": true,
+        "fx": -23,
+        "fy": -16,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0029",
+        "w": 33,
+        "h": 46,
+        "x": 30,
+        "y": 117,
+        "r": true,
+        "fx": -23,
+        "fy": -12,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0032",
+        "w": 46,
+        "h": 36,
+        "x": 72,
+        "y": 92,
+        "fx": -23,
+        "fy": -9,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0035",
+        "w": 46,
+        "h": 41,
+        "x": 77,
+        "y": 49,
+        "fx": -23,
+        "fy": -4,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0038",
+        "w": 45,
+        "h": 46,
+        "x": 78,
+        "y": 1,
+        "r": true,
+        "fx": -23,
+        "fy": 0,
+        "fw": 89,
+        "fh": 45
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/gate/.gen/japan_wf_1_gate/f0041",
+        "w": 27,
+        "h": 46,
+        "x": 96,
+        "y": 130,
+        "r": true,
+        "fx": -23,
+        "fy": -18,
+        "fw": 89,
+        "fh": 45
+    }
+]

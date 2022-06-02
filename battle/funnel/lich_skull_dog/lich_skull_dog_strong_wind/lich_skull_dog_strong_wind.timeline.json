@@ -1,0 +1,67 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 33,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 34,
+            "end": 64,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 65,
+            "end": 70,
+            "name": "charge_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 71,
+            "end": 89,
+            "name": "charge_1",
+            "kind": "loop"
+        },
+        {
+            "begin": 90,
+            "end": 108,
+            "name": "charge_2",
+            "kind": "loop"
+        },
+        {
+            "begin": 109,
+            "end": 128,
+            "name": "attack",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 129,
+            "end": 137,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/element/se_ghost",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bullet_short",
+            "begin": 109,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

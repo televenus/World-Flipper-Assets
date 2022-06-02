@@ -1,0 +1,102 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/a",
+        "w": 16,
+        "h": 16,
+        "x": 18,
+        "y": 35,
+        "fx": -15,
+        "fy": -15,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/b",
+        "w": 17,
+        "h": 15,
+        "x": 1,
+        "y": 1,
+        "fx": -14,
+        "fy": -15,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/c",
+        "w": 17,
+        "h": 16,
+        "x": 36,
+        "y": 35,
+        "fx": -14,
+        "fy": -15,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/d",
+        "w": 17,
+        "h": 15,
+        "x": 20,
+        "y": 1,
+        "r": true,
+        "fx": -15,
+        "fy": -14,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/e",
+        "w": 16,
+        "h": 15,
+        "x": 39,
+        "y": 1,
+        "r": true,
+        "fx": -15,
+        "fy": -14,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/f",
+        "w": 16,
+        "h": 15,
+        "x": 1,
+        "y": 18,
+        "r": true,
+        "fx": -15,
+        "fy": -14,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/g",
+        "w": 16,
+        "h": 15,
+        "x": 19,
+        "y": 18,
+        "r": true,
+        "fx": -15,
+        "fy": -14,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/h",
+        "w": 17,
+        "h": 15,
+        "x": 37,
+        "y": 18,
+        "r": true,
+        "fx": -15,
+        "fy": -14,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_cannon/enemy_shot_burst_cannon_yellow/.gen/enemy_shot_burst_cannon_yellow/i",
+        "w": 15,
+        "h": 15,
+        "x": 1,
+        "y": 35
+    }
+]

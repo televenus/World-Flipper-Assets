@@ -1,0 +1,131 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 61,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 62,
+            "end": 77,
+            "name": "target_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 78,
+            "end": 105,
+            "name": "target_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 106,
+            "end": 131,
+            "name": "target_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 132,
+            "end": 186,
+            "name": "skull_dog_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 187,
+            "end": 228,
+            "name": "skull_dog_1",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 229,
+            "end": 270,
+            "name": "skull_dog_2",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 271,
+            "end": 306,
+            "name": "shot_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 307,
+            "end": 316,
+            "name": "shot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 317,
+            "end": 365,
+            "name": "shot",
+            "kind": "once"
+        },
+        {
+            "begin": 366,
+            "end": 414,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 415,
+            "end": 463,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 464,
+            "end": 512,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 513,
+            "end": 561,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 562,
+            "end": 642,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/element/se_magic_charge_medium",
+            "begin": 78,
+            "loop": -1,
+            "end": 106,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_shot_medium",
+            "begin": 106,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_big",
+            "begin": 307,
+            "loop": -1,
+            "end": 317,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_shot_big",
+            "begin": 318,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

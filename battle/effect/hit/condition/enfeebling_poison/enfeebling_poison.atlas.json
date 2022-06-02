@@ -1,0 +1,31 @@
+[
+    {
+        "n": "battle/effect/hit/condition/enfeebling_poison/.gen/enfeebling_poison/a",
+        "w": 3,
+        "h": 4,
+        "x": 31,
+        "y": 18,
+        "fx": -1,
+        "fy": 0,
+        "fw": 4,
+        "fh": 4
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_poison/.gen/enfeebling_poison/b",
+        "w": 28,
+        "h": 28,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_poison/.gen/enfeebling_poison/c",
+        "w": 15,
+        "h": 15,
+        "x": 31,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    }
+]

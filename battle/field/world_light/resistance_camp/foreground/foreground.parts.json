@@ -1,0 +1,72 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/field/world_light/resistance_camp/foreground/.gen/foreground/a"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_light/resistance_camp/foreground/.gen/foreground/b"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_light/resistance_camp/foreground/.gen/foreground/c"
+        }
+    ],
+    "g": [
+        {
+            "t": 15,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "c": [],
+    "s": 6
+}

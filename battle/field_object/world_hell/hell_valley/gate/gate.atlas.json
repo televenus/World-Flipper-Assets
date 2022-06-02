@@ -1,0 +1,101 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0016",
+        "w": 47,
+        "h": 27,
+        "x": 316,
+        "y": 1,
+        "fx": -12,
+        "fy": 0,
+        "fw": 70,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0021",
+        "w": 47,
+        "h": 27,
+        "x": 365,
+        "y": 1,
+        "fx": -11,
+        "fy": 0,
+        "fw": 70,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0026",
+        "w": 47,
+        "h": 27,
+        "x": 414,
+        "y": 1,
+        "fx": -12,
+        "fy": 0,
+        "fw": 70,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0031",
+        "w": 51,
+        "h": 27,
+        "x": 263,
+        "y": 1,
+        "fx": -11,
+        "fy": -4,
+        "fw": 70,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0036",
+        "w": 59,
+        "h": 26,
+        "x": 202,
+        "y": 1,
+        "fx": -7,
+        "fy": -9,
+        "fw": 70,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0041",
+        "w": 64,
+        "h": 25,
+        "x": 72,
+        "y": 1,
+        "fx": -4,
+        "fy": -12,
+        "fw": 70,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0046",
+        "w": 69,
+        "h": 27,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -12,
+        "fw": 70,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0051",
+        "w": 62,
+        "h": 23,
+        "x": 138,
+        "y": 1,
+        "fx": -8,
+        "fy": -13,
+        "fw": 70,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/gate/.gen/hell_valley_gate/f0065",
+        "w": 1,
+        "h": 1,
+        "x": 138,
+        "y": 26,
+        "fx": 0,
+        "fy": 0,
+        "fw": 70,
+        "fh": 39
+    }
+]

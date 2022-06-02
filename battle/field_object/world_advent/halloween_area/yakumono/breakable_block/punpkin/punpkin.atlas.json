@@ -1,0 +1,127 @@
+[
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/a",
+        "w": 21,
+        "h": 21,
+        "x": 96,
+        "y": 125,
+        "fx": -29,
+        "fy": -37,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/b",
+        "w": 23,
+        "h": 21,
+        "x": 71,
+        "y": 125,
+        "fx": -28,
+        "fy": -37,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/c",
+        "w": 24,
+        "h": 21,
+        "x": 41,
+        "y": 134,
+        "fx": -27,
+        "fy": -37,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/d",
+        "w": 28,
+        "h": 27,
+        "x": 41,
+        "y": 105,
+        "fx": -26,
+        "fy": -31,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/e",
+        "w": 38,
+        "h": 35,
+        "x": 1,
+        "y": 123,
+        "fx": -20,
+        "fy": -23,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/f",
+        "w": 39,
+        "h": 49,
+        "x": 77,
+        "y": 74,
+        "r": true,
+        "fx": -14,
+        "fy": -17,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/g",
+        "w": 40,
+        "h": 60,
+        "x": 35,
+        "y": 43,
+        "r": true,
+        "fx": -9,
+        "fy": -15,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/h",
+        "w": 39,
+        "h": 71,
+        "x": 78,
+        "y": 1,
+        "r": true,
+        "fx": -4,
+        "fy": -17,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/i",
+        "w": 75,
+        "h": 40,
+        "x": 1,
+        "y": 1,
+        "fx": -2,
+        "fy": -26,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/j",
+        "w": 32,
+        "h": 78,
+        "x": 1,
+        "y": 43,
+        "r": true,
+        "fx": 0,
+        "fy": -38,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/punpkin/.gen/punpkin/k",
+        "w": 1,
+        "h": 1,
+        "x": 35,
+        "y": 105,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    }
+]

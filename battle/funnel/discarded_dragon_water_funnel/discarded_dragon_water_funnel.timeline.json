@@ -1,0 +1,67 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 41,
+            "name": "start",
+            "kind": "once"
+        },
+        {
+            "begin": 42,
+            "end": 74,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 75,
+            "end": 103,
+            "name": "charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 104,
+            "end": 124,
+            "name": "charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 125,
+            "end": 149,
+            "name": "attack",
+            "kind": "once"
+        },
+        {
+            "begin": 150,
+            "end": 199,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/water/se_splash_slam",
+            "begin": 7,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/water/se_snap_splash",
+            "begin": 128,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/water/se_water_short_splash",
+            "begin": 150,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

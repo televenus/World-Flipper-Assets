@@ -1,0 +1,56 @@
+[
+    {
+        "n": "battle/uncommon/layer1/carnival/.gen/carnival_stage_label/a",
+        "w": 41,
+        "h": 145,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/uncommon/layer1/carnival/.gen/carnival_stage_label/b",
+        "w": 38,
+        "h": 27,
+        "x": 1,
+        "y": 148,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 27,
+        "fh": 41
+    },
+    {
+        "n": "battle/uncommon/layer1/carnival/.gen/carnival_stage_label/c",
+        "w": 14,
+        "h": 38,
+        "x": 27,
+        "y": 205,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 41
+    },
+    {
+        "n": "battle/uncommon/layer1/carnival/.gen/carnival_stage_label/d",
+        "w": 38,
+        "h": 26,
+        "x": 1,
+        "y": 177,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 26,
+        "fh": 41
+    },
+    {
+        "n": "battle/uncommon/layer1/carnival/.gen/carnival_stage_label/e",
+        "w": 24,
+        "h": 38,
+        "x": 1,
+        "y": 205,
+        "fx": -1,
+        "fy": -2,
+        "fw": 25,
+        "fh": 41
+    }
+]

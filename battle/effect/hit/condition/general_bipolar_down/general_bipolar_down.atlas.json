@@ -1,0 +1,27 @@
+[
+    {
+        "n": "battle/effect/hit/condition/general_bipolar_down/.gen/general_bipolar_down/a",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 122
+    },
+    {
+        "n": "battle/effect/hit/condition/general_bipolar_down/.gen/general_bipolar_down/b",
+        "w": 43,
+        "h": 60,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/general_bipolar_down/.gen/general_bipolar_down/c",
+        "w": 43,
+        "h": 57,
+        "x": 1,
+        "y": 63,
+        "fx": 0,
+        "fy": -2,
+        "fw": 43,
+        "fh": 59
+    }
+]

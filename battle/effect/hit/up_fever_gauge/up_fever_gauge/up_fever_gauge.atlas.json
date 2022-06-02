@@ -1,0 +1,35 @@
+[
+    {
+        "n": "battle/effect/hit/up_fever_gauge/up_fever_gauge/.gen/up_fever_gauge/a",
+        "w": 49,
+        "h": 50,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/hit/up_fever_gauge/up_fever_gauge/.gen/up_fever_gauge/b",
+        "w": 49,
+        "h": 50,
+        "x": 52,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/hit/up_fever_gauge/up_fever_gauge/.gen/up_fever_gauge/c",
+        "w": 49,
+        "h": 50,
+        "x": 103,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    }
+]

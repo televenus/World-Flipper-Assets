@@ -1,0 +1,91 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone1/f0044",
+        "w": 60,
+        "h": 15,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0010",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 18
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0015",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 38
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0020",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 58
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0025",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 78
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0030",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 98
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0035",
+        "w": 5,
+        "h": 35,
+        "x": 51,
+        "y": 97,
+        "r": true,
+        "fx": -5,
+        "fy": -11,
+        "fw": 48,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0040",
+        "w": 7,
+        "h": 35,
+        "x": 51,
+        "y": 60,
+        "r": true,
+        "fx": -5,
+        "fy": -7,
+        "fw": 48,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0045",
+        "w": 11,
+        "h": 40,
+        "x": 51,
+        "y": 18,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 48,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_valley/outhole/.gen/hell_valley_outhole_zone2/f0050",
+        "w": 41,
+        "h": 14,
+        "x": 1,
+        "y": 118,
+        "fx": -2,
+        "fy": -2,
+        "fw": 48,
+        "fh": 18
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/a",
+        "w": 25,
+        "h": 25,
+        "x": 29,
+        "y": 232,
+        "fx": -24,
+        "fy": -14,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/b",
+        "w": 26,
+        "h": 26,
+        "x": 1,
+        "y": 229,
+        "fx": -23,
+        "fy": -13,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/c",
+        "w": 28,
+        "h": 26,
+        "x": 1,
+        "y": 201,
+        "fx": -22,
+        "fy": -13,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/d",
+        "w": 39,
+        "h": 33,
+        "x": 1,
+        "y": 166,
+        "fx": -17,
+        "fy": -3,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/e",
+        "w": 46,
+        "h": 37,
+        "x": 1,
+        "y": 127,
+        "fx": -13,
+        "fy": 0,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/f",
+        "w": 52,
+        "h": 36,
+        "x": 1,
+        "y": 89,
+        "fx": -10,
+        "fy": -2,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/g",
+        "w": 56,
+        "h": 36,
+        "x": 1,
+        "y": 51,
+        "fx": -8,
+        "fy": -4,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/h",
+        "w": 61,
+        "h": 31,
+        "x": 1,
+        "y": 18,
+        "fx": -7,
+        "fy": -11,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/i",
+        "w": 22,
+        "h": 63,
+        "x": 1,
+        "y": 257,
+        "r": true,
+        "fx": -5,
+        "fy": -21,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/j",
+        "w": 17,
+        "h": 64,
+        "x": 42,
+        "y": 166,
+        "r": true,
+        "fx": -4,
+        "fy": -26,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/k",
+        "w": 17,
+        "h": 64,
+        "x": 25,
+        "y": 259,
+        "r": true,
+        "fx": -4,
+        "fy": -26,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/l",
+        "w": 16,
+        "h": 63,
+        "x": 44,
+        "y": 259,
+        "r": true,
+        "fx": -5,
+        "fy": -26,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_b/.gen/cyber_punk_office_glass_b/m",
+        "w": 62,
+        "h": 15,
+        "x": 1,
+        "y": 1,
+        "fx": -5,
+        "fy": -27,
+        "fw": 72,
+        "fh": 56
+    }
+]

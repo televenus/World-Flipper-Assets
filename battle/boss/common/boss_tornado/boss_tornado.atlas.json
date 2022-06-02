@@ -1,0 +1,139 @@
+[
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/a",
+        "w": 16,
+        "h": 24,
+        "x": 94,
+        "y": 172,
+        "r": true,
+        "fx": -52,
+        "fy": -56,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/b",
+        "w": 20,
+        "h": 26,
+        "x": 94,
+        "y": 144,
+        "r": true,
+        "fx": -52,
+        "fy": -52,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/c",
+        "w": 45,
+        "h": 32,
+        "x": 60,
+        "y": 203,
+        "fx": -42,
+        "fy": -47,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/d",
+        "w": 48,
+        "h": 39,
+        "x": 66,
+        "y": 68,
+        "fx": -40,
+        "fy": -42,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/e",
+        "w": 57,
+        "h": 40,
+        "x": 1,
+        "y": 204,
+        "fx": -36,
+        "fy": -41,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/f",
+        "w": 63,
+        "h": 46,
+        "x": 1,
+        "y": 50,
+        "fx": -33,
+        "fy": -39,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/g",
+        "w": 45,
+        "h": 58,
+        "x": 1,
+        "y": 144,
+        "r": true,
+        "fx": -37,
+        "fy": -39,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/h",
+        "w": 44,
+        "h": 57,
+        "x": 48,
+        "y": 144,
+        "r": true,
+        "fx": -38,
+        "fy": -38,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/i",
+        "w": 62,
+        "h": 44,
+        "x": 1,
+        "y": 98,
+        "fx": -32,
+        "fy": -38,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/j",
+        "w": 65,
+        "h": 47,
+        "x": 1,
+        "y": 1,
+        "fx": -31,
+        "fy": -36,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/k",
+        "w": 47,
+        "h": 65,
+        "x": 68,
+        "y": 1,
+        "r": true,
+        "fx": -31,
+        "fy": -36,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/boss/common/boss_tornado/.gen/boss_tornado/l",
+        "w": 50,
+        "h": 33,
+        "x": 65,
+        "y": 109,
+        "fx": -40,
+        "fy": -35,
+        "fw": 128,
+        "fh": 128
+    }
+]

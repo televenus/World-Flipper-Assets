@@ -1,0 +1,68 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 45,
+            "name": "start",
+            "kind": "once"
+        },
+        {
+            "begin": 46,
+            "end": 93,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 94,
+            "end": 109,
+            "name": "charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 110,
+            "end": 129,
+            "name": "attack",
+            "kind": "once"
+        },
+        {
+            "begin": 130,
+            "end": 160,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/element/se_ghost",
+            "begin": 1,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_ghost",
+            "begin": 45,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_little_bullet_short",
+            "begin": 110,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_little_bullet_short",
+            "begin": 129,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

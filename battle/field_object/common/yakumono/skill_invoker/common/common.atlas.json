@@ -1,0 +1,182 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/a",
+        "w": 20,
+        "h": 22,
+        "x": 105,
+        "y": 1,
+        "fx": -2,
+        "fy": -17,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/b",
+        "w": 23,
+        "h": 20,
+        "x": 59,
+        "y": 40,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/c",
+        "w": 27,
+        "h": 20,
+        "x": 1,
+        "y": 40,
+        "r": true,
+        "fx": -2,
+        "fy": -12,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/d",
+        "w": 24,
+        "h": 30,
+        "x": 79,
+        "y": 1,
+        "fx": 0,
+        "fy": -9,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/e",
+        "w": 30,
+        "h": 24,
+        "x": 84,
+        "y": 33,
+        "r": true,
+        "fx": 0,
+        "fy": -9,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/f",
+        "w": 24,
+        "h": 37,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/g",
+        "w": 24,
+        "h": 37,
+        "x": 27,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/h",
+        "w": 24,
+        "h": 37,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/i",
+        "w": 24,
+        "h": 37,
+        "x": 53,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/j",
+        "w": 24,
+        "h": 37,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/k",
+        "w": 24,
+        "h": 37,
+        "x": 27,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/l",
+        "w": 24,
+        "h": 37,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/m",
+        "w": 24,
+        "h": 37,
+        "x": 53,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/n",
+        "w": 2,
+        "h": 5,
+        "x": 79,
+        "y": 33,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/o",
+        "w": 27,
+        "h": 20,
+        "x": 30,
+        "y": 40,
+        "r": true,
+        "fx": -2,
+        "fy": -12,
+        "fw": 24,
+        "fh": 39
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/common/.gen/skill_invoker_common/p",
+        "w": 20,
+        "h": 22,
+        "x": 105,
+        "y": 1,
+        "fx": -2,
+        "fy": -17,
+        "fw": 24,
+        "fh": 39
+    }
+]

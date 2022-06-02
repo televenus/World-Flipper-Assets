@@ -1,0 +1,53 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 16,
+            "name": "start",
+            "kind": "loop"
+        },
+        {
+            "begin": 17,
+            "end": 32,
+            "name": "wind_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 33,
+            "end": 48,
+            "name": "wind_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 49,
+            "end": 64,
+            "name": "wind_end",
+            "kind": "goto",
+            "target": "start"
+        },
+        {
+            "begin": 65,
+            "end": 80,
+            "name": "storm_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 81,
+            "end": 128,
+            "name": "storm_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 129,
+            "end": 144,
+            "name": "storm_end",
+            "kind": "goto",
+            "target": "start"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

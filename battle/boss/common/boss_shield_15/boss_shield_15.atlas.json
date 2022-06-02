@@ -1,0 +1,20 @@
+[
+    {
+        "n": "battle/boss/common/boss_shield_15/.gen/boss_shield_15/a",
+        "w": 41,
+        "h": 41,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/common/boss_shield_15/.gen/boss_shield_15/b",
+        "w": 36,
+        "h": 36,
+        "x": 44,
+        "y": 1,
+        "fx": -5,
+        "fy": 0,
+        "fw": 41,
+        "fh": 41
+    }
+]

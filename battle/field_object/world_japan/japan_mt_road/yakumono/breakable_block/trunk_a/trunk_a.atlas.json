@@ -1,0 +1,105 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/a",
+        "w": 16,
+        "h": 21,
+        "x": 172,
+        "y": 36,
+        "fx": -34,
+        "fy": -18,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/b",
+        "w": 21,
+        "h": 16,
+        "x": 190,
+        "y": 36,
+        "r": true,
+        "fx": -34,
+        "fy": -18,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/c",
+        "w": 22,
+        "h": 18,
+        "x": 119,
+        "y": 41,
+        "r": true,
+        "fx": -33,
+        "fy": -17,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/d",
+        "w": 27,
+        "h": 22,
+        "x": 143,
+        "y": 36,
+        "fx": -29,
+        "fy": -14,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/e",
+        "w": 33,
+        "h": 46,
+        "x": 41,
+        "y": 1,
+        "r": true,
+        "fx": -20,
+        "fy": -6,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/f",
+        "w": 38,
+        "h": 57,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -13,
+        "fy": -5,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/g",
+        "w": 65,
+        "h": 38,
+        "x": 76,
+        "y": 1,
+        "fx": -9,
+        "fy": -8,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/h",
+        "w": 69,
+        "h": 33,
+        "x": 143,
+        "y": 1,
+        "fx": -7,
+        "fy": -14,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/yakumono/breakable_block/trunk_a/.gen/trunk_a/i",
+        "w": 76,
+        "h": 10,
+        "x": 41,
+        "y": 49,
+        "fx": -6,
+        "fy": -36,
+        "fw": 84,
+        "fh": 49
+    }
+]

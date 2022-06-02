@@ -1,0 +1,79 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/gate/.gen/hell_deep_swamp_2_gate/a",
+        "w": 42,
+        "h": 18,
+        "x": 1,
+        "y": 150,
+        "fx": -33,
+        "fy": -48,
+        "fw": 110,
+        "fh": 105
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/gate/.gen/hell_deep_swamp_2_gate/b",
+        "w": 45,
+        "h": 18,
+        "x": 1,
+        "y": 111,
+        "fx": -32,
+        "fy": -49,
+        "fw": 110,
+        "fh": 105
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/gate/.gen/hell_deep_swamp_2_gate/c",
+        "w": 47,
+        "h": 17,
+        "x": 1,
+        "y": 66,
+        "fx": -31,
+        "fy": -51,
+        "fw": 110,
+        "fh": 105
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/gate/.gen/hell_deep_swamp_2_gate/d",
+        "w": 44,
+        "h": 17,
+        "x": 1,
+        "y": 131,
+        "fx": -32,
+        "fy": -49,
+        "fw": 110,
+        "fh": 105
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/gate/.gen/hell_deep_swamp_2_gate/e",
+        "w": 45,
+        "h": 24,
+        "x": 1,
+        "y": 85,
+        "fx": -33,
+        "fy": -45,
+        "fw": 110,
+        "fh": 105
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/gate/.gen/hell_deep_swamp_2_gate/f",
+        "w": 50,
+        "h": 30,
+        "x": 1,
+        "y": 34,
+        "fx": -29,
+        "fy": -42,
+        "fw": 110,
+        "fh": 105
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/gate/.gen/hell_deep_swamp_2_gate/g",
+        "w": 54,
+        "h": 31,
+        "x": 1,
+        "y": 1,
+        "fx": -26,
+        "fy": -42,
+        "fw": 110,
+        "fh": 105
+    }
+]

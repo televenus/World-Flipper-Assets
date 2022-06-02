@@ -1,0 +1,946 @@
+[
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/a",
+        "w": 27,
+        "h": 27,
+        "x": 33,
+        "y": 113
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/aa",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 242,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/ab",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 262,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/ac",
+        "w": 36,
+        "h": 35,
+        "x": 1,
+        "y": 61,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/ad",
+        "w": 16,
+        "h": 16,
+        "x": 41,
+        "y": 346
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/ae",
+        "w": 16,
+        "h": 16,
+        "x": 20,
+        "y": 359
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/af",
+        "w": 16,
+        "h": 16,
+        "x": 1,
+        "y": 363
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/b",
+        "w": 27,
+        "h": 27,
+        "x": 33,
+        "y": 142
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/c",
+        "w": 27,
+        "h": 27,
+        "x": 1,
+        "y": 162
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/d",
+        "w": 27,
+        "h": 19,
+        "x": 1,
+        "y": 191
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/e",
+        "w": 27,
+        "h": 19,
+        "x": 30,
+        "y": 200
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/f",
+        "w": 27,
+        "h": 19,
+        "x": 1,
+        "y": 212
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/g",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 61
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/h",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 74
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/i",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 87
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/j",
+        "w": 22,
+        "h": 22,
+        "x": 1,
+        "y": 233
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/k",
+        "w": 22,
+        "h": 22,
+        "x": 25,
+        "y": 242
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/l",
+        "w": 22,
+        "h": 22,
+        "x": 1,
+        "y": 257
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/m",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 302
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/n",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 310
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/o",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 318
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/p",
+        "w": 20,
+        "h": 15,
+        "x": 1,
+        "y": 281
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/q",
+        "w": 20,
+        "h": 15,
+        "x": 23,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/r",
+        "w": 20,
+        "h": 15,
+        "x": 1,
+        "y": 298
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/s",
+        "w": 16,
+        "h": 9,
+        "x": 1,
+        "y": 381
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/t",
+        "w": 9,
+        "h": 16,
+        "x": 37,
+        "y": 377,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/u",
+        "w": 16,
+        "h": 9,
+        "x": 38,
+        "y": 364
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/v",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 315
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/w",
+        "w": 18,
+        "h": 18,
+        "x": 21,
+        "y": 324
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/x",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 335
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/y",
+        "w": 60,
+        "h": 58,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball/z",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 282,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/a",
+        "w": 27,
+        "h": 27,
+        "x": 33,
+        "y": 113
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/aa",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 242,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/ab",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 262,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/ac",
+        "w": 36,
+        "h": 35,
+        "x": 1,
+        "y": 61,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/ad",
+        "w": 16,
+        "h": 16,
+        "x": 41,
+        "y": 346
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/ae",
+        "w": 16,
+        "h": 16,
+        "x": 20,
+        "y": 359
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/af",
+        "w": 16,
+        "h": 16,
+        "x": 1,
+        "y": 363
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/b",
+        "w": 27,
+        "h": 27,
+        "x": 33,
+        "y": 142
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/c",
+        "w": 27,
+        "h": 27,
+        "x": 1,
+        "y": 162
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/d",
+        "w": 27,
+        "h": 19,
+        "x": 1,
+        "y": 191
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/e",
+        "w": 27,
+        "h": 19,
+        "x": 30,
+        "y": 200
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/f",
+        "w": 27,
+        "h": 19,
+        "x": 1,
+        "y": 212
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/g",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 61
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/h",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 74
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/i",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 87
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/j",
+        "w": 22,
+        "h": 22,
+        "x": 1,
+        "y": 233
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/k",
+        "w": 22,
+        "h": 22,
+        "x": 25,
+        "y": 242
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/l",
+        "w": 22,
+        "h": 22,
+        "x": 1,
+        "y": 257
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/m",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 302
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/n",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 310
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/o",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 318
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/p",
+        "w": 20,
+        "h": 15,
+        "x": 1,
+        "y": 281
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/q",
+        "w": 20,
+        "h": 15,
+        "x": 23,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/r",
+        "w": 20,
+        "h": 15,
+        "x": 1,
+        "y": 298
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/s",
+        "w": 16,
+        "h": 9,
+        "x": 1,
+        "y": 381
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/t",
+        "w": 9,
+        "h": 16,
+        "x": 37,
+        "y": 377,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/u",
+        "w": 16,
+        "h": 9,
+        "x": 38,
+        "y": 364
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/v",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 315
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/w",
+        "w": 18,
+        "h": 18,
+        "x": 21,
+        "y": 324
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/x",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 335
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/y",
+        "w": 60,
+        "h": 58,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/barrier_ball_boss/z",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 282,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/a",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 98
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/aa",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 242,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/ab",
+        "w": 18,
+        "h": 13,
+        "x": 21,
+        "y": 344
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/ac",
+        "w": 16,
+        "h": 16,
+        "x": 41,
+        "y": 346
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/ad",
+        "w": 16,
+        "h": 16,
+        "x": 20,
+        "y": 359
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/ae",
+        "w": 16,
+        "h": 16,
+        "x": 19,
+        "y": 377
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/af",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 130
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/ag",
+        "w": 4,
+        "h": 4,
+        "x": 33,
+        "y": 98
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/b",
+        "w": 27,
+        "h": 27,
+        "x": 33,
+        "y": 113
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/c",
+        "w": 27,
+        "h": 27,
+        "x": 33,
+        "y": 142
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/d",
+        "w": 27,
+        "h": 27,
+        "x": 30,
+        "y": 171
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/e",
+        "w": 27,
+        "h": 19,
+        "x": 1,
+        "y": 191
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/f",
+        "w": 27,
+        "h": 19,
+        "x": 30,
+        "y": 200
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/g",
+        "w": 27,
+        "h": 19,
+        "x": 30,
+        "y": 221
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/h",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 61
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/i",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 74
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/j",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 100
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/k",
+        "w": 22,
+        "h": 22,
+        "x": 1,
+        "y": 233
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/l",
+        "w": 22,
+        "h": 22,
+        "x": 25,
+        "y": 242
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/m",
+        "w": 22,
+        "h": 22,
+        "x": 25,
+        "y": 266
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/n",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 302
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/o",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 310
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/p",
+        "w": 17,
+        "h": 6,
+        "x": 1,
+        "y": 355
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/q",
+        "w": 20,
+        "h": 15,
+        "x": 1,
+        "y": 281
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/r",
+        "w": 20,
+        "h": 15,
+        "x": 23,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/s",
+        "w": 20,
+        "h": 15,
+        "x": 23,
+        "y": 307
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/t",
+        "w": 16,
+        "h": 9,
+        "x": 1,
+        "y": 381
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/u",
+        "w": 9,
+        "h": 16,
+        "x": 37,
+        "y": 377,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/v",
+        "w": 9,
+        "h": 16,
+        "x": 48,
+        "y": 375,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/w",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 315
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/x",
+        "w": 18,
+        "h": 18,
+        "x": 21,
+        "y": 324
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/y",
+        "w": 18,
+        "h": 18,
+        "x": 41,
+        "y": 326
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier/z",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 282,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/a",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 98
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/aa",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 242,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/ab",
+        "w": 18,
+        "h": 13,
+        "x": 21,
+        "y": 344
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/ac",
+        "w": 16,
+        "h": 16,
+        "x": 41,
+        "y": 346
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/ad",
+        "w": 16,
+        "h": 16,
+        "x": 20,
+        "y": 359
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/ae",
+        "w": 16,
+        "h": 16,
+        "x": 19,
+        "y": 377
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/af",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 130
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/ag",
+        "w": 4,
+        "h": 4,
+        "x": 33,
+        "y": 98
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/b",
+        "w": 27,
+        "h": 27,
+        "x": 33,
+        "y": 113
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/c",
+        "w": 27,
+        "h": 27,
+        "x": 33,
+        "y": 142
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/d",
+        "w": 27,
+        "h": 27,
+        "x": 30,
+        "y": 171
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/e",
+        "w": 27,
+        "h": 19,
+        "x": 1,
+        "y": 191
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/f",
+        "w": 27,
+        "h": 19,
+        "x": 30,
+        "y": 200
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/g",
+        "w": 27,
+        "h": 19,
+        "x": 30,
+        "y": 221
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/h",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 61
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/i",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 74
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/j",
+        "w": 23,
+        "h": 11,
+        "x": 39,
+        "y": 100
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/k",
+        "w": 22,
+        "h": 22,
+        "x": 1,
+        "y": 233
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/l",
+        "w": 22,
+        "h": 22,
+        "x": 25,
+        "y": 242
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/m",
+        "w": 22,
+        "h": 22,
+        "x": 25,
+        "y": 266
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/n",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 302
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/o",
+        "w": 17,
+        "h": 6,
+        "x": 45,
+        "y": 310
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/p",
+        "w": 17,
+        "h": 6,
+        "x": 1,
+        "y": 355
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/q",
+        "w": 20,
+        "h": 15,
+        "x": 1,
+        "y": 281
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/r",
+        "w": 20,
+        "h": 15,
+        "x": 23,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/s",
+        "w": 20,
+        "h": 15,
+        "x": 23,
+        "y": 307
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/t",
+        "w": 16,
+        "h": 9,
+        "x": 1,
+        "y": 381
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/u",
+        "w": 9,
+        "h": 16,
+        "x": 37,
+        "y": 377,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/v",
+        "w": 9,
+        "h": 16,
+        "x": 48,
+        "y": 375,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/w",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 315
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/x",
+        "w": 18,
+        "h": 18,
+        "x": 21,
+        "y": 324
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/y",
+        "w": 18,
+        "h": 18,
+        "x": 41,
+        "y": 326
+    },
+    {
+        "n": "battle/effect/hit/condition/barrier/.gen/breaking_barrier_boss/z",
+        "w": 13,
+        "h": 18,
+        "x": 49,
+        "y": 282,
+        "r": true
+    }
+]

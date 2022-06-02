@@ -1,0 +1,84 @@
+[
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/gate/.gen/mecha_dome_gate/a",
+        "w": 39,
+        "h": 38,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 38,
+        "fh": 40
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/gate/.gen/mecha_dome_gate/b",
+        "w": 39,
+        "h": 38,
+        "x": 42,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 38,
+        "fh": 40
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/gate/.gen/mecha_dome_gate/c",
+        "w": 38,
+        "h": 39,
+        "x": 1,
+        "y": 41,
+        "fx": 0,
+        "fy": 0,
+        "fw": 38,
+        "fh": 40
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/gate/.gen/mecha_dome_gate/d",
+        "w": 39,
+        "h": 38,
+        "x": 1,
+        "y": 82,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 38,
+        "fh": 40
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/gate/.gen/mecha_dome_gate/e",
+        "w": 38,
+        "h": 39,
+        "x": 41,
+        "y": 41,
+        "fx": 0,
+        "fy": 0,
+        "fw": 38,
+        "fh": 40
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/gate/.gen/mecha_dome_gate/f",
+        "w": 39,
+        "h": 38,
+        "x": 42,
+        "y": 82,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 38,
+        "fh": 40
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/gate/.gen/mecha_dome_gate/g",
+        "w": 30,
+        "h": 38,
+        "x": 81,
+        "y": 41,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 38,
+        "fh": 40
+    }
+]

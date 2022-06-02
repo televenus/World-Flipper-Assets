@@ -1,0 +1,54 @@
+[
+    {
+        "n": "battle/field/world_evil/evil_tower_top/background/.gen/background/a",
+        "w": 750,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_evil/evil_tower_top/background/.gen/background/b",
+        "w": 15,
+        "h": 32,
+        "x": 753,
+        "y": 37,
+        "fx": -1,
+        "fy": -6,
+        "fw": 17,
+        "fh": 41
+    },
+    {
+        "n": "battle/field/world_evil/evil_tower_top/background/.gen/background/c",
+        "w": 15,
+        "h": 31,
+        "x": 753,
+        "y": 105,
+        "fx": -1,
+        "fy": -8,
+        "fw": 17,
+        "fh": 41
+    },
+    {
+        "n": "battle/field/world_evil/evil_tower_top/background/.gen/background/d",
+        "w": 15,
+        "h": 32,
+        "x": 753,
+        "y": 71,
+        "fx": -1,
+        "fy": -6,
+        "fw": 17,
+        "fh": 41
+    },
+    {
+        "n": "battle/field/world_evil/evil_tower_top/background/.gen/background/e",
+        "w": 15,
+        "h": 34,
+        "x": 753,
+        "y": 1,
+        "fx": -1,
+        "fy": -4,
+        "fw": 17,
+        "fh": 41
+    }
+]

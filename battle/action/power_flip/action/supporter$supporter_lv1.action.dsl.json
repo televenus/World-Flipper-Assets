@@ -1,0 +1,168 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    0,
+                    33,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "ShowEffect",
+                                    "補助パワーフリップ演出",
+                                    [
+                                        "SpecifyEffectDirectly",
+                                        "battle/effect/powerflip/effect_powerflip_attack_support/powerflip_enhancing_support_one"
+                                    ],
+                                    0,
+                                    [
+                                        "ForesideOfCharacter"
+                                    ],
+                                    [
+                                        "PlayOnlyFirstSequence"
+                                    ],
+                                    [
+                                        "AB"
+                                    ],
+                                    0,
+                                    0,
+                                    0,
+                                    true,
+                                    true,
+                                    [
+                                        "None"
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    1,
+                    33,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    1,
+                                    [
+                                        [
+                                            "ACAttackPoint",
+                                            {
+                                                "min": 150,
+                                                "max": 150
+                                            },
+                                            {
+                                                "min": 0.3,
+                                                "max": 0.3
+                                            },
+                                            1
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "None"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    1,
+                                    [
+                                        [
+                                            "ACPiercing",
+                                            {
+                                                "min": 60,
+                                                "max": 60
+                                            }
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "None"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    1,
+                                    [
+                                        [
+                                            "ACFlying",
+                                            {
+                                                "min": 60,
+                                                "max": 60
+                                            }
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "None"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

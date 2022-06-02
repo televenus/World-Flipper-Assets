@@ -1,0 +1,77 @@
+[
+    {
+        "n": "battle/field_object/world_end/end_wall_gate/gate/.gen/end_wall_gate_gate/f0013",
+        "w": 20,
+        "h": 29,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_end/end_wall_gate/gate/.gen/end_wall_gate_gate/f0017",
+        "w": 20,
+        "h": 27,
+        "x": 1,
+        "y": 32,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_end/end_wall_gate/gate/.gen/end_wall_gate_gate/f0020",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 61,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_end/end_wall_gate/gate/.gen/end_wall_gate_gate/f0022",
+        "w": 12,
+        "h": 20,
+        "x": 1,
+        "y": 83,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_end/end_wall_gate/gate/.gen/end_wall_gate_gate/f0023",
+        "w": 6,
+        "h": 18,
+        "x": 15,
+        "y": 83,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_end/end_wall_gate/gate/.gen/end_wall_gate_gate/f0024",
+        "w": 10,
+        "h": 2,
+        "x": 1,
+        "y": 105,
+        "fx": -5,
+        "fy": 0,
+        "fw": 20,
+        "fh": 29
+    },
+    {
+        "n": "battle/field_object/world_end/end_wall_gate/gate/.gen/end_wall_gate_gate/f0025",
+        "w": 1,
+        "h": 1,
+        "x": 15,
+        "y": 103,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 29
+    }
+]

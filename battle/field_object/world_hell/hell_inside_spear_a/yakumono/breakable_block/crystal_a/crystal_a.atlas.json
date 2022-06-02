@@ -1,0 +1,102 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/a",
+        "w": 18,
+        "h": 22,
+        "x": 44,
+        "y": 43,
+        "fx": -35,
+        "fy": -18,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/b",
+        "w": 19,
+        "h": 22,
+        "x": 23,
+        "y": 43,
+        "fx": -35,
+        "fy": -18,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/c",
+        "w": 20,
+        "h": 23,
+        "x": 1,
+        "y": 43,
+        "fx": -34,
+        "fy": -17,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/d",
+        "w": 46,
+        "h": 28,
+        "x": 150,
+        "y": 39,
+        "fx": -21,
+        "fy": -9,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/e",
+        "w": 61,
+        "h": 36,
+        "x": 148,
+        "y": 1,
+        "fx": -12,
+        "fy": -2,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/f",
+        "w": 38,
+        "h": 68,
+        "x": 211,
+        "y": 1,
+        "r": true,
+        "fx": -8,
+        "fy": -2,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/g",
+        "w": 70,
+        "h": 40,
+        "x": 1,
+        "y": 1,
+        "fx": -7,
+        "fy": -3,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/h",
+        "w": 73,
+        "h": 37,
+        "x": 73,
+        "y": 1,
+        "fx": -5,
+        "fy": -7,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/crystal_a/.gen/crystal_a/i",
+        "w": 75,
+        "h": 28,
+        "x": 73,
+        "y": 40,
+        "fx": -4,
+        "fy": -15,
+        "fw": 80,
+        "fh": 48
+    }
+]

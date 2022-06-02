@@ -1,0 +1,68 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_colorless/.gen/enemy_shot_cannon_colorless/a",
+        "w": 18,
+        "h": 21,
+        "x": 43,
+        "y": 1,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_colorless/.gen/enemy_shot_cannon_colorless/b",
+        "w": 18,
+        "h": 21,
+        "x": 63,
+        "y": 1,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_colorless/.gen/enemy_shot_cannon_colorless/c",
+        "w": 18,
+        "h": 21,
+        "x": 83,
+        "y": 1,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_colorless/.gen/enemy_shot_cannon_colorless/d",
+        "w": 19,
+        "h": 21,
+        "x": 1,
+        "y": 1,
+        "fx": -11,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_colorless/.gen/enemy_shot_cannon_colorless/e",
+        "w": 19,
+        "h": 21,
+        "x": 22,
+        "y": 1,
+        "fx": -11,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_colorless/.gen/enemy_shot_cannon_colorless/f",
+        "w": 19,
+        "h": 20,
+        "x": 103,
+        "y": 1,
+        "fx": -11,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0011",
+        "w": 76,
+        "h": 61,
+        "x": 1,
+        "y": 57,
+        "fx": -2,
+        "fy": -1,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0016",
+        "w": 79,
+        "h": 54,
+        "x": 1,
+        "y": 1,
+        "fx": -6,
+        "fy": -10,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0021",
+        "w": 43,
+        "h": 71,
+        "x": 82,
+        "y": 1,
+        "r": true,
+        "fx": -15,
+        "fy": -23,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0026",
+        "w": 75,
+        "h": 37,
+        "x": 1,
+        "y": 120,
+        "fx": -16,
+        "fy": -29,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0031",
+        "w": 48,
+        "h": 33,
+        "x": 79,
+        "y": 74,
+        "fx": -16,
+        "fy": -37,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0036",
+        "w": 48,
+        "h": 31,
+        "x": 78,
+        "y": 143,
+        "fx": -16,
+        "fy": -38,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0041",
+        "w": 48,
+        "h": 32,
+        "x": 79,
+        "y": 109,
+        "fx": -16,
+        "fy": -37,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0046",
+        "w": 48,
+        "h": 29,
+        "x": 57,
+        "y": 251,
+        "fx": -16,
+        "fy": -38,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0051",
+        "w": 54,
+        "h": 28,
+        "x": 1,
+        "y": 235,
+        "fx": -16,
+        "fy": -38,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0056",
+        "w": 55,
+        "h": 23,
+        "x": 60,
+        "y": 226,
+        "fx": -15,
+        "fy": -41,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0061",
+        "w": 61,
+        "h": 24,
+        "x": 65,
+        "y": 176,
+        "fx": -9,
+        "fy": -40,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0066",
+        "w": 62,
+        "h": 23,
+        "x": 1,
+        "y": 159,
+        "fx": -8,
+        "fy": -39,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0071",
+        "w": 61,
+        "h": 24,
+        "x": 1,
+        "y": 184,
+        "fx": -8,
+        "fy": -37,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0076",
+        "w": 61,
+        "h": 22,
+        "x": 64,
+        "y": 202,
+        "fx": -8,
+        "fy": -37,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0081",
+        "w": 57,
+        "h": 23,
+        "x": 1,
+        "y": 210,
+        "fx": -9,
+        "fy": -35,
+        "fw": 93,
+        "fh": 71
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_road/gate/.gen/japan_mt_road_gate/f0084",
+        "w": 20,
+        "h": 37,
+        "x": 107,
+        "y": 251,
+        "r": true,
+        "fx": -8,
+        "fy": -35,
+        "fw": 93,
+        "fh": 71
+    }
+]

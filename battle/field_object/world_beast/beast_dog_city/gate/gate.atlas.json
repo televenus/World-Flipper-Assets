@@ -1,0 +1,68 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_dog_city/gate/.gen/beast_dog_city_gate/f0011",
+        "w": 20,
+        "h": 29,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 21,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_city/gate/.gen/beast_dog_city_gate/f0014",
+        "w": 20,
+        "h": 27,
+        "x": 1,
+        "y": 32,
+        "fx": 0,
+        "fy": -1,
+        "fw": 21,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_city/gate/.gen/beast_dog_city_gate/f0017",
+        "w": 20,
+        "h": 22,
+        "x": 1,
+        "y": 61,
+        "fx": 0,
+        "fy": -1,
+        "fw": 21,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_city/gate/.gen/beast_dog_city_gate/f0020",
+        "w": 20,
+        "h": 14,
+        "x": 1,
+        "y": 85,
+        "fx": 0,
+        "fy": -1,
+        "fw": 21,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_city/gate/.gen/beast_dog_city_gate/f0022",
+        "w": 20,
+        "h": 9,
+        "x": 1,
+        "y": 101,
+        "fx": 0,
+        "fy": -1,
+        "fw": 21,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_city/gate/.gen/beast_dog_city_gate/f0025",
+        "w": 14,
+        "h": 4,
+        "x": 1,
+        "y": 112,
+        "fx": -3,
+        "fy": -1,
+        "fw": 21,
+        "fh": 31
+    }
+]

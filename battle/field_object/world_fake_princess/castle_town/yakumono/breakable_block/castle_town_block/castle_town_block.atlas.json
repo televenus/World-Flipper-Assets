@@ -1,0 +1,105 @@
+[
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/a",
+        "w": 31,
+        "h": 18,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -31,
+        "fy": -9,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/b",
+        "w": 31,
+        "h": 20,
+        "x": 75,
+        "y": 1,
+        "r": true,
+        "fx": -10,
+        "fy": -9,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/c",
+        "w": 30,
+        "h": 22,
+        "x": 40,
+        "y": 22,
+        "r": true,
+        "fx": -29,
+        "fy": -10,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/d",
+        "w": 27,
+        "h": 24,
+        "x": 1,
+        "y": 44,
+        "r": true,
+        "fx": -27,
+        "fy": -13,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/e",
+        "w": 31,
+        "h": 25,
+        "x": 65,
+        "y": 47,
+        "fx": -24,
+        "fy": -15,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/f",
+        "w": 33,
+        "h": 24,
+        "x": 30,
+        "y": 46,
+        "fx": -22,
+        "fy": -16,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/g",
+        "w": 34,
+        "h": 22,
+        "x": 72,
+        "y": 23,
+        "fx": -22,
+        "fy": -18,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/h",
+        "w": 37,
+        "h": 20,
+        "x": 1,
+        "y": 22,
+        "fx": -20,
+        "fy": -21,
+        "fw": 80,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/yakumono/breakable_block/castle_town_block/.gen/castle_town_block/i",
+        "w": 39,
+        "h": 19,
+        "x": 34,
+        "y": 1,
+        "fx": -19,
+        "fy": -20,
+        "fw": 80,
+        "fh": 48
+    }
+]

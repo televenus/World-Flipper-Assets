@@ -1,0 +1,61 @@
+[
+    {
+        "n": "battle/field_object/world_sea/submarine_passage_boss/yakumono/breakable_block/machine_b/.gen/machine_b/a",
+        "w": 18,
+        "h": 21,
+        "x": 25,
+        "y": 37
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage_boss/yakumono/breakable_block/machine_b/.gen/machine_b/b",
+        "w": 18,
+        "h": 21,
+        "x": 75,
+        "y": 36
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage_boss/yakumono/breakable_block/machine_b/.gen/machine_b/c",
+        "w": 21,
+        "h": 18,
+        "x": 95,
+        "y": 36,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage_boss/yakumono/breakable_block/machine_b/.gen/machine_b/d",
+        "w": 22,
+        "h": 25,
+        "x": 1,
+        "y": 37
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage_boss/yakumono/breakable_block/machine_b/.gen/machine_b/e",
+        "w": 28,
+        "h": 27,
+        "x": 45,
+        "y": 36,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage_boss/yakumono/breakable_block/machine_b/.gen/machine_b/f",
+        "w": 31,
+        "h": 33,
+        "x": 85,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage_boss/yakumono/breakable_block/machine_b/.gen/machine_b/g",
+        "w": 38,
+        "h": 33,
+        "x": 45,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage_boss/yakumono/breakable_block/machine_b/.gen/machine_b/h",
+        "w": 42,
+        "h": 34,
+        "x": 1,
+        "y": 1
+    }
+]

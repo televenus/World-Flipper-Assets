@@ -1,0 +1,98 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/a",
+        "w": 12,
+        "h": 13,
+        "x": 1,
+        "y": 1,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/b",
+        "w": 9,
+        "h": 3,
+        "x": 43,
+        "y": 9
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/c",
+        "w": 4,
+        "h": 9,
+        "x": 55,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/d",
+        "w": 10,
+        "h": 6,
+        "x": 43,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/e",
+        "w": 12,
+        "h": 13,
+        "x": 1,
+        "y": 1,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/f",
+        "w": 5,
+        "h": 2,
+        "x": 54,
+        "y": 12,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/g",
+        "w": 12,
+        "h": 13,
+        "x": 15,
+        "y": 1,
+        "fx": -123,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/h",
+        "w": 12,
+        "h": 13,
+        "x": 1,
+        "y": 1,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_npc_nova/.gen/skill_invoker_anv2_npc_nova/i",
+        "w": 12,
+        "h": 13,
+        "x": 29,
+        "y": 1,
+        "fx": -123,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    }
+]

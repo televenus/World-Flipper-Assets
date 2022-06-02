@@ -1,0 +1,49 @@
+[
+    {
+        "n": "battle/effect/hit/ratio_damage/.gen/quotient/a",
+        "w": 35,
+        "h": 37,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 35,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/hit/ratio_damage/.gen/quotient/b",
+        "w": 29,
+        "h": 29,
+        "x": 38,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/hit/ratio_damage/.gen/quotient/c",
+        "w": 29,
+        "h": 29,
+        "x": 45,
+        "y": 32,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/hit/ratio_damage/.gen/quotient/d",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 40
+    },
+    {
+        "n": "battle/effect/hit/ratio_damage/.gen/quotient/e",
+        "w": 20,
+        "h": 20,
+        "x": 23,
+        "y": 40
+    }
+]

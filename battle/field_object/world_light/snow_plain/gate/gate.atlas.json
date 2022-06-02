@@ -1,0 +1,64 @@
+[
+    {
+        "n": "battle/field_object/world_light/snow_plain/gate/.gen/snow_plain_gate/f0004",
+        "w": 74,
+        "h": 28,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_light/snow_plain/gate/.gen/snow_plain_gate/f0009",
+        "w": 74,
+        "h": 26,
+        "x": 77,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 74,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_light/snow_plain/gate/.gen/snow_plain_gate/f0014",
+        "w": 74,
+        "h": 23,
+        "x": 153,
+        "y": 1,
+        "fx": 0,
+        "fy": -5,
+        "fw": 74,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_light/snow_plain/gate/.gen/snow_plain_gate/f0019",
+        "w": 73,
+        "h": 20,
+        "x": 153,
+        "y": 26,
+        "fx": 0,
+        "fy": -8,
+        "fw": 74,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_light/snow_plain/gate/.gen/snow_plain_gate/f0024",
+        "w": 73,
+        "h": 17,
+        "x": 77,
+        "y": 29,
+        "fx": 0,
+        "fy": -11,
+        "fw": 74,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_light/snow_plain/gate/.gen/snow_plain_gate/f0025",
+        "w": 68,
+        "h": 17,
+        "x": 1,
+        "y": 31,
+        "fx": -3,
+        "fy": -11,
+        "fw": 74,
+        "fh": 28
+    }
+]

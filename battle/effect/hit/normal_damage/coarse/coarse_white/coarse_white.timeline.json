@@ -1,0 +1,15 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 42,
+            "name": "neutral",
+            "kind": "once"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

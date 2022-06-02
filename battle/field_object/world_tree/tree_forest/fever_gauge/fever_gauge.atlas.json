@@ -1,0 +1,20 @@
+[
+    {
+        "n": "battle/field_object/world_tree/tree_forest/fever_gauge/.gen/tree_forest_fever_gauge/a",
+        "w": 42,
+        "h": 9,
+        "x": 1,
+        "y": 1,
+        "fx": -5,
+        "fy": -6,
+        "fw": 51,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/fever_gauge/.gen/tree_forest_fever_gauge/b",
+        "w": 92,
+        "h": 29,
+        "x": 1,
+        "y": 12
+    }
+]

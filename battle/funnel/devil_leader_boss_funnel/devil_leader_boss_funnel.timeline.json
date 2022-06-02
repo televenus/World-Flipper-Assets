@@ -1,0 +1,54 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 65,
+            "name": "start",
+            "kind": "once"
+        },
+        {
+            "begin": 66,
+            "end": 70,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 71,
+            "end": 76,
+            "name": "charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 77,
+            "end": 121,
+            "name": "attack",
+            "kind": "once"
+        },
+        {
+            "begin": 122,
+            "end": 127,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/dark/se_bad_soul_wind",
+            "begin": 6,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_dark_hit_shadow",
+            "begin": 90,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

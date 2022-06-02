@@ -1,0 +1,245 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 4,
+            "name": "start",
+            "kind": "loop"
+        },
+        {
+            "begin": 5,
+            "end": 110,
+            "name": "start_2",
+            "kind": "once"
+        },
+        {
+            "begin": 111,
+            "end": 159,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 160,
+            "end": 249,
+            "name": "move_start",
+            "kind": "once"
+        },
+        {
+            "begin": 250,
+            "end": 253,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 254,
+            "end": 343,
+            "name": "move_end",
+            "kind": "once"
+        },
+        {
+            "begin": 344,
+            "end": 357,
+            "name": "summons_start",
+            "kind": "once"
+        },
+        {
+            "begin": 358,
+            "end": 369,
+            "name": "summons_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 370,
+            "end": 402,
+            "name": "summons_end",
+            "kind": "once"
+        },
+        {
+            "begin": 403,
+            "end": 411,
+            "name": "target_start",
+            "kind": "once"
+        },
+        {
+            "begin": 412,
+            "end": 418,
+            "name": "target_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 419,
+            "end": 455,
+            "name": "target_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 456,
+            "end": 464,
+            "name": "normal_shot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 465,
+            "end": 471,
+            "name": "normal_shot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 472,
+            "end": 508,
+            "name": "normal_shot_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 509,
+            "end": 522,
+            "name": "skill_shot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 523,
+            "end": 535,
+            "name": "skill_shot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 536,
+            "end": 565,
+            "name": "skill_shot_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 566,
+            "end": 584,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 585,
+            "end": 598,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 599,
+            "end": 664,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 665,
+            "end": 730,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 731,
+            "end": 809,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 810,
+            "end": 1019,
+            "name": "reverse",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 204,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 266,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_owl_charge",
+            "begin": 358,
+            "loop": -1,
+            "end": 370,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 412,
+            "loop": -1,
+            "end": 419,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 419,
+            "loop": -1,
+            "end": 456,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 465,
+            "loop": -1,
+            "end": 472,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 472,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_owl_charge",
+            "begin": 523,
+            "loop": -1,
+            "end": 536,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_light_fire_breath",
+            "begin": 536,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_dark_aura_emission",
+            "begin": 815,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_eyes_flash",
+            "begin": 897,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_gigantic_darkness_emit",
+            "begin": 912,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_scream2",
+            "begin": 972,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

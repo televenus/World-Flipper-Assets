@@ -1,0 +1,44 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/tornado/.gen/tornado/a",
+        "w": 56,
+        "h": 14,
+        "x": 1,
+        "y": 18
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/tornado/.gen/tornado/b",
+        "w": 28,
+        "h": 7,
+        "x": 31,
+        "y": 70
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/tornado/.gen/tornado/c",
+        "w": 56,
+        "h": 15,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/tornado/.gen/tornado/d",
+        "w": 28,
+        "h": 8,
+        "x": 31,
+        "y": 60
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/tornado/.gen/tornado/e",
+        "w": 55,
+        "h": 24,
+        "x": 1,
+        "y": 34
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/tornado/.gen/tornado/f",
+        "w": 28,
+        "h": 12,
+        "x": 1,
+        "y": 60
+    }
+]

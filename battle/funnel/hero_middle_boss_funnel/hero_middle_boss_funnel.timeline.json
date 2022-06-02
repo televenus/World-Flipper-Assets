@@ -1,0 +1,66 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 44,
+            "name": "start",
+            "kind": "once"
+        },
+        {
+            "begin": 45,
+            "end": 104,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 105,
+            "end": 204,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 205,
+            "end": 252,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 253,
+            "end": 300,
+            "name": "shot1_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 301,
+            "end": 316,
+            "name": "shot1_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 317,
+            "end": 321,
+            "name": "shot1_end",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/unique/se_emilia_charge",
+            "begin": 253,
+            "loop": -1,
+            "end": 301,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_cannon_bit_shot_once",
+            "begin": 301,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

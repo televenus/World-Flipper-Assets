@@ -1,0 +1,91 @@
+[
+    {
+        "n": "battle/effect/hit/condition/enhancing_invincible/.gen/enhancing_invincible/a",
+        "w": 8,
+        "h": 20,
+        "x": 74,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_invincible/.gen/enhancing_invincible/b",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 43,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_invincible/.gen/enhancing_invincible/c",
+        "w": 20,
+        "h": 20,
+        "x": 23,
+        "y": 43,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_invincible/.gen/enhancing_invincible/d",
+        "w": 19,
+        "h": 19,
+        "x": 45,
+        "y": 42,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_invincible/.gen/enhancing_invincible/e",
+        "w": 8,
+        "h": 20,
+        "x": 74,
+        "y": 23,
+        "fx": -3,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_invincible/.gen/enhancing_invincible/f",
+        "w": 20,
+        "h": 8,
+        "x": 43,
+        "y": 32,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_invincible/.gen/enhancing_invincible/g",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_invincible/.gen/enhancing_invincible/h",
+        "w": 29,
+        "h": 29,
+        "x": 43,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    }
+]

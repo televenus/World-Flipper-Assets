@@ -1,0 +1,23 @@
+[
+    {
+        "n": "battle/effect/hit/condition/buff_debuff_reset/.gen/buff_debuff_reset/a",
+        "w": 30,
+        "h": 24,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_debuff_reset/.gen/buff_debuff_reset/b",
+        "w": 30,
+        "h": 24,
+        "x": 33,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_debuff_reset/.gen/buff_debuff_reset/c",
+        "w": 30,
+        "h": 24,
+        "x": 65,
+        "y": 1
+    }
+]

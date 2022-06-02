@@ -1,0 +1,79 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_giant_inside_ev/gate/.gen/sand_giant_inside_ev_gate/f0011",
+        "w": 48,
+        "h": 29,
+        "x": 1,
+        "y": 102,
+        "fx": -8,
+        "fy": -3,
+        "fw": 64,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_giant_inside_ev/gate/.gen/sand_giant_inside_ev_gate/f0016",
+        "w": 60,
+        "h": 27,
+        "x": 1,
+        "y": 1,
+        "fx": -2,
+        "fy": -5,
+        "fw": 64,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_giant_inside_ev/gate/.gen/sand_giant_inside_ev_gate/f0021",
+        "w": 60,
+        "h": 17,
+        "x": 1,
+        "y": 30,
+        "fx": -2,
+        "fy": -15,
+        "fw": 64,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_giant_inside_ev/gate/.gen/sand_giant_inside_ev_gate/f0026",
+        "w": 60,
+        "h": 12,
+        "x": 1,
+        "y": 49,
+        "fx": -2,
+        "fy": -19,
+        "fw": 64,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_giant_inside_ev/gate/.gen/sand_giant_inside_ev_gate/f0031",
+        "w": 60,
+        "h": 11,
+        "x": 1,
+        "y": 63,
+        "fx": -2,
+        "fy": -19,
+        "fw": 64,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_giant_inside_ev/gate/.gen/sand_giant_inside_ev_gate/f0036",
+        "w": 60,
+        "h": 11,
+        "x": 1,
+        "y": 76,
+        "fx": -2,
+        "fy": -19,
+        "fw": 64,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_giant_inside_ev/gate/.gen/sand_giant_inside_ev_gate/f0043",
+        "w": 60,
+        "h": 11,
+        "x": 1,
+        "y": 89,
+        "fx": -2,
+        "fy": -19,
+        "fw": 64,
+        "fh": 33
+    }
+]

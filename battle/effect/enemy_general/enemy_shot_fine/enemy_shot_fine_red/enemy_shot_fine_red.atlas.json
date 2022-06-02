@@ -1,0 +1,25 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_fine/enemy_shot_fine_red/.gen/enemy_shot_fine_red/a",
+        "w": 15,
+        "h": 13,
+        "x": 1,
+        "y": 18,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_fine/enemy_shot_fine_red/.gen/enemy_shot_fine_red/b",
+        "w": 15,
+        "h": 15,
+        "x": 1,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    }
+]

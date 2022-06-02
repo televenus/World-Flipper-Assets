@@ -1,0 +1,260 @@
+[
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/a",
+        "w": 16,
+        "h": 16,
+        "x": 106,
+        "y": 382
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/b",
+        "w": 29,
+        "h": 56,
+        "x": 69,
+        "y": 109,
+        "fx": -1,
+        "fy": 0,
+        "fw": 30,
+        "fh": 56
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/c",
+        "w": 1,
+        "h": 1,
+        "x": 50,
+        "y": 468,
+        "fx": 0,
+        "fy": 0,
+        "fw": 90,
+        "fh": 116
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/d",
+        "w": 1,
+        "h": 1,
+        "x": 50,
+        "y": 468,
+        "fx": 0,
+        "fy": 0,
+        "fw": 42,
+        "fh": 52
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/e",
+        "w": 27,
+        "h": 49,
+        "x": 99,
+        "y": 109
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/f",
+        "w": 1,
+        "h": 1,
+        "x": 50,
+        "y": 468,
+        "fx": 0,
+        "fy": 0,
+        "fw": 348,
+        "fh": 44
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/g",
+        "w": 16,
+        "h": 16,
+        "x": 106,
+        "y": 399
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/h",
+        "w": 7,
+        "h": 32,
+        "x": 106,
+        "y": 349
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/i",
+        "w": 25,
+        "h": 33,
+        "x": 50,
+        "y": 434
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/j",
+        "w": 22,
+        "h": 33,
+        "x": 98,
+        "y": 215
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/k",
+        "w": 24,
+        "h": 32,
+        "x": 99,
+        "y": 283
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/l",
+        "w": 24,
+        "h": 32,
+        "x": 99,
+        "y": 316
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/m",
+        "w": 33,
+        "h": 33,
+        "x": 76,
+        "y": 430
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/cutin_rush_zone_objective/n",
+        "w": 24,
+        "h": 33,
+        "x": 99,
+        "y": 249
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/floor_checker/a",
+        "w": 37,
+        "h": 37,
+        "x": 68,
+        "y": 354
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/floor_checker/b",
+        "w": 1,
+        "h": 1,
+        "x": 50,
+        "y": 468,
+        "fx": 0,
+        "fy": 0,
+        "fw": 31,
+        "fh": 31
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/floor_checker/c",
+        "w": 37,
+        "h": 37,
+        "x": 68,
+        "y": 392
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/.gen/floor_checker/d",
+        "w": 30,
+        "h": 38,
+        "x": 68,
+        "y": 315,
+        "r": true
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/a1",
+        "w": 19,
+        "h": 46,
+        "x": 100,
+        "y": 159,
+        "fx": -6,
+        "fy": -6,
+        "fw": 42,
+        "fh": 52
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/a2",
+        "w": 30,
+        "h": 47,
+        "x": 68,
+        "y": 267,
+        "fx": -6,
+        "fy": -5,
+        "fw": 42,
+        "fh": 52
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/a3",
+        "w": 30,
+        "h": 48,
+        "x": 69,
+        "y": 166,
+        "fx": -6,
+        "fy": -4,
+        "fw": 42,
+        "fh": 52
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/a4",
+        "w": 47,
+        "h": 36,
+        "x": 2,
+        "y": 434,
+        "r": true,
+        "fx": -3,
+        "fy": -5,
+        "fw": 42,
+        "fh": 52
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/a5",
+        "w": 29,
+        "h": 48,
+        "x": 68,
+        "y": 218,
+        "fx": -7,
+        "fy": -4,
+        "fw": 42,
+        "fh": 52
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/b1",
+        "w": 43,
+        "h": 106,
+        "x": 83,
+        "y": 2,
+        "fx": -12,
+        "fy": -10,
+        "fw": 90,
+        "fh": 116
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/b2",
+        "w": 65,
+        "h": 106,
+        "x": 2,
+        "y": 327,
+        "fx": -12,
+        "fy": -10,
+        "fw": 90,
+        "fh": 116
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/b3",
+        "w": 65,
+        "h": 108,
+        "x": 2,
+        "y": 218,
+        "fx": -12,
+        "fy": -8,
+        "fw": 90,
+        "fh": 116
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/b4",
+        "w": 80,
+        "h": 106,
+        "x": 2,
+        "y": 2,
+        "fx": -5,
+        "fy": -10,
+        "fw": 90,
+        "fh": 116
+    },
+    {
+        "n": "battle/common/boss_rush_layer1/zone_objective/b5",
+        "w": 66,
+        "h": 108,
+        "x": 2,
+        "y": 109,
+        "fx": -12,
+        "fy": -8,
+        "fw": 90,
+        "fh": 116
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_fine/enemy_shot_pierce_fine_blue/.gen/enemy_shot_pierce_fine_blue/a",
+        "w": 16,
+        "h": 13,
+        "x": 17,
+        "y": 40,
+        "r": true,
+        "fx": -32,
+        "fy": -30,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_fine/enemy_shot_pierce_fine_blue/.gen/enemy_shot_pierce_fine_blue/b",
+        "w": 15,
+        "h": 18,
+        "x": 23,
+        "y": 1,
+        "fx": -31,
+        "fy": -29,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_fine/enemy_shot_pierce_fine_blue/.gen/enemy_shot_pierce_fine_blue/c",
+        "w": 20,
+        "h": 17,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -30,
+        "fy": -28,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_fine/enemy_shot_pierce_fine_blue/.gen/enemy_shot_pierce_fine_blue/d",
+        "w": 14,
+        "h": 14,
+        "x": 1,
+        "y": 40,
+        "fx": -31,
+        "fy": -31,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_fine/enemy_shot_pierce_fine_blue/.gen/enemy_shot_pierce_fine_blue/e",
+        "w": 16,
+        "h": 17,
+        "x": 22,
+        "y": 21,
+        "fx": -30,
+        "fy": -30,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_pierce_fine/enemy_shot_pierce_fine_blue/.gen/enemy_shot_pierce_fine_blue/f",
+        "w": 19,
+        "h": 18,
+        "x": 1,
+        "y": 20,
+        "r": true,
+        "fx": -29,
+        "fy": -29,
+        "fw": 80,
+        "fh": 80
+    }
+]

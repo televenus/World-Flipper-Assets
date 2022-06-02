@@ -1,0 +1,211 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/a",
+        "w": 13,
+        "h": 14,
+        "x": 18,
+        "y": 350
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/b",
+        "w": 3,
+        "h": 9,
+        "x": 24,
+        "y": 269,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/c",
+        "w": 4,
+        "h": 9,
+        "x": 24,
+        "y": 258,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/d",
+        "w": 6,
+        "h": 10,
+        "x": 24,
+        "y": 246,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/e",
+        "w": 13,
+        "h": 13,
+        "x": 18,
+        "y": 382,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/f",
+        "w": 2,
+        "h": 5,
+        "x": 24,
+        "y": 280,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/g",
+        "w": 13,
+        "h": 13,
+        "x": 18,
+        "y": 397,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/h",
+        "w": 13,
+        "h": 13,
+        "x": 18,
+        "y": 382,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/i",
+        "w": 13,
+        "h": 13,
+        "x": 18,
+        "y": 412,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/j",
+        "w": 13,
+        "h": 14,
+        "x": 18,
+        "y": 366,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/k",
+        "w": 13,
+        "h": 15,
+        "x": 18,
+        "y": 333,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/l",
+        "w": 15,
+        "h": 14,
+        "x": 1,
+        "y": 414,
+        "r": true,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/m",
+        "w": 29,
+        "h": 151,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -55,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/n",
+        "w": 28,
+        "h": 90,
+        "x": 1,
+        "y": 154,
+        "r": true,
+        "fx": -54,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/o",
+        "w": 21,
+        "h": 85,
+        "x": 1,
+        "y": 246,
+        "r": true,
+        "fx": -53,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/p",
+        "w": 15,
+        "h": 20,
+        "x": 1,
+        "y": 333,
+        "fx": -123,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/q",
+        "w": 15,
+        "h": 19,
+        "x": 1,
+        "y": 355,
+        "fx": -123,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/r",
+        "w": 15,
+        "h": 16,
+        "x": 1,
+        "y": 396,
+        "r": true,
+        "fx": -121,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_samurai/.gen/skill_invoker_samurai/s",
+        "w": 15,
+        "h": 18,
+        "x": 1,
+        "y": 376,
+        "r": true,
+        "fx": -117,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    }
+]

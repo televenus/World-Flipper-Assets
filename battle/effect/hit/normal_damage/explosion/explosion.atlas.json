@@ -1,0 +1,82 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/explosion/.gen/explosion/a",
+        "w": 48,
+        "h": 53,
+        "x": 78,
+        "y": 159,
+        "r": true,
+        "fx": -71,
+        "fy": -78,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/explosion/.gen/explosion/b",
+        "w": 75,
+        "h": 86,
+        "x": 1,
+        "y": 159,
+        "fx": -65,
+        "fy": -55,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/explosion/.gen/explosion/c",
+        "w": 122,
+        "h": 112,
+        "x": 152,
+        "y": 147,
+        "fx": -41,
+        "fy": -38,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/explosion/.gen/explosion/d",
+        "w": 141,
+        "h": 127,
+        "x": 291,
+        "y": 1,
+        "r": true,
+        "fx": -35,
+        "fy": -23,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/explosion/.gen/explosion/e",
+        "w": 140,
+        "h": 137,
+        "x": 291,
+        "y": 130,
+        "r": true,
+        "fx": -30,
+        "fy": -27,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/explosion/.gen/explosion/f",
+        "w": 137,
+        "h": 144,
+        "x": 152,
+        "y": 1,
+        "fx": -35,
+        "fy": -24,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/explosion/.gen/explosion/g",
+        "w": 149,
+        "h": 156,
+        "x": 1,
+        "y": 1,
+        "fx": -29,
+        "fy": -18,
+        "fw": 200,
+        "fh": 200
+    }
+]

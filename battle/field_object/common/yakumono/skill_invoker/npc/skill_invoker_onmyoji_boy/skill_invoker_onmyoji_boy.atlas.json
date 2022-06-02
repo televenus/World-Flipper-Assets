@@ -1,0 +1,218 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/a",
+        "w": 13,
+        "h": 17,
+        "x": 62,
+        "y": 197,
+        "fx": -122,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/b",
+        "w": 9,
+        "h": 3,
+        "x": 1,
+        "y": 248
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/c",
+        "w": 4,
+        "h": 9,
+        "x": 62,
+        "y": 235,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/d",
+        "w": 10,
+        "h": 6,
+        "x": 239,
+        "y": 191,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/e",
+        "w": 13,
+        "h": 17,
+        "x": 62,
+        "y": 197,
+        "fx": -122,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/f",
+        "w": 2,
+        "h": 5,
+        "x": 77,
+        "y": 216,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/g",
+        "w": 13,
+        "h": 17,
+        "x": 62,
+        "y": 216,
+        "fx": -122,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/h",
+        "w": 13,
+        "h": 17,
+        "x": 62,
+        "y": 197,
+        "fx": -122,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/i",
+        "w": 13,
+        "h": 17,
+        "x": 77,
+        "y": 197,
+        "fx": -122,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/j",
+        "w": 69,
+        "h": 64,
+        "x": 265,
+        "y": 1,
+        "fx": -94,
+        "fy": -88,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/k",
+        "w": 70,
+        "h": 62,
+        "x": 265,
+        "y": 67,
+        "fx": -94,
+        "fy": -90,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/l",
+        "w": 68,
+        "h": 60,
+        "x": 169,
+        "y": 191,
+        "fx": -94,
+        "fy": -93,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/m",
+        "w": 59,
+        "h": 49,
+        "x": 1,
+        "y": 197,
+        "fx": -99,
+        "fy": -100,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/n",
+        "w": 79,
+        "h": 95,
+        "x": 88,
+        "y": 99,
+        "fx": -90,
+        "fy": -54,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/o",
+        "w": 85,
+        "h": 96,
+        "x": 1,
+        "y": 99,
+        "fx": -86,
+        "fy": -52,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/p",
+        "w": 87,
+        "h": 96,
+        "x": 1,
+        "y": 1,
+        "fx": -85,
+        "fy": -52,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/q",
+        "w": 88,
+        "h": 94,
+        "x": 90,
+        "y": 1,
+        "fx": -85,
+        "fy": -53,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/r",
+        "w": 83,
+        "h": 93,
+        "x": 180,
+        "y": 1,
+        "fx": -86,
+        "fy": -53,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/s",
+        "w": 81,
+        "h": 92,
+        "x": 169,
+        "y": 97,
+        "fx": -88,
+        "fy": -53,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_onmyoji_boy/.gen/skill_invoker_onmyoji_boy/t",
+        "w": 82,
+        "h": 92,
+        "x": 252,
+        "y": 131,
+        "fx": -86,
+        "fy": -52,
+        "fw": 256,
+        "fh": 256
+    }
+]

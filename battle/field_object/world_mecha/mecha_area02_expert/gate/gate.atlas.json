@@ -1,0 +1,79 @@
+[
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02_expert/gate/.gen/mecha_area02_gate/f0011",
+        "w": 34,
+        "h": 29,
+        "x": 1,
+        "y": 1,
+        "fx": -2,
+        "fy": -4,
+        "fw": 38,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02_expert/gate/.gen/mecha_area02_gate/f0015",
+        "w": 34,
+        "h": 29,
+        "x": 37,
+        "y": 1,
+        "fx": -2,
+        "fy": -4,
+        "fw": 38,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02_expert/gate/.gen/mecha_area02_gate/f0019",
+        "w": 34,
+        "h": 29,
+        "x": 73,
+        "y": 1,
+        "fx": -2,
+        "fy": -4,
+        "fw": 38,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02_expert/gate/.gen/mecha_area02_gate/f0034",
+        "w": 34,
+        "h": 29,
+        "x": 109,
+        "y": 1,
+        "fx": -2,
+        "fy": -4,
+        "fw": 38,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02_expert/gate/.gen/mecha_area02_gate/f0038",
+        "w": 34,
+        "h": 29,
+        "x": 145,
+        "y": 1,
+        "fx": -2,
+        "fy": -4,
+        "fw": 38,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02_expert/gate/.gen/mecha_area02_gate/f0042",
+        "w": 34,
+        "h": 29,
+        "x": 181,
+        "y": 1,
+        "fx": -2,
+        "fy": -4,
+        "fw": 38,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02_expert/gate/.gen/mecha_area02_gate/f0044",
+        "w": 34,
+        "h": 28,
+        "x": 217,
+        "y": 1,
+        "fx": -2,
+        "fy": -5,
+        "fw": 38,
+        "fh": 35
+    }
+]

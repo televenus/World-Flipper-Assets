@@ -1,0 +1,27 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/fine/fine_yellow/.gen/fine_yellow/a",
+        "w": 4,
+        "h": 4,
+        "x": 31,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/fine/fine_yellow/.gen/fine_yellow/b",
+        "w": 28,
+        "h": 28,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/fine/fine_yellow/.gen/fine_yellow/c",
+        "w": 4,
+        "h": 4,
+        "x": 31,
+        "y": 7
+    }
+]

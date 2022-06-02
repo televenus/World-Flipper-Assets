@@ -1,0 +1,62 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 25,
+            "name": "popup",
+            "kind": "once"
+        },
+        {
+            "begin": 26,
+            "end": 58,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 59,
+            "end": 75,
+            "name": "charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 76,
+            "end": 84,
+            "name": "attack",
+            "kind": "goto",
+            "target": "charge"
+        },
+        {
+            "begin": 85,
+            "end": 122,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/element/se_moving_wind",
+            "begin": 1,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_effect_skill_attack_spin_smash_sword",
+            "begin": 76,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_glass_break",
+            "begin": 85,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

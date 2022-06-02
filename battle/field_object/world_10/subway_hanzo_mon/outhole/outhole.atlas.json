@@ -1,0 +1,68 @@
+[
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/outhole/.gen/subway_hanzo_mon_outhole_zone1/f0044",
+        "w": 40,
+        "h": 14,
+        "x": 1,
+        "y": 37,
+        "fx": -6,
+        "fy": -2,
+        "fw": 52,
+        "fh": 16
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/outhole/.gen/subway_hanzo_mon_outhole_zone2/f0006",
+        "w": 56,
+        "h": 16,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -1,
+        "fw": 64,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/outhole/.gen/subway_hanzo_mon_outhole_zone2/f0011",
+        "w": 56,
+        "h": 16,
+        "x": 59,
+        "y": 1,
+        "fx": -4,
+        "fy": -1,
+        "fw": 64,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/outhole/.gen/subway_hanzo_mon_outhole_zone2/f0014",
+        "w": 56,
+        "h": 16,
+        "x": 1,
+        "y": 19,
+        "fx": -4,
+        "fy": -1,
+        "fw": 64,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/outhole/.gen/subway_hanzo_mon_outhole_zone2/f0017",
+        "w": 56,
+        "h": 16,
+        "x": 59,
+        "y": 19,
+        "fx": -4,
+        "fy": -1,
+        "fw": 64,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/outhole/.gen/subway_hanzo_mon_outhole_zone2/f0044",
+        "w": 40,
+        "h": 14,
+        "x": 43,
+        "y": 37,
+        "fx": -12,
+        "fy": -3,
+        "fw": 64,
+        "fh": 18
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/a",
+        "w": 25,
+        "h": 25,
+        "x": 321,
+        "y": 1,
+        "fx": -24,
+        "fy": -14,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/b",
+        "w": 26,
+        "h": 26,
+        "x": 293,
+        "y": 1,
+        "fx": -23,
+        "fy": -13,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/c",
+        "w": 26,
+        "h": 28,
+        "x": 265,
+        "y": 1,
+        "r": true,
+        "fx": -22,
+        "fy": -13,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/d",
+        "w": 39,
+        "h": 33,
+        "x": 161,
+        "y": 1,
+        "fx": -17,
+        "fy": -3,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/e",
+        "w": 46,
+        "h": 37,
+        "x": 1,
+        "y": 1,
+        "fx": -13,
+        "fy": 0,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/f",
+        "w": 52,
+        "h": 36,
+        "x": 107,
+        "y": 1,
+        "fx": -10,
+        "fy": -2,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/g",
+        "w": 56,
+        "h": 36,
+        "x": 49,
+        "y": 1,
+        "fx": -8,
+        "fy": -4,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/h",
+        "w": 61,
+        "h": 31,
+        "x": 202,
+        "y": 1,
+        "fx": -7,
+        "fy": -11,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/i",
+        "w": 64,
+        "h": 17,
+        "x": 348,
+        "y": 1,
+        "fx": -4,
+        "fy": -24,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/j",
+        "w": 64,
+        "h": 17,
+        "x": 348,
+        "y": 1,
+        "fx": -4,
+        "fy": -26,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/k",
+        "w": 64,
+        "h": 17,
+        "x": 348,
+        "y": 20,
+        "fx": -4,
+        "fy": -26,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/l",
+        "w": 63,
+        "h": 16,
+        "x": 414,
+        "y": 1,
+        "fx": -5,
+        "fy": -26,
+        "fw": 72,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/gyokuto_private_police_office/yakumono/breakable_block/gyokuto_private_police_office_glass_b/.gen/gyokuto_office_glass_b/m",
+        "w": 62,
+        "h": 15,
+        "x": 414,
+        "y": 19,
+        "fx": -5,
+        "fy": -27,
+        "fw": 72,
+        "fh": 56
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "n": "battle/field/world_light/resistance_camp/foreground/.gen/foreground/a",
+        "w": 244,
+        "h": 610,
+        "x": 1,
+        "y": 613,
+        "fx": -23,
+        "fy": -43,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "battle/field/world_light/resistance_camp/foreground/.gen/foreground/b",
+        "w": 244,
+        "h": 610,
+        "x": 1,
+        "y": 1225,
+        "fx": -23,
+        "fy": -44,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "battle/field/world_light/resistance_camp/foreground/.gen/foreground/c",
+        "w": 245,
+        "h": 610,
+        "x": 1,
+        "y": 1,
+        "fx": -22,
+        "fy": -44,
+        "fw": 272,
+        "fh": 736
+    }
+]

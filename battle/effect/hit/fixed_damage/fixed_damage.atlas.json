@@ -1,0 +1,49 @@
+[
+    {
+        "n": "battle/effect/hit/fixed_damage/.gen/fixed/a",
+        "w": 44,
+        "h": 30,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 44,
+        "fh": 43
+    },
+    {
+        "n": "battle/effect/hit/fixed_damage/.gen/fixed/b",
+        "w": 29,
+        "h": 29,
+        "x": 47,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/hit/fixed_damage/.gen/fixed/c",
+        "w": 29,
+        "h": 29,
+        "x": 78,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/hit/fixed_damage/.gen/fixed/d",
+        "w": 20,
+        "h": 20,
+        "x": 109,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/fixed_damage/.gen/fixed/e",
+        "w": 20,
+        "h": 20,
+        "x": 131,
+        "y": 1
+    }
+]

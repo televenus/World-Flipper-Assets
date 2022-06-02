@@ -1,0 +1,150 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/a",
+        "w": 31,
+        "h": 29,
+        "x": 81,
+        "y": 77,
+        "r": true,
+        "fx": -28,
+        "fy": -10,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/b",
+        "w": 31,
+        "h": 29,
+        "x": 114,
+        "y": 77,
+        "r": true,
+        "fx": -28,
+        "fy": -10,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/c",
+        "w": 31,
+        "h": 31,
+        "x": 107,
+        "y": 44,
+        "fx": -27,
+        "fy": -10,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/d",
+        "w": 33,
+        "h": 29,
+        "x": 46,
+        "y": 77,
+        "fx": -26,
+        "fy": -9,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/e",
+        "w": 30,
+        "h": 41,
+        "x": 117,
+        "y": 1,
+        "r": true,
+        "fx": -22,
+        "fy": -9,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/f",
+        "w": 46,
+        "h": 27,
+        "x": 1,
+        "y": 22,
+        "fx": -20,
+        "fy": -13,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/g",
+        "w": 20,
+        "h": 50,
+        "x": 24,
+        "y": 51,
+        "r": true,
+        "fx": -17,
+        "fy": -23,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/h",
+        "w": 21,
+        "h": 52,
+        "x": 1,
+        "y": 51,
+        "r": true,
+        "fx": -16,
+        "fy": -23,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/i",
+        "w": 56,
+        "h": 19,
+        "x": 1,
+        "y": 1,
+        "fx": -13,
+        "fy": -25,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/j",
+        "w": 56,
+        "h": 17,
+        "x": 59,
+        "y": 1,
+        "fx": -13,
+        "fy": -27,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/k",
+        "w": 56,
+        "h": 17,
+        "x": 59,
+        "y": 20,
+        "fx": -13,
+        "fy": -27,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/l",
+        "w": 56,
+        "h": 17,
+        "x": 49,
+        "y": 39,
+        "fx": -13,
+        "fy": -27,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship_boss/yakumono/breakable_block/pot_b/.gen/pot_b/m",
+        "w": 56,
+        "h": 17,
+        "x": 46,
+        "y": 58,
+        "fx": -13,
+        "fy": -27,
+        "fw": 85,
+        "fh": 51
+    }
+]

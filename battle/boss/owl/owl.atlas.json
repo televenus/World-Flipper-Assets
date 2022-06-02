@@ -1,0 +1,108 @@
+[
+    {
+        "n": "battle/boss/owl/.gen/owl_shadow/f0086",
+        "w": 24,
+        "h": 11,
+        "x": 1,
+        "y": 1,
+        "fx": -15,
+        "fy": -7,
+        "fw": 54,
+        "fh": 18
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_shadow/f0090",
+        "w": 22,
+        "h": 9,
+        "x": 1,
+        "y": 14,
+        "fx": -16,
+        "fy": -8,
+        "fw": 54,
+        "fh": 18
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_shadow/f0184",
+        "w": 20,
+        "h": 9,
+        "x": 1,
+        "y": 25,
+        "fx": -17,
+        "fy": -8,
+        "fw": 54,
+        "fh": 18
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_shadow/f0188",
+        "w": 22,
+        "h": 9,
+        "x": 1,
+        "y": 14,
+        "fx": -16,
+        "fy": -8,
+        "fw": 54,
+        "fh": 18
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_shadow/f0750",
+        "w": 24,
+        "h": 11,
+        "x": 1,
+        "y": 1,
+        "fx": -15,
+        "fy": -7,
+        "fw": 54,
+        "fh": 18
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_shadow/f0759",
+        "w": 13,
+        "h": 36,
+        "x": 17,
+        "y": 54,
+        "r": true,
+        "fx": -9,
+        "fy": -3,
+        "fw": 54,
+        "fh": 18
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_shadow/f0761",
+        "w": 14,
+        "h": 54,
+        "x": 1,
+        "y": 36,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 18
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_shadow/f0826",
+        "w": 24,
+        "h": 11,
+        "x": 1,
+        "y": 1,
+        "fx": -15,
+        "fy": -7,
+        "fw": 54,
+        "fh": 18
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_wind/a",
+        "w": 4,
+        "h": 30,
+        "x": 25,
+        "y": 22,
+        "r": true
+    },
+    {
+        "n": "battle/boss/owl/.gen/owl_wind/b",
+        "w": 5,
+        "h": 6,
+        "x": 25,
+        "y": 14,
+        "r": true
+    }
+]

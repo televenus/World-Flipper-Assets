@@ -1,0 +1,147 @@
+[
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone1/f0044",
+        "w": 42,
+        "h": 31,
+        "x": 67,
+        "y": 65,
+        "fx": -1,
+        "fy": -1,
+        "fw": 44,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0011",
+        "w": 64,
+        "h": 27,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0016",
+        "w": 64,
+        "h": 27,
+        "x": 1,
+        "y": 30,
+        "fx": -1,
+        "fy": -2,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0026",
+        "w": 64,
+        "h": 27,
+        "x": 1,
+        "y": 59,
+        "fx": -1,
+        "fy": -2,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0036",
+        "w": 26,
+        "h": 62,
+        "x": 67,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0041",
+        "w": 62,
+        "h": 26,
+        "x": 1,
+        "y": 88,
+        "fx": -2,
+        "fy": -3,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0046",
+        "w": 26,
+        "h": 62,
+        "x": 95,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0051",
+        "w": 62,
+        "h": 26,
+        "x": 1,
+        "y": 116,
+        "fx": -2,
+        "fy": -3,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0061",
+        "w": 1,
+        "h": 1,
+        "x": 111,
+        "y": 65,
+        "fx": 0,
+        "fy": 0,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0066",
+        "w": 41,
+        "h": 8,
+        "x": 61,
+        "y": 153,
+        "fx": -12,
+        "fy": -26,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0071",
+        "w": 58,
+        "h": 19,
+        "x": 1,
+        "y": 144,
+        "fx": -4,
+        "fy": -16,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0076",
+        "w": 58,
+        "h": 26,
+        "x": 65,
+        "y": 98,
+        "fx": -4,
+        "fy": -2,
+        "fw": 66,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_dome/outhole/.gen/mecha_dome_outhole_zone2/f0078",
+        "w": 58,
+        "h": 25,
+        "x": 65,
+        "y": 126,
+        "fx": -4,
+        "fy": -4,
+        "fw": 66,
+        "fh": 35
+    }
+]

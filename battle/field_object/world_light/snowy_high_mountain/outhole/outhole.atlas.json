@@ -1,0 +1,73 @@
+[
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/outhole/.gen/snowy_high_mountain_outhole_zone1/f0044",
+        "w": 48,
+        "h": 15,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/outhole/.gen/snowy_high_mountain_outhole_zone2/f0005",
+        "w": 18,
+        "h": 70,
+        "x": 1,
+        "y": 18,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/outhole/.gen/snowy_high_mountain_outhole_zone2/f0010",
+        "w": 18,
+        "h": 70,
+        "x": 1,
+        "y": 90,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/outhole/.gen/snowy_high_mountain_outhole_zone2/f0015",
+        "w": 17,
+        "h": 70,
+        "x": 21,
+        "y": 18,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 70,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/outhole/.gen/snowy_high_mountain_outhole_zone2/f0020",
+        "w": 17,
+        "h": 70,
+        "x": 21,
+        "y": 90,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 70,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/outhole/.gen/snowy_high_mountain_outhole_zone2/f0025",
+        "w": 17,
+        "h": 70,
+        "x": 40,
+        "y": 18,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 70,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/outhole/.gen/snowy_high_mountain_outhole_zone2/f0030",
+        "w": 17,
+        "h": 70,
+        "x": 40,
+        "y": 90,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 70,
+        "fh": 18
+    }
+]

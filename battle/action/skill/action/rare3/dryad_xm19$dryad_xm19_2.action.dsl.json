@@ -1,0 +1,78 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    0,
+                    33,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACAttackPoint",
+                                            {
+                                                "min": 1200,
+                                                "max": 1200
+                                            },
+                                            {
+                                                "min": 0.5,
+                                                "max": 0.6
+                                            },
+                                            1
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "AddFeverPoint",
+                    {
+                        "min": 35,
+                        "max": 40
+                    }
+                ]
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0016",
+        "w": 34,
+        "h": 23,
+        "x": 1,
+        "y": 124,
+        "fx": -13,
+        "fy": -2,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0021",
+        "w": 36,
+        "h": 22,
+        "x": 1,
+        "y": 83,
+        "fx": -11,
+        "fy": -3,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0026",
+        "w": 39,
+        "h": 21,
+        "x": 1,
+        "y": 60,
+        "fx": -10,
+        "fy": -5,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0031",
+        "w": 17,
+        "h": 39,
+        "x": 37,
+        "y": 124,
+        "r": true,
+        "fx": -11,
+        "fy": -9,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0036",
+        "w": 18,
+        "h": 45,
+        "x": 42,
+        "y": 60,
+        "r": true,
+        "fx": -7,
+        "fy": -8,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0041",
+        "w": 49,
+        "h": 17,
+        "x": 1,
+        "y": 41,
+        "fx": -5,
+        "fy": -5,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0046",
+        "w": 47,
+        "h": 18,
+        "x": 1,
+        "y": 21,
+        "fx": -9,
+        "fy": -4,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0051",
+        "w": 50,
+        "h": 18,
+        "x": 1,
+        "y": 1,
+        "fx": -8,
+        "fy": -4,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0056",
+        "w": 51,
+        "h": 15,
+        "x": 1,
+        "y": 107,
+        "fx": -7,
+        "fy": -7,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0061",
+        "w": 10,
+        "h": 52,
+        "x": 53,
+        "y": 1,
+        "r": true,
+        "fx": -6,
+        "fy": -11,
+        "fw": 63,
+        "fh": 28
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/gate/.gen/hell_fields_gate/f0065",
+        "w": 1,
+        "h": 1,
+        "x": 50,
+        "y": 21,
+        "fx": 0,
+        "fy": 0,
+        "fw": 63,
+        "fh": 28
+    }
+]

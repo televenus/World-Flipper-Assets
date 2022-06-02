@@ -1,0 +1,105 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Event",
+                [
+                    "Wait",
+                    1,
+                    "*",
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    -17,
+                                    [
+                                        [
+                                            "ACToleranceOfElement",
+                                            {
+                                                "min": 999999,
+                                                "max": 999999
+                                            },
+                                            3,
+                                            {
+                                                "min": -0.1,
+                                                "max": -0.1
+                                            },
+                                            30
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    true
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            [
+                "Event",
+                [
+                    "Wait",
+                    1,
+                    "*",
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    -17,
+                                    [
+                                        [
+                                            "ACToleranceOfElement",
+                                            {
+                                                "min": 999999,
+                                                "max": 999999
+                                            },
+                                            3,
+                                            {
+                                                "min": -0.1,
+                                                "max": -0.1
+                                            },
+                                            30
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    true
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

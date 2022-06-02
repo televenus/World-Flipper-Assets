@@ -1,0 +1,584 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 111,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 112,
+            "end": 117,
+            "name": "powershot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 118,
+            "end": 126,
+            "name": "powershot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 127,
+            "end": 153,
+            "name": "powershot_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 154,
+            "end": 211,
+            "name": "dimention_warp_out",
+            "kind": "once"
+        },
+        {
+            "begin": 212,
+            "end": 262,
+            "name": "dimention_warp_in",
+            "kind": "once"
+        },
+        {
+            "begin": 263,
+            "end": 290,
+            "name": "dimention_warp",
+            "kind": "loop"
+        },
+        {
+            "begin": 291,
+            "end": 314,
+            "name": "hole_up_start",
+            "kind": "once"
+        },
+        {
+            "begin": 315,
+            "end": 322,
+            "name": "hole_up",
+            "kind": "once"
+        },
+        {
+            "begin": 323,
+            "end": 348,
+            "name": "hole_up_end",
+            "kind": "once"
+        },
+        {
+            "begin": 349,
+            "end": 372,
+            "name": "hole_left_start",
+            "kind": "once"
+        },
+        {
+            "begin": 373,
+            "end": 380,
+            "name": "hole_left",
+            "kind": "once"
+        },
+        {
+            "begin": 381,
+            "end": 406,
+            "name": "hole_left_end",
+            "kind": "once"
+        },
+        {
+            "begin": 407,
+            "end": 430,
+            "name": "hole_down_start",
+            "kind": "once"
+        },
+        {
+            "begin": 431,
+            "end": 438,
+            "name": "hole_down",
+            "kind": "once"
+        },
+        {
+            "begin": 439,
+            "end": 464,
+            "name": "hole_down_end",
+            "kind": "once"
+        },
+        {
+            "begin": 465,
+            "end": 488,
+            "name": "hole_right_start",
+            "kind": "once"
+        },
+        {
+            "begin": 489,
+            "end": 496,
+            "name": "hole_right",
+            "kind": "once"
+        },
+        {
+            "begin": 497,
+            "end": 522,
+            "name": "hole_right_end",
+            "kind": "once"
+        },
+        {
+            "begin": 523,
+            "end": 633,
+            "name": "move_up",
+            "kind": "loop"
+        },
+        {
+            "begin": 634,
+            "end": 744,
+            "name": "move_upper_right",
+            "kind": "loop"
+        },
+        {
+            "begin": 745,
+            "end": 855,
+            "name": "move_right",
+            "kind": "loop"
+        },
+        {
+            "begin": 856,
+            "end": 966,
+            "name": "move_bottom_right",
+            "kind": "loop"
+        },
+        {
+            "begin": 967,
+            "end": 1077,
+            "name": "move_bottom",
+            "kind": "loop"
+        },
+        {
+            "begin": 1078,
+            "end": 1188,
+            "name": "move_bottom_left",
+            "kind": "loop"
+        },
+        {
+            "begin": 1189,
+            "end": 1299,
+            "name": "move_left",
+            "kind": "loop"
+        },
+        {
+            "begin": 1300,
+            "end": 1410,
+            "name": "move_up_left",
+            "kind": "loop"
+        },
+        {
+            "begin": 1411,
+            "end": 1416,
+            "name": "funnel_start",
+            "kind": "once"
+        },
+        {
+            "begin": 1417,
+            "end": 1447,
+            "name": "funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1448,
+            "end": 1484,
+            "name": "funnel_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 1485,
+            "end": 1520,
+            "name": "blue_beam_start",
+            "kind": "once"
+        },
+        {
+            "begin": 1521,
+            "end": 1553,
+            "name": "blue_beam_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1554,
+            "end": 1560,
+            "name": "blue_beam_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 1561,
+            "end": 1581,
+            "name": "blue_beam_attack_end",
+            "kind": "once"
+        },
+        {
+            "begin": 1582,
+            "end": 1650,
+            "name": "modechange",
+            "kind": "once"
+        },
+        {
+            "begin": 1651,
+            "end": 1741,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1742,
+            "end": 1832,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 1833,
+            "end": 1923,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1924,
+            "end": 2014,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 2015,
+            "end": 2125,
+            "name": "red_neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 2126,
+            "end": 2183,
+            "name": "red_dimention_warp_out",
+            "kind": "once"
+        },
+        {
+            "begin": 2184,
+            "end": 2234,
+            "name": "red_dimention_warp_in",
+            "kind": "once"
+        },
+        {
+            "begin": 2235,
+            "end": 2345,
+            "name": "move_up_red",
+            "kind": "loop"
+        },
+        {
+            "begin": 2346,
+            "end": 2456,
+            "name": "move_upper_right_red",
+            "kind": "loop"
+        },
+        {
+            "begin": 2457,
+            "end": 2567,
+            "name": "move_right_red",
+            "kind": "loop"
+        },
+        {
+            "begin": 2568,
+            "end": 2678,
+            "name": "move_bottom_right_red",
+            "kind": "loop"
+        },
+        {
+            "begin": 2679,
+            "end": 2789,
+            "name": "move_bottom_red",
+            "kind": "loop"
+        },
+        {
+            "begin": 2790,
+            "end": 2900,
+            "name": "move_bottom_left_red",
+            "kind": "loop"
+        },
+        {
+            "begin": 2901,
+            "end": 3011,
+            "name": "move_left_red",
+            "kind": "loop"
+        },
+        {
+            "begin": 3012,
+            "end": 3122,
+            "name": "move_up_left_red",
+            "kind": "loop"
+        },
+        {
+            "begin": 3123,
+            "end": 3128,
+            "name": "red_wideshot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 3129,
+            "end": 3137,
+            "name": "red_wideshot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 3138,
+            "end": 3164,
+            "name": "red_wideshot_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 3165,
+            "end": 3170,
+            "name": "red_funnel_start",
+            "kind": "once"
+        },
+        {
+            "begin": 3171,
+            "end": 3201,
+            "name": "red_funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 3202,
+            "end": 3238,
+            "name": "red_funnel_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 3239,
+            "end": 3274,
+            "name": "red_beam_start",
+            "kind": "once"
+        },
+        {
+            "begin": 3275,
+            "end": 3307,
+            "name": "red_beam_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 3308,
+            "end": 3314,
+            "name": "red_beam_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 3315,
+            "end": 3335,
+            "name": "red_beam_attack_end",
+            "kind": "once"
+        },
+        {
+            "begin": 3336,
+            "end": 3356,
+            "name": "red_splashbeam_start",
+            "kind": "once"
+        },
+        {
+            "begin": 3357,
+            "end": 3371,
+            "name": "red_splashbeam_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 3372,
+            "end": 3388,
+            "name": "red_splashbeam_standingby",
+            "kind": "pass"
+        },
+        {
+            "begin": 3389,
+            "end": 3419,
+            "name": "red_splashbeam_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 3420,
+            "end": 3435,
+            "name": "red_splashbeam_attack_end",
+            "kind": "once"
+        },
+        {
+            "begin": 3436,
+            "end": 3526,
+            "name": "redeye_wince_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 3527,
+            "end": 3617,
+            "name": "redeye_wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 3618,
+            "end": 3708,
+            "name": "redeye_stun_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 3709,
+            "end": 3799,
+            "name": "redeye_stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 3800,
+            "end": 3942,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 118,
+            "loop": -1,
+            "end": 127,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_arm_swing",
+            "begin": 132,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 154,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 234,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 291,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 323,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 349,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 381,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 407,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 439,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 465,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 497,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 1521,
+            "loop": -1,
+            "end": 1554,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_long",
+            "begin": 1554,
+            "loop": -1,
+            "end": 1561,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/special_motion/se_special_ob_last",
+            "begin": 1602,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_eyes_flash",
+            "begin": 1612,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_open",
+            "begin": 2126,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_hole_close",
+            "begin": 2206,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_arm_swing",
+            "begin": 3143,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 3275,
+            "loop": -1,
+            "end": 3308,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_long",
+            "begin": 3308,
+            "loop": -1,
+            "end": 3315,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_big",
+            "begin": 3357,
+            "loop": -1,
+            "end": 3372,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

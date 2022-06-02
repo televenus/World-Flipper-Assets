@@ -1,0 +1,42 @@
+[
+    {
+        "n": "battle/effect/hit/heal/heal_decrease/.gen/heal_decrease/a",
+        "w": 10,
+        "h": 6,
+        "x": 22,
+        "y": 92
+    },
+    {
+        "n": "battle/effect/hit/heal/heal_decrease/.gen/heal_decrease/b",
+        "w": 42,
+        "h": 42,
+        "x": 1,
+        "y": 48,
+        "fx": -8,
+        "fy": -8,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/hit/heal/heal_decrease/.gen/heal_decrease/c",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 92,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/heal/heal_decrease/.gen/heal_decrease/d",
+        "w": 45,
+        "h": 45,
+        "x": 1,
+        "y": 1,
+        "fx": -5,
+        "fy": -5,
+        "fw": 50,
+        "fh": 50
+    }
+]

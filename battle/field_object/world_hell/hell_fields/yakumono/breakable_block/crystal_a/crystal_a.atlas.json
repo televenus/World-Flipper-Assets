@@ -1,0 +1,113 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/a",
+        "w": 15,
+        "h": 26,
+        "x": 198,
+        "y": 1,
+        "fx": -22,
+        "fy": -11,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/b",
+        "w": 15,
+        "h": 26,
+        "x": 215,
+        "y": 1,
+        "fx": -22,
+        "fy": -11,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/c",
+        "w": 17,
+        "h": 25,
+        "x": 232,
+        "y": 1,
+        "fx": -21,
+        "fy": -12,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/d",
+        "w": 28,
+        "h": 29,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -14,
+        "fy": -7,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/e",
+        "w": 34,
+        "h": 28,
+        "x": 75,
+        "y": 1,
+        "fx": -11,
+        "fy": -6,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/f",
+        "w": 39,
+        "h": 27,
+        "x": 111,
+        "y": 1,
+        "fx": -9,
+        "fy": -6,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/g",
+        "w": 42,
+        "h": 28,
+        "x": 31,
+        "y": 1,
+        "fx": -7,
+        "fy": -7,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/h",
+        "w": 44,
+        "h": 26,
+        "x": 152,
+        "y": 1,
+        "fx": -6,
+        "fy": -8,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/i",
+        "w": 46,
+        "h": 23,
+        "x": 251,
+        "y": 1,
+        "fx": -5,
+        "fy": -11,
+        "fw": 58,
+        "fh": 44
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_fields/yakumono/breakable_block/crystal_a/.gen/crystal_a/j",
+        "w": 48,
+        "h": 19,
+        "x": 299,
+        "y": 1,
+        "fx": -4,
+        "fy": -13,
+        "fw": 58,
+        "fh": 44
+    }
+]

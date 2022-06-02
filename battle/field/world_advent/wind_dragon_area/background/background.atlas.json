@@ -1,0 +1,107 @@
+[
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/a",
+        "w": 272,
+        "h": 510,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/b",
+        "w": 272,
+        "h": 510,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/c",
+        "w": 272,
+        "h": 510,
+        "x": 549,
+        "y": 1
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/d",
+        "w": 272,
+        "h": 510,
+        "x": 823,
+        "y": 1
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/e",
+        "w": 272,
+        "h": 510,
+        "x": 1097,
+        "y": 1
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/f",
+        "w": 100,
+        "h": 100,
+        "x": 1371,
+        "y": 1
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/g",
+        "w": 13,
+        "h": 8,
+        "x": 1444,
+        "y": 303
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/h",
+        "w": 71,
+        "h": 107,
+        "x": 1371,
+        "y": 235,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 107,
+        "fh": 72
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/i",
+        "w": 92,
+        "h": 61,
+        "x": 1371,
+        "y": 172,
+        "fx": 0,
+        "fy": 0,
+        "fw": 92,
+        "fh": 62
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/j",
+        "w": 27,
+        "h": 66,
+        "x": 1444,
+        "y": 235,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 66,
+        "fh": 28
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/k",
+        "w": 70,
+        "h": 34,
+        "x": 1371,
+        "y": 344
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/l",
+        "w": 99,
+        "h": 67,
+        "x": 1371,
+        "y": 103
+    },
+    {
+        "n": "battle/field/world_advent/wind_dragon_area/background/.gen/background/m",
+        "w": 66,
+        "h": 33,
+        "x": 1371,
+        "y": 380
+    }
+]

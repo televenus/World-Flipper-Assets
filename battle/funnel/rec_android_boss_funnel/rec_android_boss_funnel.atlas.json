@@ -1,0 +1,97 @@
+[
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel/a",
+        "w": 8,
+        "h": 12,
+        "x": 1,
+        "y": 1,
+        "fx": -124,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel/b",
+        "w": 8,
+        "h": 12,
+        "x": 1,
+        "y": 15,
+        "fx": -124,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel/c",
+        "w": 8,
+        "h": 12,
+        "x": 1,
+        "y": 29,
+        "fx": -124,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel/d",
+        "w": 8,
+        "h": 12,
+        "x": 1,
+        "y": 43,
+        "fx": -124,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel_marker/a",
+        "w": 8,
+        "h": 12,
+        "x": 1,
+        "y": 1,
+        "fx": -124,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel_marker/b",
+        "w": 8,
+        "h": 12,
+        "x": 1,
+        "y": 15,
+        "fx": -124,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel_marker/c",
+        "w": 8,
+        "h": 12,
+        "x": 1,
+        "y": 29,
+        "fx": -124,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel_marker/d",
+        "w": 8,
+        "h": 12,
+        "x": 1,
+        "y": 43,
+        "fx": -124,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/funnel/rec_android_boss_funnel/.gen/rec_android_boss_funnel_shadow/a",
+        "w": 8,
+        "h": 3,
+        "x": 1,
+        "y": 57
+    }
+]

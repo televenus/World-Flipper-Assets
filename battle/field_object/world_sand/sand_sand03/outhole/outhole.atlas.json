@@ -1,0 +1,68 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_sand03/outhole/.gen/sand_sand03_outhole_zone1/f0027",
+        "w": 48,
+        "h": 15,
+        "x": 1,
+        "y": 39,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 17
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand03/outhole/.gen/sand_sand03_outhole_zone2/f0010",
+        "w": 54,
+        "h": 16,
+        "x": 57,
+        "y": 20,
+        "fx": -1,
+        "fy": -1,
+        "fw": 57,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand03/outhole/.gen/sand_sand03_outhole_zone2/f0015",
+        "w": 54,
+        "h": 17,
+        "x": 1,
+        "y": 1,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand03/outhole/.gen/sand_sand03_outhole_zone2/f0020",
+        "w": 54,
+        "h": 17,
+        "x": 57,
+        "y": 1,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand03/outhole/.gen/sand_sand03_outhole_zone2/f0025",
+        "w": 54,
+        "h": 17,
+        "x": 1,
+        "y": 20,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand03/outhole/.gen/sand_sand03_outhole_zone2/f0027",
+        "w": 54,
+        "h": 16,
+        "x": 57,
+        "y": 38,
+        "fx": -2,
+        "fy": -1,
+        "fw": 57,
+        "fh": 18
+    }
+]

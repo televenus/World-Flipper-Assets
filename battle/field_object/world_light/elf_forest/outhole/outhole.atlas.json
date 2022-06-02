@@ -1,0 +1,118 @@
+[
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone1/f0044",
+        "w": 18,
+        "h": 41,
+        "x": 46,
+        "y": 61,
+        "r": true,
+        "fx": -5,
+        "fy": -7,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0004",
+        "w": 43,
+        "h": 28,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0008",
+        "w": 43,
+        "h": 28,
+        "x": 1,
+        "y": 31,
+        "fx": -4,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0012",
+        "w": 43,
+        "h": 28,
+        "x": 46,
+        "y": 1,
+        "fx": -4,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0016",
+        "w": 28,
+        "h": 43,
+        "x": 91,
+        "y": 1,
+        "r": true,
+        "fx": -4,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0020",
+        "w": 43,
+        "h": 28,
+        "x": 46,
+        "y": 31,
+        "fx": -4,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0028",
+        "w": 22,
+        "h": 43,
+        "x": 91,
+        "y": 46,
+        "r": true,
+        "fx": -4,
+        "fy": -5,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0032",
+        "w": 21,
+        "h": 41,
+        "x": 1,
+        "y": 61,
+        "r": true,
+        "fx": -5,
+        "fy": -4,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0036",
+        "w": 20,
+        "h": 41,
+        "x": 24,
+        "y": 61,
+        "r": true,
+        "fx": -5,
+        "fy": -5,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_forest/outhole/.gen/elf_forest_outhole_zone2/f0040",
+        "w": 18,
+        "h": 41,
+        "x": 66,
+        "y": 61,
+        "r": true,
+        "fx": -5,
+        "fy": -7,
+        "fw": 52,
+        "fh": 32
+    }
+]

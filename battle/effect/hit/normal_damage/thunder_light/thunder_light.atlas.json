@@ -1,0 +1,83 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/a",
+        "w": 28,
+        "h": 32,
+        "x": 35,
+        "y": 56,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/b",
+        "w": 32,
+        "h": 30,
+        "x": 1,
+        "y": 36,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 32,
+        "fh": 33
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/c",
+        "w": 16,
+        "h": 31,
+        "x": 37,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/d",
+        "w": 34,
+        "h": 33,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/e",
+        "w": 20,
+        "h": 20,
+        "x": 37,
+        "y": 34
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/f",
+        "w": 29,
+        "h": 29,
+        "x": 1,
+        "y": 68,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/g",
+        "w": 20,
+        "h": 20,
+        "x": 32,
+        "y": 90
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/h",
+        "w": 33,
+        "h": 10,
+        "x": 23,
+        "y": 112,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 11,
+        "fh": 33
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/thunder_light/.gen/thunder_light/i",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 99
+    }
+]

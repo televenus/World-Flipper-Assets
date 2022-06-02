@@ -1,0 +1,117 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/field/world_haniwa/haniwa_carnival_water/foreground/.gen/foreground/a"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_haniwa/haniwa_carnival_water/foreground/.gen/foreground/b"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_haniwa/haniwa_carnival_water/foreground/.gen/foreground/c"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_haniwa/haniwa_carnival_water/foreground/.gen/foreground/d"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_haniwa/haniwa_carnival_water/foreground/.gen/foreground/e"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_haniwa/haniwa_carnival_water/foreground/.gen/foreground/f"
+        }
+    ],
+    "g": [
+        {
+            "t": 60,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 30,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 40,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 50,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "c": [],
+    "s": 6
+}

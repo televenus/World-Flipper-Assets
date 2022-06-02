@@ -1,0 +1,418 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/a"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/b"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/c"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/d"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/e"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/f"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/g"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/h"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/i"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/j"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/k"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/l"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/m"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/n"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/o"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/p"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/q"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/r"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/s"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/devil_leader_boss_funnel/.gen/devil_leader_boss_funnel/t"
+        }
+    ],
+    "g": [
+        {
+            "t": 127,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 127,
+                            "r": 1073741824
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 127,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 65,
+                            "r": 1073741824
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483583,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5,
+                            "r": 1073741828
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483578,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 6,
+                            "r": 5
+                        },
+                        {
+                            "m": 4351,
+                            "t": 45,
+                            "r": 1073741829
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483527,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 6,
+                            "r": 1073741828
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 55,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 15,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 25,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 35,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 40,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 45,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 50,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 5,
+            "s": [
+                {
+                    "s": 4,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 255
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 45,
+            "s": [
+                {
+                    "s": 5,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 15,
+                    "i": 13,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 14,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 25,
+                    "i": 15,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 30,
+                    "i": 16,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 35,
+                    "i": 17,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 40,
+                    "i": 18,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 5,
+            "s": [
+                {
+                    "s": 4,
+                    "i": 19,
+                    "l": [
+                        {
+                            "m": 255
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -524288,
+            "y": -524288
+        }
+    ],
+    "c": [],
+    "s": 6
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_wiry/enemy_shot_wiry_white/.gen/enemy_shot_wiry_white/a",
+        "w": 10,
+        "h": 16,
+        "x": 1,
+        "y": 1,
+        "fx": -19,
+        "fy": -16,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_wiry/enemy_shot_wiry_white/.gen/enemy_shot_wiry_white/b",
+        "w": 12,
+        "h": 14,
+        "x": 1,
+        "y": 19,
+        "fx": -18,
+        "fy": -17,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_wiry/enemy_shot_wiry_white/.gen/enemy_shot_wiry_white/c",
+        "w": 12,
+        "h": 14,
+        "x": 1,
+        "y": 35,
+        "fx": -18,
+        "fy": -17,
+        "fw": 52,
+        "fh": 52
+    }
+]

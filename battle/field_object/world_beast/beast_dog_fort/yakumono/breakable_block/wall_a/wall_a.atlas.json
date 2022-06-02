@@ -1,0 +1,151 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/a",
+        "w": 22,
+        "h": 33,
+        "x": 39,
+        "y": 206,
+        "fx": -32,
+        "fy": -12,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/b",
+        "w": 22,
+        "h": 33,
+        "x": 39,
+        "y": 241,
+        "fx": -32,
+        "fy": -12,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/c",
+        "w": 24,
+        "h": 31,
+        "x": 39,
+        "y": 173,
+        "fx": -31,
+        "fy": -13,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/d",
+        "w": 38,
+        "h": 31,
+        "x": 20,
+        "y": 276,
+        "fx": -23,
+        "fy": -7,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/e",
+        "w": 53,
+        "h": 34,
+        "x": 1,
+        "y": 32,
+        "fx": -14,
+        "fy": -5,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/f",
+        "w": 59,
+        "h": 30,
+        "x": 1,
+        "y": 68,
+        "fx": -10,
+        "fy": -11,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/g",
+        "w": 62,
+        "h": 29,
+        "x": 1,
+        "y": 1,
+        "fx": -8,
+        "fy": -14,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/h",
+        "w": 23,
+        "h": 67,
+        "x": 1,
+        "y": 100,
+        "r": true,
+        "fx": -6,
+        "fy": -20,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/i",
+        "w": 18,
+        "h": 68,
+        "x": 26,
+        "y": 100,
+        "r": true,
+        "fx": -5,
+        "fy": -25,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/j",
+        "w": 17,
+        "h": 70,
+        "x": 1,
+        "y": 242,
+        "r": true,
+        "fx": -4,
+        "fy": -26,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/k",
+        "w": 17,
+        "h": 71,
+        "x": 46,
+        "y": 100,
+        "r": true,
+        "fx": -4,
+        "fy": -26,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/l",
+        "w": 17,
+        "h": 71,
+        "x": 1,
+        "y": 169,
+        "r": true,
+        "fx": -4,
+        "fy": -26,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_dog_fort/yakumono/breakable_block/wall_a/.gen/wall_a/m",
+        "w": 17,
+        "h": 71,
+        "x": 20,
+        "y": 170,
+        "r": true,
+        "fx": -4,
+        "fy": -26,
+        "fw": 85,
+        "fh": 51
+    }
+]

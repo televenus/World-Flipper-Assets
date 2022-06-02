@@ -1,0 +1,322 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 28,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 29,
+            "end": 48,
+            "name": "light_wall_funnel_start",
+            "kind": "once"
+        },
+        {
+            "begin": 49,
+            "end": 56,
+            "name": "light_wall_funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 57,
+            "end": 68,
+            "name": "light_wall_funnel_shot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 69,
+            "end": 76,
+            "name": "light_wall_funnel_shot_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 77,
+            "end": 88,
+            "name": "light_wall_funnel_shot_end",
+            "kind": "once"
+        },
+        {
+            "begin": 89,
+            "end": 108,
+            "name": "target_start",
+            "kind": "once"
+        },
+        {
+            "begin": 109,
+            "end": 116,
+            "name": "target_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 117,
+            "end": 128,
+            "name": "target_shot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 129,
+            "end": 136,
+            "name": "target_shot_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 137,
+            "end": 148,
+            "name": "target_shot_end",
+            "kind": "once"
+        },
+        {
+            "begin": 149,
+            "end": 164,
+            "name": "light_funnel_start",
+            "kind": "once"
+        },
+        {
+            "begin": 165,
+            "end": 172,
+            "name": "light_funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 173,
+            "end": 184,
+            "name": "light_funnel_roar_start",
+            "kind": "once"
+        },
+        {
+            "begin": 185,
+            "end": 192,
+            "name": "light_funnel_roar_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 193,
+            "end": 204,
+            "name": "light_funnel_roar_end",
+            "kind": "once"
+        },
+        {
+            "begin": 205,
+            "end": 220,
+            "name": "skill1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 221,
+            "end": 228,
+            "name": "skill1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 229,
+            "end": 264,
+            "name": "skill1_shot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 265,
+            "end": 272,
+            "name": "skill1_shot_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 273,
+            "end": 284,
+            "name": "skill1_shot_end",
+            "kind": "once"
+        },
+        {
+            "begin": 285,
+            "end": 328,
+            "name": "skill2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 329,
+            "end": 336,
+            "name": "skill2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 337,
+            "end": 360,
+            "name": "skill2_shot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 361,
+            "end": 384,
+            "name": "skill2_shot_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 385,
+            "end": 404,
+            "name": "skill2_shot_end",
+            "kind": "once"
+        },
+        {
+            "begin": 405,
+            "end": 408,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 409,
+            "end": 412,
+            "name": "wince_ready",
+            "kind": "goto",
+            "target": "wince"
+        },
+        {
+            "begin": 413,
+            "end": 433,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 434,
+            "end": 457,
+            "name": "stun_ready",
+            "kind": "goto",
+            "target": "stun"
+        },
+        {
+            "begin": 458,
+            "end": 461,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 462,
+            "end": 552,
+            "name": "fallen2",
+            "kind": "pass"
+        },
+        {
+            "begin": 553,
+            "end": 725,
+            "name": "fallen",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 49,
+            "loop": -1,
+            "end": 57,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dragon_flying",
+            "begin": 57,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_medium",
+            "begin": 109,
+            "loop": -1,
+            "end": 117,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 117,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_big",
+            "begin": 165,
+            "loop": -1,
+            "end": 173,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dragon_roar",
+            "begin": 173,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 221,
+            "loop": -1,
+            "end": 229,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dragon_roar",
+            "begin": 229,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 265,
+            "loop": -1,
+            "end": 273,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dragon_roar",
+            "begin": 285,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_big",
+            "begin": 329,
+            "loop": -1,
+            "end": 337,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_start",
+            "begin": 337,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 361,
+            "loop": -1,
+            "end": 385,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/light/se_light_release",
+            "begin": 518,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/light/se_light_aura",
+            "begin": 553,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/light/se_light_hard_flash_parry",
+            "begin": 642,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

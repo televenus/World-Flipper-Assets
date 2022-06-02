@@ -1,0 +1,294 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 31,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 32,
+            "end": 102,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 103,
+            "end": 133,
+            "name": "move_in",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 134,
+            "end": 163,
+            "name": "move_out",
+            "kind": "once"
+        },
+        {
+            "begin": 164,
+            "end": 180,
+            "name": "move_in_short",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 181,
+            "end": 198,
+            "name": "move_out_short",
+            "kind": "once"
+        },
+        {
+            "begin": 199,
+            "end": 208,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 209,
+            "end": 230,
+            "name": "funnel_attack1",
+            "kind": "loop"
+        },
+        {
+            "begin": 231,
+            "end": 252,
+            "name": "funnel_attack2",
+            "kind": "loop"
+        },
+        {
+            "begin": 253,
+            "end": 275,
+            "name": "gravity1_shot",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 276,
+            "end": 298,
+            "name": "gravity2_shot",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 299,
+            "end": 321,
+            "name": "gravity3_shot",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 322,
+            "end": 337,
+            "name": "special_start",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 338,
+            "end": 351,
+            "name": "special_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 352,
+            "end": 365,
+            "name": "special_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 366,
+            "end": 371,
+            "name": "special_attack_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 372,
+            "end": 384,
+            "name": "special_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 385,
+            "end": 391,
+            "name": "special_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 392,
+            "end": 397,
+            "name": "slash_small_setup",
+            "kind": "pass"
+        },
+        {
+            "begin": 398,
+            "end": 418,
+            "name": "slash_small_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 419,
+            "end": 454,
+            "name": "sideslash_shot",
+            "kind": "loop"
+        },
+        {
+            "begin": 455,
+            "end": 460,
+            "name": "slash_large_setup",
+            "kind": "pass"
+        },
+        {
+            "begin": 461,
+            "end": 481,
+            "name": "slash_large_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 482,
+            "end": 517,
+            "name": "slash_large_shot",
+            "kind": "loop"
+        },
+        {
+            "begin": 518,
+            "end": 559,
+            "name": "shout_setup",
+            "kind": "pass"
+        },
+        {
+            "begin": 560,
+            "end": 570,
+            "name": "shout_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 571,
+            "end": 586,
+            "name": "shout_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 587,
+            "end": 652,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 653,
+            "end": 718,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 719,
+            "end": 784,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 785,
+            "end": 850,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 851,
+            "end": 931,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_warp_in",
+            "begin": 103,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_warp_out",
+            "begin": 134,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_gravity_beast",
+            "begin": 253,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_gravity_beast",
+            "begin": 276,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_gravity_beast",
+            "begin": 299,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 338,
+            "loop": -1,
+            "end": 352,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 352,
+            "loop": -1,
+            "end": 366,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_shot_wind1",
+            "begin": 372,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_arm_swing",
+            "begin": 420,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 461,
+            "loop": -1,
+            "end": 482,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_arm_swing",
+            "begin": 483,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_roar_beast",
+            "begin": 518,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

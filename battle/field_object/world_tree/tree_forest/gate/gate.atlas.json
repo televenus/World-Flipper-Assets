@@ -1,0 +1,47 @@
+[
+    {
+        "n": "battle/field_object/world_tree/tree_forest/gate/.gen/tree_forest_gate/f0011",
+        "w": 46,
+        "h": 20,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -3,
+        "fw": 48,
+        "fh": 24
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/gate/.gen/tree_forest_gate/f0016",
+        "w": 46,
+        "h": 16,
+        "x": 1,
+        "y": 23,
+        "fx": -1,
+        "fy": -7,
+        "fw": 48,
+        "fh": 24
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/gate/.gen/tree_forest_gate/f0021",
+        "w": 10,
+        "h": 42,
+        "x": 49,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -13,
+        "fw": 48,
+        "fh": 24
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/gate/.gen/tree_forest_gate/f0023",
+        "w": 35,
+        "h": 5,
+        "x": 1,
+        "y": 41,
+        "fx": -5,
+        "fy": -18,
+        "fw": 48,
+        "fh": 24
+    }
+]

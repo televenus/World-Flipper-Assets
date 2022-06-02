@@ -1,0 +1,57 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_barren/gate/.gen/beast_barren_gate/f0011",
+        "w": 54,
+        "h": 33,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 56,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/gate/.gen/beast_barren_gate/f0015",
+        "w": 54,
+        "h": 28,
+        "x": 1,
+        "y": 36,
+        "fx": -1,
+        "fy": -6,
+        "fw": 56,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/gate/.gen/beast_barren_gate/f0019",
+        "w": 54,
+        "h": 24,
+        "x": 1,
+        "y": 66,
+        "fx": -1,
+        "fy": -10,
+        "fw": 56,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/gate/.gen/beast_barren_gate/f0023",
+        "w": 54,
+        "h": 20,
+        "x": 1,
+        "y": 92,
+        "fx": -1,
+        "fy": -14,
+        "fw": 56,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/gate/.gen/beast_barren_gate/f0025",
+        "w": 54,
+        "h": 18,
+        "x": 1,
+        "y": 114,
+        "fx": -1,
+        "fy": -17,
+        "fw": 56,
+        "fh": 35
+    }
+]

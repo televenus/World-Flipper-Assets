@@ -1,0 +1,105 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/a",
+        "w": 36,
+        "h": 34,
+        "x": 1,
+        "y": 71,
+        "r": true,
+        "fx": -38,
+        "fy": -37,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/b",
+        "w": 39,
+        "h": 35,
+        "x": 80,
+        "y": 71,
+        "r": true,
+        "fx": -37,
+        "fy": -34,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/c",
+        "w": 39,
+        "h": 34,
+        "x": 39,
+        "y": 71,
+        "r": true,
+        "fx": -37,
+        "fy": -34,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/d",
+        "w": 38,
+        "h": 33,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -38,
+        "fy": -35,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/e",
+        "w": 34,
+        "h": 33,
+        "x": 41,
+        "y": 1,
+        "r": true,
+        "fx": -38,
+        "fy": -37,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/f",
+        "w": 39,
+        "h": 33,
+        "x": 77,
+        "y": 1,
+        "r": true,
+        "fx": -38,
+        "fy": -34,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/g",
+        "w": 39,
+        "h": 33,
+        "x": 1,
+        "y": 36,
+        "r": true,
+        "fx": -38,
+        "fy": -34,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/h",
+        "w": 38,
+        "h": 33,
+        "x": 42,
+        "y": 36,
+        "r": true,
+        "fx": -38,
+        "fy": -35,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_colorless/.gen/enemy_shot_burst_heavy_cannon_colorless/i",
+        "w": 33,
+        "h": 33,
+        "x": 82,
+        "y": 36
+    }
+]

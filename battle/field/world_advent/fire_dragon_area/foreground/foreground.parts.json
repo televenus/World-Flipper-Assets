@@ -1,0 +1,244 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/a"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/b"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/c"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/d"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/e"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/f"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/g"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/h"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/i"
+        }
+    ],
+    "g": [
+        {
+            "t": 120,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 16639,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 24,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 24831,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 28,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 28927,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 32,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 33023,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 36,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 37119,
+                            "t": 84
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -40960,
+            "y": 819200
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 798720
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 40960,
+            "y": 778240
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 81920,
+            "y": 757760
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 122880,
+            "y": 737280
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 163840,
+            "y": 716800
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 204800,
+            "y": 696320
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 245760,
+            "y": 675840
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 286720,
+            "y": 655360
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 327680,
+            "y": 634880
+        }
+    ],
+    "c": [],
+    "s": 6
+}

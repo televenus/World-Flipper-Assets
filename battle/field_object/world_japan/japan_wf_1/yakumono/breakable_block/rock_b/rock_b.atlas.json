@@ -1,0 +1,148 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/a",
+        "w": 32,
+        "h": 32,
+        "x": 80,
+        "y": 1,
+        "fx": -27,
+        "fy": -12,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/b",
+        "w": 32,
+        "h": 32,
+        "x": 80,
+        "y": 35,
+        "fx": -27,
+        "fy": -12,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/c",
+        "w": 33,
+        "h": 34,
+        "x": 80,
+        "y": 69,
+        "r": true,
+        "fx": -26,
+        "fy": -11,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/d",
+        "w": 34,
+        "h": 38,
+        "x": 77,
+        "y": 116,
+        "r": true,
+        "fx": -24,
+        "fy": -8,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/e",
+        "w": 37,
+        "h": 49,
+        "x": 65,
+        "y": 156,
+        "r": true,
+        "fx": -19,
+        "fy": -5,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/f",
+        "w": 55,
+        "h": 34,
+        "x": 1,
+        "y": 171,
+        "fx": -16,
+        "fy": -9,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/g",
+        "w": 62,
+        "h": 28,
+        "x": 1,
+        "y": 141,
+        "fx": -12,
+        "fy": -17,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/h",
+        "w": 74,
+        "h": 23,
+        "x": 1,
+        "y": 116,
+        "fx": -4,
+        "fy": -22,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/i",
+        "w": 77,
+        "h": 21,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -24,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/j",
+        "w": 77,
+        "h": 21,
+        "x": 1,
+        "y": 24,
+        "fx": -4,
+        "fy": -24,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/k",
+        "w": 77,
+        "h": 21,
+        "x": 1,
+        "y": 47,
+        "fx": -4,
+        "fy": -24,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/l",
+        "w": 77,
+        "h": 21,
+        "x": 1,
+        "y": 70,
+        "fx": -4,
+        "fy": -24,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_1/yakumono/breakable_block/rock_b/.gen/rock_b/m",
+        "w": 77,
+        "h": 21,
+        "x": 1,
+        "y": 93,
+        "fx": -4,
+        "fy": -24,
+        "fw": 85,
+        "fh": 51
+    }
+]

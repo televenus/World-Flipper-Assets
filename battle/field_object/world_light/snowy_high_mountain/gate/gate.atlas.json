@@ -1,0 +1,53 @@
+[
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/gate/.gen/snowy_high_mountain_gate/f0004",
+        "w": 60,
+        "h": 32,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/gate/.gen/snowy_high_mountain_gate/f0009",
+        "w": 56,
+        "h": 28,
+        "x": 1,
+        "y": 35,
+        "fx": -2,
+        "fy": -4,
+        "fw": 60,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/gate/.gen/snowy_high_mountain_gate/f0014",
+        "w": 56,
+        "h": 24,
+        "x": 1,
+        "y": 65,
+        "fx": -2,
+        "fy": -8,
+        "fw": 60,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/gate/.gen/snowy_high_mountain_gate/f0019",
+        "w": 56,
+        "h": 20,
+        "x": 1,
+        "y": 91,
+        "fx": -1,
+        "fy": -12,
+        "fw": 60,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/snowy_high_mountain/gate/.gen/snowy_high_mountain_gate/f0025",
+        "w": 54,
+        "h": 17,
+        "x": 1,
+        "y": 113,
+        "fx": -2,
+        "fy": -15,
+        "fw": 60,
+        "fh": 32
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/a",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/b",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 43,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/c",
+        "w": 19,
+        "h": 19,
+        "x": 29,
+        "y": 43,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/d",
+        "w": 4,
+        "h": 20,
+        "x": 23,
+        "y": 43,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/e",
+        "w": 4,
+        "h": 4,
+        "x": 43,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/f",
+        "w": 4,
+        "h": 4,
+        "x": 43,
+        "y": 7
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/g",
+        "w": 4,
+        "h": 4,
+        "x": 43,
+        "y": 13
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/h",
+        "w": 4,
+        "h": 4,
+        "x": 43,
+        "y": 19
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_all/.gen/debuff_defense_all/i",
+        "w": 4,
+        "h": 4,
+        "x": 43,
+        "y": 25
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_black/.gen/debuff_defense_black/a",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_black/.gen/debuff_defense_black/b",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 43,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_black/.gen/debuff_defense_black/c",
+        "w": 19,
+        "h": 19,
+        "x": 23,
+        "y": 43,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_black/.gen/debuff_defense_black/d",
+        "w": 4,
+        "h": 20,
+        "x": 43,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_black/.gen/debuff_defense_black/e",
+        "w": 4,
+        "h": 4,
+        "x": 43,
+        "y": 23
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_black/.gen/debuff_defense_black/f",
+        "w": 4,
+        "h": 4,
+        "x": 43,
+        "y": 29
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_element_defence/debuff_defense_black/.gen/debuff_defense_black/g",
+        "w": 4,
+        "h": 4,
+        "x": 43,
+        "y": 35
+    }
+]

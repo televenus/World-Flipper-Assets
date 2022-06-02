@@ -1,0 +1,102 @@
+[
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/a",
+        "w": 12,
+        "h": 26,
+        "x": 96,
+        "y": 1,
+        "fx": -9,
+        "fy": -16,
+        "fw": 29,
+        "fh": 43
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/b",
+        "w": 12,
+        "h": 26,
+        "x": 110,
+        "y": 1,
+        "fx": -9,
+        "fy": -16,
+        "fw": 29,
+        "fh": 43
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/c",
+        "w": 12,
+        "h": 26,
+        "x": 124,
+        "y": 1,
+        "fx": -9,
+        "fy": -16,
+        "fw": 29,
+        "fh": 43
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/d",
+        "w": 16,
+        "h": 26,
+        "x": 78,
+        "y": 1,
+        "fx": -7,
+        "fy": -16,
+        "fw": 29,
+        "fh": 43
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/e",
+        "w": 21,
+        "h": 27,
+        "x": 28,
+        "y": 1,
+        "fx": -4,
+        "fy": -9,
+        "fw": 29,
+        "fh": 43
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/f",
+        "w": 25,
+        "h": 27,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -15,
+        "fw": 29,
+        "fh": 43
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/g",
+        "w": 25,
+        "h": 26,
+        "x": 51,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -17,
+        "fw": 29,
+        "fh": 43
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/h",
+        "w": 23,
+        "h": 12,
+        "x": 138,
+        "y": 1,
+        "fx": -1,
+        "fy": -30,
+        "fw": 29,
+        "fh": 43
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/blanch_a/.gen/blanch_a/i",
+        "w": 17,
+        "h": 9,
+        "x": 138,
+        "y": 15,
+        "fx": -4,
+        "fy": -33,
+        "fw": 29,
+        "fh": 43
+    }
+]

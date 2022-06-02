@@ -1,0 +1,24 @@
+[
+    {
+        "n": "battle/boss/lich/.gen/lich_shadow/a",
+        "w": 17,
+        "h": 29,
+        "x": 46,
+        "y": 20,
+        "r": true
+    },
+    {
+        "n": "battle/boss/lich/.gen/lich_shadow/b",
+        "w": 43,
+        "h": 17,
+        "x": 1,
+        "y": 20
+    },
+    {
+        "n": "battle/boss/lich/.gen/lich_shadow/c",
+        "w": 55,
+        "h": 17,
+        "x": 1,
+        "y": 1
+    }
+]

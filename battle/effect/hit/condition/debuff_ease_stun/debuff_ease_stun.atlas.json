@@ -1,0 +1,67 @@
+[
+    {
+        "n": "battle/effect/hit/condition/debuff_ease_stun/.gen/debuff_ease_stun/a",
+        "w": 4,
+        "h": 4,
+        "x": 157,
+        "y": 42
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_ease_stun/.gen/debuff_ease_stun/b",
+        "w": 39,
+        "h": 39,
+        "x": 157,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_ease_stun/.gen/debuff_ease_stun/c",
+        "w": 50,
+        "h": 50,
+        "x": 1,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_ease_stun/.gen/debuff_ease_stun/d",
+        "w": 50,
+        "h": 50,
+        "x": 53,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_ease_stun/.gen/debuff_ease_stun/e",
+        "w": 50,
+        "h": 50,
+        "x": 105,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_ease_stun/.gen/debuff_ease_stun/f",
+        "w": 4,
+        "h": 4,
+        "x": 163,
+        "y": 42
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_ease_stun/.gen/debuff_ease_stun/g",
+        "w": 4,
+        "h": 4,
+        "x": 169,
+        "y": 42
+    }
+]

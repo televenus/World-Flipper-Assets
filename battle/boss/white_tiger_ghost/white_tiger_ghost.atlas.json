@@ -1,0 +1,36 @@
+[
+    {
+        "n": "battle/boss/white_tiger_ghost/.gen/white_tiger_ghost_shadow/a",
+        "w": 18,
+        "h": 9,
+        "x": 18,
+        "y": 18,
+        "fx": -51,
+        "fy": -175,
+        "fw": 120,
+        "fh": 200
+    },
+    {
+        "n": "battle/boss/white_tiger_ghost/.gen/white_tiger_ghost_shadow/b",
+        "w": 15,
+        "h": 30,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -45,
+        "fy": -154,
+        "fw": 120,
+        "fh": 182
+    },
+    {
+        "n": "battle/boss/white_tiger_ghost/.gen/white_tiger_ghost_shadow/c",
+        "w": 40,
+        "h": 15,
+        "x": 18,
+        "y": 1,
+        "fx": -45,
+        "fy": -154,
+        "fw": 120,
+        "fh": 182
+    }
+]

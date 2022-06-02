@@ -1,0 +1,38 @@
+[
+    {
+        "n": "battle/funnel/owl_tornado/.gen/owl_tornado_shadow/f0001",
+        "w": 2,
+        "h": 2,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/funnel/owl_tornado/.gen/owl_tornado_shadow/f0109",
+        "w": 1,
+        "h": 1,
+        "x": 5,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 2
+    },
+    {
+        "n": "battle/funnel/owl_tornado/.gen/owl_tornado_shadow/f0110",
+        "w": 2,
+        "h": 2,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/funnel/owl_tornado/.gen/owl_tornado_shadow/f0160",
+        "w": 1,
+        "h": 1,
+        "x": 5,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 2
+    }
+]

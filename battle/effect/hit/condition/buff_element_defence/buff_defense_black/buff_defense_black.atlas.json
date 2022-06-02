@@ -1,0 +1,94 @@
+[
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/a",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 61
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/b",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 83
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/c",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 105
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/d",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 127
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/e",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 149
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/f",
+        "w": 4,
+        "h": 4,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/g",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 19,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/h",
+        "w": 4,
+        "h": 4,
+        "x": 7,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/i",
+        "w": 4,
+        "h": 4,
+        "x": 13,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/j",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 40,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/k",
+        "w": 20,
+        "h": 4,
+        "x": 1,
+        "y": 7
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_black/.gen/buff_defense_black/l",
+        "w": 20,
+        "h": 4,
+        "x": 1,
+        "y": 13
+    }
+]

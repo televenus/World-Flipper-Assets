@@ -1,0 +1,41 @@
+[
+    {
+        "n": "battle/effect/hit/condition/enhancing_penetrate/.gen/enhancing_penetrate/a",
+        "w": 33,
+        "h": 33,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_penetrate/.gen/enhancing_penetrate/b",
+        "w": 25,
+        "h": 25,
+        "x": 1,
+        "y": 36
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_penetrate/.gen/enhancing_penetrate/c",
+        "w": 23,
+        "h": 24,
+        "x": 28,
+        "y": 36
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_penetrate/.gen/enhancing_penetrate/d",
+        "w": 5,
+        "h": 5,
+        "x": 36,
+        "y": 12
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_penetrate/.gen/enhancing_penetrate/e",
+        "w": 9,
+        "h": 9,
+        "x": 36,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 10,
+        "fh": 10
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/gate/.gen/sea_seabed02_gate/f0011",
+        "w": 34,
+        "h": 28,
+        "x": 87,
+        "y": 1,
+        "fx": -7,
+        "fy": -4,
+        "fw": 46,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/gate/.gen/sea_seabed02_gate/f0014",
+        "w": 39,
+        "h": 24,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -6,
+        "fw": 46,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/gate/.gen/sea_seabed02_gate/f0017",
+        "w": 43,
+        "h": 26,
+        "x": 42,
+        "y": 1,
+        "fx": -2,
+        "fy": -5,
+        "fw": 46,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/gate/.gen/sea_seabed02_gate/f0019",
+        "w": 43,
+        "h": 28,
+        "x": 40,
+        "y": 29,
+        "fx": -1,
+        "fy": -3,
+        "fw": 46,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/gate/.gen/sea_seabed02_gate/f0021",
+        "w": 41,
+        "h": 28,
+        "x": 85,
+        "y": 31,
+        "fx": -3,
+        "fy": -2,
+        "fw": 46,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_seabed02/gate/.gen/sea_seabed02_gate/f0023",
+        "w": 37,
+        "h": 29,
+        "x": 1,
+        "y": 27,
+        "fx": -5,
+        "fy": -1,
+        "fw": 46,
+        "fh": 33
+    }
+]

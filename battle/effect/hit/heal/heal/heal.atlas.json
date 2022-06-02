@@ -1,0 +1,53 @@
+[
+    {
+        "n": "battle/effect/hit/heal/heal/.gen/heal/a",
+        "w": 4,
+        "h": 4,
+        "x": 86,
+        "y": 102
+    },
+    {
+        "n": "battle/effect/hit/heal/heal/.gen/heal/b",
+        "w": 4,
+        "h": 4,
+        "x": 92,
+        "y": 102
+    },
+    {
+        "n": "battle/effect/hit/heal/heal/.gen/heal/c",
+        "w": 99,
+        "h": 99,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/hit/heal/heal/.gen/heal/d",
+        "w": 72,
+        "h": 72,
+        "x": 1,
+        "y": 102,
+        "fx": -1,
+        "fy": -1,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "battle/effect/hit/heal/heal/.gen/heal/e",
+        "w": 4,
+        "h": 4,
+        "x": 75,
+        "y": 107
+    },
+    {
+        "n": "battle/effect/hit/heal/heal/.gen/heal/f",
+        "w": 9,
+        "h": 3,
+        "x": 75,
+        "y": 102,
+        "r": true
+    }
+]

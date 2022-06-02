@@ -1,0 +1,194 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_pierce_middle_cannon/enemy_shot_pierce_middle_cannon_black/.gen/enemy_shot_pierce_middle_cannon_black/a"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_pierce_middle_cannon/enemy_shot_pierce_middle_cannon_black/.gen/enemy_shot_pierce_middle_cannon_black/b"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_pierce_middle_cannon/enemy_shot_pierce_middle_cannon_black/.gen/enemy_shot_pierce_middle_cannon_black/c"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_pierce_middle_cannon/enemy_shot_pierce_middle_cannon_black/.gen/enemy_shot_pierce_middle_cannon_black/d"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_pierce_middle_cannon/enemy_shot_pierce_middle_cannon_black/.gen/enemy_shot_pierce_middle_cannon_black/e"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_pierce_middle_cannon/enemy_shot_pierce_middle_cannon_black/.gen/enemy_shot_pierce_middle_cannon_black/f"
+        }
+    ],
+    "g": [
+        {
+            "t": 18,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 18,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 18,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 0
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 1
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 2
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 1
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 3
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 4
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 5
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 6,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 4351
+                        }
+                    ]
+                },
+                {
+                    "s": 1,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 4351
+                        }
+                    ]
+                },
+                {
+                    "s": 2,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351
+                        }
+                    ]
+                },
+                {
+                    "s": 3,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 8447
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 8447
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 8447
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -164044,
+            "y": -176537
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -168960,
+            "y": -168345
+        }
+    ],
+    "c": [],
+    "s": 6
+}

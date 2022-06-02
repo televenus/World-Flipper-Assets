@@ -1,0 +1,130 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/a",
+        "w": 20,
+        "h": 19,
+        "x": 1,
+        "y": 157,
+        "r": true,
+        "fx": -22,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/b",
+        "w": 20,
+        "h": 19,
+        "x": 1,
+        "y": 178,
+        "r": true,
+        "fx": -22,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/c",
+        "w": 20,
+        "h": 19,
+        "x": 1,
+        "y": 199,
+        "r": true,
+        "fx": -22,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/d",
+        "w": 25,
+        "h": 24,
+        "x": 26,
+        "y": 155,
+        "r": true,
+        "fx": -20,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/e",
+        "w": 30,
+        "h": 33,
+        "x": 23,
+        "y": 181,
+        "r": true,
+        "fx": -15,
+        "fy": -11,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/f",
+        "w": 40,
+        "h": 32,
+        "x": 1,
+        "y": 67,
+        "fx": -11,
+        "fy": -9,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/g",
+        "w": 45,
+        "h": 32,
+        "x": 1,
+        "y": 33,
+        "fx": -11,
+        "fy": -9,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/h",
+        "w": 49,
+        "h": 30,
+        "x": 1,
+        "y": 1,
+        "fx": -7,
+        "fy": -11,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/i",
+        "w": 23,
+        "h": 52,
+        "x": 26,
+        "y": 101,
+        "r": true,
+        "fx": -5,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/j",
+        "w": 23,
+        "h": 54,
+        "x": 1,
+        "y": 101,
+        "r": true,
+        "fx": -5,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_common/yakumono/breakable_block/wood_a/.gen/wood_a/k",
+        "w": 1,
+        "h": 1,
+        "x": 52,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    }
+]

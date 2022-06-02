@@ -1,0 +1,84 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "DeleteCondition",
+                    -17,
+                    [
+                        "DCInvincible"
+                    ],
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "CreateCondition",
+                    -17,
+                    [
+                        [
+                            "ACInvincible",
+                            {
+                                "min": 999999,
+                                "max": 999999
+                            }
+                        ]
+                    ],
+                    {
+                        "min": 1,
+                        "max": 1
+                    },
+                    [
+                        "None"
+                    ],
+                    false,
+                    false
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "CreateCondition",
+                    -17,
+                    [
+                        [
+                            "ACToleranceOfDebuff",
+                            {
+                                "min": 999999,
+                                "max": 999999
+                            },
+                            {
+                                "min": 1,
+                                "max": 1
+                            },
+                            1
+                        ]
+                    ],
+                    {
+                        "min": 1,
+                        "max": 1
+                    },
+                    [
+                        "None"
+                    ],
+                    false,
+                    false
+                ]
+            ]
+        ]
+    ]
+]

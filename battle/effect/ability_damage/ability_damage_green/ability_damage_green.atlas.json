@@ -1,0 +1,127 @@
+[
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_hit_green/a",
+        "w": 39,
+        "h": 25,
+        "x": 63,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 39,
+        "fh": 26
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_hit_green/b",
+        "w": 30,
+        "h": 30,
+        "x": 35,
+        "y": 55
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_hit_green/c",
+        "w": 50,
+        "h": 25,
+        "x": 62,
+        "y": 28,
+        "r": true
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_hit_green/d",
+        "w": 30,
+        "h": 30,
+        "x": 35,
+        "y": 87
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_player_green/a",
+        "w": 4,
+        "h": 4,
+        "x": 104,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_player_green/b",
+        "w": 30,
+        "h": 30,
+        "x": 67,
+        "y": 55
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_player_green/c",
+        "w": 4,
+        "h": 4,
+        "x": 104,
+        "y": 7
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_player_green/d",
+        "w": 30,
+        "h": 30,
+        "x": 67,
+        "y": 87
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_shot_green/a",
+        "w": 4,
+        "h": 4,
+        "x": 104,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_shot_green/b",
+        "w": 30,
+        "h": 30,
+        "x": 67,
+        "y": 55
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_shot_green/c",
+        "w": 32,
+        "h": 32,
+        "x": 1,
+        "y": 36
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_shot_green/d",
+        "w": 32,
+        "h": 32,
+        "x": 1,
+        "y": 70
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_shot_green/e",
+        "w": 60,
+        "h": 16,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 17
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_shot_green/f",
+        "w": 59,
+        "h": 15,
+        "x": 1,
+        "y": 19,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 16
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_shot_green/g",
+        "w": 4,
+        "h": 4,
+        "x": 104,
+        "y": 13
+    },
+    {
+        "n": "battle/effect/ability_damage/ability_damage_green/.gen/ability_damage_shot_green/h",
+        "w": 30,
+        "h": 30,
+        "x": 67,
+        "y": 87
+    }
+]

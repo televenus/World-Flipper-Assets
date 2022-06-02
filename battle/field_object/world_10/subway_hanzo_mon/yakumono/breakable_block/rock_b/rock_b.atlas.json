@@ -1,0 +1,102 @@
+[
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/a",
+        "w": 26,
+        "h": 24,
+        "x": 35,
+        "y": 39,
+        "fx": -29,
+        "fy": -15,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/b",
+        "w": 26,
+        "h": 24,
+        "x": 63,
+        "y": 39,
+        "fx": -29,
+        "fy": -15,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/c",
+        "w": 28,
+        "h": 23,
+        "x": 91,
+        "y": 33,
+        "fx": -28,
+        "fy": -16,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/d",
+        "w": 32,
+        "h": 24,
+        "x": 1,
+        "y": 39,
+        "fx": -26,
+        "fy": -12,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/e",
+        "w": 35,
+        "h": 55,
+        "x": 201,
+        "y": 1,
+        "r": true,
+        "fx": -16,
+        "fy": -6,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/f",
+        "w": 60,
+        "h": 39,
+        "x": 139,
+        "y": 1,
+        "fx": -13,
+        "fy": -6,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/g",
+        "w": 65,
+        "h": 36,
+        "x": 1,
+        "y": 1,
+        "fx": -11,
+        "fy": -9,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/h",
+        "w": 69,
+        "h": 30,
+        "x": 68,
+        "y": 1,
+        "fx": -9,
+        "fy": -14,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_10/subway_hanzo_mon/yakumono/breakable_block/rock_b/.gen/rock_b/i",
+        "w": 74,
+        "h": 6,
+        "x": 121,
+        "y": 42,
+        "fx": -6,
+        "fy": -33,
+        "fw": 84,
+        "fh": 49
+    }
+]

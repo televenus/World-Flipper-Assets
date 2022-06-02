@@ -1,0 +1,263 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 41,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 42,
+            "end": 102,
+            "name": "move_start1",
+            "kind": "loop"
+        },
+        {
+            "begin": 103,
+            "end": 163,
+            "name": "move_left1",
+            "kind": "loop"
+        },
+        {
+            "begin": 164,
+            "end": 173,
+            "name": "move_left_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 174,
+            "end": 184,
+            "name": "move_left_charge1",
+            "kind": "once"
+        },
+        {
+            "begin": 185,
+            "end": 195,
+            "name": "move_left_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 196,
+            "end": 207,
+            "name": "move_left_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 208,
+            "end": 268,
+            "name": "move_right1",
+            "kind": "loop"
+        },
+        {
+            "begin": 269,
+            "end": 278,
+            "name": "move_right_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 279,
+            "end": 289,
+            "name": "move_right_charge1",
+            "kind": "once"
+        },
+        {
+            "begin": 290,
+            "end": 300,
+            "name": "move_right_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 301,
+            "end": 312,
+            "name": "move_right_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 313,
+            "end": 347,
+            "name": "move_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 348,
+            "end": 384,
+            "name": "dash_start1",
+            "kind": "loop"
+        },
+        {
+            "begin": 385,
+            "end": 421,
+            "name": "dash_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 422,
+            "end": 458,
+            "name": "dash_attack1",
+            "kind": "loop"
+        },
+        {
+            "begin": 459,
+            "end": 495,
+            "name": "dash_end1",
+            "kind": "loop"
+        },
+        {
+            "begin": 496,
+            "end": 502,
+            "name": "triangle_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 503,
+            "end": 513,
+            "name": "triangle_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 514,
+            "end": 518,
+            "name": "triangle_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 519,
+            "end": 523,
+            "name": "triangle_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 524,
+            "end": 531,
+            "name": "triangle_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 532,
+            "end": 541,
+            "name": "funnel_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 542,
+            "end": 552,
+            "name": "funnel_charge1",
+            "kind": "goto",
+            "target": "triangle_attack_loop1"
+        },
+        {
+            "begin": 553,
+            "end": 558,
+            "name": "funnel_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 559,
+            "end": 578,
+            "name": "skill_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 579,
+            "end": 878,
+            "name": "skill_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 879,
+            "end": 888,
+            "name": "skill_attack1",
+            "kind": "pass"
+        },
+        {
+            "begin": 889,
+            "end": 899,
+            "name": "skill_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 900,
+            "end": 905,
+            "name": "skill_attack_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 906,
+            "end": 910,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 911,
+            "end": 915,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 916,
+            "end": 940,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 941,
+            "end": 965,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 966,
+            "end": 979,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 348,
+            "loop": -1,
+            "end": 422,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_dash",
+            "begin": 422,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_swing",
+            "begin": 514,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_sf_box_hit",
+            "begin": 524,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 559,
+            "loop": -1,
+            "end": 879,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_attack1",
+            "begin": 879,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

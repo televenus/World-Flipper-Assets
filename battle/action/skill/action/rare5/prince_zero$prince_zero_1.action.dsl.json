@@ -1,0 +1,203 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "StopBall",
+                    -18,
+                    65,
+                    [
+                        "RestoreToSpeedBeforeActionExecution"
+                    ],
+                    [
+                        "EF"
+                    ],
+                    0
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "ShowEffect",
+                    "prince_zeroのスキル発動時演出",
+                    [
+                        "SpecifyEffectDirectly",
+                        "battle/effect/skill_unique/prince_zero/prince_zero"
+                    ],
+                    -18,
+                    [
+                        "ForesideOfCharacter"
+                    ],
+                    [
+                        "PlayOnlyFirstSequence"
+                    ],
+                    [
+                        "AB"
+                    ],
+                    0,
+                    0,
+                    0,
+                    true,
+                    true,
+                    [
+                        "Some",
+                        1
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    0,
+                    33,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACToleranceOfDebuff",
+                                            {
+                                                "min": 720,
+                                                "max": 720
+                                            },
+                                            {
+                                                "min": 0.75,
+                                                "max": 0.75
+                                            },
+                                            1
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACAttackPoint",
+                                            {
+                                                "min": 720,
+                                                "max": 720
+                                            },
+                                            {
+                                                "min": 0.3,
+                                                "max": 0.3
+                                            },
+                                            1
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACToleranceOfElement",
+                                            {
+                                                "min": 720,
+                                                "max": 720
+                                            },
+                                            254,
+                                            {
+                                                "min": 0.1,
+                                                "max": 0.1
+                                            },
+                                            1
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACRegeneration",
+                                            {
+                                                "min": 600,
+                                                "max": 600
+                                            },
+                                            {
+                                                "min": 50,
+                                                "max": 50
+                                            }
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone1/f0044",
+        "w": 12,
+        "h": 35,
+        "x": 48,
+        "y": 172,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 40,
+        "fh": 16
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0011",
+        "w": 45,
+        "h": 29,
+        "x": 1,
+        "y": 56,
+        "fx": -1,
+        "fy": -4,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0013",
+        "w": 39,
+        "h": 25,
+        "x": 1,
+        "y": 177,
+        "fx": -5,
+        "fy": -1,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0015",
+        "w": 45,
+        "h": 26,
+        "x": 1,
+        "y": 87,
+        "fx": -2,
+        "fy": 0,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0018",
+        "w": 47,
+        "h": 26,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0021",
+        "w": 46,
+        "h": 25,
+        "x": 1,
+        "y": 29,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0024",
+        "w": 45,
+        "h": 21,
+        "x": 1,
+        "y": 115,
+        "fx": -1,
+        "fy": -5,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0027",
+        "w": 45,
+        "h": 19,
+        "x": 1,
+        "y": 138,
+        "fx": -1,
+        "fy": -7,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0030",
+        "w": 45,
+        "h": 16,
+        "x": 1,
+        "y": 159,
+        "fx": -1,
+        "fy": -10,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0033",
+        "w": 13,
+        "h": 43,
+        "x": 50,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -13,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0036",
+        "w": 12,
+        "h": 42,
+        "x": 49,
+        "y": 46,
+        "r": true,
+        "fx": -3,
+        "fy": -14,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0039",
+        "w": 12,
+        "h": 39,
+        "x": 48,
+        "y": 90,
+        "r": true,
+        "fx": -3,
+        "fy": -14,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0042",
+        "w": 12,
+        "h": 39,
+        "x": 48,
+        "y": 131,
+        "r": true,
+        "fx": -3,
+        "fy": -14,
+        "fw": 48,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/outhole/.gen/tree_grass01_outhole_zone2/f0044",
+        "w": 12,
+        "h": 35,
+        "x": 48,
+        "y": 172,
+        "r": true,
+        "fx": -7,
+        "fy": -14,
+        "fw": 48,
+        "fh": 35
+    }
+]

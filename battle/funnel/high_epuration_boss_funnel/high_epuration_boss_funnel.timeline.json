@@ -1,0 +1,80 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 31,
+            "name": "start",
+            "kind": "once"
+        },
+        {
+            "begin": 32,
+            "end": 128,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 129,
+            "end": 141,
+            "name": "attack_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 142,
+            "end": 166,
+            "name": "attack_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 167,
+            "end": 180,
+            "name": "attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 181,
+            "end": 205,
+            "name": "attack_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 206,
+            "end": 315,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/element/se_moving_wind",
+            "begin": 1,
+            "loop": -1,
+            "end": 32,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 142,
+            "loop": -1,
+            "end": 167,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_effect_skill_attack_spin_smash_sword",
+            "begin": 167,
+            "loop": -1,
+            "end": 181,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/light/se_crack_in_space",
+            "begin": 206,
+            "loop": -1,
+            "end": 316,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

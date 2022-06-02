@@ -1,0 +1,200 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 82,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 83,
+            "end": 109,
+            "name": "shot_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 110,
+            "end": 123,
+            "name": "shot_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 124,
+            "end": 140,
+            "name": "shot_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 141,
+            "end": 158,
+            "name": "shot_attack_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 159,
+            "end": 189,
+            "name": "shot_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 190,
+            "end": 224,
+            "name": "shot_attack2",
+            "kind": "once"
+        },
+        {
+            "begin": 225,
+            "end": 229,
+            "name": "funnel_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 230,
+            "end": 286,
+            "name": "funnel_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 287,
+            "end": 293,
+            "name": "funnel_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 294,
+            "end": 383,
+            "name": "skill_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 384,
+            "end": 388,
+            "name": "skill_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 389,
+            "end": 395,
+            "name": "skill_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 396,
+            "end": 400,
+            "name": "skill_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 401,
+            "end": 432,
+            "name": "skill_attack_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 433,
+            "end": 466,
+            "name": "wince_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 467,
+            "end": 547,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 548,
+            "end": 584,
+            "name": "stun_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 585,
+            "end": 665,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 666,
+            "end": 724,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/yakumono/se_sf_box_hit",
+            "begin": 89,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/light/se_beam_blade_shot",
+            "begin": 124,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_soul_shot",
+            "begin": 164,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/wind/se_wind_medium_size_swing",
+            "begin": 202,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_laser_bit_start",
+            "begin": 298,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_sf_box_hit",
+            "begin": 363,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_medium",
+            "begin": 384,
+            "loop": -1,
+            "end": 389,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 389,
+            "loop": -1,
+            "end": 401,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_laser_bit_start",
+            "begin": 407,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/unique/se_boss_ny20_scream",
+            "begin": 668,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

@@ -1,0 +1,125 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "ShowEffect",
+                    "スキル発動時演出",
+                    [
+                        "ResolveByElement",
+                        "battle/effect/skill_general/decoration/heavy_charge",
+                        255
+                    ],
+                    -17,
+                    [
+                        "ForesideOfCharacter"
+                    ],
+                    [
+                        "SpecifyEffectLifetimeDirectly",
+                        30
+                    ],
+                    [
+                        "AB"
+                    ],
+                    0,
+                    0,
+                    0,
+                    true,
+                    true,
+                    [
+                        "None"
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    0,
+                    33,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACToleranceOfElement",
+                                            {
+                                                "min": 900,
+                                                "max": 900
+                                            },
+                                            6,
+                                            {
+                                                "min": 0.25,
+                                                "max": 0.3
+                                            },
+                                            1
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "CreateCondition",
+                    -17,
+                    [
+                        [
+                            "ACInvincible",
+                            {
+                                "min": 360,
+                                "max": 450
+                            }
+                        ]
+                    ],
+                    {
+                        "min": 1,
+                        "max": 1
+                    },
+                    [
+                        "GenericConditionHitEffect"
+                    ],
+                    true,
+                    false
+                ]
+            ]
+        ]
+    ]
+]

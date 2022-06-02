@@ -1,0 +1,232 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 61,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 62,
+            "end": 72,
+            "name": "jump_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 73,
+            "end": 145,
+            "name": "jump",
+            "kind": "pass"
+        },
+        {
+            "begin": 146,
+            "end": 169,
+            "name": "land",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 170,
+            "end": 269,
+            "name": "throw_initial",
+            "kind": "pass"
+        },
+        {
+            "begin": 270,
+            "end": 359,
+            "name": "throw_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 360,
+            "end": 382,
+            "name": "throw_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 383,
+            "end": 409,
+            "name": "tackle_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 410,
+            "end": 436,
+            "name": "tackle_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 437,
+            "end": 452,
+            "name": "tackle",
+            "kind": "pass"
+        },
+        {
+            "begin": 453,
+            "end": 468,
+            "name": "tackle_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 469,
+            "end": 498,
+            "name": "tackle_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 499,
+            "end": 511,
+            "name": "back_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 512,
+            "end": 540,
+            "name": "back",
+            "kind": "loop"
+        },
+        {
+            "begin": 541,
+            "end": 553,
+            "name": "back_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 554,
+            "end": 610,
+            "name": "bomb_rush",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 611,
+            "end": 637,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 638,
+            "end": 694,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 695,
+            "end": 721,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 722,
+            "end": 778,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 779,
+            "end": 871,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_triple_jump",
+            "begin": 73,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 241,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 263,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 337,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 358,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 410,
+            "loop": -1,
+            "end": 437,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_dash",
+            "begin": 437,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 469,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 566,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 572,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 578,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 584,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bomb_throw",
+            "begin": 590,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

@@ -1,0 +1,147 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/a",
+        "w": 13,
+        "h": 15,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/b",
+        "w": 9,
+        "h": 3,
+        "x": 1,
+        "y": 46
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/c",
+        "w": 9,
+        "h": 4,
+        "x": 18,
+        "y": 43,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/d",
+        "w": 10,
+        "h": 6,
+        "x": 18,
+        "y": 35,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/e",
+        "w": 13,
+        "h": 15,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/f",
+        "w": 2,
+        "h": 5,
+        "x": 29,
+        "y": 43,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/g",
+        "w": 12,
+        "h": 15,
+        "x": 18,
+        "y": 18,
+        "r": true,
+        "fx": -121,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/h",
+        "w": 13,
+        "h": 15,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/i",
+        "w": 15,
+        "h": 12,
+        "x": 1,
+        "y": 32,
+        "fx": -121,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/j",
+        "w": 13,
+        "h": 15,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/k",
+        "w": 15,
+        "h": 13,
+        "x": 1,
+        "y": 17,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/l",
+        "w": 15,
+        "h": 14,
+        "x": 1,
+        "y": 1,
+        "fx": -121,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_sing_android/.gen/skill_invoker_anv1_sing_android/m",
+        "w": 15,
+        "h": 13,
+        "x": 1,
+        "y": 17,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    }
+]

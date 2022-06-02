@@ -1,0 +1,72 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 36,
+            "name": "popup",
+            "kind": "once"
+        },
+        {
+            "begin": 37,
+            "end": 41,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 42,
+            "end": 162,
+            "name": "footwork",
+            "kind": "loop"
+        },
+        {
+            "begin": 163,
+            "end": 186,
+            "name": "shot_start",
+            "kind": "once"
+        },
+        {
+            "begin": 187,
+            "end": 211,
+            "name": "shot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 212,
+            "end": 256,
+            "name": "shot_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 257,
+            "end": 267,
+            "name": "damage",
+            "kind": "loop"
+        },
+        {
+            "begin": 268,
+            "end": 292,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/yakumono/se_wooden_hit",
+            "begin": 18,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_tree_break",
+            "begin": 271,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

@@ -1,0 +1,94 @@
+[
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/a",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 61
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/b",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 83
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/c",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 105
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/d",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 127
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/e",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 149
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/f",
+        "w": 4,
+        "h": 4,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/g",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 19,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/h",
+        "w": 4,
+        "h": 4,
+        "x": 7,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/i",
+        "w": 4,
+        "h": 4,
+        "x": 13,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/j",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 40,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/k",
+        "w": 20,
+        "h": 4,
+        "x": 1,
+        "y": 7
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_element_defence/buff_defense_blue/.gen/buff_defense_blue/l",
+        "w": 20,
+        "h": 4,
+        "x": 1,
+        "y": 13
+    }
+]

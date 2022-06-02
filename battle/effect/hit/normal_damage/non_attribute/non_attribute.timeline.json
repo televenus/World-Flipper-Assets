@@ -1,0 +1,23 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 23,
+            "name": "neutral",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/slash/se_fine_superior_blade",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

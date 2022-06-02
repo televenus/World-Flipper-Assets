@@ -1,0 +1,129 @@
+[
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone1/f0044",
+        "w": 21,
+        "h": 51,
+        "x": 1,
+        "y": 141,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0011",
+        "w": 23,
+        "h": 53,
+        "x": 1,
+        "y": 406,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0023",
+        "w": 22,
+        "h": 51,
+        "x": 1,
+        "y": 194,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0029",
+        "w": 22,
+        "h": 51,
+        "x": 1,
+        "y": 247,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0035",
+        "w": 22,
+        "h": 51,
+        "x": 1,
+        "y": 300,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0041",
+        "w": 22,
+        "h": 51,
+        "x": 1,
+        "y": 353,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0047",
+        "w": 23,
+        "h": 3,
+        "x": 1,
+        "y": 1,
+        "fx": -17,
+        "fy": -20,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0053",
+        "w": 6,
+        "h": 34,
+        "x": 1,
+        "y": 6,
+        "r": true,
+        "fx": -8,
+        "fy": -17,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0059",
+        "w": 14,
+        "h": 41,
+        "x": 9,
+        "y": 6,
+        "r": true,
+        "fx": -7,
+        "fy": -9,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0064",
+        "w": 22,
+        "h": 44,
+        "x": 1,
+        "y": 49,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 54,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/outhole/.gen/cyber_punk_office_outhole_zone2/f0069",
+        "w": 21,
+        "h": 44,
+        "x": 1,
+        "y": 95,
+        "r": true,
+        "fx": -6,
+        "fy": -2,
+        "fw": 54,
+        "fh": 23
+    }
+]

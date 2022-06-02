@@ -1,0 +1,68 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_sand02/gate/.gen/sand_sand02_gate/f0011",
+        "w": 28,
+        "h": 37,
+        "x": 1,
+        "y": 223,
+        "fx": -6,
+        "fy": -12,
+        "fw": 40,
+        "fh": 50
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand02/gate/.gen/sand_sand02_gate/f0019",
+        "w": 28,
+        "h": 38,
+        "x": 1,
+        "y": 183,
+        "fx": -6,
+        "fy": -11,
+        "fw": 40,
+        "fh": 50
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand02/gate/.gen/sand_sand02_gate/f0024",
+        "w": 28,
+        "h": 40,
+        "x": 1,
+        "y": 141,
+        "fx": -6,
+        "fy": -9,
+        "fw": 40,
+        "fh": 50
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand02/gate/.gen/sand_sand02_gate/f0032",
+        "w": 28,
+        "h": 43,
+        "x": 1,
+        "y": 96,
+        "fx": -6,
+        "fy": -6,
+        "fw": 40,
+        "fh": 50
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand02/gate/.gen/sand_sand02_gate/f0042",
+        "w": 28,
+        "h": 46,
+        "x": 1,
+        "y": 1,
+        "fx": -6,
+        "fy": -3,
+        "fw": 40,
+        "fh": 50
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_sand02/gate/.gen/sand_sand02_gate/f0045",
+        "w": 28,
+        "h": 45,
+        "x": 1,
+        "y": 49,
+        "fx": -6,
+        "fy": -4,
+        "fw": 40,
+        "fh": 50
+    }
+]

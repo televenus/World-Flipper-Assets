@@ -1,0 +1,144 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/a",
+        "w": 13,
+        "h": 15,
+        "x": 1,
+        "y": 49,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/b",
+        "w": 3,
+        "h": 9,
+        "x": 7,
+        "y": 91,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/c",
+        "w": 4,
+        "h": 9,
+        "x": 1,
+        "y": 91,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/d",
+        "w": 10,
+        "h": 6,
+        "x": 1,
+        "y": 83,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/e",
+        "w": 13,
+        "h": 15,
+        "x": 1,
+        "y": 49,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/f",
+        "w": 2,
+        "h": 5,
+        "x": 13,
+        "y": 83,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/g",
+        "w": 14,
+        "h": 13,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/h",
+        "w": 13,
+        "h": 15,
+        "x": 1,
+        "y": 49,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/i",
+        "w": 14,
+        "h": 13,
+        "x": 1,
+        "y": 16,
+        "r": true,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/j",
+        "w": 13,
+        "h": 15,
+        "x": 1,
+        "y": 49,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/k",
+        "w": 13,
+        "h": 15,
+        "x": 1,
+        "y": 66,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/l",
+        "w": 13,
+        "h": 16,
+        "x": 1,
+        "y": 31,
+        "fx": -122,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_ny21_cat_fighter/.gen/skill_invoker_ny21_cat_fighter/m",
+        "w": 13,
+        "h": 15,
+        "x": 1,
+        "y": 66,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/a",
+        "w": 274,
+        "h": 237,
+        "x": 277,
+        "y": 214,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/b",
+        "w": 274,
+        "h": 248,
+        "x": 1,
+        "y": 439,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/c",
+        "w": 274,
+        "h": 248,
+        "x": 277,
+        "y": 453,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/d",
+        "w": 274,
+        "h": 248,
+        "x": 553,
+        "y": 465,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/e",
+        "w": 274,
+        "h": 238,
+        "x": 553,
+        "y": 225,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/f",
+        "w": 274,
+        "h": 232,
+        "x": 1,
+        "y": 205,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/g",
+        "w": 274,
+        "h": 222,
+        "x": 553,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/h",
+        "w": 274,
+        "h": 211,
+        "x": 277,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_advent/fire_dragon_area/foreground/.gen/foreground/i",
+        "w": 274,
+        "h": 202,
+        "x": 1,
+        "y": 1,
+        "r": true
+    }
+]

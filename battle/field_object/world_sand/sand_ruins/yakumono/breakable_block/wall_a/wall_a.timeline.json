@@ -1,0 +1,155 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 10,
+            "name": "deactivate1",
+            "kind": "once"
+        },
+        {
+            "begin": 11,
+            "end": 22,
+            "name": "open1",
+            "kind": "pass"
+        },
+        {
+            "begin": 23,
+            "end": 32,
+            "name": "activate1",
+            "kind": "once"
+        },
+        {
+            "begin": 33,
+            "end": 42,
+            "name": "touch1",
+            "kind": "pass"
+        },
+        {
+            "begin": 43,
+            "end": 52,
+            "name": "off1",
+            "kind": "once"
+        },
+        {
+            "begin": 53,
+            "end": 64,
+            "name": "close1",
+            "kind": "goto",
+            "target": "deactivate1"
+        },
+        {
+            "begin": 65,
+            "end": 74,
+            "name": "deactivate2",
+            "kind": "once"
+        },
+        {
+            "begin": 75,
+            "end": 86,
+            "name": "open2",
+            "kind": "pass"
+        },
+        {
+            "begin": 87,
+            "end": 96,
+            "name": "activate2",
+            "kind": "once"
+        },
+        {
+            "begin": 97,
+            "end": 106,
+            "name": "touch2",
+            "kind": "pass"
+        },
+        {
+            "begin": 107,
+            "end": 116,
+            "name": "off2",
+            "kind": "once"
+        },
+        {
+            "begin": 117,
+            "end": 128,
+            "name": "close2",
+            "kind": "goto",
+            "target": "deactivate2"
+        },
+        {
+            "begin": 129,
+            "end": 138,
+            "name": "deactivate3",
+            "kind": "once"
+        },
+        {
+            "begin": 139,
+            "end": 150,
+            "name": "open3",
+            "kind": "pass"
+        },
+        {
+            "begin": 151,
+            "end": 160,
+            "name": "activate3",
+            "kind": "once"
+        },
+        {
+            "begin": 161,
+            "end": 170,
+            "name": "touch3",
+            "kind": "pass"
+        },
+        {
+            "begin": 171,
+            "end": 180,
+            "name": "off3",
+            "kind": "once"
+        },
+        {
+            "begin": 181,
+            "end": 192,
+            "name": "close3",
+            "kind": "goto",
+            "target": "deactivate3"
+        },
+        {
+            "begin": 193,
+            "end": 228,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/yakumono/se_hit_wall",
+            "begin": 33,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_hit_wall",
+            "begin": 97,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_hit_wall",
+            "begin": 161,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_block_break",
+            "begin": 193,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

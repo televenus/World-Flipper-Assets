@@ -1,0 +1,57 @@
+[
+    {
+        "n": "battle/effect/hit/condition/enhancing_waftage/.gen/enhancing_waftage/a",
+        "w": 10,
+        "h": 4,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_waftage/.gen/enhancing_waftage/b",
+        "w": 11,
+        "h": 11,
+        "x": 13,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_waftage/.gen/enhancing_waftage/c",
+        "w": 25,
+        "h": 36,
+        "x": 1,
+        "y": 14
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_waftage/.gen/enhancing_waftage/d",
+        "w": 24,
+        "h": 36,
+        "x": 1,
+        "y": 52
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_waftage/.gen/enhancing_waftage/e",
+        "w": 24,
+        "h": 39,
+        "x": 1,
+        "y": 128,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 40,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_waftage/.gen/enhancing_waftage/f",
+        "w": 22,
+        "h": 36,
+        "x": 1,
+        "y": 90,
+        "fx": -1,
+        "fy": 0,
+        "fw": 23,
+        "fh": 36
+    }
+]

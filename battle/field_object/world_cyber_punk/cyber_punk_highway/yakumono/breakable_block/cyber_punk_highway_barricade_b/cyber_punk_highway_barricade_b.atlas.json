@@ -1,0 +1,119 @@
+[
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/a",
+        "w": 20,
+        "h": 16,
+        "x": 40,
+        "y": 92,
+        "r": true,
+        "fx": -31,
+        "fy": -24,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/b",
+        "w": 16,
+        "h": 20,
+        "x": 45,
+        "y": 154,
+        "fx": -31,
+        "fy": -24,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/c",
+        "w": 16,
+        "h": 20,
+        "x": 45,
+        "y": 176,
+        "fx": -31,
+        "fy": -24,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/d",
+        "w": 19,
+        "h": 23,
+        "x": 42,
+        "y": 1,
+        "r": true,
+        "fx": -26,
+        "fy": -21,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/e",
+        "w": 22,
+        "h": 31,
+        "x": 40,
+        "y": 59,
+        "r": true,
+        "fx": -22,
+        "fy": -18,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/f",
+        "w": 25,
+        "h": 37,
+        "x": 37,
+        "y": 115,
+        "r": true,
+        "fx": -19,
+        "fy": -16,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/g",
+        "w": 42,
+        "h": 29,
+        "x": 1,
+        "y": 167,
+        "fx": -19,
+        "fy": -16,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/h",
+        "w": 34,
+        "h": 50,
+        "x": 1,
+        "y": 115,
+        "r": true,
+        "fx": -15,
+        "fy": -15,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/i",
+        "w": 37,
+        "h": 54,
+        "x": 1,
+        "y": 59,
+        "r": true,
+        "fx": -13,
+        "fy": -14,
+        "fw": 76,
+        "fh": 58
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_highway/yakumono/breakable_block/cyber_punk_highway_barricade_b/.gen/cyber_punk_highway_barricade_b/j",
+        "w": 39,
+        "h": 56,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -12,
+        "fy": -13,
+        "fw": 76,
+        "fh": 58
+    }
+]

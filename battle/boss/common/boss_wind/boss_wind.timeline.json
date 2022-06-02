@@ -1,0 +1,51 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 21,
+            "name": "left_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 22,
+            "end": 142,
+            "name": "left_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 143,
+            "end": 164,
+            "name": "left_end",
+            "kind": "once"
+        },
+        {
+            "begin": 165,
+            "end": 185,
+            "name": "right_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 186,
+            "end": 306,
+            "name": "right_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 307,
+            "end": 328,
+            "name": "right_end",
+            "kind": "once"
+        },
+        {
+            "begin": 329,
+            "end": 339,
+            "name": "none",
+            "kind": "stop"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

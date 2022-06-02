@@ -1,0 +1,150 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    0,
+                    33,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateRatioHeal",
+                                    0,
+                                    2,
+                                    {
+                                        "min": 0.04,
+                                        "max": 0.04
+                                    },
+                                    [
+                                        2
+                                    ],
+                                    {
+                                        "min": 0.5,
+                                        "max": 0.5
+                                    },
+                                    [
+                                        "GenericHealHitEffect"
+                                    ]
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACRegeneration",
+                                            {
+                                                "min": 600,
+                                                "max": 600
+                                            },
+                                            {
+                                                "min": 24,
+                                                "max": 24
+                                            }
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACAttackPoint",
+                                            {
+                                                "min": 900,
+                                                "max": 900
+                                            },
+                                            {
+                                                "min": 0.4,
+                                                "max": 0.4
+                                            },
+                                            1
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACToleranceOfElement",
+                                            {
+                                                "min": 900,
+                                                "max": 900
+                                            },
+                                            254,
+                                            {
+                                                "min": -0.5,
+                                                "max": -0.5
+                                            },
+                                            1
+                                        ]
+                                    ],
+                                    {
+                                        "min": 1,
+                                        "max": 1
+                                    },
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

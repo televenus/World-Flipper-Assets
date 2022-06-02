@@ -1,0 +1,98 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/a",
+        "w": 34,
+        "h": 36,
+        "x": 37,
+        "y": 42,
+        "fx": -38,
+        "fy": -37,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/b",
+        "w": 35,
+        "h": 39,
+        "x": 1,
+        "y": 1,
+        "fx": -37,
+        "fy": -34,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/c",
+        "w": 34,
+        "h": 39,
+        "x": 1,
+        "y": 42,
+        "fx": -37,
+        "fy": -34,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/d",
+        "w": 33,
+        "h": 38,
+        "x": 38,
+        "y": 1,
+        "fx": -38,
+        "fy": -35,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/e",
+        "w": 34,
+        "h": 33,
+        "x": 37,
+        "y": 80,
+        "r": true,
+        "fx": -38,
+        "fy": -37,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/f",
+        "w": 33,
+        "h": 37,
+        "x": 73,
+        "y": 1,
+        "fx": -38,
+        "fy": -36,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/g",
+        "w": 33,
+        "h": 37,
+        "x": 73,
+        "y": 40,
+        "fx": -38,
+        "fy": -36,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/h",
+        "w": 33,
+        "h": 36,
+        "x": 73,
+        "y": 79,
+        "fx": -38,
+        "fy": -37,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_heavy_cannon/enemy_shot_burst_heavy_cannon_black/.gen/enemy_shot_burst_heavy_cannon_black/i",
+        "w": 33,
+        "h": 33,
+        "x": 1,
+        "y": 83
+    }
+]

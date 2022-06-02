@@ -1,0 +1,296 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 89,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 90,
+            "end": 128,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 129,
+            "end": 174,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 175,
+            "end": 213,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 214,
+            "end": 259,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 260,
+            "end": 368,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 369,
+            "end": 378,
+            "name": "shot1_water_start",
+            "kind": "once"
+        },
+        {
+            "begin": 379,
+            "end": 429,
+            "name": "shot1_water_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 430,
+            "end": 441,
+            "name": "shot1_water_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 442,
+            "end": 454,
+            "name": "shot1_water_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 455,
+            "end": 479,
+            "name": "shot1_water_end",
+            "kind": "once"
+        },
+        {
+            "begin": 480,
+            "end": 489,
+            "name": "shot1_ice_start",
+            "kind": "once"
+        },
+        {
+            "begin": 490,
+            "end": 540,
+            "name": "shot1_ice_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 541,
+            "end": 552,
+            "name": "shot1_ice_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 553,
+            "end": 565,
+            "name": "shot1_ice_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 566,
+            "end": 590,
+            "name": "shot1_ice_end",
+            "kind": "once"
+        },
+        {
+            "begin": 591,
+            "end": 600,
+            "name": "shot2_water_start",
+            "kind": "once"
+        },
+        {
+            "begin": 601,
+            "end": 649,
+            "name": "shot2_water_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 650,
+            "end": 658,
+            "name": "shot2_water_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 659,
+            "end": 671,
+            "name": "shot2_water_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 672,
+            "end": 690,
+            "name": "shot2_water_end",
+            "kind": "once"
+        },
+        {
+            "begin": 691,
+            "end": 700,
+            "name": "shot2_ice_start",
+            "kind": "once"
+        },
+        {
+            "begin": 701,
+            "end": 749,
+            "name": "shot2_ice_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 750,
+            "end": 758,
+            "name": "shot2_ice_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 759,
+            "end": 771,
+            "name": "shot2_ice_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 772,
+            "end": 790,
+            "name": "shot2_ice_end",
+            "kind": "once"
+        },
+        {
+            "begin": 791,
+            "end": 800,
+            "name": "skill1_water_start",
+            "kind": "once"
+        },
+        {
+            "begin": 801,
+            "end": 851,
+            "name": "skill1_water_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 852,
+            "end": 873,
+            "name": "skill1_water_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 874,
+            "end": 886,
+            "name": "skill1_water_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 887,
+            "end": 905,
+            "name": "skill1_water_end",
+            "kind": "once"
+        },
+        {
+            "begin": 906,
+            "end": 915,
+            "name": "skill1_ice_start",
+            "kind": "once"
+        },
+        {
+            "begin": 916,
+            "end": 966,
+            "name": "skill1_ice_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 967,
+            "end": 988,
+            "name": "skill1_ice_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 989,
+            "end": 1001,
+            "name": "skill1_ice_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 1002,
+            "end": 1020,
+            "name": "skill1_ice_end",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/system/se_expod_charge",
+            "begin": 379,
+            "loop": -1,
+            "end": 430,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dragon_roar",
+            "begin": 430,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/system/se_expod_charge",
+            "begin": 490,
+            "loop": -1,
+            "end": 541,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dragon_roar",
+            "begin": 541,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 601,
+            "loop": -1,
+            "end": 650,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 701,
+            "loop": -1,
+            "end": 750,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/battle_special/se_light_skill_chain_attack_large",
+            "begin": 759,
+            "loop": -1,
+            "end": 772,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 801,
+            "loop": -1,
+            "end": 852,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dragon_roar",
+            "begin": 874,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 916,
+            "loop": -1,
+            "end": 967,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

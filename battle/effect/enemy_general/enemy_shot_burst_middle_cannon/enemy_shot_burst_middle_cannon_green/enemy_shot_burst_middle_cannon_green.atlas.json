@@ -1,0 +1,97 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/a",
+        "w": 24,
+        "h": 24,
+        "x": 1,
+        "y": 165,
+        "fx": -23,
+        "fy": -23,
+        "fw": 71,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/b",
+        "w": 24,
+        "h": 25,
+        "x": 1,
+        "y": 57,
+        "fx": -23,
+        "fy": -23,
+        "fw": 71,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/c",
+        "w": 24,
+        "h": 26,
+        "x": 1,
+        "y": 1,
+        "fx": -23,
+        "fy": -23,
+        "fw": 71,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/d",
+        "w": 24,
+        "h": 26,
+        "x": 1,
+        "y": 29,
+        "fx": -23,
+        "fy": -23,
+        "fw": 71,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/e",
+        "w": 24,
+        "h": 24,
+        "x": 1,
+        "y": 191,
+        "fx": -23,
+        "fy": -23,
+        "fw": 71,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/f",
+        "w": 24,
+        "h": 25,
+        "x": 1,
+        "y": 84,
+        "fx": -23,
+        "fy": -22,
+        "fw": 71,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/g",
+        "w": 24,
+        "h": 25,
+        "x": 1,
+        "y": 111,
+        "fx": -23,
+        "fy": -22,
+        "fw": 71,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/h",
+        "w": 24,
+        "h": 25,
+        "x": 1,
+        "y": 138,
+        "fx": -23,
+        "fy": -22,
+        "fw": 71,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_burst_middle_cannon/enemy_shot_burst_middle_cannon_green/.gen/enemy_shot_burst_middle_cannon_green/i",
+        "w": 15,
+        "h": 15,
+        "x": 1,
+        "y": 217
+    }
+]

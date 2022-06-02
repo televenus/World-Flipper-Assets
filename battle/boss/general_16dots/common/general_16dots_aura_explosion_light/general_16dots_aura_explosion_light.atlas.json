@@ -1,0 +1,104 @@
+[
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0003",
+        "w": 47,
+        "h": 47,
+        "x": 57,
+        "y": 495,
+        "fx": -44,
+        "fy": -44,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0006",
+        "w": 41,
+        "h": 41,
+        "x": 57,
+        "y": 544,
+        "fx": -47,
+        "fy": -47,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0014",
+        "w": 54,
+        "h": 55,
+        "x": 1,
+        "y": 495,
+        "fx": -42,
+        "fy": -39,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0022",
+        "w": 95,
+        "h": 93,
+        "x": 1,
+        "y": 219,
+        "r": true,
+        "fx": -23,
+        "fy": -24,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0030",
+        "w": 100,
+        "h": 105,
+        "x": 1,
+        "y": 112,
+        "fx": -20,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0039",
+        "w": 102,
+        "h": 109,
+        "x": 1,
+        "y": 1,
+        "fx": -16,
+        "fy": -16,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0048",
+        "w": 91,
+        "h": 90,
+        "x": 1,
+        "y": 403,
+        "r": true,
+        "fx": -21,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0057",
+        "w": 93,
+        "h": 87,
+        "x": 1,
+        "y": 314,
+        "r": true,
+        "fx": -25,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "battle/boss/general_16dots/common/general_16dots_aura_explosion_light/.gen/general_16dots_aura_explosion_light/f0059",
+        "w": 1,
+        "h": 1,
+        "x": 103,
+        "y": 112,
+        "fx": 0,
+        "fy": 0,
+        "fw": 136,
+        "fh": 136
+    }
+]

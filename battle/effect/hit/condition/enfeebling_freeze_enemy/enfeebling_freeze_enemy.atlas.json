@@ -1,0 +1,67 @@
+[
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/a",
+        "w": 25,
+        "h": 75,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/b",
+        "w": 25,
+        "h": 75,
+        "x": 28,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/c",
+        "w": 25,
+        "h": 75,
+        "x": 55,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/d",
+        "w": 32,
+        "h": 32,
+        "x": 1,
+        "y": 78
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/e",
+        "w": 32,
+        "h": 24,
+        "x": 82,
+        "y": 64,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/f",
+        "w": 32,
+        "h": 32,
+        "x": 82,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/g",
+        "w": 32,
+        "h": 24,
+        "x": 69,
+        "y": 90,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/h",
+        "w": 32,
+        "h": 32,
+        "x": 35,
+        "y": 78
+    },
+    {
+        "n": "battle/effect/hit/condition/enfeebling_freeze_enemy/.gen/enfeebling_freeze_enemy/i",
+        "w": 32,
+        "h": 27,
+        "x": 82,
+        "y": 35
+    }
+]

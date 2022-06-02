@@ -1,0 +1,90 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_big/enemy_shot_big_black/.gen/enemy_shot_big_black/a",
+        "w": 47,
+        "h": 54,
+        "x": 1,
+        "y": 189,
+        "fx": -21,
+        "fy": -12,
+        "fw": 89,
+        "fh": 89
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_big/enemy_shot_big_black/.gen/enemy_shot_big_black/b",
+        "w": 47,
+        "h": 59,
+        "x": 1,
+        "y": 128,
+        "fx": -21,
+        "fy": -7,
+        "fw": 89,
+        "fh": 89
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_big/enemy_shot_big_black/.gen/enemy_shot_big_black/c",
+        "w": 47,
+        "h": 61,
+        "x": 1,
+        "y": 65,
+        "fx": -21,
+        "fy": -5,
+        "fw": 89,
+        "fh": 89
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_big/enemy_shot_big_black/.gen/enemy_shot_big_black/d",
+        "w": 47,
+        "h": 62,
+        "x": 1,
+        "y": 1,
+        "fx": -21,
+        "fy": -4,
+        "fw": 89,
+        "fh": 89
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_big/enemy_shot_big_black/.gen/enemy_shot_big_black/e",
+        "w": 51,
+        "h": 51,
+        "x": 50,
+        "y": 168,
+        "fx": -16,
+        "fy": -15,
+        "fw": 89,
+        "fh": 89
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_big/enemy_shot_big_black/.gen/enemy_shot_big_black/f",
+        "w": 53,
+        "h": 53,
+        "x": 50,
+        "y": 113,
+        "fx": -14,
+        "fy": -13,
+        "fw": 89,
+        "fh": 89
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_big/enemy_shot_big_black/.gen/enemy_shot_big_black/g",
+        "w": 54,
+        "h": 54,
+        "x": 50,
+        "y": 1,
+        "fx": -13,
+        "fy": -12,
+        "fw": 89,
+        "fh": 89
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_big/enemy_shot_big_black/.gen/enemy_shot_big_black/h",
+        "w": 53,
+        "h": 54,
+        "x": 50,
+        "y": 57,
+        "fx": -14,
+        "fy": -12,
+        "fw": 89,
+        "fh": 89
+    }
+]

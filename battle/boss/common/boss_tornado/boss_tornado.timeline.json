@@ -1,0 +1,27 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 31,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 32,
+            "end": 52,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 53,
+            "end": 68,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

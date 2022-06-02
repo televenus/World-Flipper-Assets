@@ -1,0 +1,477 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/a"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/b"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/c"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/d"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/e"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/f"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/g"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/h"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/i"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/j"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/k"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/l"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_fire_bomb/.gen/guardian_golem_fire_bomb/m"
+        }
+    ],
+    "g": [
+        {
+            "t": 139,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 139,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 139,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 65557,
+                            "r": 0
+                        },
+                        {
+                            "m": 8447,
+                            "t": 327682,
+                            "r": 0
+                        },
+                        {
+                            "m": 8447,
+                            "t": 327683,
+                            "r": 0
+                        },
+                        {
+                            "m": 12543,
+                            "t": 589829,
+                            "r": 0
+                        },
+                        {
+                            "m": 8447,
+                            "t": 2,
+                            "r": 0
+                        },
+                        {
+                            "m": 16639,
+                            "t": 2,
+                            "r": 0
+                        },
+                        {
+                            "m": 8447,
+                            "t": 18,
+                            "r": 1073741824
+                        },
+                        {
+                            "m": 8447,
+                            "t": 29,
+                            "r": 1073741841
+                        },
+                        {
+                            "m": 8447,
+                            "t": 13,
+                            "r": 1073741869
+                        },
+                        {
+                            "m": 8447,
+                            "t": 7,
+                            "r": 1073741881
+                        },
+                        {
+                            "m": 8447,
+                            "t": 27,
+                            "r": 1073741887
+                        },
+                        {
+                            "m": 8447,
+                            "t": 10,
+                            "r": -2147483558
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 100,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 6,
+                            "r": 0
+                        },
+                        {
+                            "m": 255,
+                            "t": 6,
+                            "r": 1
+                        },
+                        {
+                            "m": 255,
+                            "t": 6,
+                            "r": 2
+                        },
+                        {
+                            "m": 255,
+                            "t": 7,
+                            "r": 3
+                        },
+                        {
+                            "m": 255,
+                            "t": 7,
+                            "r": 4
+                        },
+                        {
+                            "m": 255,
+                            "t": 7,
+                            "r": 5
+                        },
+                        {
+                            "m": 255,
+                            "t": 7,
+                            "r": 4
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 3
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 4
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 5
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 4
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 8
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 4
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 8
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 9
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 10
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 11
+                        },
+                        {
+                            "m": 255,
+                            "t": 4,
+                            "r": 12
+                        },
+                        {
+                            "m": 255,
+                            "t": 5,
+                            "r": 13
+                        },
+                        {
+                            "m": 255,
+                            "t": 5,
+                            "r": 14
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483558,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10,
+                            "r": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 15,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 1,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 2,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 3,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 9,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 11,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 13,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                },
+                {
+                    "s": 14,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 20735
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -1228800
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -28672
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -59392
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -32768
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -122880,
+            "y": -122880
+        }
+    ],
+    "c": [
+        [
+            333333,
+            166667,
+            666667,
+            500000
+        ],
+        [
+            333333,
+            666667,
+            666667,
+            1000000
+        ],
+        [
+            333300,
+            0,
+            777800,
+            54800
+        ]
+    ],
+    "s": 6
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/gate/.gen/tree_grass01_gate/f0011",
+        "w": 45,
+        "h": 13,
+        "x": 1,
+        "y": 31,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 15
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/gate/.gen/tree_grass01_gate/f0017",
+        "w": 45,
+        "h": 10,
+        "x": 1,
+        "y": 19,
+        "fx": -1,
+        "fy": -4,
+        "fw": 47,
+        "fh": 15
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/gate/.gen/tree_grass01_gate/f0023",
+        "w": 45,
+        "h": 7,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -7,
+        "fw": 47,
+        "fh": 15
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_grass01/gate/.gen/tree_grass01_gate/f0025",
+        "w": 45,
+        "h": 7,
+        "x": 1,
+        "y": 10,
+        "fx": -1,
+        "fy": -7,
+        "fw": 47,
+        "fh": 15
+    }
+]

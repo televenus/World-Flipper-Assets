@@ -1,0 +1,128 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "SpawnFunnel",
+                    [
+                        "Funnel",
+                        "funnel_lich_another_thunder_multi"
+                    ],
+                    15,
+                    [
+                        "FunnelGroup",
+                        3
+                    ],
+                    []
+                ]
+            ],
+            [
+                "Event",
+                [
+                    "Wait",
+                    30,
+                    "*",
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "FindAllSubjects",
+                                    0,
+                                    52,
+                                    [],
+                                    [],
+                                    [],
+                                    [],
+                                    [],
+                                    [
+                                        "DoNothing"
+                                    ],
+                                    [
+                                        "Block",
+                                        [
+                                            [
+                                                "Command",
+                                                [
+                                                    "CreateCondition",
+                                                    0,
+                                                    [
+                                                        [
+                                                            "ACAttackPoint",
+                                                            {
+                                                                "min": 999999,
+                                                                "max": 999999
+                                                            },
+                                                            {
+                                                                "min": 1,
+                                                                "max": 1
+                                                            },
+                                                            1
+                                                        ]
+                                                    ],
+                                                    {
+                                                        "min": 1,
+                                                        "max": 1
+                                                    },
+                                                    [
+                                                        "GenericConditionHitEffect"
+                                                    ],
+                                                    true,
+                                                    false
+                                                ]
+                                            ],
+                                            [
+                                                "Command",
+                                                [
+                                                    "CreateCondition",
+                                                    0,
+                                                    [
+                                                        [
+                                                            "ACToleranceOfElement",
+                                                            {
+                                                                "min": 999999,
+                                                                "max": 999999
+                                                            },
+                                                            254,
+                                                            {
+                                                                "min": 1,
+                                                                "max": 1
+                                                            },
+                                                            1
+                                                        ]
+                                                    ],
+                                                    {
+                                                        "min": 1,
+                                                        "max": 1
+                                                    },
+                                                    [
+                                                        "GenericConditionHitEffect"
+                                                    ],
+                                                    true,
+                                                    false
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/outhole/.gen/sand_ruins_outhole_zone1/f0032",
+        "w": 16,
+        "h": 40,
+        "x": 93,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/outhole/.gen/sand_ruins_outhole_zone2/f0011",
+        "w": 44,
+        "h": 17,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/outhole/.gen/sand_ruins_outhole_zone2/f0016",
+        "w": 44,
+        "h": 17,
+        "x": 1,
+        "y": 20,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/outhole/.gen/sand_ruins_outhole_zone2/f0021",
+        "w": 44,
+        "h": 17,
+        "x": 47,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/outhole/.gen/sand_ruins_outhole_zone2/f0026",
+        "w": 44,
+        "h": 17,
+        "x": 1,
+        "y": 39,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/outhole/.gen/sand_ruins_outhole_zone2/f0031",
+        "w": 44,
+        "h": 17,
+        "x": 47,
+        "y": 20,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_ruins/outhole/.gen/sand_ruins_outhole_zone2/f0038",
+        "w": 44,
+        "h": 17,
+        "x": 47,
+        "y": 39,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 19
+    }
+]

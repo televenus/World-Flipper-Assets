@@ -1,0 +1,129 @@
+[
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_field/a",
+        "w": 10,
+        "h": 10,
+        "x": 400,
+        "y": 1
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_field/b",
+        "w": 210,
+        "h": 140,
+        "x": 1,
+        "y": 63
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_frame/a",
+        "w": 10,
+        "h": 10,
+        "x": 400,
+        "y": 13
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_frame/b",
+        "w": 10,
+        "h": 10,
+        "x": 400,
+        "y": 25
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_frame/c",
+        "w": 36,
+        "h": 36,
+        "x": 288,
+        "y": 148
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_frame/d",
+        "w": 36,
+        "h": 36,
+        "x": 313,
+        "y": 108
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_frame/e",
+        "w": 36,
+        "h": 36,
+        "x": 351,
+        "y": 108
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_frame/f",
+        "w": 38,
+        "h": 38,
+        "x": 273,
+        "y": 108,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_frame/g",
+        "w": 145,
+        "h": 43,
+        "x": 273,
+        "y": 63,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_icon/a",
+        "w": 73,
+        "h": 45,
+        "x": 213,
+        "y": 153
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_icon/b",
+        "w": 72,
+        "h": 23,
+        "x": 326,
+        "y": 146
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_icon/c",
+        "w": 1,
+        "h": 1,
+        "x": 412,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_icon/d",
+        "w": 58,
+        "h": 88,
+        "x": 213,
+        "y": 63,
+        "r": true
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_label/a",
+        "w": 397,
+        "h": 60,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 400,
+        "fh": 60
+    },
+    {
+        "n": "battle/uncommon/layer1/combo_restrict/.gen/combo_restrict_label/b",
+        "w": 1,
+        "h": 1,
+        "x": 412,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    }
+]

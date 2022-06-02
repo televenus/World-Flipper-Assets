@@ -1,0 +1,669 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/a"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/b"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/c"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/d"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/e"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/f"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/g"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/h"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/i"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/j"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/k"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/l"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/m"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/n"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/o"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/p"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/q"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/r"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/s"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/t"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/u"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/v"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/w"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/x"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/y"
+        },
+        {
+            "s": false,
+            "p": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_tutorial_king/.gen/skill_invoker_tutorial_king/z"
+        }
+    ],
+    "g": [
+        {
+            "t": 288,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 288,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 288,
+            "s": [
+                {
+                    "s": -2147483633,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 16646154,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 8447,
+                            "t": 251,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 8447,
+                            "t": 65541,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 4351,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483633,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 16646154,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 7,
+                            "r": -2147483638
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 48,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": 1073741854
+                        },
+                        {
+                            "m": 255,
+                            "r": 1073741937
+                        },
+                        {
+                            "m": 255,
+                            "t": 26,
+                            "r": -2147483618
+                        },
+                        {
+                            "m": 255,
+                            "t": 65541,
+                            "r": 1073741844
+                        },
+                        {
+                            "m": 12543,
+                            "r": 1073741849
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 115,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 65541,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 16639,
+                            "t": 327685,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 20735,
+                            "t": 3,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 5,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 24831,
+                            "t": 3,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 20735,
+                            "t": 2,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 5,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483618,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 24,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 255,
+                            "t": 60,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 1,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 1,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 33023
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 25,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 1,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 2,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 3,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 6,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 7,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 9,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 11,
+                    "i": 13,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 14,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 13,
+                    "i": 15,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 14,
+                    "i": 16,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 15,
+                    "i": 17,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 18,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 17,
+                    "i": 19,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 18,
+                    "i": 20,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 19,
+                    "i": 21,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 22,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 21,
+                    "i": 23,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 22,
+                    "i": 24,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                },
+                {
+                    "s": 23,
+                    "i": 25,
+                    "l": [
+                        {
+                            "m": 28927
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -14336,
+            "y": -2048
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 2048,
+            "y": -2048
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -16384,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -32768
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -4096
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -8192
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -524288,
+            "y": -524288
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -18432,
+            "y": -6144
+        }
+    ],
+    "c": [
+        [
+            333333,
+            666667,
+            666667,
+            1000000
+        ],
+        [
+            333333,
+            0,
+            666667,
+            333333
+        ]
+    ],
+    "s": 6
+}

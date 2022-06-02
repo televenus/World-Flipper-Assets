@@ -1,0 +1,90 @@
+[
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02/outhole/.gen/mecha_area02_outhole_zone1/f0044",
+        "w": 37,
+        "h": 29,
+        "x": 1,
+        "y": 157,
+        "fx": -2,
+        "fy": -1,
+        "fw": 40,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02/outhole/.gen/mecha_area02_outhole_zone2/f0011",
+        "w": 55,
+        "h": 12,
+        "x": 1,
+        "y": 143,
+        "fx": -1,
+        "fy": -17,
+        "fw": 57,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02/outhole/.gen/mecha_area02_outhole_zone2/f0016",
+        "w": 55,
+        "h": 15,
+        "x": 1,
+        "y": 126,
+        "fx": -1,
+        "fy": -14,
+        "fw": 57,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02/outhole/.gen/mecha_area02_outhole_zone2/f0021",
+        "w": 55,
+        "h": 19,
+        "x": 1,
+        "y": 85,
+        "fx": -1,
+        "fy": -10,
+        "fw": 57,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02/outhole/.gen/mecha_area02_outhole_zone2/f0026",
+        "w": 55,
+        "h": 18,
+        "x": 1,
+        "y": 106,
+        "fx": -1,
+        "fy": -11,
+        "fw": 57,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02/outhole/.gen/mecha_area02_outhole_zone2/f0031",
+        "w": 55,
+        "h": 23,
+        "x": 1,
+        "y": 60,
+        "fx": -1,
+        "fy": -6,
+        "fw": 57,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02/outhole/.gen/mecha_area02_outhole_zone2/f0036",
+        "w": 55,
+        "h": 28,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 57,
+        "fh": 30
+    },
+    {
+        "n": "battle/field_object/world_mecha/mecha_area02/outhole/.gen/mecha_area02_outhole_zone2/f0038",
+        "w": 55,
+        "h": 27,
+        "x": 1,
+        "y": 31,
+        "fx": -1,
+        "fy": -2,
+        "fw": 57,
+        "fh": 30
+    }
+]

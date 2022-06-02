@@ -1,0 +1,229 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 61,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 62,
+            "end": 98,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 99,
+            "end": 103,
+            "name": "shot_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 104,
+            "end": 120,
+            "name": "shot_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 121,
+            "end": 125,
+            "name": "shot_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 126,
+            "end": 130,
+            "name": "shot_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 131,
+            "end": 170,
+            "name": "shot_attack_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 171,
+            "end": 175,
+            "name": "shot_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 176,
+            "end": 192,
+            "name": "shot_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 193,
+            "end": 232,
+            "name": "shot_attack2",
+            "kind": "once"
+        },
+        {
+            "begin": 233,
+            "end": 237,
+            "name": "ex_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 238,
+            "end": 254,
+            "name": "ex_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 255,
+            "end": 268,
+            "name": "ex_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 269,
+            "end": 273,
+            "name": "funnel_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 274,
+            "end": 290,
+            "name": "funnel_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 291,
+            "end": 313,
+            "name": "funnel_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 314,
+            "end": 318,
+            "name": "skill_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 319,
+            "end": 335,
+            "name": "skill_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 336,
+            "end": 342,
+            "name": "skill_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 343,
+            "end": 349,
+            "name": "skill_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 350,
+            "end": 365,
+            "name": "skill_attack_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 366,
+            "end": 426,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 427,
+            "end": 487,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 488,
+            "end": 548,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 549,
+            "end": 609,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 610,
+            "end": 654,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 104,
+            "loop": -1,
+            "end": 121,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_arm_swing",
+            "begin": 132,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 176,
+            "loop": -1,
+            "end": 193,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_dark_matter_arm_swing",
+            "begin": 193,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 238,
+            "loop": -1,
+            "end": 255,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 274,
+            "loop": -1,
+            "end": 291,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 292,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 319,
+            "loop": -1,
+            "end": 336,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_skill_shot",
+            "begin": 337,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

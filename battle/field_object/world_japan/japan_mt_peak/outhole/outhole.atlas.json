@@ -1,0 +1,92 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_mt_peak/outhole/.gen/japan_mt_peak_outhole_zone1/f0044",
+        "w": 17,
+        "h": 50,
+        "x": 147,
+        "y": 147,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 50,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_peak/outhole/.gen/japan_mt_peak_outhole_zone2/f0011",
+        "w": 144,
+        "h": 31,
+        "x": 1,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 147,
+        "fh": 37
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_peak/outhole/.gen/japan_mt_peak_outhole_zone2/f0016",
+        "w": 144,
+        "h": 31,
+        "x": 1,
+        "y": 34,
+        "fx": -2,
+        "fy": -2,
+        "fw": 147,
+        "fh": 37
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_peak/outhole/.gen/japan_mt_peak_outhole_zone2/f0026",
+        "w": 144,
+        "h": 31,
+        "x": 1,
+        "y": 67,
+        "fx": -2,
+        "fy": -2,
+        "fw": 147,
+        "fh": 37
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_peak/outhole/.gen/japan_mt_peak_outhole_zone2/f0031",
+        "w": 144,
+        "h": 31,
+        "x": 1,
+        "y": 100,
+        "fx": -2,
+        "fy": -2,
+        "fw": 147,
+        "fh": 37
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_peak/outhole/.gen/japan_mt_peak_outhole_zone2/f0036",
+        "w": 144,
+        "h": 31,
+        "x": 1,
+        "y": 133,
+        "fx": -2,
+        "fy": -2,
+        "fw": 147,
+        "fh": 37
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_peak/outhole/.gen/japan_mt_peak_outhole_zone2/f0041",
+        "w": 31,
+        "h": 144,
+        "x": 147,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 147,
+        "fh": 37
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_mt_peak/outhole/.gen/japan_mt_peak_outhole_zone2/f0044",
+        "w": 144,
+        "h": 31,
+        "x": 1,
+        "y": 166,
+        "fx": -2,
+        "fy": -1,
+        "fw": 147,
+        "fh": 37
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/a",
+        "w": 9,
+        "h": 2,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 10,
+        "fh": 2
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/b",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 5,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/c",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 17,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/d",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 29,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/e",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/f",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 53,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/g",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 65,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/h",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 77,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/i",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 89,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/j",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 101,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/k",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 113,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/l",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 125,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/m",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 137,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/n",
+        "w": 20,
+        "h": 10,
+        "x": 1,
+        "y": 149,
+        "r": true
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/o",
+        "w": 2,
+        "h": 2,
+        "x": 12,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/common/boss_gravity_field/.gen/boss_gravity_field/p",
+        "w": 2,
+        "h": 2,
+        "x": 16,
+        "y": 1
+    }
+]

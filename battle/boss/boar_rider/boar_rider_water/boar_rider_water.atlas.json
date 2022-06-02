@@ -1,0 +1,868 @@
+[
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/a",
+        "w": 15,
+        "h": 16,
+        "x": 1420,
+        "y": 38
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/aa",
+        "w": 16,
+        "h": 14,
+        "x": 343,
+        "y": 49,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ab",
+        "w": 18,
+        "h": 23,
+        "x": 1102,
+        "y": 40,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ac",
+        "w": 32,
+        "h": 36,
+        "x": 1230,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ad",
+        "w": 19,
+        "h": 22,
+        "x": 847,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ae",
+        "w": 16,
+        "h": 13,
+        "x": 1384,
+        "y": 49,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/af",
+        "w": 31,
+        "h": 43,
+        "x": 460,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ag",
+        "w": 24,
+        "h": 19,
+        "x": 567,
+        "y": 44
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ah",
+        "w": 15,
+        "h": 16,
+        "x": 1421,
+        "y": 19
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ai",
+        "w": 35,
+        "h": 37,
+        "x": 1091,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/aj",
+        "w": 27,
+        "h": 34,
+        "x": 1264,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ak",
+        "w": 15,
+        "h": 15,
+        "x": 1454,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/al",
+        "w": 18,
+        "h": 23,
+        "x": 1122,
+        "y": 40,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/am",
+        "w": 24,
+        "h": 20,
+        "x": 722,
+        "y": 42
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/an",
+        "w": 16,
+        "h": 16,
+        "x": 1402,
+        "y": 39
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ao",
+        "w": 16,
+        "h": 16,
+        "x": 1403,
+        "y": 20
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ap",
+        "w": 18,
+        "h": 23,
+        "x": 1142,
+        "y": 40,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/aq",
+        "w": 75,
+        "h": 48,
+        "x": 266,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ar",
+        "w": 83,
+        "h": 54,
+        "x": 90,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/as",
+        "w": 24,
+        "h": 20,
+        "x": 748,
+        "y": 42
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/at",
+        "w": 87,
+        "h": 61,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/au",
+        "w": 16,
+        "h": 14,
+        "x": 361,
+        "y": 49,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/av",
+        "w": 13,
+        "h": 16,
+        "x": 1438,
+        "y": 19
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/aw",
+        "w": 15,
+        "h": 16,
+        "x": 1422,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ax",
+        "w": 19,
+        "h": 22,
+        "x": 868,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ay",
+        "w": 15,
+        "h": 15,
+        "x": 1454,
+        "y": 18
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/az",
+        "w": 18,
+        "h": 22,
+        "x": 931,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/b",
+        "w": 24,
+        "h": 19,
+        "x": 593,
+        "y": 44
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ba",
+        "w": 17,
+        "h": 22,
+        "x": 971,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bb",
+        "w": 15,
+        "h": 12,
+        "x": 266,
+        "y": 51,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bc",
+        "w": 15,
+        "h": 15,
+        "x": 1454,
+        "y": 35
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bd",
+        "w": 17,
+        "h": 17,
+        "x": 1260,
+        "y": 39
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/be",
+        "w": 16,
+        "h": 17,
+        "x": 1297,
+        "y": 37
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bf",
+        "w": 15,
+        "h": 17,
+        "x": 1387,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bg",
+        "w": 36,
+        "h": 36,
+        "x": 1192,
+        "y": 1,
+        "fx": 0,
+        "fy": -8,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bh",
+        "w": 38,
+        "h": 41,
+        "x": 493,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bi",
+        "w": 37,
+        "h": 39,
+        "x": 643,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bj",
+        "w": 37,
+        "h": 41,
+        "x": 533,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bk",
+        "w": 15,
+        "h": 4,
+        "x": 142,
+        "y": 57,
+        "fx": -7,
+        "fy": -1,
+        "fw": 29,
+        "fh": 6
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bl",
+        "w": 21,
+        "h": 6,
+        "x": 90,
+        "y": 57,
+        "fx": -4,
+        "fy": 0,
+        "fw": 29,
+        "fh": 6
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bm",
+        "w": 27,
+        "h": 4,
+        "x": 113,
+        "y": 57,
+        "fx": -1,
+        "fy": -1,
+        "fw": 29,
+        "fh": 6
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bn",
+        "w": 23,
+        "h": 2,
+        "x": 159,
+        "y": 57,
+        "fx": -3,
+        "fy": -2,
+        "fw": 29,
+        "fh": 6
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bo",
+        "w": 34,
+        "h": 43,
+        "x": 424,
+        "y": 1,
+        "r": true,
+        "fx": -11,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bp",
+        "w": 24,
+        "h": 21,
+        "x": 673,
+        "y": 42
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bq",
+        "w": 38,
+        "h": 45,
+        "x": 384,
+        "y": 1,
+        "r": true,
+        "fx": -10,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/br",
+        "w": 24,
+        "h": 19,
+        "x": 593,
+        "y": 44
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bs",
+        "w": 35,
+        "h": 41,
+        "x": 572,
+        "y": 1,
+        "r": true,
+        "fx": -12,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bt",
+        "w": 24,
+        "h": 18,
+        "x": 1015,
+        "y": 41
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bu",
+        "w": 32,
+        "h": 41,
+        "x": 609,
+        "y": 1,
+        "r": true,
+        "fx": -12,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bv",
+        "w": 26,
+        "h": 17,
+        "x": 424,
+        "y": 46
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bw",
+        "w": 33,
+        "h": 23,
+        "x": 1067,
+        "y": 40,
+        "fx": -16,
+        "fy": -32,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bx",
+        "w": 25,
+        "h": 17,
+        "x": 452,
+        "y": 46
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/by",
+        "w": 16,
+        "h": 16,
+        "x": 1403,
+        "y": 20
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/bz",
+        "w": 18,
+        "h": 23,
+        "x": 1142,
+        "y": 40,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/c",
+        "w": 29,
+        "h": 39,
+        "x": 682,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ca",
+        "w": 16,
+        "h": 14,
+        "x": 379,
+        "y": 49,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cb",
+        "w": 18,
+        "h": 23,
+        "x": 1162,
+        "y": 40,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cc",
+        "w": 19,
+        "h": 22,
+        "x": 889,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cd",
+        "w": 19,
+        "h": 22,
+        "x": 910,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ce",
+        "w": 23,
+        "h": 20,
+        "x": 774,
+        "y": 42
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cf",
+        "w": 23,
+        "h": 19,
+        "x": 990,
+        "y": 41
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cg",
+        "w": 27,
+        "h": 34,
+        "x": 1293,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ch",
+        "w": 16,
+        "h": 27,
+        "x": 1351,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ci",
+        "w": 27,
+        "h": 33,
+        "x": 1322,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cj",
+        "w": 25,
+        "h": 17,
+        "x": 479,
+        "y": 46
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ck",
+        "w": 32,
+        "h": 27,
+        "x": 1333,
+        "y": 36,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cl",
+        "w": 16,
+        "h": 17,
+        "x": 1315,
+        "y": 37,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cm",
+        "w": 25,
+        "h": 15,
+        "x": 397,
+        "y": 48
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cn",
+        "w": 29,
+        "h": 37,
+        "x": 1161,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/co",
+        "w": 16,
+        "h": 17,
+        "x": 1367,
+        "y": 30,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cp",
+        "w": 24,
+        "h": 19,
+        "x": 619,
+        "y": 44
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cq",
+        "w": 29,
+        "h": 38,
+        "x": 837,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cr",
+        "w": 21,
+        "h": 21,
+        "x": 699,
+        "y": 42
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cs",
+        "w": 30,
+        "h": 19,
+        "x": 506,
+        "y": 44
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/ct",
+        "w": 29,
+        "h": 39,
+        "x": 713,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cu",
+        "w": 27,
+        "h": 19,
+        "x": 538,
+        "y": 44
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cv",
+        "w": 29,
+        "h": 39,
+        "x": 744,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cw",
+        "w": 26,
+        "h": 21,
+        "x": 645,
+        "y": 42
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cx",
+        "w": 7,
+        "h": 7,
+        "x": 221,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cy",
+        "w": 15,
+        "h": 14,
+        "x": 1367,
+        "y": 49
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/cz",
+        "w": 31,
+        "h": 37,
+        "x": 1128,
+        "y": 1,
+        "r": true,
+        "fx": -13,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/d",
+        "w": 16,
+        "h": 17,
+        "x": 1369,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/da",
+        "w": 39,
+        "h": 46,
+        "x": 343,
+        "y": 1,
+        "r": true,
+        "fx": -9,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/db",
+        "w": 15,
+        "h": 10,
+        "x": 283,
+        "y": 51
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/dc",
+        "w": 43,
+        "h": 51,
+        "x": 221,
+        "y": 1,
+        "r": true,
+        "fx": -7,
+        "fy": -11,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/dd",
+        "w": 44,
+        "h": 54,
+        "x": 175,
+        "y": 1,
+        "r": true,
+        "fx": -6,
+        "fy": -11,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/e",
+        "w": 24,
+        "h": 18,
+        "x": 1041,
+        "y": 41
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/f",
+        "w": 29,
+        "h": 39,
+        "x": 775,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/g",
+        "w": 16,
+        "h": 17,
+        "x": 1385,
+        "y": 20,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/h",
+        "w": 18,
+        "h": 24,
+        "x": 1200,
+        "y": 39,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/i",
+        "w": 29,
+        "h": 38,
+        "x": 868,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/j",
+        "w": 29,
+        "h": 38,
+        "x": 899,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/k",
+        "w": 18,
+        "h": 24,
+        "x": 1220,
+        "y": 39,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/l",
+        "w": 29,
+        "h": 39,
+        "x": 806,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/m",
+        "w": 26,
+        "h": 17,
+        "x": 424,
+        "y": 46
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/n",
+        "w": 29,
+        "h": 38,
+        "x": 930,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/o",
+        "w": 16,
+        "h": 25,
+        "x": 1279,
+        "y": 37,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/p",
+        "w": 29,
+        "h": 38,
+        "x": 961,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/q",
+        "w": 15,
+        "h": 16,
+        "x": 1437,
+        "y": 37
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/r",
+        "w": 16,
+        "h": 23,
+        "x": 1182,
+        "y": 40,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/s",
+        "w": 18,
+        "h": 24,
+        "x": 1240,
+        "y": 39,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/t",
+        "w": 29,
+        "h": 38,
+        "x": 992,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/u",
+        "w": 29,
+        "h": 38,
+        "x": 1023,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/v",
+        "w": 24,
+        "h": 19,
+        "x": 821,
+        "y": 42
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/w",
+        "w": 20,
+        "h": 20,
+        "x": 799,
+        "y": 42
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/x",
+        "w": 16,
+        "h": 16,
+        "x": 1404,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/y",
+        "w": 18,
+        "h": 22,
+        "x": 951,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "battle/boss/boar_rider/boar_rider_water/.gen/boar_rider_water/z",
+        "w": 35,
+        "h": 37,
+        "x": 1054,
+        "y": 1
+    }
+]

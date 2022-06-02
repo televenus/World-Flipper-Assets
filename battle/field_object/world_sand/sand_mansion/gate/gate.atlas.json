@@ -1,0 +1,56 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/gate/.gen/sand_mansion_gate/f0011",
+        "w": 36,
+        "h": 52,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/gate/.gen/sand_mansion_gate/f0016",
+        "w": 36,
+        "h": 52,
+        "x": 1,
+        "y": 55
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/gate/.gen/sand_mansion_gate/f0021",
+        "w": 36,
+        "h": 52,
+        "x": 1,
+        "y": 109
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/gate/.gen/sand_mansion_gate/f0026",
+        "w": 36,
+        "h": 50,
+        "x": 1,
+        "y": 163,
+        "fx": 0,
+        "fy": 0,
+        "fw": 36,
+        "fh": 52
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/gate/.gen/sand_mansion_gate/f0031",
+        "w": 36,
+        "h": 22,
+        "x": 1,
+        "y": 215,
+        "fx": 0,
+        "fy": -25,
+        "fw": 36,
+        "fh": 52
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/gate/.gen/sand_mansion_gate/f0033",
+        "w": 1,
+        "h": 1,
+        "x": 1,
+        "y": 239,
+        "fx": 0,
+        "fy": 0,
+        "fw": 36,
+        "fh": 52
+    }
+]

@@ -1,0 +1,185 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 61,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 62,
+            "end": 123,
+            "name": "fly_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 124,
+            "end": 164,
+            "name": "fly",
+            "kind": "loop"
+        },
+        {
+            "begin": 165,
+            "end": 207,
+            "name": "fly_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 208,
+            "end": 226,
+            "name": "funnel_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 227,
+            "end": 237,
+            "name": "funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 238,
+            "end": 256,
+            "name": "funnel_1",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 257,
+            "end": 275,
+            "name": "funnel_2",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 276,
+            "end": 300,
+            "name": "magic_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 301,
+            "end": 325,
+            "name": "magic_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 326,
+            "end": 379,
+            "name": "magic",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 380,
+            "end": 413,
+            "name": "wind_left_ready",
+            "kind": "goto",
+            "target": "wind_left"
+        },
+        {
+            "begin": 414,
+            "end": 447,
+            "name": "wind_right_ready",
+            "kind": "goto",
+            "target": "wind_right"
+        },
+        {
+            "begin": 448,
+            "end": 479,
+            "name": "wind_left",
+            "kind": "loop"
+        },
+        {
+            "begin": 480,
+            "end": 511,
+            "name": "wind_right",
+            "kind": "loop"
+        },
+        {
+            "begin": 512,
+            "end": 553,
+            "name": "wind_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 554,
+            "end": 596,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 597,
+            "end": 645,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 646,
+            "end": 688,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 689,
+            "end": 737,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 738,
+            "end": 826,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_flap_out",
+            "begin": 73,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bullet_short",
+            "begin": 124,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_owl_charge",
+            "begin": 301,
+            "loop": -1,
+            "end": 326,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_bullet_continuous_big",
+            "begin": 326,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_gust",
+            "begin": 412,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_gust",
+            "begin": 446,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

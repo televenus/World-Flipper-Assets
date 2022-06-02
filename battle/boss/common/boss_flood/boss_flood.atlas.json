@@ -1,0 +1,54 @@
+[
+    {
+        "n": "battle/boss/common/boss_flood/.gen/boss_flood/a",
+        "w": 20,
+        "h": 20,
+        "x": 37,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/common/boss_flood/.gen/boss_flood/b",
+        "w": 73,
+        "h": 364,
+        "x": 1,
+        "y": 263,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 366,
+        "fh": 73
+    },
+    {
+        "n": "battle/boss/common/boss_flood/.gen/boss_flood/c",
+        "w": 80,
+        "h": 238,
+        "x": 1,
+        "y": 23,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 240,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/common/boss_flood/.gen/boss_flood/d",
+        "w": 10,
+        "h": 10,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/common/boss_flood/.gen/boss_flood/e",
+        "w": 10,
+        "h": 10,
+        "x": 13,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/common/boss_flood/.gen/boss_flood/f",
+        "w": 10,
+        "h": 10,
+        "x": 25,
+        "y": 1
+    }
+]

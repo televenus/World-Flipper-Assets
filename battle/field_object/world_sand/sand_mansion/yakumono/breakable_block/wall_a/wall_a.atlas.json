@@ -1,0 +1,147 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/a",
+        "w": 30,
+        "h": 24,
+        "x": 207,
+        "y": 26,
+        "r": true,
+        "fx": -36,
+        "fy": -18,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/b",
+        "w": 24,
+        "h": 30,
+        "x": 239,
+        "y": 26,
+        "fx": -36,
+        "fy": -18,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/c",
+        "w": 30,
+        "h": 27,
+        "x": 175,
+        "y": 26,
+        "r": true,
+        "fx": -35,
+        "fy": -18,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/d",
+        "w": 38,
+        "h": 34,
+        "x": 135,
+        "y": 26,
+        "fx": -29,
+        "fy": -15,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/e",
+        "w": 49,
+        "h": 35,
+        "x": 84,
+        "y": 26,
+        "fx": -24,
+        "fy": -14,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/f",
+        "w": 58,
+        "h": 35,
+        "x": 350,
+        "y": 1,
+        "fx": -20,
+        "fy": -17,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/g",
+        "w": 69,
+        "h": 29,
+        "x": 265,
+        "y": 25,
+        "fx": -14,
+        "fy": -24,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/h",
+        "w": 74,
+        "h": 22,
+        "x": 336,
+        "y": 38,
+        "fx": -10,
+        "fy": -31,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/i",
+        "w": 81,
+        "h": 21,
+        "x": 1,
+        "y": 26,
+        "fx": -8,
+        "fy": -32,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/j",
+        "w": 83,
+        "h": 22,
+        "x": 265,
+        "y": 1,
+        "fx": -8,
+        "fy": -33,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/k",
+        "w": 86,
+        "h": 23,
+        "x": 1,
+        "y": 1,
+        "fx": -6,
+        "fy": -33,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/l",
+        "w": 86,
+        "h": 23,
+        "x": 89,
+        "y": 1,
+        "fx": -6,
+        "fy": -33,
+        "fw": 96,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/yakumono/breakable_block/wall_a/.gen/wall_a/m",
+        "w": 86,
+        "h": 23,
+        "x": 177,
+        "y": 1,
+        "fx": -6,
+        "fy": -33,
+        "fw": 96,
+        "fh": 64
+    }
+]

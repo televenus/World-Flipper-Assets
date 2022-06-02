@@ -1,0 +1,106 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/a",
+        "w": 19,
+        "h": 21,
+        "x": 103,
+        "y": 72,
+        "fx": -33,
+        "fy": -15,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/b",
+        "w": 19,
+        "h": 21,
+        "x": 103,
+        "y": 95,
+        "fx": -33,
+        "fy": -15,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/c",
+        "w": 22,
+        "h": 21,
+        "x": 85,
+        "y": 49,
+        "r": true,
+        "fx": -32,
+        "fy": -14,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/d",
+        "w": 23,
+        "h": 27,
+        "x": 46,
+        "y": 47,
+        "r": true,
+        "fx": -28,
+        "fy": -12,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/e",
+        "w": 31,
+        "h": 46,
+        "x": 85,
+        "y": 1,
+        "r": true,
+        "fx": -20,
+        "fy": -6,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/f",
+        "w": 55,
+        "h": 38,
+        "x": 46,
+        "y": 79,
+        "fx": -15,
+        "fy": -3,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/g",
+        "w": 43,
+        "h": 66,
+        "x": 1,
+        "y": 47,
+        "r": true,
+        "fx": -9,
+        "fy": -3,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/h",
+        "w": 71,
+        "h": 44,
+        "x": 1,
+        "y": 1,
+        "fx": -7,
+        "fy": -4,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_street/yakumono/breakable_block/object_a/.gen/object_a/i",
+        "w": 9,
+        "h": 76,
+        "x": 74,
+        "y": 1,
+        "r": true,
+        "fx": -5,
+        "fy": -38,
+        "fw": 84,
+        "fh": 49
+    }
+]

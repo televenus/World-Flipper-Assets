@@ -1,0 +1,3522 @@
+[
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/a",
+        "w": 55,
+        "h": 32,
+        "x": 202,
+        "y": 131,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/aa",
+        "w": 51,
+        "h": 31,
+        "x": 569,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -6,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ab",
+        "w": 49,
+        "h": 31,
+        "x": 622,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -8,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ac",
+        "w": 51,
+        "h": 31,
+        "x": 569,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -6,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ad",
+        "w": 31,
+        "h": 49,
+        "x": 1259,
+        "y": 161,
+        "fx": -14,
+        "fy": -8,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ae",
+        "w": 51,
+        "h": 31,
+        "x": 569,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -6,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/af",
+        "w": 31,
+        "h": 49,
+        "x": 1259,
+        "y": 161,
+        "fx": -14,
+        "fy": -8,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ag",
+        "w": 50,
+        "h": 32,
+        "x": 1045,
+        "y": 129,
+        "r": true,
+        "fx": -14,
+        "fy": -4,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ah",
+        "w": 32,
+        "h": 55,
+        "x": 415,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ai",
+        "w": 57,
+        "h": 32,
+        "x": 986,
+        "y": 129,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/aj",
+        "w": 37,
+        "h": 54,
+        "x": 309,
+        "y": 61
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ak",
+        "w": 49,
+        "h": 41,
+        "x": 780,
+        "y": 214,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/al",
+        "w": 41,
+        "h": 28,
+        "x": 883,
+        "y": 134,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/am",
+        "w": 28,
+        "h": 43,
+        "x": 1088,
+        "y": 209
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/an",
+        "w": 41,
+        "h": 28,
+        "x": 1374,
+        "y": 112,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ao",
+        "w": 28,
+        "h": 41,
+        "x": 1301,
+        "y": 209
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ap",
+        "w": 39,
+        "h": 54,
+        "x": 102,
+        "y": 201
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/aq",
+        "w": 67,
+        "h": 33,
+        "x": 348,
+        "y": 49,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ar",
+        "w": 67,
+        "h": 29,
+        "x": 417,
+        "y": 52,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/as",
+        "w": 113,
+        "h": 78,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/at",
+        "w": 103,
+        "h": 77,
+        "x": 1,
+        "y": 81
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/au",
+        "w": 99,
+        "h": 81,
+        "x": 1,
+        "y": 160
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/av",
+        "w": 32,
+        "h": 55,
+        "x": 415,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/aw",
+        "w": 32,
+        "h": 55,
+        "x": 449,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ax",
+        "w": 57,
+        "h": 37,
+        "x": 1062,
+        "y": 45,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ay",
+        "w": 45,
+        "h": 55,
+        "x": 143,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/az",
+        "w": 53,
+        "h": 41,
+        "x": 594,
+        "y": 90,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/b",
+        "w": 34,
+        "h": 55,
+        "x": 1499,
+        "y": 1,
+        "fx": -10,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ba",
+        "w": 55,
+        "h": 32,
+        "x": 1317,
+        "y": 55,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bb",
+        "w": 53,
+        "h": 32,
+        "x": 650,
+        "y": 133,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bc",
+        "w": 35,
+        "h": 44,
+        "x": 917,
+        "y": 164
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bd",
+        "w": 52,
+        "h": 40,
+        "x": 259,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/be",
+        "w": 56,
+        "h": 40,
+        "x": 313,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bf",
+        "w": 56,
+        "h": 41,
+        "x": 708,
+        "y": 65,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bg",
+        "w": 55,
+        "h": 40,
+        "x": 371,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bh",
+        "w": 53,
+        "h": 32,
+        "x": 650,
+        "y": 133,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bi",
+        "w": 35,
+        "h": 44,
+        "x": 917,
+        "y": 164
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bj",
+        "w": 56,
+        "h": 40,
+        "x": 313,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bk",
+        "w": 56,
+        "h": 41,
+        "x": 708,
+        "y": 65,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bl",
+        "w": 55,
+        "h": 40,
+        "x": 371,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bm",
+        "w": 53,
+        "h": 32,
+        "x": 673,
+        "y": 223,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bn",
+        "w": 32,
+        "h": 55,
+        "x": 449,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bo",
+        "w": 55,
+        "h": 32,
+        "x": 1317,
+        "y": 89,
+        "r": true,
+        "fx": -15,
+        "fy": -5,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bp",
+        "w": 34,
+        "h": 52,
+        "x": 1499,
+        "y": 58,
+        "fx": -15,
+        "fy": -8,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bq",
+        "w": 32,
+        "h": 55,
+        "x": 1374,
+        "y": 55,
+        "fx": -15,
+        "fy": -5,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/br",
+        "w": 60,
+        "h": 45,
+        "x": 1131,
+        "y": 1,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bs",
+        "w": 60,
+        "h": 33,
+        "x": 926,
+        "y": 50,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bt",
+        "w": 29,
+        "h": 51,
+        "x": 753,
+        "y": 161,
+        "fx": -19,
+        "fy": -9,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bu",
+        "w": 60,
+        "h": 36,
+        "x": 988,
+        "y": 50,
+        "r": true,
+        "fx": -14,
+        "fy": -5,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bv",
+        "w": 60,
+        "h": 53,
+        "x": 1193,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": -14,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bw",
+        "w": 59,
+        "h": 52,
+        "x": 1317,
+        "y": 1,
+        "r": true,
+        "fx": -5,
+        "fy": -15,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bx",
+        "w": 60,
+        "h": 40,
+        "x": 926,
+        "y": 85,
+        "r": true,
+        "fx": -25,
+        "fy": -14,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/by",
+        "w": 58,
+        "h": 48,
+        "x": 1439,
+        "y": 1,
+        "r": true,
+        "fx": -22,
+        "fy": -16,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/bz",
+        "w": 59,
+        "h": 60,
+        "x": 805,
+        "y": 1,
+        "fx": -14,
+        "fy": -14,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/c",
+        "w": 37,
+        "h": 54,
+        "x": 766,
+        "y": 65,
+        "fx": -10,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ca",
+        "w": 69,
+        "h": 59,
+        "x": 664,
+        "y": 1,
+        "fx": -9,
+        "fy": -15,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cb",
+        "w": 74,
+        "h": 60,
+        "x": 197,
+        "y": 1,
+        "fx": -6,
+        "fy": -14,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cc",
+        "w": 73,
+        "h": 58,
+        "x": 273,
+        "y": 1,
+        "fx": -1,
+        "fy": -16,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cd",
+        "w": 29,
+        "h": 51,
+        "x": 753,
+        "y": 161,
+        "fx": -19,
+        "fy": -9,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ce",
+        "w": 59,
+        "h": 39,
+        "x": 805,
+        "y": 63,
+        "r": true,
+        "fx": -19,
+        "fy": -8,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cf",
+        "w": 47,
+        "h": 57,
+        "x": 141,
+        "y": 72,
+        "fx": -15,
+        "fy": -10,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cg",
+        "w": 43,
+        "h": 55,
+        "x": 331,
+        "y": 200,
+        "fx": -16,
+        "fy": -12,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ch",
+        "w": 59,
+        "h": 39,
+        "x": 988,
+        "y": 88,
+        "r": true,
+        "fx": -19,
+        "fy": -8,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ci",
+        "w": 64,
+        "h": 47,
+        "x": 996,
+        "y": 1,
+        "r": true,
+        "fx": -15,
+        "fy": -3,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cj",
+        "w": 67,
+        "h": 42,
+        "x": 1062,
+        "y": 1,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ck",
+        "w": 84,
+        "h": 46,
+        "x": 348,
+        "y": 1,
+        "r": true,
+        "fx": -20,
+        "fy": 0,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cl",
+        "w": 72,
+        "h": 49,
+        "x": 590,
+        "y": 1,
+        "r": true,
+        "fx": -18,
+        "fy": -7,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cm",
+        "w": 78,
+        "h": 49,
+        "x": 434,
+        "y": 1,
+        "r": true,
+        "fx": -18,
+        "fy": -6,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cn",
+        "w": 68,
+        "h": 47,
+        "x": 926,
+        "y": 1,
+        "r": true,
+        "fx": -19,
+        "fy": -11,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/co",
+        "w": 74,
+        "h": 51,
+        "x": 514,
+        "y": 1,
+        "r": true,
+        "fx": -17,
+        "fy": -7,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cp",
+        "w": 32,
+        "h": 50,
+        "x": 1331,
+        "y": 204,
+        "fx": -16,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cq",
+        "w": 50,
+        "h": 34,
+        "x": 1234,
+        "y": 125,
+        "r": true,
+        "fx": -16,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cr",
+        "w": 51,
+        "h": 38,
+        "x": 472,
+        "y": 160,
+        "r": true,
+        "fx": -15,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cs",
+        "w": 51,
+        "h": 32,
+        "x": 1180,
+        "y": 127,
+        "r": true,
+        "fx": -16,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ct",
+        "w": 58,
+        "h": 59,
+        "x": 866,
+        "y": 1,
+        "fx": -5,
+        "fy": -4,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cu",
+        "w": 60,
+        "h": 54,
+        "x": 1255,
+        "y": 1,
+        "fx": -8,
+        "fy": -8,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cv",
+        "w": 49,
+        "h": 51,
+        "x": 543,
+        "y": 107,
+        "fx": -11,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cw",
+        "w": 45,
+        "h": 51,
+        "x": 543,
+        "y": 54,
+        "fx": -12,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cx",
+        "w": 37,
+        "h": 50,
+        "x": 1496,
+        "y": 112,
+        "fx": -16,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cy",
+        "w": 50,
+        "h": 37,
+        "x": 1049,
+        "y": 90,
+        "r": true,
+        "fx": -16,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/cz",
+        "w": 45,
+        "h": 51,
+        "x": 626,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/d",
+        "w": 32,
+        "h": 51,
+        "x": 1187,
+        "y": 201,
+        "fx": -10,
+        "fy": -4,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/da",
+        "w": 45,
+        "h": 55,
+        "x": 190,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/db",
+        "w": 45,
+        "h": 55,
+        "x": 237,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dc",
+        "w": 68,
+        "h": 62,
+        "x": 735,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dd",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/de",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/df",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dg",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dh",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/di",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dj",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dk",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dl",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dm",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dn",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/do",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dp",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dq",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dr",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ds",
+        "w": 45,
+        "h": 55,
+        "x": 284,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dt",
+        "w": 55,
+        "h": 32,
+        "x": 1439,
+        "y": 88,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/du",
+        "w": 55,
+        "h": 32,
+        "x": 486,
+        "y": 54,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dv",
+        "w": 48,
+        "h": 44,
+        "x": 983,
+        "y": 163,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dw",
+        "w": 57,
+        "h": 32,
+        "x": 1180,
+        "y": 56,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dx",
+        "w": 57,
+        "h": 32,
+        "x": 1239,
+        "y": 57,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dy",
+        "w": 33,
+        "h": 59,
+        "x": 106,
+        "y": 81,
+        "fx": -14,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/dz",
+        "w": 58,
+        "h": 36,
+        "x": 866,
+        "y": 62,
+        "r": true,
+        "fx": -14,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/e",
+        "w": 54,
+        "h": 31,
+        "x": 348,
+        "y": 84,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ea",
+        "w": 57,
+        "h": 35,
+        "x": 1121,
+        "y": 48,
+        "r": true,
+        "fx": -14,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/eb",
+        "w": 33,
+        "h": 57,
+        "x": 106,
+        "y": 142,
+        "fx": -14,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ec",
+        "w": 58,
+        "h": 32,
+        "x": 866,
+        "y": 100,
+        "r": true,
+        "fx": -13,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ed",
+        "w": 59,
+        "h": 32,
+        "x": 197,
+        "y": 63,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ee",
+        "w": 59,
+        "h": 32,
+        "x": 190,
+        "y": 97,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ef",
+        "w": 56,
+        "h": 33,
+        "x": 201,
+        "y": 165,
+        "r": true,
+        "fx": -14,
+        "fy": -3,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/eg",
+        "w": 57,
+        "h": 36,
+        "x": 590,
+        "y": 52,
+        "r": true,
+        "fx": -14,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/eh",
+        "w": 58,
+        "h": 35,
+        "x": 1439,
+        "y": 51,
+        "r": true,
+        "fx": -14,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ei",
+        "w": 58,
+        "h": 33,
+        "x": 141,
+        "y": 165,
+        "r": true,
+        "fx": -14,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ej",
+        "w": 59,
+        "h": 32,
+        "x": 141,
+        "y": 131,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ek",
+        "w": 55,
+        "h": 32,
+        "x": 486,
+        "y": 88,
+        "r": true,
+        "fx": -16,
+        "fy": -6,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/el",
+        "w": 57,
+        "h": 32,
+        "x": 649,
+        "y": 62,
+        "r": true,
+        "fx": -19,
+        "fy": -4,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/em",
+        "w": 58,
+        "h": 29,
+        "x": 926,
+        "y": 127,
+        "r": true,
+        "fx": -20,
+        "fy": -3,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/en",
+        "w": 36,
+        "h": 52,
+        "x": 448,
+        "y": 104,
+        "fx": -17,
+        "fy": -9,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/eo",
+        "w": 49,
+        "h": 39,
+        "x": 258,
+        "y": 63,
+        "r": true,
+        "fx": -15,
+        "fy": -12,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ep",
+        "w": 45,
+        "h": 43,
+        "x": 784,
+        "y": 169,
+        "r": true,
+        "fx": -13,
+        "fy": -19,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/eq",
+        "w": 44,
+        "h": 45,
+        "x": 883,
+        "y": 210,
+        "r": true,
+        "fx": -12,
+        "fy": -24,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/er",
+        "w": 27,
+        "h": 52,
+        "x": 1151,
+        "y": 85
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/es",
+        "w": 51,
+        "h": 29,
+        "x": 1417,
+        "y": 122,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/et",
+        "w": 50,
+        "h": 30,
+        "x": 831,
+        "y": 225,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/eu",
+        "w": 42,
+        "h": 38,
+        "x": 525,
+        "y": 160
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ev",
+        "w": 41,
+        "h": 43,
+        "x": 1258,
+        "y": 212,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ew",
+        "w": 42,
+        "h": 45,
+        "x": 929,
+        "y": 210
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ex",
+        "w": 41,
+        "h": 44,
+        "x": 1033,
+        "y": 163
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ey",
+        "w": 47,
+        "h": 31,
+        "x": 1365,
+        "y": 224,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ez",
+        "w": 47,
+        "h": 31,
+        "x": 1365,
+        "y": 224,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/f",
+        "w": 32,
+        "h": 55,
+        "x": 483,
+        "y": 200,
+        "fx": -31,
+        "fy": -31,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fa",
+        "w": 34,
+        "h": 43,
+        "x": 1292,
+        "y": 164
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fb",
+        "w": 48,
+        "h": 38,
+        "x": 1158,
+        "y": 161,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fc",
+        "w": 49,
+        "h": 44,
+        "x": 866,
+        "y": 164
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fd",
+        "w": 50,
+        "h": 41,
+        "x": 728,
+        "y": 214
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fe",
+        "w": 48,
+        "h": 41,
+        "x": 1101,
+        "y": 85,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ff",
+        "w": 35,
+        "h": 49,
+        "x": 1328,
+        "y": 153
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fg",
+        "w": 52,
+        "h": 32,
+        "x": 1097,
+        "y": 129,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fh",
+        "w": 32,
+        "h": 55,
+        "x": 517,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fi",
+        "w": 51,
+        "h": 39,
+        "x": 300,
+        "y": 117,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fj",
+        "w": 43,
+        "h": 51,
+        "x": 708,
+        "y": 161
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fk",
+        "w": 49,
+        "h": 51,
+        "x": 705,
+        "y": 108
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fl",
+        "w": 59,
+        "h": 51,
+        "x": 1378,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fm",
+        "w": 79,
+        "h": 69,
+        "x": 116,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fn",
+        "w": 54,
+        "h": 39,
+        "x": 353,
+        "y": 117,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fo",
+        "w": 39,
+        "h": 52,
+        "x": 259,
+        "y": 104
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fp",
+        "w": 47,
+        "h": 37,
+        "x": 756,
+        "y": 121,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fq",
+        "w": 42,
+        "h": 40,
+        "x": 428,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fr",
+        "w": 41,
+        "h": 46,
+        "x": 1012,
+        "y": 209
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fs",
+        "w": 35,
+        "h": 50,
+        "x": 1221,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ft",
+        "w": 52,
+        "h": 35,
+        "x": 1180,
+        "y": 90,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fu",
+        "w": 54,
+        "h": 32,
+        "x": 594,
+        "y": 133,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fv",
+        "w": 54,
+        "h": 32,
+        "x": 805,
+        "y": 135,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fw",
+        "w": 33,
+        "h": 54,
+        "x": 673,
+        "y": 167
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fx",
+        "w": 54,
+        "h": 36,
+        "x": 486,
+        "y": 122,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fy",
+        "w": 54,
+        "h": 35,
+        "x": 649,
+        "y": 96,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/fz",
+        "w": 33,
+        "h": 54,
+        "x": 831,
+        "y": 169
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/g",
+        "w": 37,
+        "h": 52,
+        "x": 409,
+        "y": 104,
+        "fx": -31,
+        "fy": -34,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ga",
+        "w": 53,
+        "h": 32,
+        "x": 1234,
+        "y": 91,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/gb",
+        "w": 54,
+        "h": 32,
+        "x": 594,
+        "y": 133,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/gc",
+        "w": 54,
+        "h": 32,
+        "x": 805,
+        "y": 135,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/gd",
+        "w": 33,
+        "h": 54,
+        "x": 673,
+        "y": 167
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/ge",
+        "w": 54,
+        "h": 36,
+        "x": 486,
+        "y": 122,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/gf",
+        "w": 54,
+        "h": 35,
+        "x": 649,
+        "y": 96,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/gg",
+        "w": 33,
+        "h": 54,
+        "x": 831,
+        "y": 169
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/gh",
+        "w": 53,
+        "h": 32,
+        "x": 1234,
+        "y": 91,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/h",
+        "w": 37,
+        "h": 45,
+        "x": 973,
+        "y": 210,
+        "fx": -31,
+        "fy": -41,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/i",
+        "w": 41,
+        "h": 28,
+        "x": 1331,
+        "y": 123,
+        "r": true,
+        "fx": -35,
+        "fy": -34,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/j",
+        "w": 41,
+        "h": 28,
+        "x": 1374,
+        "y": 142,
+        "r": true,
+        "fx": -35,
+        "fy": -15,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/k",
+        "w": 41,
+        "h": 28,
+        "x": 1434,
+        "y": 205,
+        "r": true,
+        "fx": -35,
+        "fy": -5,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/l",
+        "w": 39,
+        "h": 54,
+        "x": 585,
+        "y": 200,
+        "fx": -30,
+        "fy": 0,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/m",
+        "w": 33,
+        "h": 50,
+        "x": 1365,
+        "y": 172,
+        "fx": -33,
+        "fy": -16,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/n",
+        "w": 27,
+        "h": 50,
+        "x": 954,
+        "y": 158,
+        "fx": -36,
+        "fy": -35,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/o",
+        "w": 41,
+        "h": 43,
+        "x": 1115,
+        "y": 163,
+        "fx": -29,
+        "fy": -43,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/p",
+        "w": 49,
+        "h": 37,
+        "x": 1208,
+        "y": 161,
+        "r": true,
+        "fx": -31,
+        "fy": -37,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/q",
+        "w": 32,
+        "h": 55,
+        "x": 551,
+        "y": 200,
+        "fx": -31,
+        "fy": -31,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/r",
+        "w": 32,
+        "h": 50,
+        "x": 1400,
+        "y": 172,
+        "fx": -11,
+        "fy": -4,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/s",
+        "w": 32,
+        "h": 47,
+        "x": 1153,
+        "y": 208,
+        "fx": -11,
+        "fy": -5,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/t",
+        "w": 32,
+        "h": 50,
+        "x": 1434,
+        "y": 153,
+        "fx": -13,
+        "fy": -4,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/u",
+        "w": 48,
+        "h": 32,
+        "x": 1468,
+        "y": 164,
+        "r": true,
+        "fx": -12,
+        "fy": -5,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/v",
+        "w": 55,
+        "h": 32,
+        "x": 1317,
+        "y": 89,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/w",
+        "w": 37,
+        "h": 44,
+        "x": 1076,
+        "y": 163,
+        "fx": -11,
+        "fy": -14,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/x",
+        "w": 33,
+        "h": 47,
+        "x": 1118,
+        "y": 208,
+        "fx": -13,
+        "fy": -11,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/y",
+        "w": 31,
+        "h": 46,
+        "x": 1055,
+        "y": 209,
+        "fx": -14,
+        "fy": -12,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero/z",
+        "w": 49,
+        "h": 31,
+        "x": 622,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -8,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/a",
+        "w": 55,
+        "h": 32,
+        "x": 202,
+        "y": 131,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/aa",
+        "w": 51,
+        "h": 31,
+        "x": 569,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -6,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ab",
+        "w": 49,
+        "h": 31,
+        "x": 622,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -8,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ac",
+        "w": 51,
+        "h": 31,
+        "x": 569,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -6,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ad",
+        "w": 31,
+        "h": 49,
+        "x": 1259,
+        "y": 161,
+        "fx": -14,
+        "fy": -8,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ae",
+        "w": 51,
+        "h": 31,
+        "x": 569,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -6,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/af",
+        "w": 31,
+        "h": 49,
+        "x": 1259,
+        "y": 161,
+        "fx": -14,
+        "fy": -8,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ag",
+        "w": 50,
+        "h": 32,
+        "x": 1045,
+        "y": 129,
+        "r": true,
+        "fx": -14,
+        "fy": -4,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ah",
+        "w": 32,
+        "h": 55,
+        "x": 415,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ai",
+        "w": 57,
+        "h": 32,
+        "x": 986,
+        "y": 129,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/aj",
+        "w": 37,
+        "h": 54,
+        "x": 309,
+        "y": 61
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ak",
+        "w": 49,
+        "h": 41,
+        "x": 780,
+        "y": 214,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/al",
+        "w": 41,
+        "h": 28,
+        "x": 883,
+        "y": 134,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/am",
+        "w": 28,
+        "h": 43,
+        "x": 1088,
+        "y": 209
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/an",
+        "w": 41,
+        "h": 28,
+        "x": 1374,
+        "y": 112,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ao",
+        "w": 28,
+        "h": 41,
+        "x": 1301,
+        "y": 209
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ap",
+        "w": 39,
+        "h": 54,
+        "x": 102,
+        "y": 201
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/aq",
+        "w": 67,
+        "h": 33,
+        "x": 348,
+        "y": 49,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ar",
+        "w": 67,
+        "h": 29,
+        "x": 417,
+        "y": 52,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/as",
+        "w": 113,
+        "h": 78,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/at",
+        "w": 103,
+        "h": 77,
+        "x": 1,
+        "y": 81
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/au",
+        "w": 99,
+        "h": 81,
+        "x": 1,
+        "y": 160
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/av",
+        "w": 32,
+        "h": 55,
+        "x": 415,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/aw",
+        "w": 32,
+        "h": 55,
+        "x": 449,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ax",
+        "w": 57,
+        "h": 37,
+        "x": 1062,
+        "y": 45,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ay",
+        "w": 45,
+        "h": 55,
+        "x": 143,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/az",
+        "w": 53,
+        "h": 41,
+        "x": 594,
+        "y": 90,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/b",
+        "w": 34,
+        "h": 55,
+        "x": 1499,
+        "y": 1,
+        "fx": -10,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ba",
+        "w": 55,
+        "h": 32,
+        "x": 1317,
+        "y": 55,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bb",
+        "w": 53,
+        "h": 32,
+        "x": 650,
+        "y": 133,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bc",
+        "w": 35,
+        "h": 44,
+        "x": 917,
+        "y": 164
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bd",
+        "w": 52,
+        "h": 40,
+        "x": 259,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/be",
+        "w": 56,
+        "h": 40,
+        "x": 313,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bf",
+        "w": 56,
+        "h": 41,
+        "x": 708,
+        "y": 65,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bg",
+        "w": 55,
+        "h": 40,
+        "x": 371,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bh",
+        "w": 53,
+        "h": 32,
+        "x": 650,
+        "y": 133,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bi",
+        "w": 35,
+        "h": 44,
+        "x": 917,
+        "y": 164
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bj",
+        "w": 56,
+        "h": 40,
+        "x": 313,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bk",
+        "w": 56,
+        "h": 41,
+        "x": 708,
+        "y": 65,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bl",
+        "w": 55,
+        "h": 40,
+        "x": 371,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bm",
+        "w": 53,
+        "h": 32,
+        "x": 673,
+        "y": 223,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bn",
+        "w": 32,
+        "h": 55,
+        "x": 449,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bo",
+        "w": 55,
+        "h": 32,
+        "x": 1317,
+        "y": 89,
+        "r": true,
+        "fx": -15,
+        "fy": -5,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bp",
+        "w": 34,
+        "h": 52,
+        "x": 1499,
+        "y": 58,
+        "fx": -15,
+        "fy": -8,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bq",
+        "w": 32,
+        "h": 55,
+        "x": 1374,
+        "y": 55,
+        "fx": -15,
+        "fy": -5,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/br",
+        "w": 60,
+        "h": 45,
+        "x": 1131,
+        "y": 1,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bs",
+        "w": 60,
+        "h": 33,
+        "x": 926,
+        "y": 50,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bt",
+        "w": 29,
+        "h": 51,
+        "x": 753,
+        "y": 161,
+        "fx": -19,
+        "fy": -9,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bu",
+        "w": 60,
+        "h": 36,
+        "x": 988,
+        "y": 50,
+        "r": true,
+        "fx": -14,
+        "fy": -5,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bv",
+        "w": 60,
+        "h": 53,
+        "x": 1193,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": -14,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bw",
+        "w": 59,
+        "h": 52,
+        "x": 1317,
+        "y": 1,
+        "r": true,
+        "fx": -5,
+        "fy": -15,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bx",
+        "w": 60,
+        "h": 40,
+        "x": 926,
+        "y": 85,
+        "r": true,
+        "fx": -25,
+        "fy": -14,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/by",
+        "w": 58,
+        "h": 48,
+        "x": 1439,
+        "y": 1,
+        "r": true,
+        "fx": -22,
+        "fy": -16,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/bz",
+        "w": 59,
+        "h": 60,
+        "x": 805,
+        "y": 1,
+        "fx": -14,
+        "fy": -14,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/c",
+        "w": 37,
+        "h": 54,
+        "x": 766,
+        "y": 65,
+        "fx": -10,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ca",
+        "w": 69,
+        "h": 59,
+        "x": 664,
+        "y": 1,
+        "fx": -9,
+        "fy": -15,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cb",
+        "w": 74,
+        "h": 60,
+        "x": 197,
+        "y": 1,
+        "fx": -6,
+        "fy": -14,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cc",
+        "w": 73,
+        "h": 58,
+        "x": 273,
+        "y": 1,
+        "fx": -1,
+        "fy": -16,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cd",
+        "w": 29,
+        "h": 51,
+        "x": 753,
+        "y": 161,
+        "fx": -19,
+        "fy": -9,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ce",
+        "w": 59,
+        "h": 39,
+        "x": 805,
+        "y": 63,
+        "r": true,
+        "fx": -19,
+        "fy": -8,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cf",
+        "w": 47,
+        "h": 57,
+        "x": 141,
+        "y": 72,
+        "fx": -15,
+        "fy": -10,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cg",
+        "w": 43,
+        "h": 55,
+        "x": 331,
+        "y": 200,
+        "fx": -16,
+        "fy": -12,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ch",
+        "w": 59,
+        "h": 39,
+        "x": 988,
+        "y": 88,
+        "r": true,
+        "fx": -19,
+        "fy": -8,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ci",
+        "w": 64,
+        "h": 47,
+        "x": 996,
+        "y": 1,
+        "r": true,
+        "fx": -15,
+        "fy": -3,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cj",
+        "w": 67,
+        "h": 42,
+        "x": 1062,
+        "y": 1,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ck",
+        "w": 84,
+        "h": 46,
+        "x": 348,
+        "y": 1,
+        "r": true,
+        "fx": -20,
+        "fy": 0,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cl",
+        "w": 72,
+        "h": 49,
+        "x": 590,
+        "y": 1,
+        "r": true,
+        "fx": -18,
+        "fy": -7,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cm",
+        "w": 78,
+        "h": 49,
+        "x": 434,
+        "y": 1,
+        "r": true,
+        "fx": -18,
+        "fy": -6,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cn",
+        "w": 68,
+        "h": 47,
+        "x": 926,
+        "y": 1,
+        "r": true,
+        "fx": -19,
+        "fy": -11,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/co",
+        "w": 74,
+        "h": 51,
+        "x": 514,
+        "y": 1,
+        "r": true,
+        "fx": -17,
+        "fy": -7,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cp",
+        "w": 32,
+        "h": 50,
+        "x": 1331,
+        "y": 204,
+        "fx": -16,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cq",
+        "w": 50,
+        "h": 34,
+        "x": 1234,
+        "y": 125,
+        "r": true,
+        "fx": -16,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cr",
+        "w": 51,
+        "h": 38,
+        "x": 472,
+        "y": 160,
+        "r": true,
+        "fx": -15,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cs",
+        "w": 51,
+        "h": 32,
+        "x": 1180,
+        "y": 127,
+        "r": true,
+        "fx": -16,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ct",
+        "w": 58,
+        "h": 59,
+        "x": 866,
+        "y": 1,
+        "fx": -5,
+        "fy": -4,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cu",
+        "w": 60,
+        "h": 54,
+        "x": 1255,
+        "y": 1,
+        "fx": -8,
+        "fy": -8,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cv",
+        "w": 49,
+        "h": 51,
+        "x": 543,
+        "y": 107,
+        "fx": -11,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cw",
+        "w": 45,
+        "h": 51,
+        "x": 543,
+        "y": 54,
+        "fx": -12,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cx",
+        "w": 37,
+        "h": 50,
+        "x": 1496,
+        "y": 112,
+        "fx": -16,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cy",
+        "w": 50,
+        "h": 37,
+        "x": 1049,
+        "y": 90,
+        "r": true,
+        "fx": -16,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/cz",
+        "w": 45,
+        "h": 51,
+        "x": 626,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/d",
+        "w": 32,
+        "h": 51,
+        "x": 1187,
+        "y": 201,
+        "fx": -10,
+        "fy": -4,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/da",
+        "w": 45,
+        "h": 55,
+        "x": 190,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/db",
+        "w": 45,
+        "h": 55,
+        "x": 237,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dc",
+        "w": 68,
+        "h": 62,
+        "x": 735,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dd",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/de",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/df",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dg",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dh",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/di",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dj",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dk",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dl",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dm",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dn",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/do",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dp",
+        "w": 29,
+        "h": 54,
+        "x": 1408,
+        "y": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dq",
+        "w": 56,
+        "h": 29,
+        "x": 805,
+        "y": 104,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dr",
+        "w": 37,
+        "h": 55,
+        "x": 376,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ds",
+        "w": 45,
+        "h": 55,
+        "x": 284,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dt",
+        "w": 55,
+        "h": 32,
+        "x": 1439,
+        "y": 88,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/du",
+        "w": 55,
+        "h": 32,
+        "x": 486,
+        "y": 54,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dv",
+        "w": 48,
+        "h": 44,
+        "x": 983,
+        "y": 163,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dw",
+        "w": 57,
+        "h": 32,
+        "x": 1180,
+        "y": 56,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dx",
+        "w": 57,
+        "h": 32,
+        "x": 1239,
+        "y": 57,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dy",
+        "w": 33,
+        "h": 59,
+        "x": 106,
+        "y": 81,
+        "fx": -14,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/dz",
+        "w": 58,
+        "h": 36,
+        "x": 866,
+        "y": 62,
+        "r": true,
+        "fx": -14,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/e",
+        "w": 54,
+        "h": 31,
+        "x": 348,
+        "y": 84,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ea",
+        "w": 57,
+        "h": 35,
+        "x": 1121,
+        "y": 48,
+        "r": true,
+        "fx": -14,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/eb",
+        "w": 33,
+        "h": 57,
+        "x": 106,
+        "y": 142,
+        "fx": -14,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ec",
+        "w": 58,
+        "h": 32,
+        "x": 866,
+        "y": 100,
+        "r": true,
+        "fx": -13,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ed",
+        "w": 59,
+        "h": 32,
+        "x": 197,
+        "y": 63,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ee",
+        "w": 59,
+        "h": 32,
+        "x": 190,
+        "y": 97,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ef",
+        "w": 56,
+        "h": 33,
+        "x": 201,
+        "y": 165,
+        "r": true,
+        "fx": -14,
+        "fy": -3,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/eg",
+        "w": 57,
+        "h": 36,
+        "x": 590,
+        "y": 52,
+        "r": true,
+        "fx": -14,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/eh",
+        "w": 58,
+        "h": 35,
+        "x": 1439,
+        "y": 51,
+        "r": true,
+        "fx": -14,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ei",
+        "w": 58,
+        "h": 33,
+        "x": 141,
+        "y": 165,
+        "r": true,
+        "fx": -14,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ej",
+        "w": 59,
+        "h": 32,
+        "x": 141,
+        "y": 131,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ek",
+        "w": 55,
+        "h": 32,
+        "x": 486,
+        "y": 88,
+        "r": true,
+        "fx": -16,
+        "fy": -6,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/el",
+        "w": 57,
+        "h": 32,
+        "x": 649,
+        "y": 62,
+        "r": true,
+        "fx": -19,
+        "fy": -4,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/em",
+        "w": 58,
+        "h": 29,
+        "x": 926,
+        "y": 127,
+        "r": true,
+        "fx": -20,
+        "fy": -3,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/en",
+        "w": 36,
+        "h": 52,
+        "x": 448,
+        "y": 104,
+        "fx": -17,
+        "fy": -9,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/eo",
+        "w": 49,
+        "h": 39,
+        "x": 258,
+        "y": 63,
+        "r": true,
+        "fx": -15,
+        "fy": -12,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ep",
+        "w": 45,
+        "h": 43,
+        "x": 784,
+        "y": 169,
+        "r": true,
+        "fx": -13,
+        "fy": -19,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/eq",
+        "w": 44,
+        "h": 45,
+        "x": 883,
+        "y": 210,
+        "r": true,
+        "fx": -12,
+        "fy": -24,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/er",
+        "w": 27,
+        "h": 52,
+        "x": 1151,
+        "y": 85
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/es",
+        "w": 51,
+        "h": 29,
+        "x": 1417,
+        "y": 122,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/et",
+        "w": 50,
+        "h": 30,
+        "x": 831,
+        "y": 225,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/eu",
+        "w": 42,
+        "h": 38,
+        "x": 525,
+        "y": 160
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ev",
+        "w": 41,
+        "h": 43,
+        "x": 1258,
+        "y": 212,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ew",
+        "w": 42,
+        "h": 45,
+        "x": 929,
+        "y": 210
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ex",
+        "w": 41,
+        "h": 44,
+        "x": 1033,
+        "y": 163
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ey",
+        "w": 47,
+        "h": 31,
+        "x": 1365,
+        "y": 224,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ez",
+        "w": 47,
+        "h": 31,
+        "x": 1365,
+        "y": 224,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/f",
+        "w": 32,
+        "h": 55,
+        "x": 483,
+        "y": 200,
+        "fx": -31,
+        "fy": -31,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fa",
+        "w": 34,
+        "h": 43,
+        "x": 1292,
+        "y": 164
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fb",
+        "w": 48,
+        "h": 38,
+        "x": 1158,
+        "y": 161,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fc",
+        "w": 49,
+        "h": 44,
+        "x": 866,
+        "y": 164
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fd",
+        "w": 50,
+        "h": 41,
+        "x": 728,
+        "y": 214
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fe",
+        "w": 48,
+        "h": 41,
+        "x": 1101,
+        "y": 85,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ff",
+        "w": 35,
+        "h": 49,
+        "x": 1328,
+        "y": 153
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fg",
+        "w": 52,
+        "h": 32,
+        "x": 1097,
+        "y": 129,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fh",
+        "w": 32,
+        "h": 55,
+        "x": 517,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fi",
+        "w": 51,
+        "h": 39,
+        "x": 300,
+        "y": 117,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fj",
+        "w": 43,
+        "h": 51,
+        "x": 708,
+        "y": 161
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fk",
+        "w": 49,
+        "h": 51,
+        "x": 705,
+        "y": 108
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fl",
+        "w": 59,
+        "h": 51,
+        "x": 1378,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fm",
+        "w": 79,
+        "h": 69,
+        "x": 116,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fn",
+        "w": 54,
+        "h": 39,
+        "x": 353,
+        "y": 117,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fo",
+        "w": 39,
+        "h": 52,
+        "x": 259,
+        "y": 104
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fp",
+        "w": 47,
+        "h": 37,
+        "x": 756,
+        "y": 121,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fq",
+        "w": 42,
+        "h": 40,
+        "x": 428,
+        "y": 158,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fr",
+        "w": 41,
+        "h": 46,
+        "x": 1012,
+        "y": 209
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/fs",
+        "w": 35,
+        "h": 50,
+        "x": 1221,
+        "y": 200
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/ft",
+        "w": 52,
+        "h": 35,
+        "x": 1180,
+        "y": 90,
+        "r": true
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/g",
+        "w": 37,
+        "h": 52,
+        "x": 409,
+        "y": 104,
+        "fx": -31,
+        "fy": -34,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/h",
+        "w": 37,
+        "h": 45,
+        "x": 973,
+        "y": 210,
+        "fx": -31,
+        "fy": -41,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/i",
+        "w": 41,
+        "h": 28,
+        "x": 1331,
+        "y": 123,
+        "r": true,
+        "fx": -35,
+        "fy": -34,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/j",
+        "w": 41,
+        "h": 28,
+        "x": 1374,
+        "y": 142,
+        "r": true,
+        "fx": -35,
+        "fy": -15,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/k",
+        "w": 41,
+        "h": 28,
+        "x": 1434,
+        "y": 205,
+        "r": true,
+        "fx": -35,
+        "fy": -5,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/l",
+        "w": 39,
+        "h": 54,
+        "x": 585,
+        "y": 200,
+        "fx": -30,
+        "fy": 0,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/m",
+        "w": 33,
+        "h": 50,
+        "x": 1365,
+        "y": 172,
+        "fx": -33,
+        "fy": -16,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/n",
+        "w": 27,
+        "h": 50,
+        "x": 954,
+        "y": 158,
+        "fx": -36,
+        "fy": -35,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/o",
+        "w": 41,
+        "h": 43,
+        "x": 1115,
+        "y": 163,
+        "fx": -29,
+        "fy": -43,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/p",
+        "w": 49,
+        "h": 37,
+        "x": 1208,
+        "y": 161,
+        "r": true,
+        "fx": -31,
+        "fy": -37,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/q",
+        "w": 32,
+        "h": 55,
+        "x": 551,
+        "y": 200,
+        "fx": -31,
+        "fy": -31,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/r",
+        "w": 32,
+        "h": 50,
+        "x": 1400,
+        "y": 172,
+        "fx": -11,
+        "fy": -4,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/s",
+        "w": 32,
+        "h": 47,
+        "x": 1153,
+        "y": 208,
+        "fx": -11,
+        "fy": -5,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/t",
+        "w": 32,
+        "h": 50,
+        "x": 1434,
+        "y": 153,
+        "fx": -13,
+        "fy": -4,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/u",
+        "w": 48,
+        "h": 32,
+        "x": 1468,
+        "y": 164,
+        "r": true,
+        "fx": -12,
+        "fy": -5,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/v",
+        "w": 55,
+        "h": 32,
+        "x": 1317,
+        "y": 89,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/w",
+        "w": 37,
+        "h": 44,
+        "x": 1076,
+        "y": 163,
+        "fx": -11,
+        "fy": -14,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/x",
+        "w": 33,
+        "h": 47,
+        "x": 1118,
+        "y": 208,
+        "fx": -13,
+        "fy": -11,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/y",
+        "w": 31,
+        "h": 46,
+        "x": 1055,
+        "y": 209,
+        "fx": -14,
+        "fy": -12,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_marker/z",
+        "w": 49,
+        "h": 31,
+        "x": 622,
+        "y": 167,
+        "r": true,
+        "fx": -14,
+        "fy": -8,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_shadow/a",
+        "w": 41,
+        "h": 32,
+        "x": 1477,
+        "y": 198,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 34,
+        "fh": 46
+    },
+    {
+        "n": "battle/boss/runaway_romero/.gen/runaway_romero_shadow/b",
+        "w": 17,
+        "h": 37,
+        "x": 1298,
+        "y": 57,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 41,
+        "fh": 20
+    }
+]

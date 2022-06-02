@@ -1,0 +1,77 @@
+[
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/outhole/.gen/sand_mansion_outhole_zone1/f0032",
+        "w": 37,
+        "h": 17,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/outhole/.gen/sand_mansion_outhole_zone2/f0010",
+        "w": 38,
+        "h": 18,
+        "x": 1,
+        "y": 20,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/outhole/.gen/sand_mansion_outhole_zone2/f0015",
+        "w": 18,
+        "h": 38,
+        "x": 41,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/outhole/.gen/sand_mansion_outhole_zone2/f0020",
+        "w": 38,
+        "h": 18,
+        "x": 1,
+        "y": 40,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/outhole/.gen/sand_mansion_outhole_zone2/f0025",
+        "w": 38,
+        "h": 18,
+        "x": 1,
+        "y": 60,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/outhole/.gen/sand_mansion_outhole_zone2/f0030",
+        "w": 18,
+        "h": 38,
+        "x": 41,
+        "y": 41,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_sand/sand_mansion/outhole/.gen/sand_mansion_outhole_zone2/f0032",
+        "w": 38,
+        "h": 18,
+        "x": 1,
+        "y": 80,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 20
+    }
+]

@@ -1,0 +1,448 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/a"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/b"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/c"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/d"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/e"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/f"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/g"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/h"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/i"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/j"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/k"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/l"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/guardian_golem_bomb/guardian_golem_another_water_bomb/.gen/guardian_golem_another_water_bomb/m"
+        }
+    ],
+    "g": [
+        {
+            "t": 139,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 139,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 139,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 65557,
+                            "r": 0
+                        },
+                        {
+                            "m": 8447,
+                            "t": 327682,
+                            "r": 0
+                        },
+                        {
+                            "m": 8447,
+                            "t": 327683,
+                            "r": 0
+                        },
+                        {
+                            "m": 12543,
+                            "t": 589829,
+                            "r": 0
+                        },
+                        {
+                            "m": 8447,
+                            "t": 2,
+                            "r": 0
+                        },
+                        {
+                            "m": 16639,
+                            "t": 2,
+                            "r": 0
+                        },
+                        {
+                            "m": 8447,
+                            "t": 18,
+                            "r": 1073741824
+                        },
+                        {
+                            "m": 8447,
+                            "t": 29,
+                            "r": 1073741841
+                        },
+                        {
+                            "m": 8447,
+                            "t": 13,
+                            "r": 1073741869
+                        },
+                        {
+                            "m": 8447,
+                            "t": 7,
+                            "r": 1073741881
+                        },
+                        {
+                            "m": 8447,
+                            "t": 27,
+                            "r": 1073741887
+                        },
+                        {
+                            "m": 8447,
+                            "t": 10,
+                            "r": -2147483558
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 100,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 6
+                        }
+                    ]
+                },
+                {
+                    "s": 6,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 6
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 6
+                        }
+                    ]
+                },
+                {
+                    "s": 18,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 7
+                        }
+                    ]
+                },
+                {
+                    "s": 25,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 7
+                        }
+                    ]
+                },
+                {
+                    "s": 32,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 7
+                        }
+                    ]
+                },
+                {
+                    "s": 39,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 7
+                        }
+                    ]
+                },
+                {
+                    "s": 46,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 49,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 52,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 55,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 58,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 61,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 64,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 67,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 69,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 71,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 3
+                        }
+                    ]
+                },
+                {
+                    "s": 74,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 78,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 83,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 90,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -1228800
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -28672
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -59392
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -32768
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -1048576,
+            "y": -1048576
+        }
+    ],
+    "c": [
+        [
+            333333,
+            166667,
+            666667,
+            500000
+        ],
+        [
+            333333,
+            666667,
+            666667,
+            1000000
+        ],
+        [
+            333300,
+            0,
+            777800,
+            54800
+        ]
+    ],
+    "s": 6
+}

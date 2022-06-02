@@ -1,0 +1,76 @@
+[
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/stone/.gen/stone/a",
+        "w": 12,
+        "h": 13,
+        "x": 1,
+        "y": 41
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/stone/.gen/stone/b",
+        "w": 12,
+        "h": 13,
+        "x": 15,
+        "y": 41
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/stone/.gen/stone/c",
+        "w": 12,
+        "h": 13,
+        "x": 29,
+        "y": 41
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/stone/.gen/stone/d",
+        "w": 17,
+        "h": 21,
+        "x": 43,
+        "y": 33,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/stone/.gen/stone/e",
+        "w": 16,
+        "h": 30,
+        "x": 47,
+        "y": 1,
+        "r": true,
+        "fx": -16,
+        "fy": -27,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/stone/.gen/stone/f",
+        "w": 34,
+        "h": 17,
+        "x": 1,
+        "y": 22,
+        "fx": -14,
+        "fy": -30,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/stone/.gen/stone/g",
+        "w": 44,
+        "h": 19,
+        "x": 1,
+        "y": 1,
+        "fx": -6,
+        "fy": -33,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_advent/halloween_area/yakumono/breakable_block/stone/.gen/stone/h",
+        "w": 1,
+        "h": 1,
+        "x": 62,
+        "y": 33,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    }
+]

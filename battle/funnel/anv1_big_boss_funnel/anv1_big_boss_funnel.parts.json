@@ -1,0 +1,559 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/a"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/b"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/c"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/d"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/e"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/f"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/g"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/h"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/i"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/j"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/k"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/l"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/m"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/n"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/o"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/p"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/q"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/r"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/s"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/t"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/u"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/v"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/w"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/x"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/y"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/z"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/aa"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/anv1_big_boss_funnel/.gen/anv1_big_boss_funnel/ab"
+        }
+    ],
+    "g": [
+        {
+            "t": 122,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 122,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 122,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 25,
+                            "r": 1073741824
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483623,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 33,
+                            "r": 1073741824
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483590,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 17,
+                            "r": 1073741824
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483573,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 9,
+                            "r": 1073741824
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483564,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 32,
+                            "r": 1073741824
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 24,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 32,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 24,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 28,
+                    "i": 13,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 16,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 14,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 15,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 16,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 17,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 8,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 18,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 19,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 32,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 20,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 21,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 22,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 23,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 24,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 25,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 24,
+                    "i": 26,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 28,
+                    "i": 27,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -61440
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -524288,
+            "y": -524288
+        }
+    ],
+    "c": [],
+    "s": 6
+}

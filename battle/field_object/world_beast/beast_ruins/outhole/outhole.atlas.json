@@ -1,0 +1,97 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone1/f0044",
+        "w": 15,
+        "h": 48,
+        "x": 98,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone2/f0011",
+        "w": 64,
+        "h": 22,
+        "x": 1,
+        "y": 34,
+        "fx": 0,
+        "fy": -9,
+        "fw": 64,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone2/f0014",
+        "w": 64,
+        "h": 22,
+        "x": 1,
+        "y": 58,
+        "fx": 0,
+        "fy": -9,
+        "fw": 64,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone2/f0017",
+        "w": 22,
+        "h": 64,
+        "x": 67,
+        "y": 67,
+        "r": true,
+        "fx": 0,
+        "fy": -9,
+        "fw": 64,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone2/f0020",
+        "w": 22,
+        "h": 64,
+        "x": 91,
+        "y": 67,
+        "r": true,
+        "fx": 0,
+        "fy": -9,
+        "fw": 64,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone2/f0023",
+        "w": 64,
+        "h": 22,
+        "x": 1,
+        "y": 82,
+        "fx": 0,
+        "fy": -9,
+        "fw": 64,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone2/f0026",
+        "w": 29,
+        "h": 64,
+        "x": 67,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 64,
+        "fh": 31
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone2/f0029",
+        "w": 64,
+        "h": 31,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_ruins/outhole/.gen/beast_ruins_outhole_zone2/f0044",
+        "w": 64,
+        "h": 22,
+        "x": 1,
+        "y": 106,
+        "fx": 0,
+        "fy": -9,
+        "fw": 64,
+        "fh": 31
+    }
+]

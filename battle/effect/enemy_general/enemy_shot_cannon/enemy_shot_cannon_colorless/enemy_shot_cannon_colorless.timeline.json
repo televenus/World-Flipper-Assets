@@ -1,0 +1,21 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 16,
+            "name": "normal",
+            "kind": "loop"
+        },
+        {
+            "begin": 17,
+            "end": 32,
+            "name": "angle_45",
+            "kind": "loop"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

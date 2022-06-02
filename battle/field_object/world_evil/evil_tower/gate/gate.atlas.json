@@ -1,0 +1,80 @@
+[
+    {
+        "n": "battle/field_object/world_evil/evil_tower/gate/.gen/evil_tower_gate/f0011",
+        "w": 164,
+        "h": 47,
+        "x": 1,
+        "y": 99,
+        "fx": -1,
+        "fy": -6,
+        "fw": 166,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_evil/evil_tower/gate/.gen/evil_tower_gate/f0013",
+        "w": 164,
+        "h": 49,
+        "x": 1,
+        "y": 48,
+        "fx": -1,
+        "fy": -4,
+        "fw": 166,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_evil/evil_tower/gate/.gen/evil_tower_gate/f0015",
+        "w": 165,
+        "h": 45,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -8,
+        "fw": 166,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_evil/evil_tower/gate/.gen/evil_tower_gate/f0017",
+        "w": 164,
+        "h": 38,
+        "x": 1,
+        "y": 148,
+        "fx": -1,
+        "fy": -15,
+        "fw": 166,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_evil/evil_tower/gate/.gen/evil_tower_gate/f0019",
+        "w": 164,
+        "h": 33,
+        "x": 1,
+        "y": 188,
+        "fx": -1,
+        "fy": -20,
+        "fw": 166,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_evil/evil_tower/gate/.gen/evil_tower_gate/f0021",
+        "w": 162,
+        "h": 29,
+        "x": 1,
+        "y": 223,
+        "fx": -2,
+        "fy": -24,
+        "fw": 166,
+        "fh": 53
+    },
+    {
+        "n": "battle/field_object/world_evil/evil_tower/gate/.gen/evil_tower_gate/f0023",
+        "w": 25,
+        "h": 162,
+        "x": 167,
+        "y": 48,
+        "r": true,
+        "fx": -2,
+        "fy": -28,
+        "fw": 166,
+        "fh": 53
+    }
+]

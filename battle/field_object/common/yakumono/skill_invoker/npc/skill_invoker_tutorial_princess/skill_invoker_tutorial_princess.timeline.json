@@ -1,0 +1,70 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 10,
+            "name": "deactivate",
+            "kind": "once"
+        },
+        {
+            "begin": 11,
+            "end": 32,
+            "name": "open",
+            "kind": "pass"
+        },
+        {
+            "begin": 33,
+            "end": 105,
+            "name": "activate",
+            "kind": "loop"
+        },
+        {
+            "begin": 106,
+            "end": 166,
+            "name": "touch",
+            "kind": "pass"
+        },
+        {
+            "begin": 167,
+            "end": 176,
+            "name": "off",
+            "kind": "loop"
+        },
+        {
+            "begin": 177,
+            "end": 188,
+            "name": "close",
+            "kind": "goto",
+            "target": "deactivate"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/situation/se_ask",
+            "begin": 106,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [
+        {
+            "path": "shape",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -42,
+                            "r": 71.99560546875
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rectangles": [],
+    "matrices": []
+}

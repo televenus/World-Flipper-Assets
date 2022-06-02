@@ -1,0 +1,80 @@
+[
+    "ActionDsl",
+    1,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "CreateCondition",
+                    -17,
+                    [
+                        [
+                            "ACToleranceOfElement",
+                            {
+                                "min": 9999999,
+                                "max": 9999999
+                            },
+                            254,
+                            {
+                                "min": 1,
+                                "max": 1
+                            },
+                            1
+                        ]
+                    ],
+                    {
+                        "min": 1,
+                        "max": 1
+                    },
+                    [
+                        "GenericConditionHitEffect"
+                    ],
+                    false,
+                    false
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "SpawnFunnel",
+                    [
+                        "Funnel",
+                        "funnel_variant_empress_form2_metal_gimmick"
+                    ],
+                    5,
+                    [
+                        "FunnelGroup",
+                        4
+                    ],
+                    []
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "SpawnFunnel",
+                    [
+                        "Funnel",
+                        "funnel_variant_empress_form2_metal_gimmick"
+                    ],
+                    5,
+                    [
+                        "FunnelGroup",
+                        5
+                    ],
+                    []
+                ]
+            ]
+        ]
+    ]
+]

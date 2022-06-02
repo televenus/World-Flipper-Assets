@@ -1,0 +1,23 @@
+[
+    {
+        "n": "battle/boss/common/boss_target_sight/.gen/boss_target_sight/a",
+        "w": 66,
+        "h": 66,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/boss/common/boss_target_sight/.gen/boss_target_sight/b",
+        "w": 52,
+        "h": 52,
+        "x": 1,
+        "y": 69
+    },
+    {
+        "n": "battle/boss/common/boss_target_sight/.gen/boss_target_sight/c",
+        "w": 10,
+        "h": 8,
+        "x": 55,
+        "y": 69
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/a",
+        "w": 13,
+        "h": 13,
+        "x": 30,
+        "y": 18,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/b",
+        "w": 3,
+        "h": 9,
+        "x": 102,
+        "y": 19,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/c",
+        "w": 9,
+        "h": 4,
+        "x": 90,
+        "y": 27,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/d",
+        "w": 10,
+        "h": 6,
+        "x": 90,
+        "y": 19,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/e",
+        "w": 13,
+        "h": 13,
+        "x": 45,
+        "y": 18,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/f",
+        "w": 13,
+        "h": 13,
+        "x": 30,
+        "y": 18,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/g",
+        "w": 13,
+        "h": 13,
+        "x": 60,
+        "y": 18,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/h",
+        "w": 13,
+        "h": 13,
+        "x": 69,
+        "y": 1,
+        "fx": -20,
+        "fy": -13,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/i",
+        "w": 13,
+        "h": 12,
+        "x": 75,
+        "y": 19,
+        "r": true,
+        "fx": -21,
+        "fy": -14,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/j",
+        "w": 17,
+        "h": 16,
+        "x": 84,
+        "y": 1,
+        "r": true,
+        "fx": -16,
+        "fy": -10,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/k",
+        "w": 27,
+        "h": 28,
+        "x": 1,
+        "y": 1,
+        "fx": -18,
+        "fy": 0,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/l",
+        "w": 21,
+        "h": 15,
+        "x": 30,
+        "y": 1,
+        "fx": -19,
+        "fy": -13,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_guildknight_leader/.gen/skill_invoker_guildknight_leader/m",
+        "w": 14,
+        "h": 15,
+        "x": 53,
+        "y": 1,
+        "fx": -20,
+        "fy": -13,
+        "fw": 52,
+        "fh": 52
+    }
+]

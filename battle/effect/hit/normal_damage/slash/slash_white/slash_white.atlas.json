@@ -1,0 +1,38 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/slash/slash_white/.gen/slash_white/a",
+        "w": 25,
+        "h": 16,
+        "x": 1,
+        "y": 24,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 16
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash/slash_white/.gen/slash_white/b",
+        "w": 28,
+        "h": 15,
+        "x": 1,
+        "y": 7,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 16
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash/slash_white/.gen/slash_white/c",
+        "w": 4,
+        "h": 4,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash/slash_white/.gen/slash_white/d",
+        "w": 4,
+        "h": 4,
+        "x": 7,
+        "y": 1
+    }
+]

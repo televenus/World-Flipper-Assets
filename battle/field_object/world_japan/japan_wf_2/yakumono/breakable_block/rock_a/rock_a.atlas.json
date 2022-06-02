@@ -1,0 +1,103 @@
+[
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/a",
+        "w": 16,
+        "h": 19,
+        "x": 172,
+        "y": 37,
+        "fx": -34,
+        "fy": -18,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/b",
+        "w": 16,
+        "h": 19,
+        "x": 190,
+        "y": 37,
+        "fx": -34,
+        "fy": -18,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/c",
+        "w": 18,
+        "h": 20,
+        "x": 120,
+        "y": 39,
+        "fx": -33,
+        "fy": -17,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/d",
+        "w": 26,
+        "h": 23,
+        "x": 144,
+        "y": 37,
+        "fx": -29,
+        "fy": -13,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/e",
+        "w": 34,
+        "h": 46,
+        "x": 42,
+        "y": 1,
+        "r": true,
+        "fx": -20,
+        "fy": -6,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/f",
+        "w": 39,
+        "h": 56,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -14,
+        "fy": -4,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/g",
+        "w": 64,
+        "h": 36,
+        "x": 78,
+        "y": 1,
+        "fx": -10,
+        "fy": -10,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/h",
+        "w": 69,
+        "h": 34,
+        "x": 144,
+        "y": 1,
+        "fx": -8,
+        "fy": -14,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_japan/japan_wf_2/yakumono/breakable_block/rock_a/.gen/rock_a/i",
+        "w": 76,
+        "h": 10,
+        "x": 42,
+        "y": 49,
+        "fx": -5,
+        "fy": -36,
+        "fw": 84,
+        "fh": 49
+    }
+]

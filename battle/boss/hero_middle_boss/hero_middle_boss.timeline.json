@@ -1,0 +1,207 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 166,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 167,
+            "end": 170,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 171,
+            "end": 186,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 187,
+            "end": 419,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 420,
+            "end": 435,
+            "name": "shot1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 436,
+            "end": 455,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 456,
+            "end": 474,
+            "name": "shot1_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 475,
+            "end": 487,
+            "name": "shot1_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 488,
+            "end": 502,
+            "name": "shot1_fire_loop_ex",
+            "kind": "once"
+        },
+        {
+            "begin": 503,
+            "end": 554,
+            "name": "shot1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 555,
+            "end": 567,
+            "name": "shot2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 568,
+            "end": 587,
+            "name": "shot2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 588,
+            "end": 617,
+            "name": "shot2_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 618,
+            "end": 629,
+            "name": "shot2_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 630,
+            "end": 662,
+            "name": "shot2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 663,
+            "end": 675,
+            "name": "shot3_start",
+            "kind": "once"
+        },
+        {
+            "begin": 676,
+            "end": 696,
+            "name": "shot3_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 697,
+            "end": 722,
+            "name": "shot3_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 723,
+            "end": 764,
+            "name": "shot3_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 765,
+            "end": 816,
+            "name": "shot3_end",
+            "kind": "once"
+        },
+        {
+            "begin": 817,
+            "end": 829,
+            "name": "skill1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 830,
+            "end": 849,
+            "name": "skill1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 850,
+            "end": 871,
+            "name": "skill1_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 872,
+            "end": 903,
+            "name": "skill1_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 904,
+            "end": 936,
+            "name": "skill1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 937,
+            "end": 952,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 953,
+            "end": 984,
+            "name": "stun",
+            "kind": "loop"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/thunder/se_thunderbolt_single",
+            "begin": 171,
+            "loop": -1,
+            "end": 187,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_cannon_bit_shot_once",
+            "begin": 475,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_cannon_bit_shot_once",
+            "begin": 488,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_cannon_bit_shot",
+            "begin": 723,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_cannon_bit_shot",
+            "begin": 872,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

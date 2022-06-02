@@ -1,0 +1,24 @@
+[
+    {
+        "n": "battle/uncommon/layer1/field_text/.gen/field_text_label/a",
+        "w": 397,
+        "h": 60,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 400,
+        "fh": 60
+    },
+    {
+        "n": "battle/uncommon/layer1/field_text/.gen/field_text_label/b",
+        "w": 1,
+        "h": 1,
+        "x": 400,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    }
+]

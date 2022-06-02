@@ -1,0 +1,149 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/a",
+        "w": 12,
+        "h": 11,
+        "x": 1,
+        "y": 15,
+        "r": true,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/b",
+        "w": 9,
+        "h": 3,
+        "x": 1,
+        "y": 41
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/c",
+        "w": 9,
+        "h": 4,
+        "x": 16,
+        "y": 9,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/d",
+        "w": 10,
+        "h": 6,
+        "x": 16,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/e",
+        "w": 12,
+        "h": 11,
+        "x": 1,
+        "y": 15,
+        "r": true,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/f",
+        "w": 5,
+        "h": 2,
+        "x": 12,
+        "y": 43,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/g",
+        "w": 11,
+        "h": 12,
+        "x": 15,
+        "y": 15,
+        "fx": -123,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/h",
+        "w": 12,
+        "h": 11,
+        "x": 1,
+        "y": 15,
+        "r": true,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/i",
+        "w": 12,
+        "h": 11,
+        "x": 1,
+        "y": 28,
+        "r": true,
+        "fx": -123,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/j",
+        "w": 12,
+        "h": 11,
+        "x": 1,
+        "y": 15,
+        "r": true,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/k",
+        "w": 11,
+        "h": 12,
+        "x": 15,
+        "y": 29,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/l",
+        "w": 13,
+        "h": 12,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_shouta/.gen/skill_invoker_anv2_psychic_shouta/m",
+        "w": 11,
+        "h": 12,
+        "x": 15,
+        "y": 29,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    }
+]

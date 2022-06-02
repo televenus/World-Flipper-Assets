@@ -1,0 +1,151 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/a",
+        "w": 21,
+        "h": 15,
+        "x": 133,
+        "y": 43,
+        "r": true,
+        "fx": -24,
+        "fy": -13,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/b",
+        "w": 21,
+        "h": 17,
+        "x": 133,
+        "y": 24,
+        "r": true,
+        "fx": -23,
+        "fy": -13,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/c",
+        "w": 19,
+        "h": 21,
+        "x": 128,
+        "y": 1,
+        "fx": -22,
+        "fy": -13,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/d",
+        "w": 22,
+        "h": 23,
+        "x": 109,
+        "y": 29,
+        "r": true,
+        "fx": -21,
+        "fy": -12,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/e",
+        "w": 23,
+        "h": 31,
+        "x": 49,
+        "y": 1,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/f",
+        "w": 23,
+        "h": 36,
+        "x": 24,
+        "y": 1,
+        "r": true,
+        "fx": -15,
+        "fy": -10,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/g",
+        "w": 21,
+        "h": 43,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -11,
+        "fy": -15,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/h",
+        "w": 52,
+        "h": 15,
+        "x": 1,
+        "y": 46,
+        "fx": -7,
+        "fy": -22,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/i",
+        "w": 52,
+        "h": 12,
+        "x": 55,
+        "y": 34,
+        "fx": -7,
+        "fy": -24,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/j",
+        "w": 52,
+        "h": 12,
+        "x": 55,
+        "y": 48,
+        "fx": -7,
+        "fy": -24,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/k",
+        "w": 52,
+        "h": 12,
+        "x": 74,
+        "y": 1,
+        "fx": -7,
+        "fy": -24,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/l",
+        "w": 52,
+        "h": 12,
+        "x": 74,
+        "y": 15,
+        "fx": -7,
+        "fy": -24,
+        "fw": 64,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_battle_modern_room/yakumono/breakable_block/case_b/.gen/case_b/m",
+        "w": 1,
+        "h": 1,
+        "x": 24,
+        "y": 39,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 48
+    }
+]

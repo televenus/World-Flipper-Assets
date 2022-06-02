@@ -1,0 +1,69 @@
+[
+    {
+        "n": "battle/field_object/world_tree/tree_forest/outhole/.gen/tree_forest_outhole_zone1/f0028",
+        "w": 38,
+        "h": 12,
+        "x": 1,
+        "y": 33,
+        "fx": -3,
+        "fy": -4,
+        "fw": 44,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/outhole/.gen/tree_forest_outhole_zone2/f0011",
+        "w": 42,
+        "h": 16,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 44,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/outhole/.gen/tree_forest_outhole_zone2/f0016",
+        "w": 14,
+        "h": 44,
+        "x": 45,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 44,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/outhole/.gen/tree_forest_outhole_zone2/f0021",
+        "w": 42,
+        "h": 12,
+        "x": 1,
+        "y": 19,
+        "fx": -1,
+        "fy": -4,
+        "fw": 44,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/outhole/.gen/tree_forest_outhole_zone2/f0026",
+        "w": 42,
+        "h": 14,
+        "x": 1,
+        "y": 47,
+        "fx": -1,
+        "fy": -2,
+        "fw": 44,
+        "fh": 18
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_forest/outhole/.gen/tree_forest_outhole_zone2/f0028",
+        "w": 38,
+        "h": 12,
+        "x": 1,
+        "y": 33,
+        "fx": -3,
+        "fy": -4,
+        "fw": 44,
+        "fh": 18
+    }
+]

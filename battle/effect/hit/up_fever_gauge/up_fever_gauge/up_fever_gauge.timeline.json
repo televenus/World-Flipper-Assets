@@ -1,0 +1,23 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 63,
+            "name": "neutral",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/sf/se_electro_lucky_up",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

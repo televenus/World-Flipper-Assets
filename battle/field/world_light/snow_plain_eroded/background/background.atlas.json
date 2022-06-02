@@ -1,0 +1,43 @@
+[
+    {
+        "n": "battle/field/world_light/snow_plain_eroded/background/.gen/background/a",
+        "w": 736,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/field/world_light/snow_plain_eroded/background/.gen/background/b",
+        "w": 254,
+        "h": 711,
+        "x": 1,
+        "y": 275,
+        "fx": -18,
+        "fy": 0,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "battle/field/world_light/snow_plain_eroded/background/.gen/background/c",
+        "w": 254,
+        "h": 711,
+        "x": 257,
+        "y": 275,
+        "fx": -18,
+        "fy": 0,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "battle/field/world_light/snow_plain_eroded/background/.gen/background/d",
+        "w": 254,
+        "h": 711,
+        "x": 513,
+        "y": 275,
+        "fx": -18,
+        "fy": 0,
+        "fw": 272,
+        "fh": 736
+    }
+]

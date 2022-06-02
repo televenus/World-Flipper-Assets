@@ -1,0 +1,205 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 4,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 5,
+            "end": 44,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 45,
+            "end": 48,
+            "name": "shot_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 49,
+            "end": 52,
+            "name": "shot_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 53,
+            "end": 84,
+            "name": "shot_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 85,
+            "end": 88,
+            "name": "shot_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 89,
+            "end": 92,
+            "name": "shot_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 93,
+            "end": 132,
+            "name": "shot_attack2",
+            "kind": "once"
+        },
+        {
+            "begin": 133,
+            "end": 136,
+            "name": "funnel_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 137,
+            "end": 140,
+            "name": "funnel_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 141,
+            "end": 180,
+            "name": "funnel_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 181,
+            "end": 184,
+            "name": "skill_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 185,
+            "end": 188,
+            "name": "skill_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 189,
+            "end": 232,
+            "name": "skill_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 233,
+            "end": 236,
+            "name": "skill_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 237,
+            "end": 240,
+            "name": "skill_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 241,
+            "end": 316,
+            "name": "skill_attack2",
+            "kind": "once"
+        },
+        {
+            "begin": 317,
+            "end": 324,
+            "name": "wince_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 325,
+            "end": 356,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 357,
+            "end": 364,
+            "name": "stun_ready",
+            "kind": "once"
+        },
+        {
+            "begin": 365,
+            "end": 396,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 397,
+            "end": 404,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/fire/se_fire_breath",
+            "begin": 93,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_flare",
+            "begin": 151,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_flare_up",
+            "begin": 196,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_flame_collision",
+            "begin": 258,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_light_fire_breath",
+            "begin": 53,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_flare_up",
+            "begin": 93,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_flare_up",
+            "begin": 141,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_miasma_blast",
+            "begin": 189,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_miasma_blast",
+            "begin": 241,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

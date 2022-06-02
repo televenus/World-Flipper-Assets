@@ -1,0 +1,68 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_ship/outhole/.gen/sea_ship_outhole_zone1/f0044",
+        "w": 43,
+        "h": 16,
+        "x": 1,
+        "y": 102,
+        "fx": -4,
+        "fy": -4,
+        "fw": 50,
+        "fh": 21
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship/outhole/.gen/sea_ship_outhole_zone2/f0011",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 22,
+        "fx": -1,
+        "fy": -2,
+        "fw": 50,
+        "fh": 21
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship/outhole/.gen/sea_ship_outhole_zone2/f0016",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 42,
+        "fx": -1,
+        "fy": -2,
+        "fw": 50,
+        "fh": 21
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship/outhole/.gen/sea_ship_outhole_zone2/f0021",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 62,
+        "fx": -1,
+        "fy": -2,
+        "fw": 50,
+        "fh": 21
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship/outhole/.gen/sea_ship_outhole_zone2/f0026",
+        "w": 48,
+        "h": 19,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 21
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_ship/outhole/.gen/sea_ship_outhole_zone2/f0028",
+        "w": 48,
+        "h": 18,
+        "x": 1,
+        "y": 82,
+        "fx": -1,
+        "fy": -2,
+        "fw": 50,
+        "fh": 21
+    }
+]

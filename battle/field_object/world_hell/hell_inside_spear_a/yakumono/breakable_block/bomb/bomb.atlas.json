@@ -1,0 +1,93 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/bomb/.gen/bomb/a",
+        "w": 19,
+        "h": 21,
+        "x": 40,
+        "y": 39,
+        "fx": -15,
+        "fy": -15,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/bomb/.gen/bomb/b",
+        "w": 23,
+        "h": 21,
+        "x": 34,
+        "y": 105,
+        "r": true,
+        "fx": -14,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/bomb/.gen/bomb/c",
+        "w": 26,
+        "h": 29,
+        "x": 34,
+        "y": 74,
+        "r": true,
+        "fx": -10,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/bomb/.gen/bomb/d",
+        "w": 41,
+        "h": 36,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -5,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/bomb/.gen/bomb/e",
+        "w": 37,
+        "h": 33,
+        "x": 1,
+        "y": 39,
+        "fx": -6,
+        "fy": -7,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/bomb/.gen/bomb/f",
+        "w": 31,
+        "h": 27,
+        "x": 1,
+        "y": 74,
+        "fx": -9,
+        "fy": -8,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/bomb/.gen/bomb/g",
+        "w": 31,
+        "h": 23,
+        "x": 1,
+        "y": 103,
+        "fx": -9,
+        "fy": -10,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_inside_spear_a/yakumono/breakable_block/bomb/.gen/bomb/h",
+        "w": 13,
+        "h": 25,
+        "x": 44,
+        "y": 1,
+        "r": true,
+        "fx": -12,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    }
+]

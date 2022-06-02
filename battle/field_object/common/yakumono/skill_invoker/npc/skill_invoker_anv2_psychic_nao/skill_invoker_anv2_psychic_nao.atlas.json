@@ -1,0 +1,143 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/a",
+        "w": 12,
+        "h": 13,
+        "x": 17,
+        "y": 1,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/b",
+        "w": 9,
+        "h": 3,
+        "x": 73,
+        "y": 9
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/c",
+        "w": 4,
+        "h": 9,
+        "x": 85,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/d",
+        "w": 10,
+        "h": 6,
+        "x": 73,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/e",
+        "w": 12,
+        "h": 13,
+        "x": 17,
+        "y": 1,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/f",
+        "w": 5,
+        "h": 2,
+        "x": 84,
+        "y": 12,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/g",
+        "w": 12,
+        "h": 13,
+        "x": 31,
+        "y": 1,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/h",
+        "w": 12,
+        "h": 13,
+        "x": 17,
+        "y": 1,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/i",
+        "w": 12,
+        "h": 13,
+        "x": 45,
+        "y": 1,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/j",
+        "w": 12,
+        "h": 13,
+        "x": 17,
+        "y": 1,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/k",
+        "w": 12,
+        "h": 13,
+        "x": 59,
+        "y": 1,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/l",
+        "w": 14,
+        "h": 13,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv2_psychic_nao/.gen/skill_invoker_anv2_psychic_nao/m",
+        "w": 12,
+        "h": 13,
+        "x": 59,
+        "y": 1,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/slash_strong/slash_strong_red/.gen/slash_strong_red/a",
+        "w": 4,
+        "h": 4,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash_strong/slash_strong_red/.gen/slash_strong_red/b",
+        "w": 70,
+        "h": 30,
+        "x": 1,
+        "y": 32,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash_strong/slash_strong_red/.gen/slash_strong_red/c",
+        "w": 39,
+        "h": 40,
+        "x": 75,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash_strong/slash_strong_red/.gen/slash_strong_red/d",
+        "w": 4,
+        "h": 4,
+        "x": 7,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash_strong/slash_strong_red/.gen/slash_strong_red/e",
+        "w": 70,
+        "h": 30,
+        "x": 1,
+        "y": 64,
+        "r": true
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash_strong/slash_strong_red/.gen/slash_strong_red/f",
+        "w": 40,
+        "h": 39,
+        "x": 73,
+        "y": 43,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash_strong/slash_strong_red/.gen/slash_strong_red/g",
+        "w": 29,
+        "h": 29,
+        "x": 13,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/slash_strong/slash_strong_red/.gen/slash_strong_red/h",
+        "w": 29,
+        "h": 29,
+        "x": 44,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    }
+]

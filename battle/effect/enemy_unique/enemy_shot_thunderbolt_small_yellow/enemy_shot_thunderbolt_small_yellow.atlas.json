@@ -1,0 +1,71 @@
+[
+    {
+        "n": "battle/effect/enemy_unique/enemy_shot_thunderbolt_small_yellow/.gen/enemy_shot_thunderbolt_small_yellow/a",
+        "w": 32,
+        "h": 22,
+        "x": 681,
+        "y": 41,
+        "fx": -16,
+        "fy": -17,
+        "fw": 64,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/enemy_unique/enemy_shot_thunderbolt_small_yellow/.gen/enemy_shot_thunderbolt_small_yellow/b",
+        "w": 336,
+        "h": 48,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -7,
+        "fy": -16,
+        "fw": 64,
+        "fh": 368
+    },
+    {
+        "n": "battle/effect/enemy_unique/enemy_shot_thunderbolt_small_yellow/.gen/enemy_shot_thunderbolt_small_yellow/c",
+        "w": 340,
+        "h": 43,
+        "x": 339,
+        "y": 1,
+        "r": true,
+        "fx": -11,
+        "fy": -13,
+        "fw": 64,
+        "fh": 368
+    },
+    {
+        "n": "battle/effect/enemy_unique/enemy_shot_thunderbolt_small_yellow/.gen/enemy_shot_thunderbolt_small_yellow/d",
+        "w": 333,
+        "h": 38,
+        "x": 681,
+        "y": 1,
+        "r": true,
+        "fx": -14,
+        "fy": -19,
+        "fw": 64,
+        "fh": 368
+    },
+    {
+        "n": "battle/effect/enemy_unique/enemy_shot_thunderbolt_small_yellow/.gen/enemy_shot_thunderbolt_small_yellow/e",
+        "w": 25,
+        "h": 14,
+        "x": 339,
+        "y": 46,
+        "fx": -19,
+        "fy": -20,
+        "fw": 64,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/enemy_unique/enemy_shot_thunderbolt_small_yellow/.gen/enemy_shot_thunderbolt_small_yellow/f",
+        "w": 42,
+        "h": 9,
+        "x": 1,
+        "y": 51,
+        "fx": -12,
+        "fy": -15,
+        "fw": 64,
+        "fh": 40
+    }
+]

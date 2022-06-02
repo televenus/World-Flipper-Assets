@@ -1,0 +1,146 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/a",
+        "w": 16,
+        "h": 15,
+        "x": 1,
+        "y": 20,
+        "r": true,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/b",
+        "w": 9,
+        "h": 3,
+        "x": 1,
+        "y": 45
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/c",
+        "w": 4,
+        "h": 9,
+        "x": 13,
+        "y": 37,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/d",
+        "w": 10,
+        "h": 6,
+        "x": 1,
+        "y": 37,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/e",
+        "w": 16,
+        "h": 15,
+        "x": 1,
+        "y": 20,
+        "r": true,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/f",
+        "w": 5,
+        "h": 2,
+        "x": 12,
+        "y": 48,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/g",
+        "w": 15,
+        "h": 15,
+        "x": 19,
+        "y": 19,
+        "fx": -121,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/h",
+        "w": 16,
+        "h": 15,
+        "x": 1,
+        "y": 20,
+        "r": true,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/i",
+        "w": 15,
+        "h": 15,
+        "x": 19,
+        "y": 36,
+        "fx": -121,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/j",
+        "w": 16,
+        "h": 15,
+        "x": 1,
+        "y": 20,
+        "r": true,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/k",
+        "w": 15,
+        "h": 16,
+        "x": 18,
+        "y": 1,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/l",
+        "w": 15,
+        "h": 17,
+        "x": 1,
+        "y": 1,
+        "fx": -121,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_white_tiger/.gen/skill_invoker_anv1_white_tiger/m",
+        "w": 15,
+        "h": 16,
+        "x": 18,
+        "y": 1,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    }
+]

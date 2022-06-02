@@ -1,0 +1,42 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/one_way_wall/one_way_wall_fixed_45/.gen/one_way_wall_fixed_45/f0001",
+        "w": 9,
+        "h": 9,
+        "x": 4,
+        "y": 1,
+        "fx": 0,
+        "fy": -14,
+        "fw": 23,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/common/yakumono/one_way_wall/one_way_wall_fixed_45/.gen/one_way_wall_fixed_45/f0010",
+        "w": 1,
+        "h": 1,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 23,
+        "fh": 23
+    },
+    {
+        "n": "battle/field_object/common/yakumono/one_way_wall/one_way_wall_fixed_45/.gen/one_way_wall_fixed_45/f0052",
+        "w": 23,
+        "h": 23,
+        "x": 1,
+        "y": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/one_way_wall/one_way_wall_fixed_45/.gen/one_way_wall_fixed_45/f0064",
+        "w": 1,
+        "h": 1,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 23,
+        "fh": 23
+    }
+]

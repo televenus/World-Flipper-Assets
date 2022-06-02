@@ -1,0 +1,93 @@
+[
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/gate/.gen/fake_princess_castle_town_gate/f0025",
+        "w": 86,
+        "h": 72,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 86,
+        "fh": 73
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/gate/.gen/fake_princess_castle_town_gate/f0029",
+        "w": 86,
+        "h": 72,
+        "x": 1,
+        "y": 75,
+        "fx": 0,
+        "fy": 0,
+        "fw": 86,
+        "fh": 73
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/gate/.gen/fake_princess_castle_town_gate/f0033",
+        "w": 86,
+        "h": 62,
+        "x": 1,
+        "y": 149,
+        "fx": 0,
+        "fy": -7,
+        "fw": 86,
+        "fh": 73
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/gate/.gen/fake_princess_castle_town_gate/f0037",
+        "w": 86,
+        "h": 54,
+        "x": 1,
+        "y": 213,
+        "fx": 0,
+        "fy": -14,
+        "fw": 86,
+        "fh": 73
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/gate/.gen/fake_princess_castle_town_gate/f0041",
+        "w": 86,
+        "h": 45,
+        "x": 1,
+        "y": 269,
+        "fx": 0,
+        "fy": -22,
+        "fw": 86,
+        "fh": 73
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/gate/.gen/fake_princess_castle_town_gate/f0045",
+        "w": 35,
+        "h": 86,
+        "x": 89,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -31,
+        "fw": 86,
+        "fh": 73
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/gate/.gen/fake_princess_castle_town_gate/f0049",
+        "w": 29,
+        "h": 86,
+        "x": 89,
+        "y": 89,
+        "r": true,
+        "fx": 0,
+        "fy": -36,
+        "fw": 86,
+        "fh": 73
+    },
+    {
+        "n": "battle/field_object/world_fake_princess/castle_town/gate/.gen/fake_princess_castle_town_gate/f0053",
+        "w": 24,
+        "h": 84,
+        "x": 89,
+        "y": 177,
+        "r": true,
+        "fx": -1,
+        "fy": -40,
+        "fw": 86,
+        "fh": 73
+    }
+]

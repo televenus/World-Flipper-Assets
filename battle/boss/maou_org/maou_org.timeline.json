@@ -1,0 +1,486 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 121,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 122,
+            "end": 207,
+            "name": "shot1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 208,
+            "end": 216,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 217,
+            "end": 272,
+            "name": "shot1_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 273,
+            "end": 305,
+            "name": "shot1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 306,
+            "end": 381,
+            "name": "shot2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 382,
+            "end": 424,
+            "name": "shot2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 425,
+            "end": 443,
+            "name": "shot2_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 444,
+            "end": 462,
+            "name": "shot2_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 463,
+            "end": 485,
+            "name": "shot2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 486,
+            "end": 556,
+            "name": "shot3_start",
+            "kind": "once"
+        },
+        {
+            "begin": 557,
+            "end": 677,
+            "name": "shot3_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 678,
+            "end": 717,
+            "name": "shot3_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 718,
+            "end": 722,
+            "name": "shot3_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 723,
+            "end": 758,
+            "name": "shot3_end",
+            "kind": "once"
+        },
+        {
+            "begin": 759,
+            "end": 807,
+            "name": "shot4_start",
+            "kind": "once"
+        },
+        {
+            "begin": 808,
+            "end": 838,
+            "name": "shot4_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 839,
+            "end": 855,
+            "name": "shot4_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 856,
+            "end": 862,
+            "name": "shot4_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 863,
+            "end": 895,
+            "name": "shot4_end",
+            "kind": "once"
+        },
+        {
+            "begin": 896,
+            "end": 956,
+            "name": "funnel1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 957,
+            "end": 967,
+            "name": "funnel1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 968,
+            "end": 1008,
+            "name": "funnel1_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 1009,
+            "end": 1049,
+            "name": "funnel1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 1050,
+            "end": 1110,
+            "name": "funnel2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 1111,
+            "end": 1121,
+            "name": "funnel2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1122,
+            "end": 1162,
+            "name": "funnel2_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 1163,
+            "end": 1203,
+            "name": "funnel2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 1204,
+            "end": 1252,
+            "name": "damage_charge_start",
+            "kind": "once"
+        },
+        {
+            "begin": 1253,
+            "end": 1273,
+            "name": "damage_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1274,
+            "end": 1322,
+            "name": "damage_charge_end",
+            "kind": "once"
+        },
+        {
+            "begin": 1323,
+            "end": 1371,
+            "name": "skill1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 1372,
+            "end": 1392,
+            "name": "skill1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1393,
+            "end": 1409,
+            "name": "skill1_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 1410,
+            "end": 1430,
+            "name": "skill1_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 1431,
+            "end": 1463,
+            "name": "skill1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 1464,
+            "end": 1534,
+            "name": "skill2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 1535,
+            "end": 1576,
+            "name": "skill2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1577,
+            "end": 1595,
+            "name": "skill2_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 1596,
+            "end": 1614,
+            "name": "skill2_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 1615,
+            "end": 1674,
+            "name": "skill2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 1675,
+            "end": 1747,
+            "name": "skill3_start",
+            "kind": "once"
+        },
+        {
+            "begin": 1748,
+            "end": 1808,
+            "name": "skill3_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1809,
+            "end": 1859,
+            "name": "skill3_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 1860,
+            "end": 1866,
+            "name": "skill3_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 1867,
+            "end": 1915,
+            "name": "skill3_end",
+            "kind": "once"
+        },
+        {
+            "begin": 1916,
+            "end": 1932,
+            "name": "special_start",
+            "kind": "once"
+        },
+        {
+            "begin": 1933,
+            "end": 1973,
+            "name": "special_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1974,
+            "end": 2020,
+            "name": "special_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 2021,
+            "end": 2029,
+            "name": "special_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 2030,
+            "end": 2062,
+            "name": "special_end",
+            "kind": "once"
+        },
+        {
+            "begin": 2063,
+            "end": 2078,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 2079,
+            "end": 2093,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 2094,
+            "end": 2109,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 2110,
+            "end": 2140,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 2141,
+            "end": 2339,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/dark/se_shadow_wind_expansion",
+            "begin": 217,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_big",
+            "begin": 382,
+            "loop": -1,
+            "end": 425,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 425,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_wave_start",
+            "begin": 693,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_eyes_flash",
+            "begin": 714,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_dark_hit_shadow",
+            "begin": 717,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 808,
+            "loop": -1,
+            "end": 839,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_soul_shot",
+            "begin": 968,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_bad_soul_wind",
+            "begin": 1009,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_soul_shot",
+            "begin": 1122,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_bad_soul_wind",
+            "begin": 1163,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_miasma_blast",
+            "begin": 1229,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_wave_charge",
+            "begin": 1253,
+            "loop": -1,
+            "end": 1274,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/dark/se_miasma_blast",
+            "begin": 1348,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_wave_charge",
+            "begin": 1372,
+            "loop": -1,
+            "end": 1393,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 1393,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 1535,
+            "loop": -1,
+            "end": 1577,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 1577,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_big_wave_charge",
+            "begin": 1748,
+            "loop": -1,
+            "end": 1809,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/unique/se_boss_zegura_roar_a",
+            "begin": 2002,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

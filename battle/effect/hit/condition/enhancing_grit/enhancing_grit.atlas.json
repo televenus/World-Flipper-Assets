@@ -1,0 +1,57 @@
+[
+    {
+        "n": "battle/effect/hit/condition/enhancing_grit/.gen/enhancing_grit/a",
+        "w": 72,
+        "h": 71,
+        "x": 42,
+        "y": 42,
+        "fx": -4,
+        "fy": -6,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_grit/.gen/enhancing_grit/b",
+        "w": 39,
+        "h": 39,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_grit/.gen/enhancing_grit/c",
+        "w": 39,
+        "h": 39,
+        "x": 42,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_grit/.gen/enhancing_grit/d",
+        "w": 39,
+        "h": 39,
+        "x": 83,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/hit/condition/enhancing_grit/.gen/enhancing_grit/e",
+        "w": 39,
+        "h": 39,
+        "x": 1,
+        "y": 42,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    }
+]

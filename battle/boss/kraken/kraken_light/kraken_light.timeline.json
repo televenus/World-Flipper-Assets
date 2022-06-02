@@ -1,0 +1,164 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 91,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 92,
+            "end": 182,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 183,
+            "end": 223,
+            "name": "funnnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 224,
+            "end": 266,
+            "name": "funnnel_attack1",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 267,
+            "end": 309,
+            "name": "funnnel_attack2",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 310,
+            "end": 352,
+            "name": "funnnel_attack3",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 353,
+            "end": 395,
+            "name": "funnnel_attack4",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 396,
+            "end": 417,
+            "name": "shot_initial",
+            "kind": "pass"
+        },
+        {
+            "begin": 418,
+            "end": 430,
+            "name": "shot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 431,
+            "end": 470,
+            "name": "shot_attack",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 471,
+            "end": 491,
+            "name": "special_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 492,
+            "end": 498,
+            "name": "special_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 499,
+            "end": 504,
+            "name": "special_attack_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 505,
+            "end": 513,
+            "name": "special_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 514,
+            "end": 562,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 563,
+            "end": 611,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 612,
+            "end": 660,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 661,
+            "end": 709,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 710,
+            "end": 766,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_spit_out",
+            "begin": 431,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_spit_out",
+            "begin": 447,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_spit_out",
+            "begin": 461,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 492,
+            "loop": -1,
+            "end": 499,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_laser_short",
+            "begin": 499,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

@@ -1,0 +1,606 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/a"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/b"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/c"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/d"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/e"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/f"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/g"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/h"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/i"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/j"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/k"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/l"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/m"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/n"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/o"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/p"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/q"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/r"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/s"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/t"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/u"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/v"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/w"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/x"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/y"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/z"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/aa"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/ab"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/middle_boss_dragon_smr20_funnel/.gen/middle_boss_dragon_smr20_funnel/ac"
+        }
+    ],
+    "g": [
+        {
+            "t": 121,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 121,
+                            "r": 1073741824
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 121,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 20,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483627,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 24,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483602,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 24,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483577,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 24,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483552,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 24,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483628,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "r": -2147483629
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483603,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "r": -2147483625
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483578,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "r": -2147483625
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483553,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "r": -2147483625
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 21,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 25,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 25,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 13,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 14,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 15,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 16,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 25,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 17,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 18,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 19,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 20,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 21,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 22,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 25,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 23,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 24,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 25,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 26,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 27,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 28,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -163840,
+            "y": -221184
+        }
+    ],
+    "c": [],
+    "s": 6
+}

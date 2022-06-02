@@ -1,0 +1,106 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/a",
+        "w": 19,
+        "h": 19,
+        "x": 104,
+        "y": 1,
+        "fx": -33,
+        "fy": -18,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/b",
+        "w": 19,
+        "h": 19,
+        "x": 104,
+        "y": 22,
+        "fx": -33,
+        "fy": -18,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/c",
+        "w": 20,
+        "h": 21,
+        "x": 39,
+        "y": 42,
+        "r": true,
+        "fx": -32,
+        "fy": -18,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/d",
+        "w": 24,
+        "h": 30,
+        "x": 96,
+        "y": 77,
+        "r": true,
+        "fx": -28,
+        "fy": -12,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/e",
+        "w": 55,
+        "h": 35,
+        "x": 39,
+        "y": 72,
+        "fx": -16,
+        "fy": -6,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/f",
+        "w": 60,
+        "h": 39,
+        "x": 1,
+        "y": 1,
+        "fx": -13,
+        "fy": -6,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/g",
+        "w": 36,
+        "h": 65,
+        "x": 1,
+        "y": 42,
+        "r": true,
+        "fx": -11,
+        "fy": -9,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/h",
+        "w": 30,
+        "h": 69,
+        "x": 63,
+        "y": 1,
+        "r": true,
+        "fx": -9,
+        "fy": -14,
+        "fw": 84,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_cat_village/yakumono/breakable_block/rock_a/.gen/rock_a/i",
+        "w": 6,
+        "h": 74,
+        "x": 96,
+        "y": 1,
+        "r": true,
+        "fx": -6,
+        "fy": -33,
+        "fw": 84,
+        "fh": 49
+    }
+]

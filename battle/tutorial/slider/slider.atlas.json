@@ -1,0 +1,24 @@
+[
+    {
+        "n": "battle/tutorial/slider/.gen/tutorial_flick_slider/a",
+        "w": 118,
+        "h": 106,
+        "x": 1,
+        "y": 465,
+        "fx": -17,
+        "fy": -13,
+        "fw": 152,
+        "fh": 132
+    },
+    {
+        "n": "battle/tutorial/slider/.gen/tutorial_flick_slider/b",
+        "w": 204,
+        "h": 462,
+        "x": 1,
+        "y": 1,
+        "fx": -9,
+        "fy": -12,
+        "fw": 222,
+        "fh": 486
+    }
+]

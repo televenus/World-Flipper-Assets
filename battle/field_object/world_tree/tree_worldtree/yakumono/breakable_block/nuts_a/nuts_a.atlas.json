@@ -1,0 +1,106 @@
+[
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/a",
+        "w": 34,
+        "h": 27,
+        "x": 1,
+        "y": 417,
+        "fx": -30,
+        "fy": -29,
+        "fw": 88,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/b",
+        "w": 31,
+        "h": 27,
+        "x": 1,
+        "y": 446,
+        "fx": -30,
+        "fy": -29,
+        "fw": 88,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/c",
+        "w": 34,
+        "h": 28,
+        "x": 1,
+        "y": 387,
+        "fx": -29,
+        "fy": -28,
+        "fw": 88,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/d",
+        "w": 44,
+        "h": 39,
+        "x": 1,
+        "y": 284,
+        "fx": -21,
+        "fy": -14,
+        "fw": 88,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/e",
+        "w": 43,
+        "h": 60,
+        "x": 1,
+        "y": 325,
+        "r": true,
+        "fx": -11,
+        "fy": -11,
+        "fw": 88,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/f",
+        "w": 48,
+        "h": 65,
+        "x": 1,
+        "y": 217,
+        "r": true,
+        "fx": -8,
+        "fy": -7,
+        "fw": 88,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/g",
+        "w": 48,
+        "h": 68,
+        "x": 1,
+        "y": 147,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 88,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/h",
+        "w": 49,
+        "h": 70,
+        "x": 1,
+        "y": 75,
+        "r": true,
+        "fx": -5,
+        "fy": -5,
+        "fw": 88,
+        "fh": 64
+    },
+    {
+        "n": "battle/field_object/world_tree/tree_worldtree/yakumono/breakable_block/nuts_a/.gen/nuts_a/i",
+        "w": 51,
+        "h": 72,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -4,
+        "fy": -4,
+        "fw": 88,
+        "fh": 64
+    }
+]

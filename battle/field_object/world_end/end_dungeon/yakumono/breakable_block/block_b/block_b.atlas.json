@@ -1,0 +1,159 @@
+[
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/a",
+        "w": 23,
+        "h": 18,
+        "x": 77,
+        "y": 1,
+        "r": true,
+        "fx": -34,
+        "fy": -18,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/b",
+        "w": 24,
+        "h": 21,
+        "x": 102,
+        "y": 1,
+        "r": true,
+        "fx": -32,
+        "fy": -17,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/c",
+        "w": 26,
+        "h": 24,
+        "x": 77,
+        "y": 24,
+        "r": true,
+        "fx": -31,
+        "fy": -15,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/d",
+        "w": 42,
+        "h": 29,
+        "x": 77,
+        "y": 50,
+        "fx": -22,
+        "fy": -10,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/e",
+        "w": 51,
+        "h": 39,
+        "x": 74,
+        "y": 81,
+        "fx": -19,
+        "fy": -5,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/f",
+        "w": 59,
+        "h": 37,
+        "x": 67,
+        "y": 122,
+        "fx": -14,
+        "fy": -8,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/g",
+        "w": 64,
+        "h": 33,
+        "x": 1,
+        "y": 112,
+        "fx": -11,
+        "fy": -13,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/h",
+        "w": 69,
+        "h": 25,
+        "x": 1,
+        "y": 85,
+        "fx": -7,
+        "fy": -21,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/i",
+        "w": 71,
+        "h": 19,
+        "x": 1,
+        "y": 64,
+        "fx": -7,
+        "fy": -27,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/j",
+        "w": 74,
+        "h": 13,
+        "x": 1,
+        "y": 49,
+        "fx": -6,
+        "fy": -33,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/k",
+        "w": 74,
+        "h": 10,
+        "x": 1,
+        "y": 1,
+        "fx": -6,
+        "fy": -36,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/l",
+        "w": 74,
+        "h": 10,
+        "x": 1,
+        "y": 13,
+        "fx": -6,
+        "fy": -36,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/m",
+        "w": 74,
+        "h": 10,
+        "x": 1,
+        "y": 25,
+        "fx": -6,
+        "fy": -36,
+        "fw": 85,
+        "fh": 51
+    },
+    {
+        "n": "battle/field_object/world_end/end_dungeon/yakumono/breakable_block/block_b/.gen/block_b/n",
+        "w": 74,
+        "h": 10,
+        "x": 1,
+        "y": 37,
+        "fx": -6,
+        "fy": -36,
+        "fw": 85,
+        "fh": 51
+    }
+]

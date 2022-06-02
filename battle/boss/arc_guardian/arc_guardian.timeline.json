@@ -1,0 +1,191 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 33,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 34,
+            "end": 42,
+            "name": "shot1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 43,
+            "end": 59,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 60,
+            "end": 88,
+            "name": "shot1_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 89,
+            "end": 101,
+            "name": "shot1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 102,
+            "end": 114,
+            "name": "shot2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 115,
+            "end": 131,
+            "name": "shot2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 132,
+            "end": 156,
+            "name": "shot2_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 157,
+            "end": 169,
+            "name": "shot2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 170,
+            "end": 182,
+            "name": "skill1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 183,
+            "end": 199,
+            "name": "skill1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 200,
+            "end": 224,
+            "name": "skill1_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 225,
+            "end": 233,
+            "name": "skill1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 234,
+            "end": 246,
+            "name": "skill2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 247,
+            "end": 263,
+            "name": "skill2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 264,
+            "end": 304,
+            "name": "skill2_fire",
+            "kind": "loop"
+        },
+        {
+            "begin": 305,
+            "end": 317,
+            "name": "skill2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 318,
+            "end": 341,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 342,
+            "end": 362,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 363,
+            "end": 386,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 387,
+            "end": 407,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 408,
+            "end": 489,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_magic_charge1",
+            "begin": 35,
+            "loop": -1,
+            "end": 60,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_heavy_landing_volume1",
+            "begin": 69,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_big_wave_charge",
+            "begin": 103,
+            "loop": -1,
+            "end": 132,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_line_shot",
+            "begin": 133,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_big",
+            "begin": 171,
+            "loop": -1,
+            "end": 234,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_lightning_needle_charge",
+            "begin": 235,
+            "loop": -1,
+            "end": 264,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_heavy_mass_dent",
+            "begin": 409,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

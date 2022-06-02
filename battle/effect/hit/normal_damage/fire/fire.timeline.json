@@ -1,0 +1,23 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 26,
+            "name": "neutral",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/fire/se_single_fire",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

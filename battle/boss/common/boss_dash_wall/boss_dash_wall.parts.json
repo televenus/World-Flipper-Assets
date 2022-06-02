@@ -1,0 +1,218 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/a"
+        },
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/b"
+        },
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/c"
+        },
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/d"
+        },
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/e"
+        },
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/f"
+        },
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/g"
+        },
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/h"
+        },
+        {
+            "s": false,
+            "p": "battle/boss/common/boss_dash_wall/.gen/boss_dash_wall/i"
+        }
+    ],
+    "g": [
+        {
+            "t": 68,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 15,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483633,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 40,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483593,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 13,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 15,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 20,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 15,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 15,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 5,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 5
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -40960,
+            "y": 0
+        }
+    ],
+    "c": [],
+    "s": 6
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/a",
+        "w": 23,
+        "h": 24,
+        "x": 55,
+        "y": 72,
+        "fx": -39,
+        "fy": -21,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/b",
+        "w": 25,
+        "h": 24,
+        "x": 99,
+        "y": 144,
+        "fx": -38,
+        "fy": -21,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/c",
+        "w": 27,
+        "h": 24,
+        "x": 55,
+        "y": 46,
+        "fx": -38,
+        "fy": -21,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/d",
+        "w": 38,
+        "h": 27,
+        "x": 85,
+        "y": 1,
+        "fx": -33,
+        "fy": -15,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/e",
+        "w": 52,
+        "h": 35,
+        "x": 1,
+        "y": 46,
+        "fx": -26,
+        "fy": -11,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/f",
+        "w": 37,
+        "h": 67,
+        "x": 85,
+        "y": 30,
+        "r": true,
+        "fx": -22,
+        "fy": -10,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/g",
+        "w": 41,
+        "h": 75,
+        "x": 1,
+        "y": 99,
+        "r": true,
+        "fx": -19,
+        "fy": -9,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/h",
+        "w": 81,
+        "h": 43,
+        "x": 44,
+        "y": 99,
+        "fx": -16,
+        "fy": -11,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/i",
+        "w": 82,
+        "h": 43,
+        "x": 1,
+        "y": 1,
+        "fx": -15,
+        "fy": -12,
+        "fw": 100,
+        "fh": 62
+    },
+    {
+        "n": "battle/field_object/world_hell/hell_deep_swamp_2/yakumono/breakable_block/stone_a/.gen/stone_a/j",
+        "w": 53,
+        "h": 27,
+        "x": 44,
+        "y": 144,
+        "fx": -21,
+        "fy": -25,
+        "fw": 100,
+        "fh": 62
+    }
+]

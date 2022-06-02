@@ -1,0 +1,52 @@
+[
+    {
+        "n": "battle/field_object/world_town/town_street/outhole/.gen/town_street_outhole_zone1/f0028",
+        "w": 42,
+        "h": 15,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_town/town_street/outhole/.gen/town_street_outhole_zone2/f0011",
+        "w": 42,
+        "h": 15,
+        "x": 1,
+        "y": 18
+    },
+    {
+        "n": "battle/field_object/world_town/town_street/outhole/.gen/town_street_outhole_zone2/f0016",
+        "w": 42,
+        "h": 15,
+        "x": 45,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_town/town_street/outhole/.gen/town_street_outhole_zone2/f0021",
+        "w": 42,
+        "h": 15,
+        "x": 1,
+        "y": 35
+    },
+    {
+        "n": "battle/field_object/world_town/town_street/outhole/.gen/town_street_outhole_zone2/f0026",
+        "w": 42,
+        "h": 15,
+        "x": 45,
+        "y": 18
+    },
+    {
+        "n": "battle/field_object/world_town/town_street/outhole/.gen/town_street_outhole_zone2/f0031",
+        "w": 42,
+        "h": 15,
+        "x": 45,
+        "y": 35
+    },
+    {
+        "n": "battle/field_object/world_town/town_street/outhole/.gen/town_street_outhole_zone2/f0033",
+        "w": 15,
+        "h": 42,
+        "x": 89,
+        "y": 1,
+        "r": true
+    }
+]

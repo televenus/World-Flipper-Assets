@@ -1,0 +1,68 @@
+[
+    {
+        "n": "battle/field_object/world_beast/beast_barren/outhole/.gen/beast_barren_outhole_zone1/f0044",
+        "w": 48,
+        "h": 15,
+        "x": 361,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 17
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/outhole/.gen/beast_barren_outhole_zone2/f0011",
+        "w": 70,
+        "h": 18,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 72,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/outhole/.gen/beast_barren_outhole_zone2/f0014",
+        "w": 70,
+        "h": 17,
+        "x": 73,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 72,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/outhole/.gen/beast_barren_outhole_zone2/f0017",
+        "w": 70,
+        "h": 17,
+        "x": 145,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 72,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/outhole/.gen/beast_barren_outhole_zone2/f0020",
+        "w": 70,
+        "h": 17,
+        "x": 217,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 72,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_beast/beast_barren/outhole/.gen/beast_barren_outhole_zone2/f0044",
+        "w": 70,
+        "h": 17,
+        "x": 289,
+        "y": 1,
+        "fx": -1,
+        "fy": -2,
+        "fw": 72,
+        "fh": 20
+    }
+]

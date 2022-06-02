@@ -1,0 +1,70 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 10,
+            "name": "deactivate",
+            "kind": "once"
+        },
+        {
+            "begin": 11,
+            "end": 22,
+            "name": "open",
+            "kind": "pass"
+        },
+        {
+            "begin": 23,
+            "end": 87,
+            "name": "activate",
+            "kind": "loop"
+        },
+        {
+            "begin": 88,
+            "end": 124,
+            "name": "touch",
+            "kind": "once"
+        },
+        {
+            "begin": 125,
+            "end": 134,
+            "name": "off",
+            "kind": "once"
+        },
+        {
+            "begin": 135,
+            "end": 146,
+            "name": "close",
+            "kind": "goto",
+            "target": "deactivate"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/yakumono/se_item_coin",
+            "begin": 88,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [
+        {
+            "path": "shape",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -54,
+                            "r": 92.252197265625
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rectangles": [],
+    "matrices": []
+}

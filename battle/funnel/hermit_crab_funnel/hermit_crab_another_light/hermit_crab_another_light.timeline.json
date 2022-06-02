@@ -1,0 +1,48 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 27,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 28,
+            "end": 80,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 81,
+            "end": 111,
+            "name": "charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 112,
+            "end": 137,
+            "name": "attack",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 138,
+            "end": 156,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/weapon/se_throw_slow",
+            "begin": 115,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "n": "battle/effect/hit/condition/debuff_specific_defence/.gen/down_defense/a",
+        "w": 42,
+        "h": 42,
+        "x": 83,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_specific_defence/.gen/down_defense/b",
+        "w": 42,
+        "h": 42,
+        "x": 1,
+        "y": 85
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_specific_defence/.gen/down_defense/c",
+        "w": 42,
+        "h": 42,
+        "x": 45,
+        "y": 85
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_specific_defence/.gen/down_defense/d",
+        "w": 15,
+        "h": 15,
+        "x": 83,
+        "y": 45
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_specific_defence/.gen/down_defense/e",
+        "w": 80,
+        "h": 40,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/debuff_specific_defence/.gen/down_defense/f",
+        "w": 80,
+        "h": 40,
+        "x": 1,
+        "y": 43
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0015",
+        "w": 31,
+        "h": 32,
+        "x": 1,
+        "y": 36,
+        "fx": 0,
+        "fy": -1,
+        "fw": 31,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0025",
+        "w": 31,
+        "h": 33,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0027",
+        "w": 31,
+        "h": 28,
+        "x": 1,
+        "y": 70,
+        "fx": 0,
+        "fy": -5,
+        "fw": 31,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0029",
+        "w": 23,
+        "h": 31,
+        "x": 34,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -10,
+        "fw": 31,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0031",
+        "w": 18,
+        "h": 31,
+        "x": 34,
+        "y": 34,
+        "r": true,
+        "fx": 0,
+        "fy": -15,
+        "fw": 31,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0033",
+        "w": 13,
+        "h": 31,
+        "x": 34,
+        "y": 67,
+        "r": true,
+        "fx": 0,
+        "fy": -20,
+        "fw": 31,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0035",
+        "w": 8,
+        "h": 31,
+        "x": 49,
+        "y": 67,
+        "r": true,
+        "fx": 0,
+        "fy": -25,
+        "fw": 31,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0037",
+        "w": 4,
+        "h": 29,
+        "x": 54,
+        "y": 34,
+        "r": true,
+        "fx": -1,
+        "fy": -29,
+        "fw": 31,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0040",
+        "w": 25,
+        "h": 1,
+        "x": 1,
+        "y": 100,
+        "fx": -3,
+        "fy": -31,
+        "fw": 31,
+        "fh": 33
+    },
+    {
+        "n": "battle/field_object/world_end/treasure_cave_quest/gate/.gen/weekly_dungeon_gate/f0041",
+        "w": 1,
+        "h": 1,
+        "x": 28,
+        "y": 100,
+        "fx": 0,
+        "fy": 0,
+        "fw": 31,
+        "fh": 33
+    }
+]

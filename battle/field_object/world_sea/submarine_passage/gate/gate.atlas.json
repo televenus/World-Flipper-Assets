@@ -1,0 +1,116 @@
+[
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0011",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0014",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 38
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0017",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 75
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0020",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 112
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0023",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 149
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0026",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 186
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0029",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 223
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0032",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 260
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0035",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 297
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0038",
+        "w": 46,
+        "h": 35,
+        "x": 1,
+        "y": 334
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0041",
+        "w": 46,
+        "h": 32,
+        "x": 1,
+        "y": 371,
+        "fx": 0,
+        "fy": -3,
+        "fw": 46,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0044",
+        "w": 46,
+        "h": 32,
+        "x": 1,
+        "y": 405,
+        "fx": 0,
+        "fy": -3,
+        "fw": 46,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0047",
+        "w": 45,
+        "h": 32,
+        "x": 1,
+        "y": 473,
+        "fx": 0,
+        "fy": -3,
+        "fw": 46,
+        "fh": 35
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/gate/.gen/submarine_passage_gate/f0049",
+        "w": 46,
+        "h": 32,
+        "x": 1,
+        "y": 439,
+        "fx": 0,
+        "fy": -3,
+        "fw": 46,
+        "fh": 35
+    }
+]

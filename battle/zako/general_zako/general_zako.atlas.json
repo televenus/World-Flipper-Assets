@@ -1,0 +1,86 @@
+[
+    {
+        "n": "battle/zako/general_zako/.gen/general_zako_shadow/a",
+        "w": 16,
+        "h": 5,
+        "x": 4,
+        "y": 1
+    },
+    {
+        "n": "battle/zako/general_zako/.gen/general_zako_stun/f0004",
+        "w": 28,
+        "h": 15,
+        "x": 1,
+        "y": 56,
+        "fx": 0,
+        "fy": 0,
+        "fw": 28,
+        "fh": 27
+    },
+    {
+        "n": "battle/zako/general_zako/.gen/general_zako_stun/f0008",
+        "w": 28,
+        "h": 15,
+        "x": 1,
+        "y": 73,
+        "fx": 0,
+        "fy": 0,
+        "fw": 28,
+        "fh": 27
+    },
+    {
+        "n": "battle/zako/general_zako/.gen/general_zako_stun/f0012",
+        "w": 27,
+        "h": 14,
+        "x": 1,
+        "y": 8,
+        "fx": 0,
+        "fy": 0,
+        "fw": 28,
+        "fh": 27
+    },
+    {
+        "n": "battle/zako/general_zako/.gen/general_zako_stun/f0016",
+        "w": 24,
+        "h": 14,
+        "x": 1,
+        "y": 24,
+        "fx": -2,
+        "fy": 0,
+        "fw": 28,
+        "fh": 27
+    },
+    {
+        "n": "battle/zako/general_zako/.gen/general_zako_stun/f0020",
+        "w": 27,
+        "h": 14,
+        "x": 1,
+        "y": 40,
+        "fx": 0,
+        "fy": 0,
+        "fw": 28,
+        "fh": 27
+    },
+    {
+        "n": "battle/zako/general_zako/.gen/general_zako_stun/f0025",
+        "w": 28,
+        "h": 15,
+        "x": 1,
+        "y": 90,
+        "fx": 0,
+        "fy": 0,
+        "fw": 28,
+        "fh": 27
+    },
+    {
+        "n": "battle/zako/general_zako/.gen/general_zako_stun/f0036",
+        "w": 1,
+        "h": 1,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 28,
+        "fh": 27
+    }
+]

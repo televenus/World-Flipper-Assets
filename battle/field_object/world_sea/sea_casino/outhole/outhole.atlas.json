@@ -1,0 +1,126 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone1/f0044",
+        "w": 48,
+        "h": 31,
+        "x": 1,
+        "y": 35,
+        "fx": -40,
+        "fy": -48,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0011",
+        "w": 42,
+        "h": 13,
+        "x": 1,
+        "y": 187,
+        "fx": -43,
+        "fy": -69,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0016",
+        "w": 13,
+        "h": 42,
+        "x": 1,
+        "y": 202,
+        "r": true,
+        "fx": -43,
+        "fy": -69,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0020",
+        "w": 13,
+        "h": 42,
+        "x": 16,
+        "y": 202,
+        "r": true,
+        "fx": -43,
+        "fy": -69,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0024",
+        "w": 13,
+        "h": 42,
+        "x": 31,
+        "y": 202,
+        "r": true,
+        "fx": -43,
+        "fy": -69,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0036",
+        "w": 48,
+        "h": 16,
+        "x": 1,
+        "y": 169,
+        "fx": -41,
+        "fy": -67,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0040",
+        "w": 48,
+        "h": 19,
+        "x": 1,
+        "y": 148,
+        "fx": -41,
+        "fy": -63,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0044",
+        "w": 48,
+        "h": 22,
+        "x": 1,
+        "y": 101,
+        "fx": -41,
+        "fy": -62,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0048",
+        "w": 48,
+        "h": 21,
+        "x": 1,
+        "y": 125,
+        "fx": -41,
+        "fy": -63,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0052",
+        "w": 48,
+        "h": 32,
+        "x": 1,
+        "y": 1,
+        "fx": -41,
+        "fy": -52,
+        "fw": 129,
+        "fh": 134
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_casino/outhole/.gen/sea_casino_outhole_zone2/f0067",
+        "w": 48,
+        "h": 31,
+        "x": 1,
+        "y": 68,
+        "fx": -41,
+        "fy": -53,
+        "fw": 129,
+        "fh": 134
+    }
+]

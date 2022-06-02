@@ -1,0 +1,188 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 78,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 79,
+            "end": 90,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 91,
+            "end": 187,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 188,
+            "end": 199,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 200,
+            "end": 296,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 297,
+            "end": 381,
+            "name": "dead",
+            "kind": "pass"
+        },
+        {
+            "begin": 382,
+            "end": 650,
+            "name": "fallen",
+            "kind": "once"
+        },
+        {
+            "begin": 651,
+            "end": 687,
+            "name": "move_out",
+            "kind": "once"
+        },
+        {
+            "begin": 688,
+            "end": 700,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 701,
+            "end": 743,
+            "name": "move_in",
+            "kind": "once"
+        },
+        {
+            "begin": 744,
+            "end": 756,
+            "name": "shot1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 757,
+            "end": 777,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 778,
+            "end": 824,
+            "name": "shot1_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 825,
+            "end": 841,
+            "name": "shot1_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 842,
+            "end": 857,
+            "name": "shot1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 858,
+            "end": 878,
+            "name": "shot2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 879,
+            "end": 899,
+            "name": "shot2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 900,
+            "end": 921,
+            "name": "shot2_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 922,
+            "end": 938,
+            "name": "shot2_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 939,
+            "end": 951,
+            "name": "shot2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 952,
+            "end": 963,
+            "name": "shot3_start",
+            "kind": "once"
+        },
+        {
+            "begin": 964,
+            "end": 988,
+            "name": "shot3_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 989,
+            "end": 1020,
+            "name": "shot3_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 1021,
+            "end": 1041,
+            "name": "shot3_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 1042,
+            "end": 1059,
+            "name": "shot3_end",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/weapon/se_bomb",
+            "begin": 712,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_flare_up",
+            "begin": 780,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_flame_collision",
+            "begin": 900,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_roar_beast",
+            "begin": 989,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_retension_fine/enemy_shot_retension_fine_black/.gen/enemy_shot_retension_fine_black/a",
+        "w": 13,
+        "h": 15,
+        "x": 37,
+        "y": 1,
+        "fx": -31,
+        "fy": -30,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_retension_fine/enemy_shot_retension_fine_black/.gen/enemy_shot_retension_fine_black/b",
+        "w": 15,
+        "h": 17,
+        "x": 20,
+        "y": 1,
+        "fx": -30,
+        "fy": -29,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_retension_fine/enemy_shot_retension_fine_black/.gen/enemy_shot_retension_fine_black/c",
+        "w": 17,
+        "h": 17,
+        "x": 1,
+        "y": 1,
+        "fx": -29,
+        "fy": -29,
+        "fw": 80,
+        "fh": 80
+    }
+]

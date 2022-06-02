@@ -1,0 +1,377 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/a"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/b"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/c"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/d"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/e"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/f"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/g"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/h"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/i"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/j"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/k"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/l"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/m"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/n"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/o"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/p"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/q"
+        },
+        {
+            "s": false,
+            "p": "battle/funnel/kadomatsu_new_year_funnel/.gen/kadomatsu_new_year_funnel/r"
+        }
+    ],
+    "g": [
+        {
+            "t": 115,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 115,
+                            "r": 1073741824
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 115,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 35,
+                            "r": 1073741874
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483613,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "r": 1073741824
+                        },
+                        {
+                            "m": 4351,
+                            "t": 50,
+                            "r": 1073741824
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483562,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "r": 1073741874
+                        },
+                        {
+                            "m": 4351,
+                            "t": 24,
+                            "r": 1073741874
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 130,
+            "s": [
+                {
+                    "s": 50,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 55,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 60,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 65,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 70,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 75,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 80,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 50
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 50,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 30,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                },
+                {
+                    "s": 40,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 93,
+            "s": [
+                {
+                    "s": 50,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 54,
+                    "i": 13,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 58,
+                    "i": 14,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 62,
+                    "i": 15,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 66,
+                    "i": 16,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 70,
+                    "i": 17,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -61440,
+            "y": -118784
+        }
+    ],
+    "c": [],
+    "s": 6
+}

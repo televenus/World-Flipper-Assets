@@ -1,0 +1,183 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_begin/a",
+        "w": 10,
+        "h": 10,
+        "x": 47,
+        "y": 20,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_begin/b",
+        "w": 44,
+        "h": 37,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 47,
+        "fh": 40
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_end/a",
+        "w": 10,
+        "h": 10,
+        "x": 47,
+        "y": 20,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_end/b",
+        "w": 44,
+        "h": 37,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 47,
+        "fh": 40
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0016",
+        "w": 1,
+        "h": 1,
+        "x": 47,
+        "y": 32,
+        "fx": 0,
+        "fy": 0,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0018",
+        "w": 10,
+        "h": 17,
+        "x": 47,
+        "y": 1,
+        "fx": -3,
+        "fy": -2,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0022",
+        "w": 14,
+        "h": 17,
+        "x": 26,
+        "y": 40,
+        "fx": -1,
+        "fy": -2,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0032",
+        "w": 17,
+        "h": 17,
+        "x": 42,
+        "y": 40,
+        "fx": 0,
+        "fy": -2,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0049",
+        "w": 19,
+        "h": 17,
+        "x": 1,
+        "y": 65,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0052",
+        "w": 18,
+        "h": 17,
+        "x": 22,
+        "y": 65,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0055",
+        "w": 17,
+        "h": 17,
+        "x": 42,
+        "y": 59,
+        "fx": 0,
+        "fy": -2,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0056",
+        "w": 17,
+        "h": 17,
+        "x": 42,
+        "y": 40,
+        "fx": 0,
+        "fy": -2,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0059",
+        "w": 14,
+        "h": 17,
+        "x": 26,
+        "y": 40,
+        "fx": -1,
+        "fy": -2,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0061",
+        "w": 10,
+        "h": 17,
+        "x": 47,
+        "y": 1,
+        "fx": -3,
+        "fy": -2,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_entrance/f0068",
+        "w": 1,
+        "h": 1,
+        "x": 47,
+        "y": 32,
+        "fx": 0,
+        "fy": 0,
+        "fw": 17,
+        "fh": 19
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_exit/f0005",
+        "w": 23,
+        "h": 23,
+        "x": 1,
+        "y": 40
+    },
+    {
+        "n": "battle/field_object/common/yakumono/warp_hole/.gen/warp_hole_exit/f0010",
+        "w": 1,
+        "h": 1,
+        "x": 47,
+        "y": 32,
+        "fx": 0,
+        "fy": 0,
+        "fw": 23,
+        "fh": 23
+    }
+]

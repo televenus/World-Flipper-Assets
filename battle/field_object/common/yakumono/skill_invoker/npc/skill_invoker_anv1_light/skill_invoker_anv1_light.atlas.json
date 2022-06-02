@@ -1,0 +1,176 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/a",
+        "w": 10,
+        "h": 17,
+        "x": 21,
+        "y": 1,
+        "fx": -123,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/b",
+        "w": 9,
+        "h": 3,
+        "x": 15,
+        "y": 95
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/c",
+        "w": 4,
+        "h": 9,
+        "x": 21,
+        "y": 28,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/d",
+        "w": 10,
+        "h": 6,
+        "x": 21,
+        "y": 20,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/e",
+        "w": 10,
+        "h": 17,
+        "x": 21,
+        "y": 1,
+        "fx": -123,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/f",
+        "w": 5,
+        "h": 2,
+        "x": 26,
+        "y": 95,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/g",
+        "w": 16,
+        "h": 12,
+        "x": 15,
+        "y": 81,
+        "r": true,
+        "fx": -122,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/h",
+        "w": 10,
+        "h": 17,
+        "x": 21,
+        "y": 1,
+        "fx": -123,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/i",
+        "w": 12,
+        "h": 17,
+        "x": 1,
+        "y": 81,
+        "fx": -122,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/j",
+        "w": 16,
+        "h": 18,
+        "x": 1,
+        "y": 61,
+        "fx": -120,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/k",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 1,
+        "fx": -119,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/l",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 21,
+        "fx": -119,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/m",
+        "w": 18,
+        "h": 18,
+        "x": 1,
+        "y": 41,
+        "fx": -119,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/n",
+        "w": 12,
+        "h": 18,
+        "x": 19,
+        "y": 61,
+        "fx": -122,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/o",
+        "w": 12,
+        "h": 17,
+        "x": 1,
+        "y": 81,
+        "fx": -122,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv1_light/.gen/skill_invoker_anv1_light/p",
+        "w": 10,
+        "h": 17,
+        "x": 21,
+        "y": 1,
+        "fx": -123,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    }
+]

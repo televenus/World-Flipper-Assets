@@ -1,0 +1,72 @@
+[
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0011",
+        "w": 35,
+        "h": 70,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0016",
+        "w": 35,
+        "h": 70,
+        "x": 38,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0021",
+        "w": 70,
+        "h": 35,
+        "x": 1,
+        "y": 73,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0026",
+        "w": 35,
+        "h": 70,
+        "x": 75,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0031",
+        "w": 35,
+        "h": 70,
+        "x": 112,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0036",
+        "w": 70,
+        "h": 35,
+        "x": 73,
+        "y": 73,
+        "r": true
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0041",
+        "w": 35,
+        "h": 70,
+        "x": 149,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0047",
+        "w": 35,
+        "h": 70,
+        "x": 186,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/gate/.gen/cyber_punk_office_gate/f0053",
+        "w": 39,
+        "h": 35,
+        "x": 145,
+        "y": 73,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 35,
+        "fh": 70
+    }
+]

@@ -1,0 +1,154 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 165,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 166,
+            "end": 330,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 331,
+            "end": 390,
+            "name": "funnel_gatling_start",
+            "kind": "once"
+        },
+        {
+            "begin": 391,
+            "end": 495,
+            "name": "funnel_gatling_set",
+            "kind": "loop"
+        },
+        {
+            "begin": 496,
+            "end": 554,
+            "name": "funnel_laser_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 555,
+            "end": 659,
+            "name": "funnel_laser_set",
+            "kind": "once"
+        },
+        {
+            "begin": 660,
+            "end": 740,
+            "name": "funnel_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 741,
+            "end": 810,
+            "name": "funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 811,
+            "end": 826,
+            "name": "funnel_attack",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 827,
+            "end": 875,
+            "name": "skill_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 876,
+            "end": 939,
+            "name": "skill_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 940,
+            "end": 964,
+            "name": "skill_attack",
+            "kind": "pass"
+        },
+        {
+            "begin": 965,
+            "end": 971,
+            "name": "skill_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 972,
+            "end": 995,
+            "name": "skill_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 996,
+            "end": 1048,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1049,
+            "end": 1114,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 1115,
+            "end": 1167,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1168,
+            "end": 1220,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 1221,
+            "end": 1398,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/sf/se_admin_gauge_charge",
+            "begin": 660,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_gauge_finish",
+            "begin": 811,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_skill_charge",
+            "begin": 876,
+            "loop": -1,
+            "end": 940,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_skill_shot",
+            "begin": 940,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

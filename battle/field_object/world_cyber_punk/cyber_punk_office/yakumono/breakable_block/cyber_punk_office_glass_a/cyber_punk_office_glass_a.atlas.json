@@ -1,0 +1,105 @@
+[
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/a",
+        "w": 19,
+        "h": 20,
+        "x": 134,
+        "y": 88,
+        "fx": -31,
+        "fy": -19,
+        "fw": 80,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/b",
+        "w": 20,
+        "h": 21,
+        "x": 143,
+        "y": 1,
+        "fx": -31,
+        "fy": -18,
+        "fw": 80,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/c",
+        "w": 21,
+        "h": 22,
+        "x": 120,
+        "y": 1,
+        "r": true,
+        "fx": -30,
+        "fy": -18,
+        "fw": 80,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/d",
+        "w": 47,
+        "h": 31,
+        "x": 44,
+        "y": 40,
+        "fx": -17,
+        "fy": -8,
+        "fw": 80,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/e",
+        "w": 39,
+        "h": 61,
+        "x": 134,
+        "y": 25,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 80,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/f",
+        "w": 39,
+        "h": 68,
+        "x": 93,
+        "y": 40,
+        "r": true,
+        "fx": -5,
+        "fy": -2,
+        "fw": 80,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/g",
+        "w": 41,
+        "h": 71,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": -3,
+        "fw": 80,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/h",
+        "w": 74,
+        "h": 37,
+        "x": 44,
+        "y": 1,
+        "fx": -1,
+        "fy": -7,
+        "fw": 80,
+        "fh": 56
+    },
+    {
+        "n": "battle/field_object/world_cyber_punk/cyber_punk_office/yakumono/breakable_block/cyber_punk_office_glass_a/.gen/cyber_punk_office_glass_a/i",
+        "w": 77,
+        "h": 30,
+        "x": 1,
+        "y": 74,
+        "fx": 0,
+        "fy": -14,
+        "fw": 80,
+        "fh": 56
+    }
+]

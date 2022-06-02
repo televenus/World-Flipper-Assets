@@ -1,0 +1,116 @@
+[
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone1/f0044",
+        "w": 38,
+        "h": 18,
+        "x": 76,
+        "y": 79,
+        "fx": -7,
+        "fy": -7,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0004",
+        "w": 28,
+        "h": 45,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0008",
+        "w": 28,
+        "h": 45,
+        "x": 1,
+        "y": 48,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0012",
+        "w": 45,
+        "h": 28,
+        "x": 31,
+        "y": 1,
+        "fx": -3,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0016",
+        "w": 45,
+        "h": 27,
+        "x": 78,
+        "y": 1,
+        "fx": -3,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0020",
+        "w": 45,
+        "h": 27,
+        "x": 78,
+        "y": 30,
+        "fx": -3,
+        "fy": -2,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0028",
+        "w": 44,
+        "h": 22,
+        "x": 31,
+        "y": 31,
+        "fx": -3,
+        "fy": -5,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0032",
+        "w": 21,
+        "h": 43,
+        "x": 31,
+        "y": 55,
+        "r": true,
+        "fx": -3,
+        "fy": -4,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0036",
+        "w": 20,
+        "h": 41,
+        "x": 54,
+        "y": 55,
+        "r": true,
+        "fx": -5,
+        "fy": -5,
+        "fw": 52,
+        "fh": 32
+    },
+    {
+        "n": "battle/field_object/world_light/elf_tomb/outhole/.gen/elf_tomb_outhole_zone2/f0040",
+        "w": 41,
+        "h": 18,
+        "x": 76,
+        "y": 59,
+        "fx": -5,
+        "fy": -7,
+        "fw": 52,
+        "fh": 32
+    }
+]

@@ -1,0 +1,296 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 4,
+            "name": "start",
+            "kind": "loop"
+        },
+        {
+            "begin": 5,
+            "end": 41,
+            "name": "start_2",
+            "kind": "pass"
+        },
+        {
+            "begin": 42,
+            "end": 122,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 123,
+            "end": 158,
+            "name": "shot_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 159,
+            "end": 194,
+            "name": "shot_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 195,
+            "end": 230,
+            "name": "shot_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 231,
+            "end": 266,
+            "name": "shot_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 267,
+            "end": 302,
+            "name": "shot_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 303,
+            "end": 308,
+            "name": "shot_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 309,
+            "end": 349,
+            "name": "shot_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 350,
+            "end": 390,
+            "name": "shot_attack2",
+            "kind": "once"
+        },
+        {
+            "begin": 391,
+            "end": 431,
+            "name": "shot_attack_loop2",
+            "kind": "loop"
+        },
+        {
+            "begin": 432,
+            "end": 437,
+            "name": "shot_end2",
+            "kind": "once"
+        },
+        {
+            "begin": 438,
+            "end": 458,
+            "name": "funnel_start",
+            "kind": "once"
+        },
+        {
+            "begin": 459,
+            "end": 479,
+            "name": "funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 480,
+            "end": 514,
+            "name": "funnel_attack",
+            "kind": "loop"
+        },
+        {
+            "begin": 515,
+            "end": 531,
+            "name": "funnel_end",
+            "kind": "once"
+        },
+        {
+            "begin": 532,
+            "end": 567,
+            "name": "ex_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 568,
+            "end": 603,
+            "name": "ex_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 604,
+            "end": 639,
+            "name": "ex_attack1",
+            "kind": "loop"
+        },
+        {
+            "begin": 640,
+            "end": 675,
+            "name": "ex_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 676,
+            "end": 711,
+            "name": "skill_start1",
+            "kind": "once"
+        },
+        {
+            "begin": 712,
+            "end": 747,
+            "name": "skill_charge1",
+            "kind": "loop"
+        },
+        {
+            "begin": 748,
+            "end": 783,
+            "name": "skill_attack1",
+            "kind": "once"
+        },
+        {
+            "begin": 784,
+            "end": 819,
+            "name": "skill_attack_loop1",
+            "kind": "loop"
+        },
+        {
+            "begin": 820,
+            "end": 855,
+            "name": "skill_end1",
+            "kind": "once"
+        },
+        {
+            "begin": 856,
+            "end": 861,
+            "name": "skill_start2",
+            "kind": "once"
+        },
+        {
+            "begin": 862,
+            "end": 902,
+            "name": "skill_charge2",
+            "kind": "loop"
+        },
+        {
+            "begin": 903,
+            "end": 943,
+            "name": "skill_attack2",
+            "kind": "once"
+        },
+        {
+            "begin": 944,
+            "end": 984,
+            "name": "skill_attack_loop2",
+            "kind": "loop"
+        },
+        {
+            "begin": 985,
+            "end": 990,
+            "name": "skill_end2",
+            "kind": "once"
+        },
+        {
+            "begin": 991,
+            "end": 1071,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1072,
+            "end": 1152,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 1153,
+            "end": 1233,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1234,
+            "end": 1314,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 1315,
+            "end": 1417,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 159,
+            "loop": -1,
+            "end": 195,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_attack1",
+            "begin": 195,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 309,
+            "loop": -1,
+            "end": 350,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_flare_rapid_fire",
+            "begin": 350,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 568,
+            "loop": -1,
+            "end": 604,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_laser_bit_shot",
+            "begin": 604,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_laser_bit_charge",
+            "begin": 712,
+            "loop": -1,
+            "end": 748,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_attack1",
+            "begin": 748,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_cannon_bit_charge",
+            "begin": 862,
+            "loop": -1,
+            "end": 903,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_admin_skill_shot",
+            "begin": 903,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

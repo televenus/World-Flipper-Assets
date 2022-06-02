@@ -1,0 +1,112 @@
+[
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone1/f0044",
+        "w": 74,
+        "h": 18,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -1,
+        "fw": 82,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0011",
+        "w": 71,
+        "h": 19,
+        "x": 1,
+        "y": 65,
+        "fx": -5,
+        "fy": -1,
+        "fw": 82,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0014",
+        "w": 71,
+        "h": 19,
+        "x": 1,
+        "y": 86,
+        "fx": -5,
+        "fy": -1,
+        "fw": 82,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0017",
+        "w": 71,
+        "h": 19,
+        "x": 1,
+        "y": 107,
+        "fx": -5,
+        "fy": 0,
+        "fw": 82,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0020",
+        "w": 71,
+        "h": 19,
+        "x": 1,
+        "y": 128,
+        "fx": -5,
+        "fy": 0,
+        "fw": 82,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0023",
+        "w": 71,
+        "h": 19,
+        "x": 1,
+        "y": 149,
+        "fx": -5,
+        "fy": 0,
+        "fw": 82,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0026",
+        "w": 71,
+        "h": 20,
+        "x": 1,
+        "y": 21,
+        "fx": -5,
+        "fy": 0,
+        "fw": 82,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0029",
+        "w": 71,
+        "h": 20,
+        "x": 1,
+        "y": 43,
+        "fx": -5,
+        "fy": 0,
+        "fw": 82,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0032",
+        "w": 71,
+        "h": 18,
+        "x": 1,
+        "y": 170,
+        "fx": -5,
+        "fy": -1,
+        "fw": 82,
+        "fh": 49
+    },
+    {
+        "n": "battle/field_object/world_sea/sea_beach/outhole/.gen/sea_beach_outhole_zone2/f0039",
+        "w": 71,
+        "h": 18,
+        "x": 1,
+        "y": 190,
+        "fx": -5,
+        "fy": -1,
+        "fw": 82,
+        "fh": 49
+    }
+]

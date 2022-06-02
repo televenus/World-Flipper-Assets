@@ -1,0 +1,40 @@
+[
+    {
+        "n": "battle/field_object/world_haniwa/haniwa_carnival_wind/fever_gauge/.gen/haniwa_carnival_fire_fever_gauge/a",
+        "w": 9,
+        "h": 42,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -5,
+        "fy": -6,
+        "fw": 51,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_haniwa/haniwa_carnival_wind/fever_gauge/.gen/haniwa_carnival_fire_fever_gauge/b",
+        "w": 92,
+        "h": 29,
+        "x": 12,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_haniwa/haniwa_carnival_wind/fever_gauge/.gen/haniwa_carnival_wind_fever_gauge/a",
+        "w": 9,
+        "h": 42,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -5,
+        "fy": -6,
+        "fw": 51,
+        "fh": 20
+    },
+    {
+        "n": "battle/field_object/world_haniwa/haniwa_carnival_wind/fever_gauge/.gen/haniwa_carnival_wind_fever_gauge/b",
+        "w": 92,
+        "h": 29,
+        "x": 12,
+        "y": 32
+    }
+]

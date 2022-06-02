@@ -1,0 +1,48 @@
+[
+    {
+        "n": "battle/effect/hit/condition/buff_specific_defence/.gen/up_defense/a",
+        "w": 15,
+        "h": 15,
+        "x": 83,
+        "y": 42
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_specific_defence/.gen/up_defense/b",
+        "w": 80,
+        "h": 40,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_specific_defence/.gen/up_defense/c",
+        "w": 39,
+        "h": 39,
+        "x": 83,
+        "y": 1,
+        "fx": -3,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_specific_defence/.gen/up_defense/d",
+        "w": 42,
+        "h": 42,
+        "x": 1,
+        "y": 85
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_specific_defence/.gen/up_defense/e",
+        "w": 42,
+        "h": 42,
+        "x": 45,
+        "y": 85
+    },
+    {
+        "n": "battle/effect/hit/condition/buff_specific_defence/.gen/up_defense/f",
+        "w": 80,
+        "h": 40,
+        "x": 1,
+        "y": 43
+    }
+]

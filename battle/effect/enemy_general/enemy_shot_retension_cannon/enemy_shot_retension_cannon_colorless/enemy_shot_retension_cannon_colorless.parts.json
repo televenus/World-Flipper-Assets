@@ -1,0 +1,153 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_retension_cannon/enemy_shot_retension_cannon_colorless/.gen/enemy_shot_retension_cannon_colorless/a"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_retension_cannon/enemy_shot_retension_cannon_colorless/.gen/enemy_shot_retension_cannon_colorless/b"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/enemy_general/enemy_shot_retension_cannon/enemy_shot_retension_cannon_colorless/.gen/enemy_shot_retension_cannon_colorless/c"
+        }
+    ],
+    "g": [
+        {
+            "t": 18,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 18,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 18,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 9,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 4223,
+                            "t": 9,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 9,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 0
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 1
+                        },
+                        {
+                            "m": 255,
+                            "t": 2,
+                            "r": 2
+                        },
+                        {
+                            "m": 255,
+                            "t": 3,
+                            "r": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 3,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 8447
+                        }
+                    ]
+                },
+                {
+                    "s": 1,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 8447
+                        }
+                    ]
+                },
+                {
+                    "s": 2,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 8447
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -4096
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -155648,
+            "y": -155648
+        }
+    ],
+    "c": [],
+    "s": 6
+}

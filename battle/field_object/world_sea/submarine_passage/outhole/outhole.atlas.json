@@ -1,0 +1,106 @@
+[
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone1/f0044",
+        "w": 39,
+        "h": 31,
+        "x": 77,
+        "y": 11,
+        "fx": -12,
+        "fy": -2,
+        "fw": 64,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0011",
+        "w": 63,
+        "h": 23,
+        "x": 1,
+        "y": 85,
+        "fx": 0,
+        "fy": 0,
+        "fw": 74,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0014",
+        "w": 63,
+        "h": 23,
+        "x": 1,
+        "y": 110,
+        "fx": 0,
+        "fy": 0,
+        "fw": 74,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0017",
+        "w": 68,
+        "h": 24,
+        "x": 1,
+        "y": 59,
+        "fx": 0,
+        "fy": 0,
+        "fw": 74,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0020",
+        "w": 74,
+        "h": 27,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0023",
+        "w": 74,
+        "h": 27,
+        "x": 1,
+        "y": 30
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0026",
+        "w": 42,
+        "h": 8,
+        "x": 77,
+        "y": 1,
+        "fx": -15,
+        "fy": -7,
+        "fw": 74,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0029",
+        "w": 19,
+        "h": 59,
+        "x": 105,
+        "y": 44,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 74,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0032",
+        "w": 26,
+        "h": 59,
+        "x": 77,
+        "y": 44,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 74,
+        "fh": 27
+    },
+    {
+        "n": "battle/field_object/world_sea/submarine_passage/outhole/.gen/submarine_passage_outhole_zone2/f0041",
+        "w": 59,
+        "h": 25,
+        "x": 66,
+        "y": 105,
+        "fx": -7,
+        "fy": 0,
+        "fw": 74,
+        "fh": 27
+    }
+]

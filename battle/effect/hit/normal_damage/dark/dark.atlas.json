@@ -1,0 +1,42 @@
+[
+    {
+        "n": "battle/effect/hit/normal_damage/dark/.gen/dark/a",
+        "w": 30,
+        "h": 14,
+        "x": 73,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 15
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/dark/.gen/dark/b",
+        "w": 30,
+        "h": 14,
+        "x": 73,
+        "y": 17,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 15
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/dark/.gen/dark/c",
+        "w": 38,
+        "h": 25,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 39,
+        "fh": 26
+    },
+    {
+        "n": "battle/effect/hit/normal_damage/dark/.gen/dark/d",
+        "w": 30,
+        "h": 30,
+        "x": 41,
+        "y": 1
+    }
+]

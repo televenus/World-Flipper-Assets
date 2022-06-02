@@ -1,0 +1,150 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 61,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 62,
+            "end": 126,
+            "name": "walk",
+            "kind": "loop"
+        },
+        {
+            "begin": 127,
+            "end": 151,
+            "name": "quake_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 152,
+            "end": 160,
+            "name": "quake_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 161,
+            "end": 234,
+            "name": "quake",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 235,
+            "end": 251,
+            "name": "bomb_fall_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 252,
+            "end": 292,
+            "name": "bomb_fall",
+            "kind": "loop"
+        },
+        {
+            "begin": 293,
+            "end": 322,
+            "name": "bomb_fall_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 323,
+            "end": 349,
+            "name": "punch_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 350,
+            "end": 358,
+            "name": "punch_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 359,
+            "end": 368,
+            "name": "punch_move",
+            "kind": "once"
+        },
+        {
+            "begin": 369,
+            "end": 419,
+            "name": "punch",
+            "kind": "goto",
+            "target": "walk"
+        },
+        {
+            "begin": 420,
+            "end": 433,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 434,
+            "end": 482,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 483,
+            "end": 496,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 497,
+            "end": 545,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 546,
+            "end": 717,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 152,
+            "loop": -1,
+            "end": 161,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 165,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 267,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_dash",
+            "begin": 359,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_arm_swing",
+            "begin": 369,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

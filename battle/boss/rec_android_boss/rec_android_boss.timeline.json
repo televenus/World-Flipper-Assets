@@ -1,0 +1,311 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 131,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 132,
+            "end": 262,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 263,
+            "end": 298,
+            "name": "move_out",
+            "kind": "once"
+        },
+        {
+            "begin": 299,
+            "end": 319,
+            "name": "moving",
+            "kind": "once"
+        },
+        {
+            "begin": 320,
+            "end": 355,
+            "name": "move_in",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 356,
+            "end": 411,
+            "name": "shot_move_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 412,
+            "end": 442,
+            "name": "shot_move_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 443,
+            "end": 449,
+            "name": "shot_move_attack",
+            "kind": "pass"
+        },
+        {
+            "begin": 450,
+            "end": 456,
+            "name": "shot_move_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 457,
+            "end": 468,
+            "name": "shot_move_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 469,
+            "end": 516,
+            "name": "shot_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 517,
+            "end": 542,
+            "name": "shot_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 543,
+            "end": 567,
+            "name": "shot_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 568,
+            "end": 582,
+            "name": "shot_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 583,
+            "end": 612,
+            "name": "gravity_shot_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 613,
+            "end": 616,
+            "name": "gravity_shot_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 617,
+            "end": 652,
+            "name": "gravity_shot_attack",
+            "kind": "pass"
+        },
+        {
+            "begin": 653,
+            "end": 671,
+            "name": "gravity_shot_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 672,
+            "end": 712,
+            "name": "funnel_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 713,
+            "end": 743,
+            "name": "funnel_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 744,
+            "end": 773,
+            "name": "funnel_attack",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 774,
+            "end": 930,
+            "name": "skill_start",
+            "kind": "pass"
+        },
+        {
+            "begin": 931,
+            "end": 943,
+            "name": "skill_move_out",
+            "kind": "once"
+        },
+        {
+            "begin": 944,
+            "end": 963,
+            "name": "skill_moving",
+            "kind": "once"
+        },
+        {
+            "begin": 964,
+            "end": 976,
+            "name": "skill_move_in",
+            "kind": "pass"
+        },
+        {
+            "begin": 977,
+            "end": 1001,
+            "name": "skill_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 1002,
+            "end": 1017,
+            "name": "skill_attack_start",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 1018,
+            "end": 1050,
+            "name": "skill_attack_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 1051,
+            "end": 1131,
+            "name": "skill_end",
+            "kind": "goto",
+            "target": "neutral"
+        },
+        {
+            "begin": 1132,
+            "end": 1188,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1189,
+            "end": 1237,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 1238,
+            "end": 1294,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 1295,
+            "end": 1351,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 1352,
+            "end": 1433,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 1434,
+            "end": 1465,
+            "name": "walk",
+            "kind": "loop"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/sf/se_electron_buster_start",
+            "begin": 774,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "character/rec_android/voice/battle/skill_0",
+            "begin": 1003,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_sf_warp",
+            "begin": 263,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_sf_warp",
+            "begin": 320,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_machinegun_large_shot",
+            "begin": 443,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_machinegun_small_loop",
+            "begin": 543,
+            "loop": -1,
+            "end": 568,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_cannon",
+            "begin": 629,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_grenade",
+            "begin": 744,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "character/rec_android/voice/battle/power_flip_0",
+            "begin": 774,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "character/rec_android/voice/battle/skill_1",
+            "begin": 823,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_charge1",
+            "begin": 977,
+            "loop": -1,
+            "end": 1002,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_laser_attack1",
+            "begin": 1002,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

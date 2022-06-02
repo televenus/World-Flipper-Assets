@@ -1,0 +1,395 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 51,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 52,
+            "end": 63,
+            "name": "move_start",
+            "kind": "once"
+        },
+        {
+            "begin": 64,
+            "end": 87,
+            "name": "move",
+            "kind": "loop"
+        },
+        {
+            "begin": 88,
+            "end": 101,
+            "name": "move_end",
+            "kind": "once"
+        },
+        {
+            "begin": 102,
+            "end": 119,
+            "name": "move_back",
+            "kind": "loop"
+        },
+        {
+            "begin": 120,
+            "end": 158,
+            "name": "special_start",
+            "kind": "once"
+        },
+        {
+            "begin": 159,
+            "end": 214,
+            "name": "special_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 215,
+            "end": 245,
+            "name": "special_end",
+            "kind": "once"
+        },
+        {
+            "begin": 246,
+            "end": 250,
+            "name": "shot1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 251,
+            "end": 268,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 269,
+            "end": 304,
+            "name": "shot1_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 305,
+            "end": 315,
+            "name": "shot1_fire_attack",
+            "kind": "once"
+        },
+        {
+            "begin": 316,
+            "end": 319,
+            "name": "shot1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 320,
+            "end": 324,
+            "name": "shot2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 325,
+            "end": 343,
+            "name": "shot2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 344,
+            "end": 363,
+            "name": "shot2_fire1",
+            "kind": "once"
+        },
+        {
+            "begin": 364,
+            "end": 386,
+            "name": "shot2_fire2",
+            "kind": "once"
+        },
+        {
+            "begin": 387,
+            "end": 393,
+            "name": "shot2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 394,
+            "end": 426,
+            "name": "shot3_start",
+            "kind": "once"
+        },
+        {
+            "begin": 427,
+            "end": 459,
+            "name": "shot3_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 460,
+            "end": 492,
+            "name": "shot3_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 493,
+            "end": 498,
+            "name": "shot3_end",
+            "kind": "once"
+        },
+        {
+            "begin": 499,
+            "end": 502,
+            "name": "skill1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 503,
+            "end": 527,
+            "name": "skill1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 528,
+            "end": 548,
+            "name": "skill1_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 549,
+            "end": 569,
+            "name": "skill1_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 570,
+            "end": 586,
+            "name": "skill2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 587,
+            "end": 611,
+            "name": "skill2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 612,
+            "end": 623,
+            "name": "skill2_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 624,
+            "end": 680,
+            "name": "skill2_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 681,
+            "end": 691,
+            "name": "skill2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 692,
+            "end": 699,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 700,
+            "end": 708,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 709,
+            "end": 821,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 822,
+            "end": 934,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 935,
+            "end": 978,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 979,
+            "end": 1010,
+            "name": "turn_back",
+            "kind": "once"
+        },
+        {
+            "begin": 1011,
+            "end": 1050,
+            "name": "turn_front",
+            "kind": "once"
+        },
+        {
+            "begin": 1051,
+            "end": 1087,
+            "name": "hit",
+            "kind": "once"
+        },
+        {
+            "begin": 1088,
+            "end": 1109,
+            "name": "notice",
+            "kind": "once"
+        },
+        {
+            "begin": 1110,
+            "end": 1118,
+            "name": "shock",
+            "kind": "loop"
+        },
+        {
+            "begin": 1119,
+            "end": 1231,
+            "name": "stun2",
+            "kind": "loop"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/monster/se_warp_out",
+            "begin": 55,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_warp_in",
+            "begin": 78,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_heavy_bomb",
+            "begin": 85,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/battle_common/se_short_dash03",
+            "begin": 270,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/battle_common/se_short_dash03",
+            "begin": 292,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_boar_rider_bomb_single",
+            "begin": 305,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_flare",
+            "begin": 345,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_flare",
+            "begin": 364,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_emote_notice_v03",
+            "begin": 400,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_hit_grass",
+            "begin": 428,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_hit_grass",
+            "begin": 442,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_hit_grass",
+            "begin": 461,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_hit_grass",
+            "begin": 473,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_charge_big",
+            "begin": 504,
+            "loop": -1,
+            "end": 528,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_dash",
+            "begin": 528,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_circle_charge",
+            "begin": 587,
+            "loop": -1,
+            "end": 612,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_big_wave_shot",
+            "begin": 612,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 1052,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_emote_notice_v03",
+            "begin": 1094,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

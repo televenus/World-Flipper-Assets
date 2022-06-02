@@ -1,0 +1,87 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/field/world_light/snow_plain_eroded/background/.gen/background/a"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_light/snow_plain_eroded/background/.gen/background/b"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_light/snow_plain_eroded/background/.gen/background/c"
+        },
+        {
+            "s": false,
+            "p": "battle/field/world_light/snow_plain_eroded/background/.gen/background/d"
+        }
+    ],
+    "g": [
+        {
+            "t": 18,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 18
+                        }
+                    ]
+                },
+                {
+                    "s": 0,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 6
+                        }
+                    ]
+                },
+                {
+                    "s": 6,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 6
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 6
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "c": [],
+    "s": 6
+}

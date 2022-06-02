@@ -1,0 +1,71 @@
+[
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_red/.gen/enemy_shot_cannon_red/a",
+        "w": 20,
+        "h": 18,
+        "x": 1,
+        "y": 22,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 26,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_red/.gen/enemy_shot_cannon_red/b",
+        "w": 20,
+        "h": 18,
+        "x": 22,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 26,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_red/.gen/enemy_shot_cannon_red/c",
+        "w": 18,
+        "h": 20,
+        "x": 23,
+        "y": 21,
+        "fx": -2,
+        "fy": -2,
+        "fw": 26,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_red/.gen/enemy_shot_cannon_red/d",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 1,
+        "fx": -3,
+        "fy": -3,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_red/.gen/enemy_shot_cannon_red/e",
+        "w": 19,
+        "h": 19,
+        "x": 1,
+        "y": 42,
+        "fx": -3,
+        "fy": -3,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/enemy_general/enemy_shot_cannon/enemy_shot_cannon_red/.gen/enemy_shot_cannon_red/f",
+        "w": 19,
+        "h": 18,
+        "x": 22,
+        "y": 43,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 27,
+        "fh": 27
+    }
+]
