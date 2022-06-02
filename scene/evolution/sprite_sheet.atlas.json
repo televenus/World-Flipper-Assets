@@ -1,0 +1,760 @@
+[
+    {
+        "n": "scene/evolution/.gen/evolution_01_add/a",
+        "w": 20,
+        "h": 20,
+        "x": 885,
+        "y": 992,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_01_add/b",
+        "w": 77,
+        "h": 206,
+        "x": 732,
+        "y": 151,
+        "fx": -3,
+        "fy": -21,
+        "fw": 82,
+        "fh": 227
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_01_add/c",
+        "w": 49,
+        "h": 57,
+        "x": 1007,
+        "y": 756,
+        "fx": -1,
+        "fy": -2,
+        "fw": 52,
+        "fh": 60
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_01_add/d",
+        "w": 50,
+        "h": 50,
+        "x": 1005,
+        "y": 815,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_01_add/e",
+        "w": 206,
+        "h": 77,
+        "x": 881,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": -21,
+        "fw": 82,
+        "fh": 227
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_01_add/f",
+        "w": 50,
+        "h": 50,
+        "x": 1063,
+        "y": 571,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_02_normal/a",
+        "w": 20,
+        "h": 50,
+        "x": 1046,
+        "y": 919,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 22
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_02_normal/b",
+        "w": 42,
+        "h": 240,
+        "x": 811,
+        "y": 151,
+        "fx": 0,
+        "fy": -2,
+        "fw": 44,
+        "fh": 242
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_02_normal/c",
+        "w": 42,
+        "h": 240,
+        "x": 855,
+        "y": 159,
+        "fx": 0,
+        "fy": -2,
+        "fw": 44,
+        "fh": 242
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_02_normal/d",
+        "w": 42,
+        "h": 240,
+        "x": 899,
+        "y": 159,
+        "fx": 0,
+        "fy": -2,
+        "fw": 44,
+        "fh": 242
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_03_character_with_sound/a",
+        "w": 1,
+        "h": 1,
+        "x": 885,
+        "y": 887,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2000,
+        "fh": 2000
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_03_character_with_sound/b",
+        "w": 1,
+        "h": 1,
+        "x": 885,
+        "y": 887,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2000,
+        "fh": 2000
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_04_normal/a",
+        "w": 114,
+        "h": 30,
+        "x": 406,
+        "y": 984,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 30,
+        "fh": 119
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_04_normal/b",
+        "w": 114,
+        "h": 30,
+        "x": 522,
+        "y": 984,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 30,
+        "fh": 119
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_04_normal/c",
+        "w": 115,
+        "h": 30,
+        "x": 289,
+        "y": 984,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 30,
+        "fh": 120
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_05_add/a",
+        "w": 16,
+        "h": 105,
+        "x": 1089,
+        "y": 1,
+        "fx": -1,
+        "fy": -3,
+        "fw": 18,
+        "fh": 152
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_05_add/b",
+        "w": 104,
+        "h": 101,
+        "x": 943,
+        "y": 275,
+        "fx": -24,
+        "fy": -23,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_05_add/c",
+        "w": 286,
+        "h": 38,
+        "x": 1,
+        "y": 984,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 44,
+        "fh": 286
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_05_add/d",
+        "w": 29,
+        "h": 9,
+        "x": 972,
+        "y": 971,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 12
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_05_add/e",
+        "w": 5,
+        "h": 29,
+        "x": 1110,
+        "y": 697,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 8
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_05_add/f",
+        "w": 50,
+        "h": 38,
+        "x": 638,
+        "y": 984,
+        "r": true
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/a",
+        "w": 50,
+        "h": 20,
+        "x": 1064,
+        "y": 675
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/b",
+        "w": 60,
+        "h": 59,
+        "x": 950,
+        "y": 635,
+        "fx": -1,
+        "fy": -2,
+        "fw": 62,
+        "fh": 62
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/c",
+        "w": 50,
+        "h": 60,
+        "x": 1012,
+        "y": 635,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 62
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/d",
+        "w": 24,
+        "h": 24,
+        "x": 1089,
+        "y": 108
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/e",
+        "w": 20,
+        "h": 75,
+        "x": 972,
+        "y": 893,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 77,
+        "fh": 22
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/f",
+        "w": 25,
+        "h": 77,
+        "x": 978,
+        "y": 814,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 79,
+        "fh": 27
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/g",
+        "w": 50,
+        "h": 30,
+        "x": 781,
+        "y": 992,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/h",
+        "w": 50,
+        "h": 50,
+        "x": 1064,
+        "y": 623,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/i",
+        "w": 50,
+        "h": 50,
+        "x": 1005,
+        "y": 867,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/j",
+        "w": 25,
+        "h": 50,
+        "x": 797,
+        "y": 393,
+        "fx": -1,
+        "fy": -1,
+        "fw": 27,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/k",
+        "w": 100,
+        "h": 100,
+        "x": 805,
+        "y": 890,
+        "fx": -1,
+        "fy": -1,
+        "fw": 102,
+        "fh": 102
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/l",
+        "w": 400,
+        "h": 462,
+        "x": 1,
+        "y": 520,
+        "fx": 0,
+        "fy": 0,
+        "fw": 404,
+        "fh": 464
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/m",
+        "w": 50,
+        "h": 50,
+        "x": 994,
+        "y": 919,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/n",
+        "w": 100,
+        "h": 100,
+        "x": 943,
+        "y": 378,
+        "fx": -1,
+        "fy": -1,
+        "fw": 102,
+        "fh": 102
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/o",
+        "w": 400,
+        "h": 462,
+        "x": 403,
+        "y": 520,
+        "fx": 0,
+        "fy": 0,
+        "fw": 404,
+        "fh": 464
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/p",
+        "w": 49,
+        "h": 57,
+        "x": 1007,
+        "y": 756,
+        "fx": -1,
+        "fy": -2,
+        "fw": 52,
+        "fh": 60
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/q",
+        "w": 147,
+        "h": 148,
+        "x": 732,
+        "y": 1,
+        "fx": -2,
+        "fy": -1,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/r",
+        "w": 50,
+        "h": 30,
+        "x": 833,
+        "y": 992,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/s",
+        "w": 42,
+        "h": 240,
+        "x": 811,
+        "y": 151,
+        "fx": 0,
+        "fy": -2,
+        "fw": 44,
+        "fh": 242
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/t",
+        "w": 42,
+        "h": 240,
+        "x": 855,
+        "y": 159,
+        "fx": 0,
+        "fy": -2,
+        "fw": 44,
+        "fh": 242
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/u",
+        "w": 50,
+        "h": 30,
+        "x": 1060,
+        "y": 736,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/v",
+        "w": 50,
+        "h": 30,
+        "x": 1058,
+        "y": 768,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 52
+    },
+    {
+        "n": "scene/evolution/.gen/evolution_06_normal/w",
+        "w": 729,
+        "h": 517,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 729,
+        "fh": 518
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/dia_lv_disable",
+        "w": 78,
+        "h": 122,
+        "x": 805,
+        "y": 518
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/dia_lv_enable",
+        "w": 78,
+        "h": 122,
+        "x": 805,
+        "y": 642
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/dia_lv_new",
+        "w": 78,
+        "h": 122,
+        "x": 805,
+        "y": 766
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/flash_lv_cap_step",
+        "w": 206,
+        "h": 77,
+        "x": 881,
+        "y": 80,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 81,
+        "fh": 209
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/ring_lv_cap_step",
+        "w": 50,
+        "h": 50,
+        "x": 1010,
+        "y": 971
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/square_color00fcff",
+        "w": 10,
+        "h": 10,
+        "x": 920,
+        "y": 500
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/square_color222222",
+        "w": 10,
+        "h": 10,
+        "x": 943,
+        "y": 480
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/square_colorfefd00",
+        "w": 10,
+        "h": 10,
+        "x": 797,
+        "y": 359
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/square_flash",
+        "w": 20,
+        "h": 9,
+        "x": 797,
+        "y": 445,
+        "r": true
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_max_lv_a",
+        "w": 55,
+        "h": 57,
+        "x": 950,
+        "y": 696
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_max_lv_l",
+        "w": 57,
+        "h": 40,
+        "x": 907,
+        "y": 982,
+        "r": true
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_max_lv_m",
+        "w": 55,
+        "h": 57,
+        "x": 950,
+        "y": 755
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_max_lv_v",
+        "w": 42,
+        "h": 40,
+        "x": 966,
+        "y": 982
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_max_lv_x",
+        "w": 51,
+        "h": 57,
+        "x": 1007,
+        "y": 697
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_0",
+        "w": 63,
+        "h": 95,
+        "x": 732,
+        "y": 359
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_1",
+        "w": 89,
+        "h": 33,
+        "x": 690,
+        "y": 984,
+        "r": true
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_2",
+        "w": 63,
+        "h": 93,
+        "x": 907,
+        "y": 887
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_3",
+        "w": 63,
+        "h": 94,
+        "x": 885,
+        "y": 722
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_4",
+        "w": 64,
+        "h": 89,
+        "x": 1030,
+        "y": 480
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_5",
+        "w": 63,
+        "h": 93,
+        "x": 965,
+        "y": 480
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_6",
+        "w": 62,
+        "h": 93,
+        "x": 1053,
+        "y": 159
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_7",
+        "w": 90,
+        "h": 60,
+        "x": 732,
+        "y": 456,
+        "r": true
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_8",
+        "w": 63,
+        "h": 95,
+        "x": 885,
+        "y": 625
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/text_number_9",
+        "w": 62,
+        "h": 93,
+        "x": 1053,
+        "y": 254
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/triangle_lv_cap_arrow",
+        "w": 48,
+        "h": 37,
+        "x": 1060,
+        "y": 697
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/txt_level_cap_open_a",
+        "w": 91,
+        "h": 67,
+        "x": 885,
+        "y": 818,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 101,
+        "fh": 91
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/txt_level_cap_open_dai",
+        "w": 108,
+        "h": 114,
+        "x": 943,
+        "y": 159,
+        "fx": -4,
+        "fy": 0,
+        "fw": 116,
+        "fh": 114
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/txt_level_cap_open_exc",
+        "w": 21,
+        "h": 97,
+        "x": 920,
+        "y": 401
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/txt_level_cap_open_l",
+        "w": 96,
+        "h": 58,
+        "x": 965,
+        "y": 575,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 67,
+        "fh": 96
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/txt_level_cap_open_pu",
+        "w": 78,
+        "h": 110,
+        "x": 885,
+        "y": 513,
+        "fx": -16,
+        "fy": -1,
+        "fw": 109,
+        "fh": 111
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/txt_level_cap_open_sai",
+        "w": 94,
+        "h": 110,
+        "x": 824,
+        "y": 401,
+        "fx": -11,
+        "fy": 0,
+        "fw": 116,
+        "fh": 110
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/txt_level_cap_open_tsu",
+        "w": 68,
+        "h": 67,
+        "x": 1045,
+        "y": 411,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 68,
+        "fh": 69
+    },
+    {
+        "n": "scene/evolution/sprite_sheet/uncap_level-assets/txt_level_cap_open_v",
+        "w": 66,
+        "h": 60,
+        "x": 1049,
+        "y": 349,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 70,
+        "fh": 66
+    }
+]

@@ -1,0 +1,516 @@
+[
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/a",
+        "w": 48,
+        "h": 48,
+        "x": 1309,
+        "y": 426
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/aa",
+        "w": 12,
+        "h": 11,
+        "x": 662,
+        "y": 476
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ab",
+        "w": 14,
+        "h": 12,
+        "x": 929,
+        "y": 474,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ac",
+        "w": 15,
+        "h": 12,
+        "x": 864,
+        "y": 472,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ad",
+        "w": 13,
+        "h": 14,
+        "x": 898,
+        "y": 472
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ae",
+        "w": 14,
+        "h": 14,
+        "x": 913,
+        "y": 474
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/af",
+        "w": 14,
+        "h": 12,
+        "x": 945,
+        "y": 474,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ag",
+        "w": 14,
+        "h": 12,
+        "x": 961,
+        "y": 474,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ah",
+        "w": 9,
+        "h": 3,
+        "x": 742,
+        "y": 318
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ai",
+        "w": 12,
+        "h": 14,
+        "x": 977,
+        "y": 474
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/aj",
+        "w": 13,
+        "h": 15,
+        "x": 1053,
+        "y": 376
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ak",
+        "w": 749,
+        "h": 161,
+        "x": 3,
+        "y": 155,
+        "fx": 0,
+        "fy": -32,
+        "fw": 750,
+        "fh": 227
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/al",
+        "w": 41,
+        "h": 277,
+        "x": 1645,
+        "y": 3,
+        "r": true,
+        "fx": -1,
+        "fy": -4,
+        "fw": 278,
+        "fh": 49
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/am",
+        "w": 579,
+        "h": 46,
+        "x": 3,
+        "y": 443
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/an",
+        "w": 25,
+        "h": 22,
+        "x": 742,
+        "y": 463,
+        "r": true,
+        "fx": -9,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ao",
+        "w": 24,
+        "h": 21,
+        "x": 1245,
+        "y": 430,
+        "r": true,
+        "fx": -9,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ap",
+        "w": 20,
+        "h": 24,
+        "x": 1271,
+        "y": 430,
+        "fx": -9,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/aq",
+        "w": 24,
+        "h": 19,
+        "x": 1267,
+        "y": 456,
+        "r": true,
+        "fx": -9,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ar",
+        "w": 20,
+        "h": 24,
+        "x": 1245,
+        "y": 453,
+        "fx": -9,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/as",
+        "w": 24,
+        "h": 22,
+        "x": 769,
+        "y": 463,
+        "r": true,
+        "fx": -9,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/at",
+        "w": 12,
+        "h": 12,
+        "x": 648,
+        "y": 476
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/au",
+        "w": 10,
+        "h": 13,
+        "x": 913,
+        "y": 326,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/av",
+        "w": 14,
+        "h": 12,
+        "x": 584,
+        "y": 476,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/aw",
+        "w": 15,
+        "h": 13,
+        "x": 847,
+        "y": 472,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ax",
+        "w": 14,
+        "h": 12,
+        "x": 961,
+        "y": 474,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ay",
+        "w": 14,
+        "h": 12,
+        "x": 600,
+        "y": 476,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/az",
+        "w": 14,
+        "h": 12,
+        "x": 616,
+        "y": 476,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/b",
+        "w": 63,
+        "h": 79,
+        "x": 848,
+        "y": 326,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/ba",
+        "w": 14,
+        "h": 12,
+        "x": 632,
+        "y": 476,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/bb",
+        "w": 71,
+        "h": 435,
+        "x": 1572,
+        "y": 3,
+        "fx": -1,
+        "fy": -10,
+        "fw": 73,
+        "fh": 445
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/bc",
+        "w": 14,
+        "h": 12,
+        "x": 961,
+        "y": 474,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/bd",
+        "w": 156,
+        "h": 156,
+        "x": 584,
+        "y": 318
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/be",
+        "w": 579,
+        "h": 123,
+        "x": 3,
+        "y": 318
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/bf",
+        "w": 1066,
+        "h": 150,
+        "x": 3,
+        "y": 3,
+        "fx": -16,
+        "fy": -22,
+        "fw": 1100,
+        "fh": 194
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/bg",
+        "w": 384,
+        "h": 384,
+        "x": 1071,
+        "y": 3
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/c",
+        "w": 104,
+        "h": 94,
+        "x": 742,
+        "y": 326
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/d",
+        "w": 169,
+        "h": 169,
+        "x": 754,
+        "y": 155
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/e",
+        "w": 175,
+        "h": 71,
+        "x": 1068,
+        "y": 389,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/f",
+        "w": 25,
+        "h": 30,
+        "x": 1036,
+        "y": 397,
+        "fx": -4,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/g",
+        "w": 27,
+        "h": 24,
+        "x": 1036,
+        "y": 429,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 26
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/h",
+        "w": 52,
+        "h": 57,
+        "x": 1372,
+        "y": 389,
+        "r": true,
+        "fx": -4,
+        "fy": -7,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/i",
+        "w": 51,
+        "h": 63,
+        "x": 848,
+        "y": 407,
+        "fx": -6,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/j",
+        "w": 78,
+        "h": 75,
+        "x": 913,
+        "y": 397,
+        "fx": -9,
+        "fy": -12,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/k",
+        "w": 12,
+        "h": 219,
+        "x": 1053,
+        "y": 155
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/l",
+        "w": 32,
+        "h": 240,
+        "x": 1019,
+        "y": 155,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/m",
+        "w": 92,
+        "h": 240,
+        "x": 925,
+        "y": 155,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/n",
+        "w": 41,
+        "h": 277,
+        "x": 1645,
+        "y": 3,
+        "r": true,
+        "fx": -1,
+        "fy": -4,
+        "fw": 278,
+        "fh": 49
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/o",
+        "w": 113,
+        "h": 407,
+        "x": 1457,
+        "y": 3,
+        "r": true,
+        "fx": -2,
+        "fy": -16,
+        "fw": 412,
+        "fh": 147
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/p",
+        "w": 749,
+        "h": 161,
+        "x": 3,
+        "y": 155,
+        "fx": 0,
+        "fy": -32,
+        "fw": 750,
+        "fh": 227
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/q",
+        "w": 39,
+        "h": 62,
+        "x": 1645,
+        "y": 412
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/r",
+        "w": 40,
+        "h": 63,
+        "x": 1645,
+        "y": 282
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/s",
+        "w": 61,
+        "h": 35,
+        "x": 1309,
+        "y": 389,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/t",
+        "w": 62,
+        "h": 39,
+        "x": 742,
+        "y": 422,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/u",
+        "w": 39,
+        "h": 62,
+        "x": 806,
+        "y": 422
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/v",
+        "w": 41,
+        "h": 61,
+        "x": 993,
+        "y": 397
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/w",
+        "w": 40,
+        "h": 63,
+        "x": 1645,
+        "y": 347
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/x",
+        "w": 62,
+        "h": 39,
+        "x": 1245,
+        "y": 389,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/y",
+        "w": 61,
+        "h": 27,
+        "x": 993,
+        "y": 460,
+        "r": true
+    },
+    {
+        "n": "scene/tower_dungeon/.gen/tower_header/z",
+        "w": 15,
+        "h": 12,
+        "x": 881,
+        "y": 472,
+        "r": true
+    }
+]

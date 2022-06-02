@@ -1,0 +1,23 @@
+[
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/select_item_campaign-assets/select_item_campaign_lineup_gold",
+        "w": 212,
+        "h": 212,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/select_item_campaign-assets/select_item_campaign_lineup_rainbow",
+        "w": 212,
+        "h": 212,
+        "x": 215,
+        "y": 1
+    },
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/select_item_campaign-assets/select_item_campaign_lineup_silver",
+        "w": 212,
+        "h": 212,
+        "x": 429,
+        "y": 1
+    }
+]

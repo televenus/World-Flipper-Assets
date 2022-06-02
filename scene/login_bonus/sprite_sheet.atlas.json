@@ -1,0 +1,114 @@
+[
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/bright_ribbon",
+        "w": 184,
+        "h": 41,
+        "x": 347,
+        "y": 455
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/day_number_ribbon",
+        "w": 184,
+        "h": 41,
+        "x": 535,
+        "y": 455
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/intro_flash_effect",
+        "w": 129,
+        "h": 129,
+        "x": 597,
+        "y": 252
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/intro_star_effect_quarter",
+        "w": 86,
+        "h": 86,
+        "x": 3,
+        "y": 406
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/light_dialog_header",
+        "w": 590,
+        "h": 399,
+        "x": 3,
+        "y": 3,
+        "r": true
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/next_ribbon",
+        "w": 184,
+        "h": 41,
+        "x": 723,
+        "y": 455
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/next_thumbnail_box",
+        "w": 250,
+        "h": 34,
+        "x": 93,
+        "y": 470,
+        "r": true
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/period_bg",
+        "w": 778,
+        "h": 45,
+        "x": 123,
+        "y": 406
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/stamp",
+        "w": 198,
+        "h": 198,
+        "x": 1078,
+        "y": 3
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/stamp_circle_effect",
+        "w": 167,
+        "h": 167,
+        "x": 889,
+        "y": 235
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/stamp_motion_blurred_effect",
+        "w": 245,
+        "h": 245,
+        "x": 597,
+        "y": 3
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/stamp_smoke_effect",
+        "w": 155,
+        "h": 114,
+        "x": 730,
+        "y": 252
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/week_balloon_frame",
+        "w": 228,
+        "h": 228,
+        "x": 846,
+        "y": 3
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/week_balloon_shadow",
+        "w": 228,
+        "h": 228,
+        "x": 1060,
+        "y": 235
+    },
+    {
+        "n": "scene/login_bonus/sprite_sheet/limited_login_bonus-assets/week_label",
+        "w": 26,
+        "h": 60,
+        "x": 93,
+        "y": 406,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 60,
+        "fh": 29
+    }
+]

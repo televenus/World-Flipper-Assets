@@ -1,0 +1,114 @@
+[
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_fade/a",
+        "w": 20,
+        "h": 20,
+        "x": 444,
+        "y": 64
+    },
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_icon/a",
+        "w": 21,
+        "h": 191,
+        "x": 444,
+        "y": 100,
+        "fx": 0,
+        "fy": -29,
+        "fw": 21,
+        "fh": 220
+    },
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_icon/b",
+        "w": 153,
+        "h": 156,
+        "x": 200,
+        "y": 784,
+        "r": true
+    },
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_icon/c",
+        "w": 42,
+        "h": 107,
+        "x": 400,
+        "y": 164,
+        "fx": -2,
+        "fy": -14,
+        "fw": 46,
+        "fh": 121
+    },
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_icon/d",
+        "w": 9,
+        "h": 192,
+        "x": 400,
+        "y": 271,
+        "r": true
+    },
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_icon/e",
+        "w": 119,
+        "h": 120,
+        "x": 353,
+        "y": 784,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_icon/f",
+        "w": 200,
+        "h": 200,
+        "x": 0,
+        "y": 784
+    },
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_icon/g",
+        "w": 64,
+        "h": 64,
+        "x": 400,
+        "y": 0
+    },
+    {
+        "n": "scene/chapter_select/.gen/chapter_release_effect_icon/h",
+        "w": 1,
+        "h": 1,
+        "x": 470,
+        "y": 0,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/chapter_select/sprite_sheet/chapter-assets/bottom_line",
+        "w": 44,
+        "h": 100,
+        "x": 400,
+        "y": 64,
+        "r": true
+    },
+    {
+        "n": "scene/chapter_select/sprite_sheet/chapter-assets/drop_shadow",
+        "w": 400,
+        "h": 400,
+        "x": 0,
+        "y": 0
+    },
+    {
+        "n": "scene/chapter_select/sprite_sheet/chapter-assets/light_gradation",
+        "w": 384,
+        "h": 384,
+        "x": 0,
+        "y": 400
+    },
+    {
+        "n": "scene/chapter_select/sprite_sheet/chapter-assets/top_line",
+        "w": 6,
+        "h": 100,
+        "x": 464,
+        "y": 0,
+        "r": true
+    }
+]

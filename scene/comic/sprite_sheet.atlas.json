@@ -1,0 +1,60 @@
+[
+    {
+        "n": "scene/comic/sprite_sheet/logo-assets/comic_kouza_bg_9slice",
+        "w": 60,
+        "h": 249,
+        "x": 580,
+        "y": 1451
+    },
+    {
+        "n": "scene/comic/sprite_sheet/logo-assets/comic_kouza_logo",
+        "w": 511,
+        "h": 1088,
+        "x": 1,
+        "y": 1261,
+        "r": true
+    },
+    {
+        "n": "scene/comic/sprite_sheet/logo-assets/comic_latest_new",
+        "w": 98,
+        "h": 163,
+        "x": 514,
+        "y": 1261,
+        "r": true
+    },
+    {
+        "n": "scene/comic/sprite_sheet/logo-assets/comic_logo",
+        "w": 672,
+        "h": 1258,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 1258,
+        "fh": 673
+    },
+    {
+        "n": "scene/comic/sprite_sheet/logo-assets/detail_header_decoration1",
+        "w": 26,
+        "h": 98,
+        "x": 614,
+        "y": 1351,
+        "r": true
+    },
+    {
+        "n": "scene/comic/sprite_sheet/logo-assets/detail_header_decoration2",
+        "w": 32,
+        "h": 88,
+        "x": 614,
+        "y": 1261,
+        "r": true
+    },
+    {
+        "n": "scene/comic/sprite_sheet/logo-assets/detail_header_tiled_bg",
+        "w": 64,
+        "h": 64,
+        "x": 514,
+        "y": 1426
+    }
+]

@@ -1,0 +1,1221 @@
+[
+    {
+        "n": "scene/character/.gen/button_ability_board/f0014",
+        "w": 17,
+        "h": 11,
+        "x": 776,
+        "y": 866,
+        "r": true,
+        "fx": -27,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_ability_board/f0018",
+        "w": 11,
+        "h": 15,
+        "x": 784,
+        "y": 918,
+        "fx": -27,
+        "fy": -26,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_ability_board/f0022",
+        "w": 19,
+        "h": 11,
+        "x": 725,
+        "y": 906,
+        "r": true,
+        "fx": -27,
+        "fy": -11,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_ability_board/f0026",
+        "w": 11,
+        "h": 22,
+        "x": 574,
+        "y": 921,
+        "fx": -27,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_ability_board/f0030",
+        "w": 17,
+        "h": 11,
+        "x": 776,
+        "y": 866,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_ability_board/f0034",
+        "w": 15,
+        "h": 16,
+        "x": 786,
+        "y": 846,
+        "fx": -25,
+        "fy": -25,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_ability_board/f0038",
+        "w": 9,
+        "h": 20,
+        "x": 425,
+        "y": 416,
+        "fx": -28,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_ability_board/f0156",
+        "w": 17,
+        "h": 11,
+        "x": 776,
+        "y": 866,
+        "r": true,
+        "fx": -27,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0012",
+        "w": 16,
+        "h": 18,
+        "x": 772,
+        "y": 753,
+        "fx": -24,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0014",
+        "w": 14,
+        "h": 19,
+        "x": 746,
+        "y": 880,
+        "r": true,
+        "fx": -23,
+        "fy": -26,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0017",
+        "w": 16,
+        "h": 18,
+        "x": 772,
+        "y": 753,
+        "fx": -24,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0020",
+        "w": 18,
+        "h": 11,
+        "x": 756,
+        "y": 866,
+        "r": true,
+        "fx": -26,
+        "fy": -14,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0023",
+        "w": 6,
+        "h": 18,
+        "x": 473,
+        "y": 24,
+        "fx": -29,
+        "fy": -15,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0026",
+        "w": 6,
+        "h": 18,
+        "x": 473,
+        "y": 44,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0029",
+        "w": 11,
+        "h": 18,
+        "x": 773,
+        "y": 846,
+        "fx": -26,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0031",
+        "w": 16,
+        "h": 18,
+        "x": 784,
+        "y": 727,
+        "fx": -24,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0033",
+        "w": 11,
+        "h": 18,
+        "x": 762,
+        "y": 879,
+        "fx": -26,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0035",
+        "w": 18,
+        "h": 6,
+        "x": 514,
+        "y": 921,
+        "r": true,
+        "fx": -28,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0037",
+        "w": 6,
+        "h": 18,
+        "x": 473,
+        "y": 24,
+        "fx": -28,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0039",
+        "w": 18,
+        "h": 11,
+        "x": 756,
+        "y": 866,
+        "r": true,
+        "fx": -26,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_character_list/f0156",
+        "w": 16,
+        "h": 18,
+        "x": 772,
+        "y": 753,
+        "fx": -24,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0013",
+        "w": 18,
+        "h": 17,
+        "x": 713,
+        "y": 839,
+        "fx": -23,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0017",
+        "w": 18,
+        "h": 18,
+        "x": 764,
+        "y": 919,
+        "fx": -23,
+        "fy": -14,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0021",
+        "w": 18,
+        "h": 21,
+        "x": 640,
+        "y": 835,
+        "fx": -23,
+        "fy": -12,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0025",
+        "w": 18,
+        "h": 25,
+        "x": 676,
+        "y": 894,
+        "fx": -23,
+        "fy": -14,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0029",
+        "w": 18,
+        "h": 18,
+        "x": 753,
+        "y": 806,
+        "fx": -23,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0033",
+        "w": 18,
+        "h": 20,
+        "x": 736,
+        "y": 858,
+        "fx": -23,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0037",
+        "w": 18,
+        "h": 18,
+        "x": 760,
+        "y": 779,
+        "fx": -23,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0040",
+        "w": 18,
+        "h": 17,
+        "x": 733,
+        "y": 839,
+        "fx": -23,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_edit/f0156",
+        "w": 18,
+        "h": 17,
+        "x": 713,
+        "y": 839,
+        "fx": -23,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0012",
+        "w": 15,
+        "h": 17,
+        "x": 775,
+        "y": 879,
+        "fx": -17,
+        "fy": -17,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0018",
+        "w": 13,
+        "h": 16,
+        "x": 450,
+        "y": 79,
+        "r": true,
+        "fx": -17,
+        "fy": -21,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0022",
+        "w": 15,
+        "h": 29,
+        "x": 677,
+        "y": 762,
+        "fx": -17,
+        "fy": -5,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0026",
+        "w": 14,
+        "h": 34,
+        "x": 643,
+        "y": 763,
+        "fx": -18,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0029",
+        "w": 15,
+        "h": 31,
+        "x": 466,
+        "y": 64,
+        "fx": -18,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0032",
+        "w": 20,
+        "h": 27,
+        "x": 677,
+        "y": 793,
+        "fx": -18,
+        "fy": -7,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0035",
+        "w": 20,
+        "h": 25,
+        "x": 633,
+        "y": 894,
+        "r": true,
+        "fx": -17,
+        "fy": -14,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0037",
+        "w": 20,
+        "h": 24,
+        "x": 749,
+        "y": 727,
+        "r": true,
+        "fx": -18,
+        "fy": -14,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0039",
+        "w": 15,
+        "h": 24,
+        "x": 743,
+        "y": 780,
+        "r": true,
+        "fx": -18,
+        "fy": -19,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_episode/f0156",
+        "w": 14,
+        "h": 24,
+        "x": 756,
+        "y": 753,
+        "r": true,
+        "fx": -18,
+        "fy": -20,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/character/.gen/button_equipment_upgrade/f0040",
+        "w": 17,
+        "h": 22,
+        "x": 539,
+        "y": 921,
+        "fx": -24,
+        "fy": -21,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_equipment_upgrade/f0156",
+        "w": 17,
+        "h": 22,
+        "x": 539,
+        "y": 921,
+        "fx": -33,
+        "fy": -30,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0012",
+        "w": 14,
+        "h": 18,
+        "x": 771,
+        "y": 826,
+        "fx": -25,
+        "fy": -23,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0018",
+        "w": 15,
+        "h": 18,
+        "x": 756,
+        "y": 846,
+        "r": true,
+        "fx": -23,
+        "fy": -25,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0022",
+        "w": 16,
+        "h": 32,
+        "x": 659,
+        "y": 798,
+        "fx": -24,
+        "fy": -16,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0026",
+        "w": 16,
+        "h": 34,
+        "x": 643,
+        "y": 727,
+        "fx": -24,
+        "fy": -15,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0029",
+        "w": 16,
+        "h": 33,
+        "x": 659,
+        "y": 763,
+        "fx": -24,
+        "fy": -16,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0032",
+        "w": 16,
+        "h": 25,
+        "x": 731,
+        "y": 727,
+        "fx": -24,
+        "fy": -20,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0036",
+        "w": 18,
+        "h": 16,
+        "x": 746,
+        "y": 901,
+        "fx": -23,
+        "fy": -24,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0039",
+        "w": 14,
+        "h": 20,
+        "x": 728,
+        "y": 919,
+        "fx": -25,
+        "fy": -22,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0040",
+        "w": 14,
+        "h": 18,
+        "x": 771,
+        "y": 826,
+        "fx": -25,
+        "fy": -23,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_expod/f0156",
+        "w": 14,
+        "h": 18,
+        "x": 771,
+        "y": 826,
+        "fx": -34,
+        "fy": -32,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0012",
+        "w": 16,
+        "h": 24,
+        "x": 735,
+        "y": 809,
+        "fx": -16,
+        "fy": -10,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0018",
+        "w": 16,
+        "h": 23,
+        "x": 615,
+        "y": 896,
+        "fx": -16,
+        "fy": -12,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0022",
+        "w": 31,
+        "h": 16,
+        "x": 450,
+        "y": 134,
+        "r": true,
+        "fx": -16,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0026",
+        "w": 16,
+        "h": 33,
+        "x": 661,
+        "y": 727,
+        "fx": -16,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0029",
+        "w": 16,
+        "h": 35,
+        "x": 606,
+        "y": 859,
+        "fx": -16,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0032",
+        "w": 18,
+        "h": 34,
+        "x": 417,
+        "y": 441,
+        "fx": -15,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0035",
+        "w": 20,
+        "h": 24,
+        "x": 713,
+        "y": 813,
+        "fx": -14,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0037",
+        "w": 16,
+        "h": 26,
+        "x": 716,
+        "y": 755,
+        "fx": -16,
+        "fy": -8,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/button_mana_board/f0156",
+        "w": 16,
+        "h": 24,
+        "x": 735,
+        "y": 809,
+        "fx": -16,
+        "fy": -10,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/character/.gen/selecting_effect/a",
+        "w": 85,
+        "h": 84,
+        "x": 363,
+        "y": 79,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 88,
+        "fh": 93
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/ability_damage_icon",
+        "w": 17,
+        "h": 17,
+        "x": 766,
+        "y": 899,
+        "fx": 0,
+        "fy": 0,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/ability_soul_pedestal",
+        "w": 14,
+        "h": 22,
+        "x": 558,
+        "y": 921,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/attack_label_text",
+        "w": 45,
+        "h": 17,
+        "x": 363,
+        "y": 476,
+        "fx": 0,
+        "fy": -4,
+        "fw": 45,
+        "fh": 25
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/background",
+        "w": 540,
+        "h": 240,
+        "x": 483,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/background_blurry",
+        "w": 540,
+        "h": 240,
+        "x": 483,
+        "y": 243,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/background_manaboard",
+        "w": 540,
+        "h": 240,
+        "x": 483,
+        "y": 485,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/chain_icon",
+        "w": 16,
+        "h": 36,
+        "x": 588,
+        "y": 859,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/coffin_ribbon_icon",
+        "w": 29,
+        "h": 20,
+        "x": 378,
+        "y": 524,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/coffin_ribbon_text",
+        "w": 13,
+        "h": 40,
+        "x": 363,
+        "y": 504,
+        "r": true,
+        "fx": 0,
+        "fy": -5,
+        "fw": 40,
+        "fh": 22
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/combo_ribbon_icon",
+        "w": 31,
+        "h": 35,
+        "x": 450,
+        "y": 97,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/combo_ribbon_text",
+        "w": 54,
+        "h": 13,
+        "x": 483,
+        "y": 930,
+        "fx": -1,
+        "fy": -5,
+        "fw": 55,
+        "fh": 21
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/condition_count_ribbon_icon",
+        "w": 30,
+        "h": 28,
+        "x": 450,
+        "y": 218,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/condition_count_ribbon_text",
+        "w": 139,
+        "h": 21,
+        "x": 587,
+        "y": 921,
+        "fx": -1,
+        "fy": -1,
+        "fw": 140,
+        "fh": 23
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/cross",
+        "w": 19,
+        "h": 24,
+        "x": 715,
+        "y": 858
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/direct_attack_damage_icon",
+        "w": 18,
+        "h": 19,
+        "x": 744,
+        "y": 919
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/element_ring",
+        "w": 52,
+        "h": 33,
+        "x": 363,
+        "y": 441
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/enemy_kill_ribbon_icon",
+        "w": 30,
+        "h": 32,
+        "x": 450,
+        "y": 152,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/enemy_kill_ribbon_text",
+        "w": 60,
+        "h": 23,
+        "x": 363,
+        "y": 416,
+        "fx": -1,
+        "fy": 0,
+        "fw": 62,
+        "fh": 23
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/fever_ribbon_icon",
+        "w": 29,
+        "h": 29,
+        "x": 684,
+        "y": 858
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/fever_ribbon_text",
+        "w": 68,
+        "h": 19,
+        "x": 363,
+        "y": 324,
+        "fx": -11,
+        "fy": -1,
+        "fw": 88,
+        "fh": 20
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/flying_ribbon_icon",
+        "w": 27,
+        "h": 29,
+        "x": 696,
+        "y": 889
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/flying_ribbon_text",
+        "w": 43,
+        "h": 10,
+        "x": 437,
+        "y": 291,
+        "fx": 0,
+        "fy": -5,
+        "fw": 43,
+        "fh": 21
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_0",
+        "w": 29,
+        "h": 35,
+        "x": 363,
+        "y": 546
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_1",
+        "w": 14,
+        "h": 34,
+        "x": 643,
+        "y": 799
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_2",
+        "w": 28,
+        "h": 34,
+        "x": 613,
+        "y": 727
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_3",
+        "w": 27,
+        "h": 35,
+        "x": 394,
+        "y": 546
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_4",
+        "w": 28,
+        "h": 34,
+        "x": 613,
+        "y": 763
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_5",
+        "w": 28,
+        "h": 34,
+        "x": 613,
+        "y": 799
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_6",
+        "w": 28,
+        "h": 34,
+        "x": 624,
+        "y": 858
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_7",
+        "w": 28,
+        "h": 34,
+        "x": 654,
+        "y": 858
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_8",
+        "w": 27,
+        "h": 35,
+        "x": 423,
+        "y": 546
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_9",
+        "w": 29,
+        "h": 34,
+        "x": 452,
+        "y": 546
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_0",
+        "w": 25,
+        "h": 21,
+        "x": 588,
+        "y": 897,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_1",
+        "w": 11,
+        "h": 24,
+        "x": 771,
+        "y": 727
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_2",
+        "w": 20,
+        "h": 26,
+        "x": 694,
+        "y": 757
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_3",
+        "w": 25,
+        "h": 21,
+        "x": 613,
+        "y": 835,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_4",
+        "w": 20,
+        "h": 24,
+        "x": 721,
+        "y": 783
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_5",
+        "w": 20,
+        "h": 26,
+        "x": 709,
+        "y": 727
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_6",
+        "w": 20,
+        "h": 26,
+        "x": 691,
+        "y": 822
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_7",
+        "w": 20,
+        "h": 24,
+        "x": 734,
+        "y": 754
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_8",
+        "w": 19,
+        "h": 25,
+        "x": 655,
+        "y": 894
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/gauge_level_small_9",
+        "w": 20,
+        "h": 26,
+        "x": 699,
+        "y": 785
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/hp_ribbon_icon",
+        "w": 30,
+        "h": 27,
+        "x": 378,
+        "y": 495
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/hp_ribbon_text",
+        "w": 64,
+        "h": 21,
+        "x": 363,
+        "y": 345,
+        "fx": -4,
+        "fy": 0,
+        "fw": 71,
+        "fh": 21
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/leader_attack_bg",
+        "w": 72,
+        "h": 192,
+        "x": 514,
+        "y": 727,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/leader_circle",
+        "w": 21,
+        "h": 40,
+        "x": 450,
+        "y": 248,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/multiball_ribbon_icon",
+        "w": 28,
+        "h": 28,
+        "x": 679,
+        "y": 727
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/multiball_ribbon_text",
+        "w": 111,
+        "h": 21,
+        "x": 363,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 112,
+        "fh": 21
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/piercing_ribbon_icon",
+        "w": 25,
+        "h": 25,
+        "x": 410,
+        "y": 477
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/piercing_ribbon_text",
+        "w": 13,
+        "h": 40,
+        "x": 410,
+        "y": 504,
+        "r": true,
+        "fx": 0,
+        "fy": -5,
+        "fw": 40,
+        "fh": 22
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/power_flip_damage_icon",
+        "w": 16,
+        "h": 18,
+        "x": 753,
+        "y": 826
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/power_flip_ribbon_icon",
+        "w": 29,
+        "h": 24,
+        "x": 660,
+        "y": 832
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/power_flip_ribbon_text",
+        "w": 101,
+        "h": 21,
+        "x": 363,
+        "y": 56,
+        "fx": -19,
+        "fy": 0,
+        "fw": 139,
+        "fh": 21
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/power_flip_text_bg",
+        "w": 29,
+        "h": 201,
+        "x": 483,
+        "y": 727,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/ribbon_bg",
+        "w": 40,
+        "h": 241,
+        "x": 437,
+        "y": 303,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/skill_damage_icon",
+        "w": 19,
+        "h": 20,
+        "x": 725,
+        "y": 884
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/skill_invoke_ribbon_icon",
+        "w": 30,
+        "h": 30,
+        "x": 450,
+        "y": 186
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/skill_invoke_ribbon_text",
+        "w": 11,
+        "h": 124,
+        "x": 437,
+        "y": 165,
+        "r": true,
+        "fx": -1,
+        "fy": -6,
+        "fw": 126,
+        "fh": 21
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/spot_inventory",
+        "w": 480,
+        "h": 360,
+        "x": 1,
+        "y": 583,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/spot_party",
+        "w": 360,
+        "h": 580,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/status_bg",
+        "w": 63,
+        "h": 46,
+        "x": 363,
+        "y": 368
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/status_frame",
+        "w": 72,
+        "h": 157,
+        "x": 363,
+        "y": 165,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/title_label_bg",
+        "w": 23,
+        "h": 130,
+        "x": 588,
+        "y": 727,
+        "r": true
+    },
+    {
+        "n": "scene/character/sprite_sheet-assets/type_label_bg",
+        "w": 108,
+        "h": 30,
+        "x": 363,
+        "y": 24
+    }
+]

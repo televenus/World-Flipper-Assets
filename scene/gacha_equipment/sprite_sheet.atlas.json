@@ -1,0 +1,1329 @@
+[
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/a",
+        "w": 99,
+        "h": 99,
+        "x": 1829,
+        "y": 1896,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/b",
+        "w": 20,
+        "h": 20,
+        "x": 1134,
+        "y": 2041,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/c",
+        "w": 77,
+        "h": 206,
+        "x": 1750,
+        "y": 1809,
+        "fx": -3,
+        "fy": -21,
+        "fw": 82,
+        "fh": 227
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/d",
+        "w": 50,
+        "h": 50,
+        "x": 1690,
+        "y": 1144,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/e",
+        "w": 206,
+        "h": 77,
+        "x": 1844,
+        "y": 1997,
+        "r": true,
+        "fx": -3,
+        "fy": -21,
+        "fw": 82,
+        "fh": 227
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/f",
+        "w": 18,
+        "h": 18,
+        "x": 1217,
+        "y": 2041,
+        "fx": -3,
+        "fy": -3,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/g",
+        "w": 60,
+        "h": 60,
+        "x": 1778,
+        "y": 673
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/h",
+        "w": 60,
+        "h": 60,
+        "x": 796,
+        "y": 1041
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/i",
+        "w": 60,
+        "h": 60,
+        "x": 796,
+        "y": 1103
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/j",
+        "w": 60,
+        "h": 60,
+        "x": 796,
+        "y": 1165
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/k",
+        "w": 60,
+        "h": 60,
+        "x": 796,
+        "y": 1227
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_backshine/l",
+        "w": 50,
+        "h": 50,
+        "x": 1690,
+        "y": 1196,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_new/a",
+        "w": 201,
+        "h": 207,
+        "x": 1533,
+        "y": 1639,
+        "fx": -5,
+        "fy": -19,
+        "fw": 230,
+        "fh": 230
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_new/b",
+        "w": 180,
+        "h": 218,
+        "x": 1253,
+        "y": 1780,
+        "r": true,
+        "fx": -4,
+        "fy": -13,
+        "fw": 226,
+        "fh": 205
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/a",
+        "w": 1,
+        "h": 1,
+        "x": 1844,
+        "y": 119,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/b",
+        "w": 50,
+        "h": 99,
+        "x": 1284,
+        "y": 1081,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 100,
+        "fh": 50
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/c",
+        "w": 50,
+        "h": 99,
+        "x": 1690,
+        "y": 1043,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 100,
+        "fh": 50
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/d",
+        "w": 50,
+        "h": 50,
+        "x": 1690,
+        "y": 1248,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/e",
+        "w": 23,
+        "h": 75,
+        "x": 1312,
+        "y": 876,
+        "fx": -1,
+        "fy": 0,
+        "fw": 25,
+        "fh": 75
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/f",
+        "w": 50,
+        "h": 20,
+        "x": 997,
+        "y": 2044,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/g",
+        "w": 40,
+        "h": 40,
+        "x": 858,
+        "y": 1066
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/h",
+        "w": 239,
+        "h": 220,
+        "x": 1836,
+        "y": 1180,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 221,
+        "fh": 241
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/i",
+        "w": 222,
+        "h": 242,
+        "x": 1852,
+        "y": 1
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/j",
+        "w": 99,
+        "h": 100,
+        "x": 1878,
+        "y": 1469,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/k",
+        "w": 48,
+        "h": 150,
+        "x": 1828,
+        "y": 1419,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 150
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/l",
+        "w": 20,
+        "h": 20,
+        "x": 1156,
+        "y": 2041
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/m",
+        "w": 48,
+        "h": 150,
+        "x": 1352,
+        "y": 1628,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 150
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/n",
+        "w": 207,
+        "h": 207,
+        "x": 1846,
+        "y": 1687,
+        "fx": -1,
+        "fy": 0,
+        "fw": 208,
+        "fh": 228
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/o",
+        "w": 193,
+        "h": 165,
+        "x": 1069,
+        "y": 1373,
+        "fx": -3,
+        "fy": 0,
+        "fw": 196,
+        "fh": 167
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/p",
+        "w": 70,
+        "h": 70,
+        "x": 1668,
+        "y": 1509
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/q",
+        "w": 221,
+        "h": 242,
+        "x": 1839,
+        "y": 936
+    },
+    {
+        "n": "scene/gacha_equipment/.gen/gacha_equipment_effect_rarity_star/r",
+        "w": 221,
+        "h": 242,
+        "x": 954,
+        "y": 1543
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_action_1",
+        "w": 17,
+        "h": 21,
+        "x": 959,
+        "y": 2044,
+        "fx": -121,
+        "fy": -106,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_action_2",
+        "w": 17,
+        "h": 21,
+        "x": 978,
+        "y": 2044,
+        "fx": -121,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_action_3",
+        "w": 18,
+        "h": 22,
+        "x": 919,
+        "y": 2044,
+        "fx": -121,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_cheer_2",
+        "w": 18,
+        "h": 18,
+        "x": 1237,
+        "y": 2041,
+        "fx": -120,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_cheer_3",
+        "w": 15,
+        "h": 19,
+        "x": 1261,
+        "y": 1352,
+        "r": true,
+        "fx": -119,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_cheer_4",
+        "w": 18,
+        "h": 21,
+        "x": 939,
+        "y": 2044,
+        "fx": -120,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_cheer_5",
+        "w": 19,
+        "h": 22,
+        "x": 1239,
+        "y": 1152,
+        "fx": -119,
+        "fy": -106,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_cheer_5_ef",
+        "w": 7,
+        "h": 25,
+        "x": 1843,
+        "y": 164,
+        "r": true,
+        "fx": -116,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_cheer_6_ef",
+        "w": 29,
+        "h": 9,
+        "x": 1,
+        "y": 2066,
+        "fx": -114,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_run_1",
+        "w": 22,
+        "h": 19,
+        "x": 1260,
+        "y": 1152,
+        "r": true,
+        "fx": -123,
+        "fy": -106,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/alk_run_2",
+        "w": 20,
+        "h": 19,
+        "x": 1239,
+        "y": 1352,
+        "r": true,
+        "fx": -123,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_action_1",
+        "w": 23,
+        "h": 15,
+        "x": 1312,
+        "y": 994,
+        "r": true,
+        "fx": -121,
+        "fy": -104,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_action_2",
+        "w": 24,
+        "h": 17,
+        "x": 1312,
+        "y": 838,
+        "r": true,
+        "fx": -120,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_action_3",
+        "w": 26,
+        "h": 17,
+        "x": 1312,
+        "y": 665,
+        "r": true,
+        "fx": -120,
+        "fy": -101,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_cheer_2",
+        "w": 18,
+        "h": 15,
+        "x": 1668,
+        "y": 1313,
+        "r": true,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_cheer_3",
+        "w": 17,
+        "h": 15,
+        "x": 2054,
+        "y": 1402,
+        "fx": -120,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_cheer_4",
+        "w": 24,
+        "h": 17,
+        "x": 1312,
+        "y": 857,
+        "r": true,
+        "fx": -120,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_cheer_5",
+        "w": 25,
+        "h": 17,
+        "x": 1312,
+        "y": 756,
+        "r": true,
+        "fx": -120,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_cheer_5_ef",
+        "w": 23,
+        "h": 8,
+        "x": 32,
+        "y": 2066,
+        "fx": -117,
+        "fy": -104,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_cheer_6_ef",
+        "w": 27,
+        "h": 10,
+        "x": 1312,
+        "y": 610,
+        "fx": -115,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_run_1",
+        "w": 26,
+        "h": 20,
+        "x": 1312,
+        "y": 622,
+        "r": true,
+        "fx": -120,
+        "fy": -101,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/light_run_2",
+        "w": 25,
+        "h": 20,
+        "x": 1312,
+        "y": 734,
+        "r": true,
+        "fx": -120,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_action_1",
+        "w": 23,
+        "h": 15,
+        "x": 1312,
+        "y": 1011,
+        "r": true,
+        "fx": -121,
+        "fy": -105,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_action_2",
+        "w": 23,
+        "h": 18,
+        "x": 1312,
+        "y": 974,
+        "r": true,
+        "fx": -121,
+        "fy": -105,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_action_3",
+        "w": 24,
+        "h": 19,
+        "x": 1312,
+        "y": 775,
+        "r": true,
+        "fx": -121,
+        "fy": -104,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_cheer_2",
+        "w": 17,
+        "h": 17,
+        "x": 1668,
+        "y": 1330,
+        "fx": -120,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_cheer_3",
+        "w": 15,
+        "h": 19,
+        "x": 1200,
+        "y": 2041,
+        "r": true,
+        "fx": -119,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_cheer_4",
+        "w": 23,
+        "h": 19,
+        "x": 1312,
+        "y": 953,
+        "r": true,
+        "fx": -119,
+        "fy": -105,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_cheer_5",
+        "w": 24,
+        "h": 19,
+        "x": 1312,
+        "y": 796,
+        "r": true,
+        "fx": -119,
+        "fy": -104,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_run_1",
+        "w": 26,
+        "h": 19,
+        "x": 1312,
+        "y": 644,
+        "r": true,
+        "fx": -121,
+        "fy": -101,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/character_pixelart-assets/stella_run_2",
+        "w": 24,
+        "h": 19,
+        "x": 1312,
+        "y": 817,
+        "r": true,
+        "fx": -121,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/barrel",
+        "w": 72,
+        "h": 84,
+        "x": 1668,
+        "y": 1352
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/black_square",
+        "w": 32,
+        "h": 32,
+        "x": 1066,
+        "y": 2041
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/cloud_1",
+        "w": 96,
+        "h": 161,
+        "x": 1239,
+        "y": 1182,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/cloud_2",
+        "w": 115,
+        "h": 238,
+        "x": 1177,
+        "y": 1540
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/crystal_blue",
+        "w": 50,
+        "h": 50,
+        "x": 1690,
+        "y": 1300
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/crystal_blue_sharp",
+        "w": 206,
+        "h": 77,
+        "x": 1844,
+        "y": 1997,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 81,
+        "fh": 209
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/crystal_red",
+        "w": 50,
+        "h": 50,
+        "x": 1294,
+        "y": 1640
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/crystal_red_sharp",
+        "w": 77,
+        "h": 206,
+        "x": 1750,
+        "y": 1809,
+        "fx": -2,
+        "fy": -3,
+        "fw": 81,
+        "fh": 209
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/ellipse_shadow",
+        "w": 174,
+        "h": 65,
+        "x": 1878,
+        "y": 1402,
+        "fx": -1,
+        "fy": -2,
+        "fw": 176,
+        "fh": 69
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/flag",
+        "w": 403,
+        "h": 306,
+        "x": 1339,
+        "y": 735,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/gacha_equipment_result_bg",
+        "w": 476,
+        "h": 360,
+        "x": 859,
+        "y": 248,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/half_flash",
+        "w": 95,
+        "h": 57,
+        "x": 1742,
+        "y": 1096,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/icon_black",
+        "w": 60,
+        "h": 60,
+        "x": 1257,
+        "y": 2000
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/icon_white",
+        "w": 82,
+        "h": 82,
+        "x": 1979,
+        "y": 1469
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/label",
+        "w": 61,
+        "h": 41,
+        "x": 796,
+        "y": 998
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/light",
+        "w": 500,
+        "h": 110,
+        "x": 1342,
+        "y": 52,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/light_gradation",
+        "w": 380,
+        "h": 89,
+        "x": 902,
+        "y": 1023,
+        "fx": -1,
+        "fy": 0,
+        "fw": 381,
+        "fh": 89
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/line",
+        "w": 4,
+        "h": 50,
+        "x": 1844,
+        "y": 67,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/logo_sub_text",
+        "w": 508,
+        "h": 49,
+        "x": 1342,
+        "y": 1
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/logo_text_1",
+        "w": 1339,
+        "h": 245,
+        "x": 1,
+        "y": 1,
+        "fx": -25,
+        "fy": -7,
+        "fw": 1386,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/logo_text_2",
+        "w": 227,
+        "h": 233,
+        "x": 1843,
+        "y": 245,
+        "fx": -24,
+        "fy": -10,
+        "fw": 271,
+        "fh": 257
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/logo_text_3",
+        "w": 227,
+        "h": 219,
+        "x": 1840,
+        "y": 715,
+        "fx": -23,
+        "fy": -19,
+        "fw": 272,
+        "fh": 257
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/logo_text_4",
+        "w": 227,
+        "h": 233,
+        "x": 1843,
+        "y": 480,
+        "fx": -27,
+        "fy": -8,
+        "fw": 273,
+        "fh": 255
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/logo_text_5",
+        "w": 156,
+        "h": 245,
+        "x": 796,
+        "y": 1543,
+        "fx": -13,
+        "fy": -13,
+        "fw": 182,
+        "fh": 270
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/magic_circle",
+        "w": 856,
+        "h": 748,
+        "x": 1,
+        "y": 248,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/manpu_001",
+        "w": 92,
+        "h": 216,
+        "x": 1742,
+        "y": 1155,
+        "r": true,
+        "fx": -12,
+        "fy": -24,
+        "fw": 240,
+        "fh": 160
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/manpu_002",
+        "w": 84,
+        "h": 200,
+        "x": 1742,
+        "y": 1373,
+        "r": true,
+        "fx": -20,
+        "fy": -32,
+        "fw": 240,
+        "fh": 160
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/manpu_003",
+        "w": 72,
+        "h": 184,
+        "x": 1278,
+        "y": 1352,
+        "r": true,
+        "fx": -28,
+        "fy": -40,
+        "fw": 240,
+        "fh": 160
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/manpu_start",
+        "w": 56,
+        "h": 100,
+        "x": 1294,
+        "y": 1538,
+        "r": true,
+        "fx": -75,
+        "fy": -52,
+        "fw": 240,
+        "fh": 160
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/particle",
+        "w": 20,
+        "h": 20,
+        "x": 1178,
+        "y": 2041
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/pile",
+        "w": 436,
+        "h": 87,
+        "x": 1340,
+        "y": 646,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 88,
+        "fh": 441
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/pod",
+        "w": 108,
+        "h": 120,
+        "x": 1736,
+        "y": 1687,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/ring_1",
+        "w": 270,
+        "h": 270,
+        "x": 261,
+        "y": 1792
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/ring_2",
+        "w": 793,
+        "h": 792,
+        "x": 1,
+        "y": 998
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/shadow",
+        "w": 93,
+        "h": 359,
+        "x": 1744,
+        "y": 735,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/shine_rainbow",
+        "w": 81,
+        "h": 81,
+        "x": 1435,
+        "y": 1882,
+        "fx": 0,
+        "fy": 0,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/shine_white",
+        "w": 215,
+        "h": 215,
+        "x": 1533,
+        "y": 1848
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/smoke",
+        "w": 451,
+        "h": 411,
+        "x": 859,
+        "y": 610
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/square_rainbow",
+        "w": 168,
+        "h": 168,
+        "x": 899,
+        "y": 1373
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/star",
+        "w": 72,
+        "h": 69,
+        "x": 1668,
+        "y": 1438
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/star_rainbow",
+        "w": 499,
+        "h": 480,
+        "x": 1342,
+        "y": 164,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/window_bg",
+        "w": 129,
+        "h": 131,
+        "x": 1402,
+        "y": 1639,
+        "fx": -2,
+        "fy": -2,
+        "fw": 133,
+        "fh": 135
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/other-assets/zuta",
+        "w": 96,
+        "h": 108,
+        "x": 1435,
+        "y": 1772
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/bg_light_1",
+        "w": 335,
+        "h": 248,
+        "x": 902,
+        "y": 1114,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 249,
+        "fh": 335
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/bg_light_2",
+        "w": 351,
+        "h": 268,
+        "x": 1337,
+        "y": 1043,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/bg_result",
+        "w": 367,
+        "h": 268,
+        "x": 533,
+        "y": 1792,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/cloud",
+        "w": 71,
+        "h": 272,
+        "x": 188,
+        "y": 1792,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/dungeon_1",
+        "w": 101,
+        "h": 252,
+        "x": 796,
+        "y": 1289
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/dungeon_1_ef_b75",
+        "w": 101,
+        "h": 252,
+        "x": 1047,
+        "y": 1787
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/dungeon_1_ef_b90",
+        "w": 101,
+        "h": 252,
+        "x": 1150,
+        "y": 1787
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/dungeon_2",
+        "w": 25,
+        "h": 48,
+        "x": 1312,
+        "y": 684
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/dungeon_3",
+        "w": 143,
+        "h": 252,
+        "x": 902,
+        "y": 1790
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/fire_1",
+        "w": 15,
+        "h": 32,
+        "x": 1100,
+        "y": 2041
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/fire_2",
+        "w": 15,
+        "h": 31,
+        "x": 902,
+        "y": 2044
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/fire_3",
+        "w": 15,
+        "h": 32,
+        "x": 1117,
+        "y": 2041
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/fire_4",
+        "w": 15,
+        "h": 34,
+        "x": 1049,
+        "y": 2041
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/fire_5",
+        "w": 15,
+        "h": 35,
+        "x": 1337,
+        "y": 1313
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/ground",
+        "w": 312,
+        "h": 201,
+        "x": 1354,
+        "y": 1313
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/name_plate",
+        "w": 38,
+        "h": 174,
+        "x": 858,
+        "y": 1108,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/niku",
+        "w": 16,
+        "h": 15,
+        "x": 1828,
+        "y": 1402
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rainbow",
+        "w": 63,
+        "h": 25,
+        "x": 1778,
+        "y": 646
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_3_close",
+        "w": 37,
+        "h": 36,
+        "x": 1239,
+        "y": 1114,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_3_open",
+        "w": 51,
+        "h": 51,
+        "x": 1284,
+        "y": 1028
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_4_close",
+        "w": 41,
+        "h": 41,
+        "x": 859,
+        "y": 1023
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_4_open",
+        "w": 57,
+        "h": 59,
+        "x": 1319,
+        "y": 2000,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_close_01",
+        "w": 45,
+        "h": 45,
+        "x": 1294,
+        "y": 1692
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_close_02",
+        "w": 45,
+        "h": 45,
+        "x": 1750,
+        "y": 2017
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_close_03",
+        "w": 45,
+        "h": 45,
+        "x": 1797,
+        "y": 2017
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_close_04",
+        "w": 45,
+        "h": 45,
+        "x": 1437,
+        "y": 1965
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_close_05",
+        "w": 45,
+        "h": 45,
+        "x": 1484,
+        "y": 1965
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_close_06",
+        "w": 45,
+        "h": 45,
+        "x": 1437,
+        "y": 2012
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_close_07",
+        "w": 45,
+        "h": 45,
+        "x": 1484,
+        "y": 2012
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_close_08",
+        "w": 45,
+        "h": 45,
+        "x": 1930,
+        "y": 1896
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/rearity_5_open",
+        "w": 57,
+        "h": 59,
+        "x": 1378,
+        "y": 2000,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/shadow",
+        "w": 6,
+        "h": 13,
+        "x": 1844,
+        "y": 52,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/sky",
+        "w": 185,
+        "h": 272,
+        "x": 1,
+        "y": 1792,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/trasure_base",
+        "w": 66,
+        "h": 56,
+        "x": 1666,
+        "y": 1581,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/vase",
+        "w": 16,
+        "h": 11,
+        "x": 261,
+        "y": 2064,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/wall",
+        "w": 312,
+        "h": 110,
+        "x": 1352,
+        "y": 1516
+    },
+    {
+        "n": "scene/gacha_equipment/sprite_sheet/pixelart-assets/wall_ef_b90",
+        "w": 312,
+        "h": 110,
+        "x": 1740,
+        "y": 1575
+    }
+]

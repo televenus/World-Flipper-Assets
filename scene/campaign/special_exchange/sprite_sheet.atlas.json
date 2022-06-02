@@ -1,0 +1,49 @@
+[
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/special_exchange_campaign-assets/allow_exchange_equipment_icon",
+        "w": 153,
+        "h": 154,
+        "x": 643,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/special_exchange_campaign-assets/allow_exchange_icon",
+        "w": 153,
+        "h": 154,
+        "x": 798,
+        "y": 1
+    },
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/special_exchange_campaign-assets/allow_exchange_startdash_icon",
+        "w": 132,
+        "h": 142,
+        "x": 953,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/special_exchange_campaign-assets/special_exchange_item_gold",
+        "w": 212,
+        "h": 212,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/special_exchange_campaign-assets/special_exchange_item_rainbow",
+        "w": 212,
+        "h": 212,
+        "x": 215,
+        "y": 1
+    },
+    {
+        "n": "scene/campaign/special_exchange/sprite_sheet/special_exchange_campaign-assets/special_exchange_item_silver",
+        "w": 212,
+        "h": 212,
+        "x": 429,
+        "y": 1
+    }
+]

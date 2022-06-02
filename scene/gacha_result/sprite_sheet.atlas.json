@@ -1,0 +1,61 @@
+[
+    {
+        "n": "scene/gacha_result/sprite_sheet-assets/background",
+        "w": 1440,
+        "h": 1673,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 1675
+    },
+    {
+        "n": "scene/gacha_result/sprite_sheet-assets/glow1",
+        "w": 52,
+        "h": 52,
+        "x": 1614,
+        "y": 1,
+        "fx": -2,
+        "fy": -2,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "scene/gacha_result/sprite_sheet-assets/glow2",
+        "w": 14,
+        "h": 14,
+        "x": 1656,
+        "y": 55,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "scene/gacha_result/sprite_sheet-assets/light",
+        "w": 110,
+        "h": 500,
+        "x": 1443,
+        "y": 1
+    },
+    {
+        "n": "scene/gacha_result/sprite_sheet-assets/star1",
+        "w": 40,
+        "h": 39,
+        "x": 1614,
+        "y": 55
+    },
+    {
+        "n": "scene/gacha_result/sprite_sheet-assets/star2",
+        "w": 57,
+        "h": 56,
+        "x": 1555,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 57,
+        "fh": 57
+    }
+]

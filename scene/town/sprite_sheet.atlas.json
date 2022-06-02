@@ -1,0 +1,92 @@
+[
+    {
+        "n": "scene/town/.gen/laugh_emotion/f0005",
+        "w": 23,
+        "h": 8,
+        "x": 1517,
+        "y": 261,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 11
+    },
+    {
+        "n": "scene/town/.gen/laugh_emotion/f0015",
+        "w": 27,
+        "h": 10,
+        "x": 1517,
+        "y": 249,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 11
+    },
+    {
+        "n": "scene/town/.gen/laugh_emotion/f0025",
+        "w": 30,
+        "h": 11,
+        "x": 1517,
+        "y": 236
+    },
+    {
+        "n": "scene/town/.gen/laugh_emotion/f0035",
+        "w": 27,
+        "h": 10,
+        "x": 1517,
+        "y": 249,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 11
+    },
+    {
+        "n": "scene/town/.gen/laugh_emotion/f0045",
+        "w": 30,
+        "h": 11,
+        "x": 1517,
+        "y": 236
+    },
+    {
+        "n": "scene/town/.gen/town_balloon/a",
+        "w": 109,
+        "h": 102,
+        "x": 1443,
+        "y": 132
+    },
+    {
+        "n": "scene/town/.gen/town_balloon/b",
+        "w": 16,
+        "h": 16,
+        "x": 1443,
+        "y": 262
+    },
+    {
+        "n": "scene/town/.gen/town_balloon/c",
+        "w": 110,
+        "h": 129,
+        "x": 1443,
+        "y": 1
+    },
+    {
+        "n": "scene/town/.gen/town_balloon/d",
+        "w": 72,
+        "h": 24,
+        "x": 1443,
+        "y": 236,
+        "r": true
+    },
+    {
+        "n": "scene/town/sprite_sheet-assets/character_background_decoration",
+        "w": 1440,
+        "h": 666,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/town/sprite_sheet-assets/character_border",
+        "w": 1440,
+        "h": 447,
+        "x": 1,
+        "y": 669
+    }
+]

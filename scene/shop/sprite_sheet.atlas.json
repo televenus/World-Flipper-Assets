@@ -1,0 +1,59 @@
+[
+    {
+        "n": "scene/shop/sprite_sheet-assets/featured_reward_bg",
+        "w": 218,
+        "h": 188,
+        "x": 688,
+        "y": 1117,
+        "r": true
+    },
+    {
+        "n": "scene/shop/sprite_sheet-assets/featured_reward_clear",
+        "w": 143,
+        "h": 144,
+        "x": 1713,
+        "y": 559,
+        "r": true
+    },
+    {
+        "n": "scene/shop/sprite_sheet-assets/general_shop",
+        "w": 1227,
+        "h": 556,
+        "x": 559,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 556
+    },
+    {
+        "n": "scene/shop/sprite_sheet-assets/merchant",
+        "w": 1023,
+        "h": 556,
+        "x": 688,
+        "y": 559
+    },
+    {
+        "n": "scene/shop/sprite_sheet-assets/merchant_evolved",
+        "w": 556,
+        "h": 1308,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "scene/shop/sprite_sheet-assets/treasure_shop_lineup_bg",
+        "w": 812,
+        "h": 141,
+        "x": 908,
+        "y": 1117
+    },
+    {
+        "n": "scene/shop/sprite_sheet-assets/treasure_shop_right_bg",
+        "w": 127,
+        "h": 721,
+        "x": 559,
+        "y": 559,
+        "r": true
+    }
+]

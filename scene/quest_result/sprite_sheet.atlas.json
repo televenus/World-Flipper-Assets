@@ -1,0 +1,1030 @@
+[
+    {
+        "n": "scene/quest_result/.gen/quest_result_ap_exclamation/a",
+        "w": 74,
+        "h": 74,
+        "x": 867,
+        "y": 171
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_level_up/a",
+        "w": 91,
+        "h": 94,
+        "x": 794,
+        "y": 427,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_level_up/b",
+        "w": 63,
+        "h": 63,
+        "x": 794,
+        "y": 700
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_level_up/c",
+        "w": 30,
+        "h": 60,
+        "x": 936,
+        "y": 1574
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_level_up/d",
+        "w": 30,
+        "h": 60,
+        "x": 942,
+        "y": 1297
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_level_up/e",
+        "w": 71,
+        "h": 288,
+        "x": 531,
+        "y": 1625,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_mvp_background_animation/a",
+        "w": 240,
+        "h": 321,
+        "x": 1,
+        "y": 1981
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_player_rank_flash/a",
+        "w": 91,
+        "h": 94,
+        "x": 794,
+        "y": 427,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_player_rank_flash/b",
+        "w": 63,
+        "h": 63,
+        "x": 794,
+        "y": 700
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_player_rank_flash/c",
+        "w": 240,
+        "h": 52,
+        "x": 1,
+        "y": 2304
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_player_rank_flash/d",
+        "w": 30,
+        "h": 60,
+        "x": 936,
+        "y": 1574
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_player_rank_flash/e",
+        "w": 30,
+        "h": 60,
+        "x": 942,
+        "y": 1297
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_player_rank_shine/a",
+        "w": 71,
+        "h": 254,
+        "x": 794,
+        "y": 171,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 257,
+        "fh": 72
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_player_rank_shine/b",
+        "w": 46,
+        "h": 35,
+        "x": 703,
+        "y": 2202,
+        "fx": -1,
+        "fy": -2,
+        "fw": 50,
+        "fh": 38
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/a",
+        "w": 20,
+        "h": 50,
+        "x": 965,
+        "y": 1636
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/b",
+        "w": 40,
+        "h": 40,
+        "x": 201,
+        "y": 2412
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/c",
+        "w": 240,
+        "h": 52,
+        "x": 1,
+        "y": 2304
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/d",
+        "w": 30,
+        "h": 60,
+        "x": 936,
+        "y": 1574
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/e",
+        "w": 30,
+        "h": 60,
+        "x": 942,
+        "y": 1297
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/f",
+        "w": 37,
+        "h": 62,
+        "x": 936,
+        "y": 1510,
+        "fx": -14,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/g",
+        "w": 61,
+        "h": 61,
+        "x": 642,
+        "y": 1623,
+        "fx": -1,
+        "fy": -1,
+        "fw": 62,
+        "fh": 62
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/h",
+        "w": 71,
+        "h": 254,
+        "x": 794,
+        "y": 171,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 257,
+        "fh": 72
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/i",
+        "w": 228,
+        "h": 256,
+        "x": 243,
+        "y": 1981
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/j",
+        "w": 20,
+        "h": 20,
+        "x": 859,
+        "y": 717
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/k",
+        "w": 49,
+        "h": 60,
+        "x": 933,
+        "y": 2124,
+        "fx": -15,
+        "fy": -25,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_appearance/l",
+        "w": 70,
+        "h": 70,
+        "x": 867,
+        "y": 334
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_fixation/a",
+        "w": 91,
+        "h": 94,
+        "x": 794,
+        "y": 427,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_fixation/b",
+        "w": 63,
+        "h": 63,
+        "x": 794,
+        "y": 700
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_fixation/c",
+        "w": 228,
+        "h": 256,
+        "x": 243,
+        "y": 1981
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_rank_fixation/d",
+        "w": 49,
+        "h": 25,
+        "x": 1,
+        "y": 2442,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 25,
+        "fh": 50
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/a",
+        "w": 20,
+        "h": 50,
+        "x": 965,
+        "y": 1636
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/b",
+        "w": 40,
+        "h": 40,
+        "x": 201,
+        "y": 2412
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/c",
+        "w": 240,
+        "h": 52,
+        "x": 1,
+        "y": 2304
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/d",
+        "w": 30,
+        "h": 60,
+        "x": 936,
+        "y": 1574
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/e",
+        "w": 30,
+        "h": 60,
+        "x": 942,
+        "y": 1297
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/f",
+        "w": 37,
+        "h": 62,
+        "x": 936,
+        "y": 1510,
+        "fx": -14,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/g",
+        "w": 61,
+        "h": 61,
+        "x": 642,
+        "y": 1623,
+        "fx": -1,
+        "fy": -1,
+        "fw": 62,
+        "fh": 62
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/h",
+        "w": 71,
+        "h": 254,
+        "x": 794,
+        "y": 171,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 257,
+        "fh": 72
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/i",
+        "w": 228,
+        "h": 256,
+        "x": 243,
+        "y": 1981
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/j",
+        "w": 20,
+        "h": 20,
+        "x": 859,
+        "y": 717
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/k",
+        "w": 49,
+        "h": 60,
+        "x": 933,
+        "y": 2124,
+        "fx": -15,
+        "fy": -25,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_rank_appearance/l",
+        "w": 70,
+        "h": 70,
+        "x": 867,
+        "y": 334
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_record_update/a",
+        "w": 240,
+        "h": 52,
+        "x": 1,
+        "y": 2304
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_ranking_event_record_update/b",
+        "w": 91,
+        "h": 94,
+        "x": 794,
+        "y": 427,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_special_treasure_light/a",
+        "w": 52,
+        "h": 102,
+        "x": 933,
+        "y": 1912
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/a",
+        "w": 240,
+        "h": 52,
+        "x": 1,
+        "y": 2304
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/b",
+        "w": 91,
+        "h": 94,
+        "x": 794,
+        "y": 427,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/c",
+        "w": 63,
+        "h": 63,
+        "x": 794,
+        "y": 700
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/d",
+        "w": 85,
+        "h": 66,
+        "x": 900,
+        "y": 1844,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/e",
+        "w": 59,
+        "h": 85,
+        "x": 867,
+        "y": 247
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/f",
+        "w": 66,
+        "h": 86,
+        "x": 632,
+        "y": 1535
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/g",
+        "w": 59,
+        "h": 87,
+        "x": 794,
+        "y": 611
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/h",
+        "w": 85,
+        "h": 58,
+        "x": 759,
+        "y": 2409,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/i",
+        "w": 65,
+        "h": 86,
+        "x": 794,
+        "y": 523
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_title/j",
+        "w": 85,
+        "h": 100,
+        "x": 900,
+        "y": 1742
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/a",
+        "w": 10,
+        "h": 20,
+        "x": 975,
+        "y": 1510
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/b",
+        "w": 12,
+        "h": 33,
+        "x": 928,
+        "y": 247
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/c",
+        "w": 33,
+        "h": 12,
+        "x": 151,
+        "y": 2442,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/d",
+        "w": 20,
+        "h": 22,
+        "x": 964,
+        "y": 592,
+        "r": true,
+        "fx": -21,
+        "fy": -8,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/e",
+        "w": 24,
+        "h": 9,
+        "x": 942,
+        "y": 1396,
+        "fx": -20,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/f",
+        "w": 20,
+        "h": 50,
+        "x": 965,
+        "y": 1636
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/g",
+        "w": 40,
+        "h": 40,
+        "x": 201,
+        "y": 2412
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/h",
+        "w": 97,
+        "h": 20,
+        "x": 52,
+        "y": 2442,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 100
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/i",
+        "w": 26,
+        "h": 26,
+        "x": 922,
+        "y": 664,
+        "fx": -21,
+        "fy": -34,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/j",
+        "w": 20,
+        "h": 20,
+        "x": 859,
+        "y": 717
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/k",
+        "w": 168,
+        "h": 168,
+        "x": 783,
+        "y": 1
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/l",
+        "w": 70,
+        "h": 70,
+        "x": 867,
+        "y": 334
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/m",
+        "w": 30,
+        "h": 30,
+        "x": 890,
+        "y": 654
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/n",
+        "w": 60,
+        "h": 60,
+        "x": 887,
+        "y": 406
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/o",
+        "w": 27,
+        "h": 55,
+        "x": 900,
+        "y": 1912,
+        "r": true,
+        "fx": -1,
+        "fy": -30,
+        "fw": 57,
+        "fh": 57
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/p",
+        "w": 27,
+        "h": 55,
+        "x": 936,
+        "y": 1636,
+        "r": true,
+        "fx": -1,
+        "fy": -30,
+        "fw": 57,
+        "fh": 57
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/q",
+        "w": 60,
+        "h": 60,
+        "x": 887,
+        "y": 468
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/r",
+        "w": 30,
+        "h": 30,
+        "x": 923,
+        "y": 632
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/s",
+        "w": 240,
+        "h": 52,
+        "x": 1,
+        "y": 2358
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/t",
+        "w": 20,
+        "h": 50,
+        "x": 965,
+        "y": 1688
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/u",
+        "w": 60,
+        "h": 60,
+        "x": 861,
+        "y": 530
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/v",
+        "w": 60,
+        "h": 60,
+        "x": 923,
+        "y": 530
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_box/w",
+        "w": 60,
+        "h": 60,
+        "x": 861,
+        "y": 592
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_shot/a",
+        "w": 34,
+        "h": 35,
+        "x": 942,
+        "y": 1359,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 35,
+        "fh": 35
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_shot/b",
+        "w": 22,
+        "h": 33,
+        "x": 936,
+        "y": 1693
+    },
+    {
+        "n": "scene/quest_result/.gen/quest_result_treasure_star/a",
+        "w": 62,
+        "h": 63,
+        "x": 531,
+        "y": 1915,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 66
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/box_deco_corner",
+        "w": 36,
+        "h": 286,
+        "x": 604,
+        "y": 1625,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 300,
+        "fh": 36
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/box_deco_pattern",
+        "w": 32,
+        "h": 286,
+        "x": 953,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 300,
+        "fh": 32
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/clear_rank_a",
+        "w": 256,
+        "h": 228,
+        "x": 243,
+        "y": 2239,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/clear_rank_b",
+        "w": 228,
+        "h": 256,
+        "x": 473,
+        "y": 1981
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/clear_rank_bg",
+        "w": 228,
+        "h": 228,
+        "x": 721,
+        "y": 1023
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/clear_rank_c",
+        "w": 256,
+        "h": 228,
+        "x": 501,
+        "y": 2239,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/clear_rank_none",
+        "w": 205,
+        "h": 205,
+        "x": 759,
+        "y": 2202
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/clear_rank_s",
+        "w": 228,
+        "h": 256,
+        "x": 721,
+        "y": 765
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/clear_rank_ss",
+        "w": 228,
+        "h": 256,
+        "x": 705,
+        "y": 1253
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/follow_bonus_background",
+        "w": 70,
+        "h": 54,
+        "x": 846,
+        "y": 2409
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/gauge_shine_effect",
+        "w": 5,
+        "h": 152,
+        "x": 935,
+        "y": 1253,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/level_up",
+        "w": 71,
+        "h": 288,
+        "x": 531,
+        "y": 1625,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/level_up_de",
+        "w": 71,
+        "h": 288,
+        "x": 632,
+        "y": 1245,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/level_up_en",
+        "w": 71,
+        "h": 288,
+        "x": 531,
+        "y": 1625,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/level_up_es",
+        "w": 71,
+        "h": 288,
+        "x": 632,
+        "y": 1245,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/level_up_fr",
+        "w": 71,
+        "h": 288,
+        "x": 632,
+        "y": 1245,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/level_up_ko",
+        "w": 71,
+        "h": 288,
+        "x": 721,
+        "y": 185,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/level_up_th",
+        "w": 71,
+        "h": 288,
+        "x": 721,
+        "y": 475,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/new_record",
+        "w": 198,
+        "h": 28,
+        "x": 1,
+        "y": 2412
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/podium",
+        "w": 780,
+        "h": 182,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up01",
+        "w": 629,
+        "h": 238,
+        "x": 1,
+        "y": 185
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up01_de",
+        "w": 629,
+        "h": 238,
+        "x": 1,
+        "y": 425
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up01_en",
+        "w": 629,
+        "h": 238,
+        "x": 1,
+        "y": 185
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up01_es",
+        "w": 629,
+        "h": 238,
+        "x": 1,
+        "y": 665
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up01_fr",
+        "w": 629,
+        "h": 238,
+        "x": 1,
+        "y": 905
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up01_ko",
+        "w": 629,
+        "h": 238,
+        "x": 1,
+        "y": 1145
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up01_th",
+        "w": 629,
+        "h": 238,
+        "x": 1,
+        "y": 1385
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up_label",
+        "w": 87,
+        "h": 528,
+        "x": 632,
+        "y": 185,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up_label_de",
+        "w": 528,
+        "h": 87,
+        "x": 1,
+        "y": 1625
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up_label_en",
+        "w": 87,
+        "h": 528,
+        "x": 632,
+        "y": 185,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up_label_es",
+        "w": 87,
+        "h": 528,
+        "x": 632,
+        "y": 715,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up_label_fr",
+        "w": 528,
+        "h": 87,
+        "x": 1,
+        "y": 1714
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up_label_ko",
+        "w": 528,
+        "h": 87,
+        "x": 1,
+        "y": 1803
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/rank_up_label_th",
+        "w": 528,
+        "h": 87,
+        "x": 1,
+        "y": 1892
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/ranking_event_clear",
+        "w": 229,
+        "h": 229,
+        "x": 705,
+        "y": 1511
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/ranking_event_new_record",
+        "w": 256,
+        "h": 228,
+        "x": 642,
+        "y": 1742,
+        "r": true
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/ranking_event_try_again",
+        "w": 228,
+        "h": 228,
+        "x": 703,
+        "y": 1972
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0001",
+        "w": 18,
+        "h": 18,
+        "x": 867,
+        "y": 406
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0002",
+        "w": 26,
+        "h": 26,
+        "x": 859,
+        "y": 689
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0003",
+        "w": 33,
+        "h": 33,
+        "x": 855,
+        "y": 654
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0004",
+        "w": 39,
+        "h": 38,
+        "x": 923,
+        "y": 592
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0005",
+        "w": 43,
+        "h": 42,
+        "x": 942,
+        "y": 1253
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0006",
+        "w": 45,
+        "h": 45,
+        "x": 595,
+        "y": 1915
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0007",
+        "w": 48,
+        "h": 48,
+        "x": 918,
+        "y": 2409
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0008",
+        "w": 49,
+        "h": 49,
+        "x": 935,
+        "y": 1459
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0009",
+        "w": 50,
+        "h": 50,
+        "x": 935,
+        "y": 1407
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0010",
+        "w": 51,
+        "h": 51,
+        "x": 642,
+        "y": 1686
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0011",
+        "w": 52,
+        "h": 52,
+        "x": 933,
+        "y": 2016
+    },
+    {
+        "n": "scene/quest_result/sprite_sheet-assets/score_circle_effect0012",
+        "w": 52,
+        "h": 52,
+        "x": 933,
+        "y": 2070
+    }
+]

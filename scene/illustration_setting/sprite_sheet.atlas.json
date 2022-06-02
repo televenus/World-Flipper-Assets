@@ -1,0 +1,54 @@
+[
+    {
+        "n": "scene/illustration_setting/sprite_sheet/illustration_setting-assets/background",
+        "w": 80,
+        "h": 80,
+        "x": 143,
+        "y": 171
+    },
+    {
+        "n": "scene/illustration_setting/sprite_sheet/illustration_setting-assets/grayout",
+        "w": 80,
+        "h": 80,
+        "x": 143,
+        "y": 253
+    },
+    {
+        "n": "scene/illustration_setting/sprite_sheet/illustration_setting-assets/illustration_border",
+        "w": 50,
+        "h": 50,
+        "x": 158,
+        "y": 335
+    },
+    {
+        "n": "scene/illustration_setting/sprite_sheet/illustration_setting-assets/selected_frame",
+        "w": 108,
+        "h": 166,
+        "x": 143,
+        "y": 3,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 168,
+        "fh": 110
+    },
+    {
+        "n": "scene/illustration_setting/sprite_sheet/illustration_setting-assets/skill_chain_border",
+        "w": 153,
+        "h": 135,
+        "x": 3,
+        "y": 348,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 137,
+        "fh": 153
+    },
+    {
+        "n": "scene/illustration_setting/sprite_sheet/illustration_setting-assets/skill_guide_border",
+        "w": 138,
+        "h": 343,
+        "x": 3,
+        "y": 3
+    }
+]

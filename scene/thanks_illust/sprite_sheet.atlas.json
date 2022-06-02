@@ -1,0 +1,31 @@
+[
+    {
+        "n": "scene/thanks_illust/illust-assets/tap_screen",
+        "w": 347,
+        "h": 41,
+        "x": 1013,
+        "y": 1926,
+        "fx": 0,
+        "fy": -1,
+        "fw": 347,
+        "fh": 42
+    },
+    {
+        "n": "scene/thanks_illust/illust-assets/tap_screen_bg",
+        "w": 1007,
+        "h": 100,
+        "x": 2,
+        "y": 1926,
+        "fx": -3,
+        "fy": 0,
+        "fw": 1013,
+        "fh": 100
+    },
+    {
+        "n": "scene/thanks_illust/illust-assets/thx_illust",
+        "w": 1440,
+        "h": 1920,
+        "x": 2,
+        "y": 2
+    }
+]

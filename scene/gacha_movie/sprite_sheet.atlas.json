@@ -1,0 +1,7599 @@
+[
+    {
+        "n": "scene/gacha_movie/.gen/amulet/a",
+        "w": 10,
+        "h": 10,
+        "x": 707,
+        "y": 1012,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/b",
+        "w": 10,
+        "h": 10,
+        "x": 275,
+        "y": 1005,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/c",
+        "w": 10,
+        "h": 10,
+        "x": 706,
+        "y": 1276,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/d",
+        "w": 10,
+        "h": 10,
+        "x": 607,
+        "y": 1413,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/e",
+        "w": 10,
+        "h": 10,
+        "x": 1648,
+        "y": 727,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/f",
+        "w": 10,
+        "h": 10,
+        "x": 1650,
+        "y": 1303,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/g",
+        "w": 12,
+        "h": 12,
+        "x": 577,
+        "y": 1311,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/h",
+        "w": 12,
+        "h": 12,
+        "x": 802,
+        "y": 1435,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/i",
+        "w": 12,
+        "h": 12,
+        "x": 1349,
+        "y": 1580,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/j",
+        "w": 12,
+        "h": 12,
+        "x": 591,
+        "y": 1311,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet/k",
+        "w": 12,
+        "h": 12,
+        "x": 1349,
+        "y": 1594,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/b",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/c",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/e",
+        "w": 25,
+        "h": 26,
+        "x": 609,
+        "y": 1638,
+        "fx": -2,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/f",
+        "w": 19,
+        "h": 19,
+        "x": 1604,
+        "y": 1521,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/g",
+        "w": 18,
+        "h": 18,
+        "x": 926,
+        "y": 1017,
+        "fx": -3,
+        "fy": -3,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/h",
+        "w": 26,
+        "h": 26,
+        "x": 1638,
+        "y": 1007,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/i",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/j",
+        "w": 99,
+        "h": 100,
+        "x": 525,
+        "y": 1452,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/k",
+        "w": 29,
+        "h": 39,
+        "x": 1277,
+        "y": 1582,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get/l",
+        "w": 10,
+        "h": 50,
+        "x": 913,
+        "y": 1296
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_get_black/a",
+        "w": 10,
+        "h": 30,
+        "x": 1019,
+        "y": 1394,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/a",
+        "w": 24,
+        "h": 24,
+        "x": 337,
+        "y": 1638,
+        "fx": -1,
+        "fy": -1,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/b",
+        "w": 26,
+        "h": 26,
+        "x": 1638,
+        "y": 1007,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/c",
+        "w": 50,
+        "h": 25,
+        "x": 1612,
+        "y": 1120
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/d",
+        "w": 25,
+        "h": 25,
+        "x": 663,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/e",
+        "w": 10,
+        "h": 50,
+        "x": 1509,
+        "y": 1454
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/f",
+        "w": 50,
+        "h": 10,
+        "x": 1257,
+        "y": 1024,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/g",
+        "w": 20,
+        "h": 25,
+        "x": 1597,
+        "y": 1463
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/h",
+        "w": 20,
+        "h": 25,
+        "x": 1603,
+        "y": 1542
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/i",
+        "w": 50,
+        "h": 50,
+        "x": 1466,
+        "y": 1402,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/j",
+        "w": 10,
+        "h": 50,
+        "x": 913,
+        "y": 1296
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/k",
+        "w": 10,
+        "h": 10,
+        "x": 557,
+        "y": 1586
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/l",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/m",
+        "w": 19,
+        "h": 29,
+        "x": 1604,
+        "y": 1490,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/n",
+        "w": 28,
+        "h": 28,
+        "x": 687,
+        "y": 973
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/o",
+        "w": 9,
+        "h": 10,
+        "x": 903,
+        "y": 1450,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/p",
+        "w": 10,
+        "h": 9,
+        "x": 1450,
+        "y": 1056,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_shine/q",
+        "w": 40,
+        "h": 40,
+        "x": 1619,
+        "y": 253,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_spotlight/a",
+        "w": 500,
+        "h": 500,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_spotlight/b",
+        "w": 32,
+        "h": 32,
+        "x": 469,
+        "y": 503
+    },
+    {
+        "n": "scene/gacha_movie/.gen/amulet_spotlight/c",
+        "w": 16,
+        "h": 500,
+        "x": 275,
+        "y": 503
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0006",
+        "w": 22,
+        "h": 22,
+        "x": 1323,
+        "y": 1159,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0012",
+        "w": 24,
+        "h": 24,
+        "x": 1640,
+        "y": 1428,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0018",
+        "w": 22,
+        "h": 22,
+        "x": 129,
+        "y": 1642,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0024",
+        "w": 22,
+        "h": 22,
+        "x": 153,
+        "y": 1642,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0030",
+        "w": 22,
+        "h": 22,
+        "x": 177,
+        "y": 1642,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0036",
+        "w": 22,
+        "h": 22,
+        "x": 201,
+        "y": 1642,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0042",
+        "w": 22,
+        "h": 22,
+        "x": 225,
+        "y": 1642,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0048",
+        "w": 22,
+        "h": 22,
+        "x": 1602,
+        "y": 1590,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0055",
+        "w": 22,
+        "h": 22,
+        "x": 1519,
+        "y": 1616,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0061",
+        "w": 22,
+        "h": 22,
+        "x": 1543,
+        "y": 1616,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0067",
+        "w": 22,
+        "h": 22,
+        "x": 1567,
+        "y": 1614,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0073",
+        "w": 24,
+        "h": 24,
+        "x": 1640,
+        "y": 1454,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0079",
+        "w": 24,
+        "h": 24,
+        "x": 1640,
+        "y": 1480,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0085",
+        "w": 18,
+        "h": 18,
+        "x": 946,
+        "y": 1017,
+        "fx": -6,
+        "fy": -6,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0091",
+        "w": 22,
+        "h": 22,
+        "x": 1591,
+        "y": 1614,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0097",
+        "w": 22,
+        "h": 22,
+        "x": 1615,
+        "y": 1614,
+        "fx": -4,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0103",
+        "w": 24,
+        "h": 24,
+        "x": 1625,
+        "y": 1533,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0110",
+        "w": 24,
+        "h": 24,
+        "x": 1625,
+        "y": 1559,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0116",
+        "w": 18,
+        "h": 18,
+        "x": 966,
+        "y": 1017,
+        "fx": -6,
+        "fy": -6,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0122",
+        "w": 24,
+        "h": 24,
+        "x": 1626,
+        "y": 1585,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0128",
+        "w": 24,
+        "h": 24,
+        "x": 1363,
+        "y": 1604,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0134",
+        "w": 26,
+        "h": 26,
+        "x": 1638,
+        "y": 1035,
+        "fx": -2,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0140",
+        "w": 26,
+        "h": 26,
+        "x": 253,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0146",
+        "w": 24,
+        "h": 24,
+        "x": 1389,
+        "y": 1604,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0152",
+        "w": 24,
+        "h": 24,
+        "x": 1415,
+        "y": 1610,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0158",
+        "w": 26,
+        "h": 26,
+        "x": 281,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/ball/f0165",
+        "w": 26,
+        "h": 26,
+        "x": 309,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_back/a",
+        "w": 272,
+        "h": 424,
+        "x": 1,
+        "y": 1070
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_back/b",
+        "w": 10,
+        "h": 20,
+        "x": 1105,
+        "y": 1479,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_back/c",
+        "w": 560,
+        "h": 242,
+        "x": 503,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 242,
+        "fh": 566
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_back/d",
+        "w": 27,
+        "h": 13,
+        "x": 1076,
+        "y": 1580,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_back/e",
+        "w": 13,
+        "h": 27,
+        "x": 1651,
+        "y": 1398,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_back/f",
+        "w": 6,
+        "h": 12,
+        "x": 701,
+        "y": 1413,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_back/g",
+        "w": 12,
+        "h": 6,
+        "x": 1619,
+        "y": 295,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/a",
+        "w": 10,
+        "h": 10,
+        "x": 1201,
+        "y": 1582,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/aa",
+        "w": 19,
+        "h": 10,
+        "x": 253,
+        "y": 1588,
+        "fx": -2,
+        "fy": -1,
+        "fw": 22,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/ab",
+        "w": 6,
+        "h": 12,
+        "x": 701,
+        "y": 1413,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/ac",
+        "w": 12,
+        "h": 6,
+        "x": 1619,
+        "y": 295,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/ad",
+        "w": 2,
+        "h": 7,
+        "x": 1462,
+        "y": 727,
+        "fx": -1,
+        "fy": -2,
+        "fw": 4,
+        "fh": 10
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/ae",
+        "w": 7,
+        "h": 2,
+        "x": 1450,
+        "y": 1155,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 4,
+        "fh": 10
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/af",
+        "w": 10,
+        "h": 9,
+        "x": 437,
+        "y": 557,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/ag",
+        "w": 20,
+        "h": 20,
+        "x": 1347,
+        "y": 1159,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/b",
+        "w": 4,
+        "h": 9,
+        "x": 1660,
+        "y": 727,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/c",
+        "w": 4,
+        "h": 9,
+        "x": 569,
+        "y": 1586,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/d",
+        "w": 19,
+        "h": 20,
+        "x": 1619,
+        "y": 1463,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/e",
+        "w": 20,
+        "h": 19,
+        "x": 1603,
+        "y": 1569,
+        "fx": -1,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/f",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/g",
+        "w": 26,
+        "h": 26,
+        "x": 1638,
+        "y": 1007,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/h",
+        "w": 29,
+        "h": 29,
+        "x": 1268,
+        "y": 1632,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/i",
+        "w": 25,
+        "h": 26,
+        "x": 609,
+        "y": 1638,
+        "fx": -2,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/j",
+        "w": 40,
+        "h": 40,
+        "x": 1521,
+        "y": 1490,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/k",
+        "w": 99,
+        "h": 100,
+        "x": 525,
+        "y": 1452,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/l",
+        "w": 40,
+        "h": 40,
+        "x": 1519,
+        "y": 1532,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/m",
+        "w": 10,
+        "h": 30,
+        "x": 1019,
+        "y": 1394,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/n",
+        "w": 39,
+        "h": 39,
+        "x": 1561,
+        "y": 1573,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/o",
+        "w": 96,
+        "h": 95,
+        "x": 1119,
+        "y": 1352,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/p",
+        "w": 30,
+        "h": 30,
+        "x": 469,
+        "y": 537,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/q",
+        "w": 170,
+        "h": 118,
+        "x": 1466,
+        "y": 947
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/r",
+        "w": 18,
+        "h": 18,
+        "x": 926,
+        "y": 1017,
+        "fx": -3,
+        "fy": -3,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/s",
+        "w": 95,
+        "h": 167,
+        "x": 1120,
+        "y": 1183,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 167,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/t",
+        "w": 10,
+        "h": 10,
+        "x": 1309,
+        "y": 1024,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/u",
+        "w": 160,
+        "h": 86,
+        "x": 1450,
+        "y": 1067
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/v",
+        "w": 20,
+        "h": 20,
+        "x": 1553,
+        "y": 303,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/w",
+        "w": 148,
+        "h": 64,
+        "x": 905,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/x",
+        "w": 60,
+        "h": 28,
+        "x": 1342,
+        "y": 1339,
+        "fx": -1,
+        "fy": -3,
+        "fw": 62,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/y",
+        "w": 27,
+        "h": 13,
+        "x": 1076,
+        "y": 1580,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_front/z",
+        "w": 13,
+        "h": 27,
+        "x": 1651,
+        "y": 1398,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/aa",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/ac",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/ad",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/ae",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/af",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/ag",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/ah",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/ai",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/j",
+        "w": 170,
+        "h": 118,
+        "x": 1466,
+        "y": 947
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/k",
+        "w": 95,
+        "h": 167,
+        "x": 1120,
+        "y": 1183,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 167,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/l",
+        "w": 160,
+        "h": 86,
+        "x": 1450,
+        "y": 1067
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/m",
+        "w": 148,
+        "h": 64,
+        "x": 905,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/n",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/o",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/p",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/q",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/r",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/s",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/t",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/u",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/v",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/w",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/x",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/y",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_once/z",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_back/a",
+        "w": 272,
+        "h": 424,
+        "x": 1,
+        "y": 1070
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_back/b",
+        "w": 10,
+        "h": 20,
+        "x": 1105,
+        "y": 1479,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_back/c",
+        "w": 560,
+        "h": 242,
+        "x": 503,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 242,
+        "fh": 566
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_back/d",
+        "w": 27,
+        "h": 13,
+        "x": 1076,
+        "y": 1580,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_back/e",
+        "w": 13,
+        "h": 27,
+        "x": 1651,
+        "y": 1398,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_back/f",
+        "w": 6,
+        "h": 12,
+        "x": 701,
+        "y": 1413,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_back/g",
+        "w": 12,
+        "h": 6,
+        "x": 1619,
+        "y": 295,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/aa",
+        "w": 50,
+        "h": 50,
+        "x": 1363,
+        "y": 1500
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ab",
+        "w": 26,
+        "h": 58,
+        "x": 1638,
+        "y": 947,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 64
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ac",
+        "w": 35,
+        "h": 57,
+        "x": 1420,
+        "y": 1449,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 63
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ad",
+        "w": 20,
+        "h": 38,
+        "x": 253,
+        "y": 1548,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 26
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ae",
+        "w": 30,
+        "h": 29,
+        "x": 767,
+        "y": 1631,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/af",
+        "w": 79,
+        "h": 79,
+        "x": 1201,
+        "y": 1501,
+        "fx": 0,
+        "fy": -1,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ag",
+        "w": 79,
+        "h": 79,
+        "x": 1282,
+        "y": 1499,
+        "fx": 0,
+        "fy": -1,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ah",
+        "w": 79,
+        "h": 79,
+        "x": 1322,
+        "y": 1369,
+        "fx": 0,
+        "fy": -1,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ai",
+        "w": 89,
+        "h": 88,
+        "x": 1575,
+        "y": 303
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/aj",
+        "w": 86,
+        "h": 75,
+        "x": 1031,
+        "y": 1350
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ak",
+        "w": 88,
+        "h": 88,
+        "x": 898,
+        "y": 1573
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/al",
+        "w": 86,
+        "h": 75,
+        "x": 988,
+        "y": 1580
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/am",
+        "w": 96,
+        "h": 50,
+        "x": 816,
+        "y": 1398
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/an",
+        "w": 103,
+        "h": 76,
+        "x": 1217,
+        "y": 1369
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ao",
+        "w": 103,
+        "h": 76,
+        "x": 914,
+        "y": 1394
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ap",
+        "w": 96,
+        "h": 50,
+        "x": 1019,
+        "y": 1427
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/aq",
+        "w": 60,
+        "h": 104,
+        "x": 625,
+        "y": 897,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ar",
+        "w": 84,
+        "h": 17,
+        "x": 1467,
+        "y": 303,
+        "fx": 0,
+        "fy": -1,
+        "fw": 84,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/as",
+        "w": 27,
+        "h": 13,
+        "x": 1076,
+        "y": 1580,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/at",
+        "w": 13,
+        "h": 27,
+        "x": 1651,
+        "y": 1398,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/au",
+        "w": 19,
+        "h": 10,
+        "x": 253,
+        "y": 1588,
+        "fx": -2,
+        "fy": -1,
+        "fw": 22,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/av",
+        "w": 6,
+        "h": 12,
+        "x": 701,
+        "y": 1413,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/aw",
+        "w": 12,
+        "h": 6,
+        "x": 1619,
+        "y": 295,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ax",
+        "w": 2,
+        "h": 7,
+        "x": 1462,
+        "y": 727,
+        "fx": -1,
+        "fy": -2,
+        "fw": 4,
+        "fh": 10
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/ay",
+        "w": 7,
+        "h": 2,
+        "x": 1450,
+        "y": 1155,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 4,
+        "fh": 10
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/b",
+        "w": 26,
+        "h": 26,
+        "x": 1638,
+        "y": 1007,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/c",
+        "w": 29,
+        "h": 29,
+        "x": 1268,
+        "y": 1632,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/d",
+        "w": 25,
+        "h": 26,
+        "x": 609,
+        "y": 1638,
+        "fx": -2,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/e",
+        "w": 40,
+        "h": 40,
+        "x": 1521,
+        "y": 1490,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/f",
+        "w": 99,
+        "h": 100,
+        "x": 525,
+        "y": 1452,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/g",
+        "w": 40,
+        "h": 40,
+        "x": 1519,
+        "y": 1532,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/h",
+        "w": 10,
+        "h": 30,
+        "x": 1019,
+        "y": 1394,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/i",
+        "w": 39,
+        "h": 39,
+        "x": 1561,
+        "y": 1573,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/j",
+        "w": 96,
+        "h": 95,
+        "x": 1119,
+        "y": 1352,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/k",
+        "w": 30,
+        "h": 30,
+        "x": 469,
+        "y": 537,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/l",
+        "w": 170,
+        "h": 118,
+        "x": 1466,
+        "y": 947
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/m",
+        "w": 18,
+        "h": 18,
+        "x": 926,
+        "y": 1017,
+        "fx": -3,
+        "fy": -3,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/n",
+        "w": 95,
+        "h": 167,
+        "x": 1120,
+        "y": 1183,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 167,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/o",
+        "w": 10,
+        "h": 10,
+        "x": 1309,
+        "y": 1024,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/p",
+        "w": 160,
+        "h": 86,
+        "x": 1450,
+        "y": 1067
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/q",
+        "w": 20,
+        "h": 20,
+        "x": 1553,
+        "y": 303,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/r",
+        "w": 148,
+        "h": 64,
+        "x": 905,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/s",
+        "w": 60,
+        "h": 28,
+        "x": 1342,
+        "y": 1339,
+        "fx": -1,
+        "fy": -3,
+        "fw": 62,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/t",
+        "w": 400,
+        "h": 324,
+        "x": 503,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/u",
+        "w": 400,
+        "h": 324,
+        "x": 1065,
+        "y": 1
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/v",
+        "w": 319,
+        "h": 400,
+        "x": 695,
+        "y": 571,
+        "r": true,
+        "fx": 0,
+        "fy": -5,
+        "fw": 400,
+        "fh": 324
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/w",
+        "w": 400,
+        "h": 324,
+        "x": 293,
+        "y": 571
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/x",
+        "w": 50,
+        "h": 50,
+        "x": 1457,
+        "y": 1454
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/y",
+        "w": 200,
+        "h": 112,
+        "x": 723,
+        "y": 1182,
+        "fx": 0,
+        "fy": -3,
+        "fw": 200,
+        "fh": 115
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front/z",
+        "w": 50,
+        "h": 50,
+        "x": 1465,
+        "y": 1506
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/aa",
+        "w": 50,
+        "h": 50,
+        "x": 1363,
+        "y": 1500
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ab",
+        "w": 26,
+        "h": 58,
+        "x": 1638,
+        "y": 947,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 64
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ac",
+        "w": 35,
+        "h": 57,
+        "x": 1420,
+        "y": 1449,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 63
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ad",
+        "w": 20,
+        "h": 38,
+        "x": 253,
+        "y": 1548,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 26
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ae",
+        "w": 30,
+        "h": 29,
+        "x": 767,
+        "y": 1631,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/af",
+        "w": 79,
+        "h": 79,
+        "x": 1201,
+        "y": 1501,
+        "fx": 0,
+        "fy": -1,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ag",
+        "w": 79,
+        "h": 79,
+        "x": 1282,
+        "y": 1499,
+        "fx": 0,
+        "fy": -1,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ah",
+        "w": 79,
+        "h": 79,
+        "x": 1322,
+        "y": 1369,
+        "fx": 0,
+        "fy": -1,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ai",
+        "w": 89,
+        "h": 88,
+        "x": 1575,
+        "y": 303
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/aj",
+        "w": 86,
+        "h": 75,
+        "x": 1031,
+        "y": 1350
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ak",
+        "w": 88,
+        "h": 88,
+        "x": 898,
+        "y": 1573
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/al",
+        "w": 86,
+        "h": 75,
+        "x": 988,
+        "y": 1580
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/am",
+        "w": 96,
+        "h": 50,
+        "x": 816,
+        "y": 1398
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/an",
+        "w": 103,
+        "h": 76,
+        "x": 1217,
+        "y": 1369
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ao",
+        "w": 103,
+        "h": 76,
+        "x": 914,
+        "y": 1394
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ap",
+        "w": 96,
+        "h": 50,
+        "x": 1019,
+        "y": 1427
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/aq",
+        "w": 60,
+        "h": 104,
+        "x": 625,
+        "y": 897,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ar",
+        "w": 84,
+        "h": 17,
+        "x": 1467,
+        "y": 303,
+        "fx": 0,
+        "fy": -1,
+        "fw": 84,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/as",
+        "w": 27,
+        "h": 13,
+        "x": 1076,
+        "y": 1580,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/at",
+        "w": 13,
+        "h": 27,
+        "x": 1651,
+        "y": 1398,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/au",
+        "w": 19,
+        "h": 10,
+        "x": 253,
+        "y": 1588,
+        "fx": -2,
+        "fy": -1,
+        "fw": 22,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/av",
+        "w": 6,
+        "h": 12,
+        "x": 701,
+        "y": 1413,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/aw",
+        "w": 12,
+        "h": 6,
+        "x": 1619,
+        "y": 295,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 8
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ax",
+        "w": 2,
+        "h": 7,
+        "x": 1462,
+        "y": 727,
+        "fx": -1,
+        "fy": -2,
+        "fw": 4,
+        "fh": 10
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/ay",
+        "w": 7,
+        "h": 2,
+        "x": 1450,
+        "y": 1155,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 4,
+        "fh": 10
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/b",
+        "w": 26,
+        "h": 26,
+        "x": 1638,
+        "y": 1007,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/c",
+        "w": 29,
+        "h": 29,
+        "x": 1268,
+        "y": 1632,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/d",
+        "w": 25,
+        "h": 26,
+        "x": 609,
+        "y": 1638,
+        "fx": -2,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/e",
+        "w": 40,
+        "h": 40,
+        "x": 1521,
+        "y": 1490,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/f",
+        "w": 99,
+        "h": 100,
+        "x": 525,
+        "y": 1452,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/g",
+        "w": 40,
+        "h": 40,
+        "x": 1519,
+        "y": 1532,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/h",
+        "w": 10,
+        "h": 30,
+        "x": 1019,
+        "y": 1394,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/i",
+        "w": 39,
+        "h": 39,
+        "x": 1561,
+        "y": 1573,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/j",
+        "w": 96,
+        "h": 95,
+        "x": 1119,
+        "y": 1352,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/k",
+        "w": 30,
+        "h": 30,
+        "x": 469,
+        "y": 537,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/l",
+        "w": 170,
+        "h": 118,
+        "x": 1466,
+        "y": 947
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/m",
+        "w": 18,
+        "h": 18,
+        "x": 926,
+        "y": 1017,
+        "fx": -3,
+        "fy": -3,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/n",
+        "w": 95,
+        "h": 167,
+        "x": 1120,
+        "y": 1183,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 167,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/o",
+        "w": 10,
+        "h": 10,
+        "x": 1309,
+        "y": 1024,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/p",
+        "w": 160,
+        "h": 86,
+        "x": 1450,
+        "y": 1067
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/q",
+        "w": 20,
+        "h": 20,
+        "x": 1553,
+        "y": 303,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/r",
+        "w": 148,
+        "h": 64,
+        "x": 905,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/s",
+        "w": 60,
+        "h": 28,
+        "x": 1342,
+        "y": 1339,
+        "fx": -1,
+        "fy": -3,
+        "fw": 62,
+        "fh": 32
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/t",
+        "w": 400,
+        "h": 324,
+        "x": 503,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/u",
+        "w": 400,
+        "h": 324,
+        "x": 1065,
+        "y": 1
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/v",
+        "w": 319,
+        "h": 400,
+        "x": 695,
+        "y": 571,
+        "r": true,
+        "fx": 0,
+        "fy": -5,
+        "fw": 400,
+        "fh": 324
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/w",
+        "w": 400,
+        "h": 324,
+        "x": 293,
+        "y": 571
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/x",
+        "w": 50,
+        "h": 50,
+        "x": 1457,
+        "y": 1454
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/y",
+        "w": 200,
+        "h": 112,
+        "x": 723,
+        "y": 1182,
+        "fx": 0,
+        "fy": -3,
+        "fw": 200,
+        "fh": 115
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_front_b/z",
+        "w": 50,
+        "h": 50,
+        "x": 1465,
+        "y": 1506
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/j",
+        "w": 170,
+        "h": 118,
+        "x": 1466,
+        "y": 947
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/k",
+        "w": 95,
+        "h": 167,
+        "x": 1120,
+        "y": 1183,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 167,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/l",
+        "w": 160,
+        "h": 86,
+        "x": 1450,
+        "y": 1067
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/m",
+        "w": 148,
+        "h": 64,
+        "x": 905,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/n",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_op_once/o",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_0/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_1/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_2/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_3/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_4/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_5/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_6/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_7/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/aj",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/j",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/k",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/l",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/m",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/n",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/o",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/p",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/q",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/r",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/s",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/t",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/u",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/v",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_8/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/a",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/aa",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/ab",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/ac",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/ad",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/ae",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/af",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/ag",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/ah",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/ai",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/aj",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/ak",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/b",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/c",
+        "w": 39,
+        "h": 15,
+        "x": 1118,
+        "y": 1649,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/d",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/e",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/f",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/g",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/h",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/i",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/j",
+        "w": 170,
+        "h": 118,
+        "x": 1466,
+        "y": 947
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/k",
+        "w": 95,
+        "h": 167,
+        "x": 1120,
+        "y": 1183,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 167,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/l",
+        "w": 160,
+        "h": 86,
+        "x": 1450,
+        "y": 1067
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/m",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/n",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/o",
+        "w": 88,
+        "h": 42,
+        "x": 926,
+        "y": 973,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/p",
+        "w": 148,
+        "h": 64,
+        "x": 905,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/q",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/r",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/s",
+        "w": 40,
+        "h": 15,
+        "x": 1076,
+        "y": 1649,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 18
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/t",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/u",
+        "w": 58,
+        "h": 56,
+        "x": 363,
+        "y": 1600,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 58,
+        "fh": 60
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/v",
+        "w": 25,
+        "h": 25,
+        "x": 690,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/w",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/x",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/y",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/entry_movie_ten_9/z",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_background/a",
+        "w": 272,
+        "h": 565,
+        "x": 1,
+        "y": 503
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_fade_out/a",
+        "w": 100,
+        "h": 100,
+        "x": 423,
+        "y": 1452
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_fade_out/b",
+        "w": 10,
+        "h": 9,
+        "x": 437,
+        "y": 557,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log/a",
+        "w": 94,
+        "h": 94,
+        "x": 1105,
+        "y": 1501,
+        "fx": -1,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log/b",
+        "w": 100,
+        "h": 100,
+        "x": 607,
+        "y": 1311,
+        "fx": -2,
+        "fy": -2,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log/c",
+        "w": 4,
+        "h": 30,
+        "x": 1450,
+        "y": 1024
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log/d",
+        "w": 4,
+        "h": 37,
+        "x": 717,
+        "y": 973
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log_move/bitmaps/gacha_pocket04",
+        "w": 146,
+        "h": 146,
+        "x": 1369,
+        "y": 1159
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log_move/bitmaps/gacha_pocket05",
+        "w": 146,
+        "h": 146,
+        "x": 1517,
+        "y": 1155
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log_move/bitmaps/gacha_pocket06",
+        "w": 146,
+        "h": 146,
+        "x": 275,
+        "y": 1452
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log_pick/a",
+        "w": 94,
+        "h": 94,
+        "x": 802,
+        "y": 1551,
+        "fx": -1,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log_star/bitmaps/gacha_log_star01",
+        "w": 73,
+        "h": 121,
+        "x": 626,
+        "y": 1413,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log_star/bitmaps/gacha_log_star02",
+        "w": 73,
+        "h": 93,
+        "x": 727,
+        "y": 1536,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_log_star/bitmaps/gacha_log_star03",
+        "w": 116,
+        "h": 42,
+        "x": 913,
+        "y": 1350
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_new/a",
+        "w": 201,
+        "h": 207,
+        "x": 723,
+        "y": 973,
+        "fx": -5,
+        "fy": -19,
+        "fw": 230,
+        "fh": 230
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_new/b",
+        "w": 180,
+        "h": 218,
+        "x": 1466,
+        "y": 727,
+        "r": true,
+        "fx": -4,
+        "fy": -13,
+        "fw": 226,
+        "fh": 205
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_screen_shine/a",
+        "w": 100,
+        "h": 50,
+        "x": 1117,
+        "y": 1449,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 102
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_screen_shine/b",
+        "w": 50,
+        "h": 10,
+        "x": 1257,
+        "y": 1024,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_screen_shine/c",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_screen_shine/d",
+        "w": 10,
+        "h": 50,
+        "x": 1509,
+        "y": 1454
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_screen_shine/e",
+        "w": 100,
+        "h": 50,
+        "x": 1219,
+        "y": 1447,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 102
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_wall/a",
+        "w": 12,
+        "h": 12,
+        "x": 423,
+        "y": 557,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "scene/gacha_movie/.gen/gacha_wall/b",
+        "w": 4,
+        "h": 10,
+        "x": 287,
+        "y": 1005,
+        "fx": -1,
+        "fy": -1,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/a",
+        "w": 20,
+        "h": 20,
+        "x": 1347,
+        "y": 1159,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/aa",
+        "w": 330,
+        "h": 125,
+        "x": 293,
+        "y": 897,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/ab",
+        "w": 61,
+        "h": 53,
+        "x": 1404,
+        "y": 1339,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/ac",
+        "w": 330,
+        "h": 125,
+        "x": 275,
+        "y": 1325,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/b",
+        "w": 128,
+        "h": 4,
+        "x": 293,
+        "y": 557,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 4,
+        "fh": 145
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/c",
+        "w": 105,
+        "h": 35,
+        "x": 709,
+        "y": 1398
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/d",
+        "w": 61,
+        "h": 53,
+        "x": 1403,
+        "y": 1394,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/e",
+        "w": 50,
+        "h": 50,
+        "x": 1363,
+        "y": 1552
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/f",
+        "w": 170,
+        "h": 118,
+        "x": 1466,
+        "y": 947
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/g",
+        "w": 95,
+        "h": 167,
+        "x": 1120,
+        "y": 1183,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 167,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/h",
+        "w": 160,
+        "h": 86,
+        "x": 1450,
+        "y": 1067
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/i",
+        "w": 148,
+        "h": 64,
+        "x": 905,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/j",
+        "w": 100,
+        "h": 100,
+        "x": 709,
+        "y": 1296
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/k",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/l",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/m",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/n",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/o",
+        "w": 50,
+        "h": 50,
+        "x": 1415,
+        "y": 1558,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/p",
+        "w": 18,
+        "h": 18,
+        "x": 926,
+        "y": 1017,
+        "fx": -3,
+        "fy": -3,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/q",
+        "w": 150,
+        "h": 150,
+        "x": 1217,
+        "y": 1183
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/r",
+        "w": 49,
+        "h": 49,
+        "x": 575,
+        "y": 1554,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/s",
+        "w": 10,
+        "h": 10,
+        "x": 956,
+        "y": 311,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/t",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/u",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2000,
+        "fh": 2000
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/v",
+        "w": 300,
+        "h": 299,
+        "x": 275,
+        "y": 1024,
+        "fx": 0,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/w",
+        "w": 10,
+        "h": 10,
+        "x": 557,
+        "y": 1586
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/x",
+        "w": 197,
+        "h": 250,
+        "x": 1467,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/y",
+        "w": 125,
+        "h": 133,
+        "x": 1323,
+        "y": 1024
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_back/z",
+        "w": 53,
+        "h": 61,
+        "x": 1467,
+        "y": 1339
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/a",
+        "w": 108,
+        "h": 36,
+        "x": 253,
+        "y": 1600
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/aa",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ab",
+        "w": 99,
+        "h": 50,
+        "x": 626,
+        "y": 1536,
+        "fx": -1,
+        "fy": 0,
+        "fw": 100,
+        "fh": 50
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ac",
+        "w": 148,
+        "h": 64,
+        "x": 905,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ad",
+        "w": 99,
+        "h": 50,
+        "x": 1076,
+        "y": 1597,
+        "fx": -1,
+        "fy": 0,
+        "fw": 100,
+        "fh": 50
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ae",
+        "w": 50,
+        "h": 50,
+        "x": 1467,
+        "y": 1558,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/af",
+        "w": 75,
+        "h": 23,
+        "x": 1575,
+        "y": 545,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 25,
+        "fh": 75
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ag",
+        "w": 20,
+        "h": 50,
+        "x": 253,
+        "y": 1496
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ah",
+        "w": 40,
+        "h": 40,
+        "x": 1519,
+        "y": 1574
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ai",
+        "w": 239,
+        "h": 220,
+        "x": 1016,
+        "y": 815,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 221,
+        "fh": 241
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/aj",
+        "w": 222,
+        "h": 242,
+        "x": 905,
+        "y": 327
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ak",
+        "w": 99,
+        "h": 100,
+        "x": 525,
+        "y": 1452,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/al",
+        "w": 150,
+        "h": 48,
+        "x": 1467,
+        "y": 253,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 150
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/am",
+        "w": 20,
+        "h": 20,
+        "x": 1639,
+        "y": 1611
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/an",
+        "w": 48,
+        "h": 150,
+        "x": 1575,
+        "y": 393,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 150
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ao",
+        "w": 207,
+        "h": 207,
+        "x": 1257,
+        "y": 815,
+        "fx": -1,
+        "fy": 0,
+        "fw": 208,
+        "fh": 228
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ap",
+        "w": 193,
+        "h": 165,
+        "x": 925,
+        "y": 1183,
+        "fx": -3,
+        "fy": 0,
+        "fw": 196,
+        "fh": 167
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/aq",
+        "w": 70,
+        "h": 70,
+        "x": 423,
+        "y": 1586
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ar",
+        "w": 53,
+        "h": 61,
+        "x": 1467,
+        "y": 1339
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/as",
+        "w": 250,
+        "h": 144,
+        "x": 1,
+        "y": 1496,
+        "fx": 0,
+        "fy": -186,
+        "fw": 250,
+        "fh": 330
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/at",
+        "w": 221,
+        "h": 242,
+        "x": 1129,
+        "y": 327
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/au",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/av",
+        "w": 61,
+        "h": 53,
+        "x": 1404,
+        "y": 1339,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/aw",
+        "w": 144,
+        "h": 250,
+        "x": 577,
+        "y": 1024,
+        "r": true,
+        "fx": 0,
+        "fy": -186,
+        "fw": 250,
+        "fh": 330
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ax",
+        "w": 221,
+        "h": 242,
+        "x": 1016,
+        "y": 571
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/ay",
+        "w": 221,
+        "h": 242,
+        "x": 1239,
+        "y": 571
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/az",
+        "w": 221,
+        "h": 242,
+        "x": 1352,
+        "y": 327
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/b",
+        "w": 143,
+        "h": 144,
+        "x": 1178,
+        "y": 1037
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/c",
+        "w": 50,
+        "h": 50,
+        "x": 557,
+        "y": 1605
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/d",
+        "w": 49,
+        "h": 10,
+        "x": 905,
+        "y": 311,
+        "fx": -1,
+        "fy": 0,
+        "fw": 50,
+        "fh": 10
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/e",
+        "w": 25,
+        "h": 25,
+        "x": 636,
+        "y": 1638,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/f",
+        "w": 39,
+        "h": 29,
+        "x": 726,
+        "y": 1631,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/g",
+        "w": 50,
+        "h": 50,
+        "x": 1415,
+        "y": 1558,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/h",
+        "w": 39,
+        "h": 29,
+        "x": 1227,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/i",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/j",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/k",
+        "w": 174,
+        "h": 52,
+        "x": 293,
+        "y": 503
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/l",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/m",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 9,
+        "fh": 3
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/n",
+        "w": 61,
+        "h": 53,
+        "x": 1403,
+        "y": 1394,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/o",
+        "w": 18,
+        "h": 18,
+        "x": 926,
+        "y": 1017,
+        "fx": -3,
+        "fy": -3,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/p",
+        "w": 170,
+        "h": 118,
+        "x": 1466,
+        "y": 947
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/q",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2000,
+        "fh": 2000
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/r",
+        "w": 1,
+        "h": 1,
+        "x": 799,
+        "y": 1631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2000,
+        "fh": 2000
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/s",
+        "w": 20,
+        "h": 20,
+        "x": 1347,
+        "y": 1159,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/t",
+        "w": 250,
+        "h": 144,
+        "x": 926,
+        "y": 1037,
+        "fx": 0,
+        "fy": -186,
+        "fw": 250,
+        "fh": 330
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/u",
+        "w": 95,
+        "h": 167,
+        "x": 1120,
+        "y": 1183,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 167,
+        "fh": 96
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/v",
+        "w": 127,
+        "h": 33,
+        "x": 577,
+        "y": 1276,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/w",
+        "w": 123,
+        "h": 32,
+        "x": 1217,
+        "y": 1335,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/x",
+        "w": 126,
+        "h": 22,
+        "x": 1,
+        "y": 1642,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/y",
+        "w": 127,
+        "h": 33,
+        "x": 1521,
+        "y": 1303,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_front/z",
+        "w": 160,
+        "h": 86,
+        "x": 1450,
+        "y": 1067
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/a",
+        "w": 8,
+        "h": 8,
+        "x": 1055,
+        "y": 245
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/b",
+        "w": 52,
+        "h": 51,
+        "x": 1612,
+        "y": 1067,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/c",
+        "w": 19,
+        "h": 19,
+        "x": 1308,
+        "y": 1621,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/d",
+        "w": 51,
+        "h": 52,
+        "x": 1522,
+        "y": 1338,
+        "fx": -4,
+        "fy": -3,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/e",
+        "w": 19,
+        "h": 19,
+        "x": 1329,
+        "y": 1621,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/f",
+        "w": 30,
+        "h": 150,
+        "x": 1625,
+        "y": 393,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/g",
+        "w": 150,
+        "h": 30,
+        "x": 423,
+        "y": 1554
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/h",
+        "w": 150,
+        "h": 30,
+        "x": 1369,
+        "y": 1307
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/i",
+        "w": 50,
+        "h": 50,
+        "x": 1363,
+        "y": 1552
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/j",
+        "w": 100,
+        "h": 100,
+        "x": 709,
+        "y": 1296
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/k",
+        "w": 150,
+        "h": 150,
+        "x": 1217,
+        "y": 1183
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/l",
+        "w": 202,
+        "h": 154,
+        "x": 1462,
+        "y": 571,
+        "fx": 0,
+        "fy": 0,
+        "fw": 205,
+        "fh": 154
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/m",
+        "w": 300,
+        "h": 299,
+        "x": 275,
+        "y": 1024,
+        "fx": 0,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/n",
+        "w": 18,
+        "h": 18,
+        "x": 926,
+        "y": 1017,
+        "fx": -3,
+        "fy": -3,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/o",
+        "w": 99,
+        "h": 99,
+        "x": 701,
+        "y": 1435,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/p",
+        "w": 99,
+        "h": 99,
+        "x": 802,
+        "y": 1450,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/q",
+        "w": 99,
+        "h": 99,
+        "x": 903,
+        "y": 1472,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/r",
+        "w": 99,
+        "h": 99,
+        "x": 1004,
+        "y": 1479,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/s",
+        "w": 28,
+        "h": 28,
+        "x": 1610,
+        "y": 1433,
+        "fx": -1,
+        "fy": -1,
+        "fw": 33,
+        "fh": 33
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/t",
+        "w": 18,
+        "h": 18,
+        "x": 986,
+        "y": 1017,
+        "fx": -2,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/u",
+        "w": 39,
+        "h": 39,
+        "x": 1308,
+        "y": 1580,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/v",
+        "w": 39,
+        "h": 39,
+        "x": 1571,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/w",
+        "w": 39,
+        "h": 40,
+        "x": 1563,
+        "y": 1490,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/join_movie_firsttime_middle/x",
+        "w": 40,
+        "h": 39,
+        "x": 1561,
+        "y": 1532,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "scene/gacha_movie/.gen/object_break_add/a",
+        "w": 100,
+        "h": 100,
+        "x": 811,
+        "y": 1296
+    },
+    {
+        "n": "scene/gacha_movie/.gen/object_break_add/b",
+        "w": 80,
+        "h": 19,
+        "x": 625,
+        "y": 1003,
+        "fx": -1,
+        "fy": -2,
+        "fw": 82,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/object_break_black/a",
+        "w": 60,
+        "h": 60,
+        "x": 495,
+        "y": 1586
+    },
+    {
+        "n": "scene/gacha_movie/.gen/pin/f0011",
+        "w": 20,
+        "h": 20,
+        "x": 1639,
+        "y": 1633,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/gacha_movie/.gen/pin_hit/a",
+        "w": 25,
+        "h": 25,
+        "x": 1570,
+        "y": 1463,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/pin_hit/b",
+        "w": 10,
+        "h": 50,
+        "x": 913,
+        "y": 1296
+    },
+    {
+        "n": "scene/gacha_movie/.gen/pin_hit/c",
+        "w": 10,
+        "h": 10,
+        "x": 1159,
+        "y": 1649
+    },
+    {
+        "n": "scene/gacha_movie/.gen/pin_hit/d",
+        "w": 10,
+        "h": 10,
+        "x": 609,
+        "y": 1605
+    },
+    {
+        "n": "scene/gacha_movie/.gen/pin_hit/e",
+        "w": 10,
+        "h": 10,
+        "x": 557,
+        "y": 1586
+    },
+    {
+        "n": "scene/gacha_movie/.gen/pin_hit/f",
+        "w": 50,
+        "h": 50,
+        "x": 1575,
+        "y": 1338,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/pin_hit/g",
+        "w": 25,
+        "h": 25,
+        "x": 1625,
+        "y": 1506,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/a",
+        "w": 48,
+        "h": 48,
+        "x": 1177,
+        "y": 1597
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/b",
+        "w": 24,
+        "h": 24,
+        "x": 1467,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/c",
+        "w": 37,
+        "h": 28,
+        "x": 1612,
+        "y": 1398,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/d",
+        "w": 48,
+        "h": 48,
+        "x": 1227,
+        "y": 1582
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/e",
+        "w": 47,
+        "h": 47,
+        "x": 1522,
+        "y": 1392,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/f",
+        "w": 10,
+        "h": 9,
+        "x": 1648,
+        "y": 739,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/g",
+        "w": 10,
+        "h": 9,
+        "x": 1650,
+        "y": 1315,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/h",
+        "w": 48,
+        "h": 48,
+        "x": 626,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/i",
+        "w": 24,
+        "h": 24,
+        "x": 1493,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/j",
+        "w": 37,
+        "h": 28,
+        "x": 1571,
+        "y": 1433,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/k",
+        "w": 48,
+        "h": 48,
+        "x": 676,
+        "y": 1588
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/l",
+        "w": 47,
+        "h": 47,
+        "x": 1521,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/m",
+        "w": 10,
+        "h": 9,
+        "x": 1349,
+        "y": 1608,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/n",
+        "w": 10,
+        "h": 9,
+        "x": 1652,
+        "y": 1506,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/o",
+        "w": 48,
+        "h": 48,
+        "x": 1370,
+        "y": 1450
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/p",
+        "w": 24,
+        "h": 24,
+        "x": 1441,
+        "y": 1610
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/q",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/r",
+        "w": 37,
+        "h": 28,
+        "x": 1627,
+        "y": 1338,
+        "r": true
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/s",
+        "w": 48,
+        "h": 48,
+        "x": 1415,
+        "y": 1508
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/t",
+        "w": 47,
+        "h": 47,
+        "x": 1321,
+        "y": 1450,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/u",
+        "w": 10,
+        "h": 9,
+        "x": 607,
+        "y": 1425,
+        "fx": -1,
+        "fy": -2,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/v",
+        "w": 50,
+        "h": 50,
+        "x": 1467,
+        "y": 1558,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "scene/gacha_movie/.gen/starting_effect/w",
+        "w": 25,
+        "h": 25,
+        "x": 1570,
+        "y": 1463,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    }
+]

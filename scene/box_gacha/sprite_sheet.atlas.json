@@ -1,0 +1,721 @@
+[
+    {
+        "n": "scene/box_gacha/.gen/box_gacha_icon_unlock/a",
+        "w": 551,
+        "h": 542,
+        "x": 555,
+        "y": 289,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/.gen/box_gacha_icon_unlock/b",
+        "w": 40,
+        "h": 36,
+        "x": 663,
+        "y": 249,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/.gen/box_gacha_icon_unlock/c",
+        "w": 126,
+        "h": 126,
+        "x": 1384,
+        "y": 868,
+        "fx": 0,
+        "fy": 0,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "scene/box_gacha/.gen/box_gacha_icon_unlock/d",
+        "w": 144,
+        "h": 107,
+        "x": 1110,
+        "y": 888,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_box_shine_best/a",
+        "w": 266,
+        "h": 276,
+        "x": 1110,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_box_shine_best/b",
+        "w": 134,
+        "h": 134,
+        "x": 2094,
+        "y": 871,
+        "fx": 0,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_box_shine_best/c",
+        "w": 270,
+        "h": 270,
+        "x": 1380,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_box_shine_better/a",
+        "w": 266,
+        "h": 276,
+        "x": 1110,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_box_shine_better/b",
+        "w": 134,
+        "h": 134,
+        "x": 2094,
+        "y": 871,
+        "fx": 0,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_box_twinkle/a",
+        "w": 34,
+        "h": 34,
+        "x": 1606,
+        "y": 868,
+        "fx": -3,
+        "fy": -3,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_box_twinkle/b",
+        "w": 296,
+        "h": 6,
+        "x": 555,
+        "y": 239
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_capsule_shine_best/a",
+        "w": 266,
+        "h": 276,
+        "x": 1110,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_capsule_shine_best/b",
+        "w": 134,
+        "h": 134,
+        "x": 2094,
+        "y": 871,
+        "fx": 0,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_capsule_shine_best/c",
+        "w": 270,
+        "h": 270,
+        "x": 1380,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_capsule_shine_better/a",
+        "w": 266,
+        "h": 276,
+        "x": 1110,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_capsule_shine_better/b",
+        "w": 134,
+        "h": 134,
+        "x": 2094,
+        "y": 871,
+        "fx": 0,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_capsule_twinkle/a",
+        "w": 34,
+        "h": 34,
+        "x": 1606,
+        "y": 868,
+        "fx": -3,
+        "fy": -3,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_capsule_twinkle/b",
+        "w": 296,
+        "h": 6,
+        "x": 555,
+        "y": 239
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_shine_best/a",
+        "w": 266,
+        "h": 276,
+        "x": 1110,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_shine_best/b",
+        "w": 134,
+        "h": 134,
+        "x": 2094,
+        "y": 871,
+        "fx": 0,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_shine_best/c",
+        "w": 270,
+        "h": 270,
+        "x": 1380,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_shine_better/a",
+        "w": 266,
+        "h": 276,
+        "x": 1110,
+        "y": 334
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_shine_better/b",
+        "w": 134,
+        "h": 134,
+        "x": 2094,
+        "y": 871,
+        "fx": 0,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_twinkle/a",
+        "w": 34,
+        "h": 34,
+        "x": 1606,
+        "y": 868,
+        "fx": -3,
+        "fy": -3,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_coming_twinkle/b",
+        "w": 296,
+        "h": 6,
+        "x": 555,
+        "y": 239
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_box/a",
+        "w": 119,
+        "h": 118,
+        "x": 1258,
+        "y": 888,
+        "fx": 0,
+        "fy": 0,
+        "fw": 123,
+        "fh": 122
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_capsule/a",
+        "w": 119,
+        "h": 118,
+        "x": 1258,
+        "y": 888,
+        "fx": 0,
+        "fy": 0,
+        "fw": 123,
+        "fh": 122
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_shine_best/a",
+        "w": 536,
+        "h": 145,
+        "x": 2,
+        "y": 794
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_shine_best/b",
+        "w": 549,
+        "h": 551,
+        "x": 2,
+        "y": 239,
+        "fx": -1,
+        "fy": 0,
+        "fw": 551,
+        "fh": 551
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_shine_best/c",
+        "w": 186,
+        "h": 199,
+        "x": 1879,
+        "y": 36,
+        "fx": 0,
+        "fy": 0,
+        "fw": 186,
+        "fh": 200
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_shine_best/d",
+        "w": 270,
+        "h": 270,
+        "x": 1110,
+        "y": 614
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_shine_better/a",
+        "w": 256,
+        "h": 256,
+        "x": 1384,
+        "y": 608
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_shine_better/b",
+        "w": 186,
+        "h": 199,
+        "x": 1879,
+        "y": 36,
+        "fx": 0,
+        "fy": 0,
+        "fw": 186,
+        "fh": 200
+    },
+    {
+        "n": "scene/box_gacha/.gen/effect_get_reward_shine_better/c",
+        "w": 270,
+        "h": 270,
+        "x": 1110,
+        "y": 614
+    },
+    {
+        "n": "scene/box_gacha/.gen/reward_thumbnail_animation/a",
+        "w": 168,
+        "h": 168,
+        "x": 1868,
+        "y": 239
+    },
+    {
+        "n": "scene/box_gacha/.gen/reward_thumbnail_animation/b",
+        "w": 168,
+        "h": 168,
+        "x": 1866,
+        "y": 411
+    },
+    {
+        "n": "scene/box_gacha/.gen/reward_thumbnail_animation/c",
+        "w": 168,
+        "h": 168,
+        "x": 1866,
+        "y": 583
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_detail_button",
+        "w": 68,
+        "h": 76,
+        "x": 1794,
+        "y": 600
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_icon_bg_circle",
+        "w": 51,
+        "h": 65,
+        "x": 385,
+        "y": 943,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_icon_connection",
+        "w": 41,
+        "h": 11,
+        "x": 555,
+        "y": 274
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_icon_left_arrow",
+        "w": 32,
+        "h": 31,
+        "x": 1788,
+        "y": 289
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_icon_right_arrow",
+        "w": 32,
+        "h": 31,
+        "x": 440,
+        "y": 943
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_image_bg",
+        "w": 208,
+        "h": 262,
+        "x": 1654,
+        "y": 334,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_image_bottom",
+        "w": 953,
+        "h": 233,
+        "x": 2,
+        "y": 2,
+        "fx": -31,
+        "fy": -508,
+        "fw": 1016,
+        "fh": 840
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_image_capsules",
+        "w": 916,
+        "h": 144,
+        "x": 959,
+        "y": 36,
+        "fx": -10,
+        "fy": -6,
+        "fw": 936,
+        "fh": 150
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_image_darken",
+        "w": 262,
+        "h": 208,
+        "x": 2069,
+        "y": 2
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_image_lid",
+        "w": 67,
+        "h": 70,
+        "x": 1794,
+        "y": 680
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_image_reflection",
+        "w": 127,
+        "h": 63,
+        "x": 254,
+        "y": 943,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_title_bg_dark",
+        "w": 248,
+        "h": 31,
+        "x": 2,
+        "y": 943,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/box_title_bg_orange",
+        "w": 248,
+        "h": 175,
+        "x": 2069,
+        "y": 214,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_best_bg",
+        "w": 144,
+        "h": 144,
+        "x": 2188,
+        "y": 393,
+        "fx": -17,
+        "fy": -27,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_best_cover",
+        "w": 146,
+        "h": 160,
+        "x": 1644,
+        "y": 608,
+        "fx": -16,
+        "fy": -11,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_better_bg",
+        "w": 144,
+        "h": 144,
+        "x": 2188,
+        "y": 541,
+        "fx": -17,
+        "fy": -27,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_better_cover",
+        "w": 146,
+        "h": 160,
+        "x": 1644,
+        "y": 772,
+        "fx": -16,
+        "fy": -11,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_darken",
+        "w": 146,
+        "h": 160,
+        "x": 1794,
+        "y": 755,
+        "fx": -16,
+        "fy": -11,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_drop_best",
+        "w": 88,
+        "h": 96,
+        "x": 2242,
+        "y": 689,
+        "fx": -10,
+        "fy": -7,
+        "fw": 109,
+        "fh": 109
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_drop_better",
+        "w": 88,
+        "h": 96,
+        "x": 2242,
+        "y": 789,
+        "fx": -10,
+        "fy": -7,
+        "fw": 109,
+        "fh": 109
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_drop_normal",
+        "w": 88,
+        "h": 96,
+        "x": 1514,
+        "y": 868,
+        "fx": -10,
+        "fy": -7,
+        "fw": 109,
+        "fh": 109
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_mask",
+        "w": 144,
+        "h": 144,
+        "x": 2038,
+        "y": 575,
+        "fx": -17,
+        "fy": -27,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_normal_bg",
+        "w": 144,
+        "h": 144,
+        "x": 2094,
+        "y": 723,
+        "fx": -16,
+        "fy": -24,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_normal_cover",
+        "w": 146,
+        "h": 160,
+        "x": 1944,
+        "y": 755,
+        "fx": -16,
+        "fy": -11,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/capsule_unknown",
+        "w": 146,
+        "h": 160,
+        "x": 2038,
+        "y": 411,
+        "fx": -16,
+        "fy": -11,
+        "fw": 181,
+        "fh": 181
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/current_box_arrow",
+        "w": 38,
+        "h": 19,
+        "x": 2,
+        "y": 978
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/draw_button",
+        "w": 235,
+        "h": 165,
+        "x": 720,
+        "y": 835,
+        "fx": -2,
+        "fy": -1,
+        "fw": 237,
+        "fh": 166
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/feature_reward_bg",
+        "w": 97,
+        "h": 114,
+        "x": 2232,
+        "y": 889,
+        "r": true,
+        "fx": -12,
+        "fy": -7,
+        "fw": 126,
+        "fh": 110
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/gear1",
+        "w": 174,
+        "h": 173,
+        "x": 542,
+        "y": 835,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/gear2",
+        "w": 147,
+        "h": 146,
+        "x": 959,
+        "y": 835
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/locked_large_icon",
+        "w": 96,
+        "h": 84,
+        "x": 1794,
+        "y": 919,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_0",
+        "w": 32,
+        "h": 23,
+        "x": 959,
+        "y": 985,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_1",
+        "w": 18,
+        "h": 32,
+        "x": 1606,
+        "y": 906
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_2",
+        "w": 32,
+        "h": 23,
+        "x": 995,
+        "y": 985,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_3",
+        "w": 32,
+        "h": 24,
+        "x": 2038,
+        "y": 723,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_4",
+        "w": 25,
+        "h": 32,
+        "x": 2040,
+        "y": 239
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_5",
+        "w": 25,
+        "h": 32,
+        "x": 2040,
+        "y": 275
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_6",
+        "w": 32,
+        "h": 23,
+        "x": 1031,
+        "y": 985,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_7",
+        "w": 32,
+        "h": 23,
+        "x": 1067,
+        "y": 985,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_8",
+        "w": 24,
+        "h": 32,
+        "x": 1894,
+        "y": 919
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reset_remain_9",
+        "w": 32,
+        "h": 24,
+        "x": 1514,
+        "y": 968,
+        "r": true
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reward_lid",
+        "w": 104,
+        "h": 21,
+        "x": 555,
+        "y": 249
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reward_panel_gradation",
+        "w": 1080,
+        "h": 30,
+        "x": 959,
+        "y": 2,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1080,
+        "fh": 230
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reward_pipe_back",
+        "w": 674,
+        "h": 41,
+        "x": 1110,
+        "y": 289
+    },
+    {
+        "n": "scene/box_gacha/sprite_sheet/box_gacha-assets/reward_pipe_front",
+        "w": 905,
+        "h": 101,
+        "x": 959,
+        "y": 184
+    }
+]

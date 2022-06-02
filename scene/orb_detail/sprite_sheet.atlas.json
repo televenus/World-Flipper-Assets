@@ -1,0 +1,39 @@
+[
+    {
+        "n": "scene/orb_detail/frame-assets/rarity_1",
+        "w": 682,
+        "h": 1212,
+        "x": 3,
+        "y": 3
+    },
+    {
+        "n": "scene/orb_detail/frame-assets/rarity_2",
+        "w": 1212,
+        "h": 682,
+        "x": 3,
+        "y": 1217,
+        "r": true
+    },
+    {
+        "n": "scene/orb_detail/frame-assets/rarity_3",
+        "w": 682,
+        "h": 1212,
+        "x": 687,
+        "y": 3
+    },
+    {
+        "n": "scene/orb_detail/frame-assets/rarity_4",
+        "w": 1212,
+        "h": 682,
+        "x": 1217,
+        "y": 1217,
+        "r": true
+    },
+    {
+        "n": "scene/orb_detail/frame-assets/rarity_5",
+        "w": 682,
+        "h": 1212,
+        "x": 1371,
+        "y": 3
+    }
+]

@@ -1,0 +1,962 @@
+[
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_boost/a",
+        "w": 8,
+        "h": 33,
+        "x": 439,
+        "y": 1472,
+        "r": true,
+        "fx": -3,
+        "fy": -6,
+        "fw": 38,
+        "fh": 19
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_boost/b",
+        "w": 217,
+        "h": 132,
+        "x": 243,
+        "y": 2266,
+        "fx": -16,
+        "fy": -5,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_boost/c",
+        "w": 85,
+        "h": 89,
+        "x": 798,
+        "y": 2347
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_boost/d",
+        "w": 222,
+        "h": 231,
+        "x": 243,
+        "y": 2033,
+        "r": true,
+        "fx": -11,
+        "fy": -28,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/a",
+        "w": 51,
+        "h": 53,
+        "x": 673,
+        "y": 1923
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/b",
+        "w": 5,
+        "h": 5,
+        "x": 458,
+        "y": 1987
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/c",
+        "w": 5,
+        "h": 5,
+        "x": 970,
+        "y": 377
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/d",
+        "w": 5,
+        "h": 5,
+        "x": 910,
+        "y": 857
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/e",
+        "w": 5,
+        "h": 5,
+        "x": 976,
+        "y": 2010
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/f",
+        "w": 5,
+        "h": 5,
+        "x": 941,
+        "y": 2318
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/g",
+        "w": 5,
+        "h": 5,
+        "x": 960,
+        "y": 385
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/h",
+        "w": 5,
+        "h": 5,
+        "x": 1,
+        "y": 2427
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/i",
+        "w": 5,
+        "h": 5,
+        "x": 351,
+        "y": 2400
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/j",
+        "w": 6,
+        "h": 12,
+        "x": 649,
+        "y": 2223
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/k",
+        "w": 6,
+        "h": 12,
+        "x": 649,
+        "y": 2237
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/l",
+        "w": 6,
+        "h": 12,
+        "x": 649,
+        "y": 2251
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/m",
+        "w": 67,
+        "h": 67,
+        "x": 941,
+        "y": 2249
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_fireworks/n",
+        "w": 14,
+        "h": 14,
+        "x": 835,
+        "y": 1983
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_hanafubuki/a",
+        "w": 20,
+        "h": 20,
+        "x": 681,
+        "y": 703
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_hanafubuki/b",
+        "w": 20,
+        "h": 20,
+        "x": 829,
+        "y": 1923
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_hanafubuki/c",
+        "w": 20,
+        "h": 20,
+        "x": 681,
+        "y": 725
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_hanafubuki/d",
+        "w": 20,
+        "h": 20,
+        "x": 829,
+        "y": 1945
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/a",
+        "w": 20,
+        "h": 20,
+        "x": 681,
+        "y": 747,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/b",
+        "w": 20,
+        "h": 20,
+        "x": 681,
+        "y": 769,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/c",
+        "w": 14,
+        "h": 14,
+        "x": 965,
+        "y": 1540,
+        "fx": -121,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/d",
+        "w": 20,
+        "h": 14,
+        "x": 829,
+        "y": 1967,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/e",
+        "w": 16,
+        "h": 11,
+        "x": 866,
+        "y": 1543,
+        "fx": -120,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/f",
+        "w": 9,
+        "h": 18,
+        "x": 1012,
+        "y": 890,
+        "r": true,
+        "fx": -119,
+        "fy": -119,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/g",
+        "w": 16,
+        "h": 11,
+        "x": 866,
+        "y": 1543,
+        "fx": -120,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/h",
+        "w": 13,
+        "h": 14,
+        "x": 228,
+        "y": 2375,
+        "r": true,
+        "fx": -119,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/i",
+        "w": 15,
+        "h": 16,
+        "x": 449,
+        "y": 1472,
+        "r": true,
+        "fx": -116,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/j",
+        "w": 13,
+        "h": 14,
+        "x": 228,
+        "y": 2375,
+        "r": true,
+        "fx": -119,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/k",
+        "w": 16,
+        "h": 11,
+        "x": 866,
+        "y": 1543,
+        "fx": -120,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/l",
+        "w": 9,
+        "h": 18,
+        "x": 1012,
+        "y": 890,
+        "r": true,
+        "fx": -119,
+        "fy": -119,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/m",
+        "w": 13,
+        "h": 14,
+        "x": 1010,
+        "y": 2249,
+        "r": true,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/n",
+        "w": 15,
+        "h": 16,
+        "x": 449,
+        "y": 1490,
+        "r": true,
+        "fx": -124,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_haniwa/o",
+        "w": 13,
+        "h": 14,
+        "x": 1010,
+        "y": 2249,
+        "r": true,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/a",
+        "w": 2,
+        "h": 48,
+        "x": 1021,
+        "y": 1
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/aa",
+        "w": 50,
+        "h": 50,
+        "x": 726,
+        "y": 1923
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ab",
+        "w": 142,
+        "h": 43,
+        "x": 881,
+        "y": 1221
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ac",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ad",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ae",
+        "w": 127,
+        "h": 161,
+        "x": 851,
+        "y": 1556,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/af",
+        "w": 86,
+        "h": 107,
+        "x": 935,
+        "y": 781,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ag",
+        "w": 49,
+        "h": 50,
+        "x": 778,
+        "y": 1923,
+        "fx": 0,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ah",
+        "w": 49,
+        "h": 50,
+        "x": 965,
+        "y": 1436,
+        "fx": 0,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ai",
+        "w": 49,
+        "h": 50,
+        "x": 965,
+        "y": 1488,
+        "fx": 0,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/aj",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ak",
+        "w": 101,
+        "h": 155,
+        "x": 918,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/al",
+        "w": 88,
+        "h": 103,
+        "x": 935,
+        "y": 676
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/am",
+        "w": 140,
+        "h": 168,
+        "x": 879,
+        "y": 1266,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/an",
+        "w": 97,
+        "h": 99,
+        "x": 866,
+        "y": 1442,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ao",
+        "w": 137,
+        "h": 175,
+        "x": 881,
+        "y": 1044,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ap",
+        "w": 92,
+        "h": 95,
+        "x": 885,
+        "y": 2341,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/aq",
+        "w": 183,
+        "h": 112,
+        "x": 681,
+        "y": 1442
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ar",
+        "w": 100,
+        "h": 100,
+        "x": 839,
+        "y": 2137
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/as",
+        "w": 436,
+        "h": 900,
+        "x": 1,
+        "y": 703,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 904,
+        "fh": 442
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/at",
+        "w": 147,
+        "h": 90,
+        "x": 649,
+        "y": 2347,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/au",
+        "w": 227,
+        "h": 185,
+        "x": 681,
+        "y": 857
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/av",
+        "w": 230,
+        "h": 179,
+        "x": 703,
+        "y": 676
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/aw",
+        "w": 76,
+        "h": 110,
+        "x": 941,
+        "y": 2137
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ax",
+        "w": 141,
+        "h": 127,
+        "x": 851,
+        "y": 1881
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ay",
+        "w": 139,
+        "h": 125,
+        "x": 835,
+        "y": 2010
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/az",
+        "w": 100,
+        "h": 100,
+        "x": 839,
+        "y": 2239
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/b",
+        "w": 8,
+        "h": 8,
+        "x": 439,
+        "y": 1507
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/ba",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/c",
+        "w": 188,
+        "h": 234,
+        "x": 467,
+        "y": 1987,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/d",
+        "w": 240,
+        "h": 768,
+        "x": 1,
+        "y": 1605
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/e",
+        "w": 53,
+        "h": 26,
+        "x": 228,
+        "y": 2400,
+        "r": true,
+        "fx": -115,
+        "fy": -172,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/f",
+        "w": 4,
+        "h": 4,
+        "x": 839,
+        "y": 2341
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/g",
+        "w": 225,
+        "h": 24,
+        "x": 1,
+        "y": 2375,
+        "r": true,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/h",
+        "w": 24,
+        "h": 225,
+        "x": 918,
+        "y": 158,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/i",
+        "w": 225,
+        "h": 24,
+        "x": 1,
+        "y": 2401,
+        "r": true,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/j",
+        "w": 100,
+        "h": 50,
+        "x": 910,
+        "y": 992,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 102
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/k",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/l",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/m",
+        "w": 24,
+        "h": 225,
+        "x": 944,
+        "y": 158,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/n",
+        "w": 24,
+        "h": 217,
+        "x": 970,
+        "y": 158,
+        "fx": -116,
+        "fy": -8,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/o",
+        "w": 24,
+        "h": 214,
+        "x": 996,
+        "y": 158,
+        "fx": -116,
+        "fy": -11,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/p",
+        "w": 700,
+        "h": 700,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/q",
+        "w": 25,
+        "h": 767,
+        "x": 439,
+        "y": 703,
+        "fx": 0,
+        "fy": -19,
+        "fw": 25,
+        "fh": 786
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/r",
+        "w": 32,
+        "h": 32,
+        "x": 283,
+        "y": 2400
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/s",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/t",
+        "w": 20,
+        "h": 20,
+        "x": 681,
+        "y": 791
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/u",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/v",
+        "w": 100,
+        "h": 100,
+        "x": 910,
+        "y": 890
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/w",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/x",
+        "w": 20,
+        "h": 20,
+        "x": 681,
+        "y": 813
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/y",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_jump/z",
+        "w": 1,
+        "h": 1,
+        "x": 681,
+        "y": 1556,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_result_back/a",
+        "w": 213,
+        "h": 426,
+        "x": 703,
+        "y": 1
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_result_back/b",
+        "w": 213,
+        "h": 426,
+        "x": 466,
+        "y": 703
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_result_back/c",
+        "w": 213,
+        "h": 426,
+        "x": 243,
+        "y": 1605
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_result_back/d",
+        "w": 213,
+        "h": 426,
+        "x": 466,
+        "y": 1131
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_result_back/e",
+        "w": 213,
+        "h": 426,
+        "x": 458,
+        "y": 1559
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_reward_frame/a",
+        "w": 29,
+        "h": 135,
+        "x": 994,
+        "y": 1881,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_reward_frame/b",
+        "w": 196,
+        "h": 196,
+        "x": 681,
+        "y": 1244
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_reward_shine/a",
+        "w": 160,
+        "h": 160,
+        "x": 851,
+        "y": 1719
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_reward_shine/b",
+        "w": 20,
+        "h": 20,
+        "x": 681,
+        "y": 703
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_score_rank/a",
+        "w": 180,
+        "h": 176,
+        "x": 467,
+        "y": 2223
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_score_rank/b",
+        "w": 176,
+        "h": 180,
+        "x": 657,
+        "y": 1987,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_score_rank/c",
+        "w": 180,
+        "h": 176,
+        "x": 657,
+        "y": 2169
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_score_rank/d",
+        "w": 176,
+        "h": 180,
+        "x": 673,
+        "y": 1559,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_score_rank/e",
+        "w": 176,
+        "h": 180,
+        "x": 673,
+        "y": 1741,
+        "r": true
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_stamp/a",
+        "w": 245,
+        "h": 245,
+        "x": 703,
+        "y": 429
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_stamp/b",
+        "w": 198,
+        "h": 198,
+        "x": 681,
+        "y": 1044
+    },
+    {
+        "n": "scene/carnival/.gen/carnival_event_high_score_dialog_whiteout/a",
+        "w": 32,
+        "h": 32,
+        "x": 317,
+        "y": 2400
+    },
+    {
+        "n": "scene/carnival/sprite_sheet/carnival-assets/reward_back",
+        "w": 40,
+        "h": 40,
+        "x": 918,
+        "y": 385
+    },
+    {
+        "n": "scene/carnival/sprite_sheet/carnival-assets/reward_shadow",
+        "w": 20,
+        "h": 20,
+        "x": 681,
+        "y": 835
+    }
+]

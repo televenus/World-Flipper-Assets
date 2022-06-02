@@ -1,0 +1,521 @@
+[
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_add/a",
+        "w": 4,
+        "h": 4,
+        "x": 1165,
+        "y": 1916
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_add/b",
+        "w": 29,
+        "h": 29,
+        "x": 1455,
+        "y": 1145,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_add/c",
+        "w": 80,
+        "h": 80,
+        "x": 837,
+        "y": 1916
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_add/d",
+        "w": 29,
+        "h": 29,
+        "x": 1455,
+        "y": 1176,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_add/e",
+        "w": 60,
+        "h": 60,
+        "x": 2007,
+        "y": 367
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_add/f",
+        "w": 60,
+        "h": 60,
+        "x": 919,
+        "y": 1916
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/a",
+        "w": 134,
+        "h": 153,
+        "x": 1998,
+        "y": 1745
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/b",
+        "w": 48,
+        "h": 48,
+        "x": 1405,
+        "y": 1145
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/c",
+        "w": 24,
+        "h": 24,
+        "x": 837,
+        "y": 1998
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/d",
+        "w": 10,
+        "h": 16,
+        "x": 809,
+        "y": 1262
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/e",
+        "w": 40,
+        "h": 28,
+        "x": 703,
+        "y": 1458,
+        "r": true,
+        "fx": -46,
+        "fy": -40,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/f",
+        "w": 48,
+        "h": 48,
+        "x": 2069,
+        "y": 367
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/g",
+        "w": 47,
+        "h": 47,
+        "x": 1998,
+        "y": 1952,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/h",
+        "w": 59,
+        "h": 60,
+        "x": 1043,
+        "y": 1916,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/i",
+        "w": 59,
+        "h": 60,
+        "x": 2007,
+        "y": 553,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/j",
+        "w": 59,
+        "h": 60,
+        "x": 1104,
+        "y": 1916,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/k",
+        "w": 59,
+        "h": 60,
+        "x": 2007,
+        "y": 615,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/l",
+        "w": 120,
+        "h": 120,
+        "x": 2007,
+        "y": 1
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/m",
+        "w": 4,
+        "h": 4,
+        "x": 1165,
+        "y": 1916
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/n",
+        "w": 80,
+        "h": 80,
+        "x": 837,
+        "y": 1916
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/o",
+        "w": 120,
+        "h": 120,
+        "x": 2007,
+        "y": 123
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/p",
+        "w": 120,
+        "h": 120,
+        "x": 2007,
+        "y": 245
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/q",
+        "w": 10,
+        "h": 10,
+        "x": 2100,
+        "y": 1900
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/r",
+        "w": 700,
+        "h": 1259,
+        "x": 703,
+        "y": 1
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/s",
+        "w": 280,
+        "h": 700,
+        "x": 1771,
+        "y": 1043,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/t",
+        "w": 647,
+        "h": 652,
+        "x": 837,
+        "y": 1262,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/u",
+        "w": 283,
+        "h": 700,
+        "x": 1486,
+        "y": 1043,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/v",
+        "w": 192,
+        "h": 254,
+        "x": 1804,
+        "y": 1745,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/w",
+        "w": 316,
+        "h": 249,
+        "x": 1486,
+        "y": 1745,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back/x",
+        "w": 700,
+        "h": 1496,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/a",
+        "w": 134,
+        "h": 153,
+        "x": 1998,
+        "y": 1745
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/b",
+        "w": 48,
+        "h": 48,
+        "x": 1405,
+        "y": 1145
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/c",
+        "w": 24,
+        "h": 24,
+        "x": 837,
+        "y": 1998
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/d",
+        "w": 10,
+        "h": 16,
+        "x": 809,
+        "y": 1262
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/e",
+        "w": 40,
+        "h": 28,
+        "x": 703,
+        "y": 1458,
+        "r": true,
+        "fx": -46,
+        "fy": -40,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/f",
+        "w": 48,
+        "h": 48,
+        "x": 2069,
+        "y": 367
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/g",
+        "w": 47,
+        "h": 47,
+        "x": 1998,
+        "y": 1952,
+        "fx": -1,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/h",
+        "w": 59,
+        "h": 60,
+        "x": 1043,
+        "y": 1916,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/i",
+        "w": 59,
+        "h": 60,
+        "x": 2007,
+        "y": 553,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/j",
+        "w": 59,
+        "h": 60,
+        "x": 1104,
+        "y": 1916,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/k",
+        "w": 59,
+        "h": 60,
+        "x": 2007,
+        "y": 615,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/l",
+        "w": 120,
+        "h": 120,
+        "x": 2007,
+        "y": 1
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/m",
+        "w": 4,
+        "h": 4,
+        "x": 1165,
+        "y": 1916
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/n",
+        "w": 80,
+        "h": 80,
+        "x": 837,
+        "y": 1916
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/o",
+        "w": 120,
+        "h": 120,
+        "x": 2007,
+        "y": 123
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/p",
+        "w": 120,
+        "h": 120,
+        "x": 2007,
+        "y": 245
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/q",
+        "w": 10,
+        "h": 10,
+        "x": 2100,
+        "y": 1900
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/r",
+        "w": 700,
+        "h": 1259,
+        "x": 703,
+        "y": 1
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/s",
+        "w": 280,
+        "h": 700,
+        "x": 1771,
+        "y": 1043,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/t",
+        "w": 647,
+        "h": 652,
+        "x": 837,
+        "y": 1262,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/u",
+        "w": 283,
+        "h": 700,
+        "x": 1486,
+        "y": 1043,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/v",
+        "w": 192,
+        "h": 254,
+        "x": 1804,
+        "y": 1745,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/w",
+        "w": 316,
+        "h": 249,
+        "x": 1486,
+        "y": 1745,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_back_b/x",
+        "w": 700,
+        "h": 1496,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/a",
+        "w": 10,
+        "h": 10,
+        "x": 919,
+        "y": 1978
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/b",
+        "w": 10,
+        "h": 10,
+        "x": 2100,
+        "y": 1900
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/c",
+        "w": 50,
+        "h": 100,
+        "x": 1405,
+        "y": 1043
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/d",
+        "w": 600,
+        "h": 1040,
+        "x": 1405,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/e",
+        "w": 60,
+        "h": 60,
+        "x": 2007,
+        "y": 429
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/f",
+        "w": 60,
+        "h": 60,
+        "x": 981,
+        "y": 1916
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/g",
+        "w": 60,
+        "h": 60,
+        "x": 2007,
+        "y": 491
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/h",
+        "w": 100,
+        "h": 50,
+        "x": 1998,
+        "y": 1900,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/i",
+        "w": 104,
+        "h": 194,
+        "x": 703,
+        "y": 1262,
+        "r": true
+    },
+    {
+        "n": "scene/tutorial_title_movie/.gen/title_movie_fore/j",
+        "w": 834,
+        "h": 523,
+        "x": 1,
+        "y": 1499
+    }
+]

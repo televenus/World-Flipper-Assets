@@ -1,0 +1,130 @@
+[
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_blue",
+        "w": 80,
+        "h": 68,
+        "x": 85,
+        "y": 255,
+        "r": true
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_cyan_full",
+        "w": 35,
+        "h": 40,
+        "x": 181,
+        "y": 427
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_green",
+        "w": 68,
+        "h": 80,
+        "x": 167,
+        "y": 85
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_pink_full",
+        "w": 35,
+        "h": 40,
+        "x": 181,
+        "y": 469
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_red",
+        "w": 68,
+        "h": 79,
+        "x": 167,
+        "y": 167
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_top_1",
+        "w": 80,
+        "h": 250,
+        "x": 85,
+        "y": 3
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_top_2",
+        "w": 80,
+        "h": 324,
+        "x": 3,
+        "y": 3
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_white",
+        "w": 68,
+        "h": 78,
+        "x": 3,
+        "y": 431
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_yellow",
+        "w": 79,
+        "h": 68,
+        "x": 167,
+        "y": 248,
+        "r": true
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/beam_yellow_full",
+        "w": 35,
+        "h": 40,
+        "x": 218,
+        "y": 402
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/bg_redtogreen",
+        "w": 40,
+        "h": 40,
+        "x": 139,
+        "y": 427
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/bg_space",
+        "w": 40,
+        "h": 40,
+        "x": 139,
+        "y": 469
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/bg_yellowtoblue",
+        "w": 40,
+        "h": 40,
+        "x": 207,
+        "y": 318
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/glow_blue",
+        "w": 40,
+        "h": 40,
+        "x": 207,
+        "y": 360
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/glow_color",
+        "w": 100,
+        "h": 100,
+        "x": 3,
+        "y": 329
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/glow_outside",
+        "w": 100,
+        "h": 100,
+        "x": 105,
+        "y": 325
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/glow_white",
+        "w": 80,
+        "h": 80,
+        "x": 167,
+        "y": 3
+    },
+    {
+        "n": "scene/orb_movie/sprite_sheet-assets/world_shadow",
+        "w": 64,
+        "h": 64,
+        "x": 73,
+        "y": 431
+    }
+]
