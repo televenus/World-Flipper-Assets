@@ -1,0 +1,138 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1476,
+        "y": 952
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1477,
+        "y": 661
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1712,
+        "y": 661,
+        "fx": -1,
+        "fy": 0,
+        "fw": 125,
+        "fh": 125
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/d",
+        "w": 218,
+        "h": 50,
+        "x": 1575,
+        "y": 896,
+        "fx": -1,
+        "fy": -1,
+        "fw": 220,
+        "fh": 52
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/e",
+        "w": 76,
+        "h": 265,
+        "x": 1399,
+        "y": 661,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 267,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/f",
+        "w": 53,
+        "h": 288,
+        "x": 1344,
+        "y": 661,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 291,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1399,
+        "y": 928,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/h",
+        "w": 872,
+        "h": 658,
+        "x": 1344,
+        "y": 1,
+        "r": true,
+        "fx": -203,
+        "fy": -129,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/i",
+        "w": 97,
+        "h": 10,
+        "x": 1476,
+        "y": 940,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/j",
+        "w": 1341,
+        "h": 966,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -253,
+        "fy": -105,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1344,
+        "y": 951
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1374,
+        "y": 951,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1488,
+        "y": 952
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bird_master/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1500,
+        "y": 952
+    }
+]

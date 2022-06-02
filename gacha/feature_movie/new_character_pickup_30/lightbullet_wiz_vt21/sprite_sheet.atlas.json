@@ -1,0 +1,205 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 230,
+        "y": 1847
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1440,
+        "y": 1443,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/c",
+        "w": 674,
+        "h": 240,
+        "x": 750,
+        "y": 618,
+        "fx": -172,
+        "fy": -74,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/d",
+        "w": 674,
+        "h": 240,
+        "x": 750,
+        "y": 860,
+        "fx": -172,
+        "fy": -74,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 618,
+        "y": 1099,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 930,
+        "y": 1102,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/g",
+        "w": 226,
+        "h": 625,
+        "x": 1212,
+        "y": 1102,
+        "r": true,
+        "fx": -196,
+        "fy": -80,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 252,
+        "y": 1847
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 618,
+        "y": 749,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 618,
+        "y": 618,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1440,
+        "y": 1652
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/l",
+        "w": 310,
+        "h": 565,
+        "x": 618,
+        "y": 1205,
+        "r": true,
+        "fx": -52,
+        "fy": -22,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/m",
+        "w": 301,
+        "h": 54,
+        "x": 230,
+        "y": 1791,
+        "fx": -100,
+        "fy": -4,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/n",
+        "w": 227,
+        "h": 83,
+        "x": 1,
+        "y": 1791,
+        "fx": -244,
+        "fy": -11,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/o",
+        "w": 215,
+        "h": 48,
+        "x": 533,
+        "y": 1791,
+        "fx": -71,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/p",
+        "w": 286,
+        "h": 1440,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/q",
+        "w": 615,
+        "h": 1171,
+        "x": 1,
+        "y": 618,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/s",
+        "w": 118,
+        "h": 208,
+        "x": 618,
+        "y": 889,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 124
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_30/lightbullet_wiz_vt21/.gen/feature/t",
+        "w": 20,
+        "h": 20,
+        "x": 274,
+        "y": 1847
+    }
+]

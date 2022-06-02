@@ -1,0 +1,189 @@
+[
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 971
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 2651,
+        "y": 563,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/c",
+        "w": 657,
+        "h": 170,
+        "x": 1,
+        "y": 799,
+        "fx": -150,
+        "fy": -112,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/d",
+        "w": 656,
+        "h": 170,
+        "x": 1443,
+        "y": 563,
+        "fx": -150,
+        "fy": -112,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1403,
+        "y": 799,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/f",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/g",
+        "w": 611,
+        "h": 161,
+        "x": 660,
+        "y": 799,
+        "fx": -175,
+        "fy": -115,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 2860,
+        "y": 563
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1273,
+        "y": 799,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 2651,
+        "y": 813,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1714,
+        "y": 735
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/l",
+        "w": 548,
+        "h": 290,
+        "x": 2101,
+        "y": 563,
+        "fx": -9,
+        "fy": -49,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/m",
+        "w": 262,
+        "h": 53,
+        "x": 660,
+        "y": 962,
+        "fx": -120,
+        "fy": -9,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/n",
+        "w": 84,
+        "h": 221,
+        "x": 1949,
+        "y": 735,
+        "r": true,
+        "fx": -247,
+        "fy": -8,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/o",
+        "w": 269,
+        "h": 46,
+        "x": 1443,
+        "y": 735,
+        "fx": -44,
+        "fy": -5,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 563,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/q",
+        "w": 615,
+        "h": 1011,
+        "x": 2885,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 1443,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/kunoichi/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 924,
+        "y": 962
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1975,
+        "y": 905
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1,
+        "y": 1443,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/c",
+        "w": 494,
+        "h": 187,
+        "x": 1080,
+        "y": 1416,
+        "fx": -418,
+        "fy": -220,
+        "fw": 1440,
+        "fh": 624
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/d",
+        "w": 494,
+        "h": 187,
+        "x": 1306,
+        "y": 1605,
+        "fx": -206,
+        "fy": -88,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1894,
+        "y": 799,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/f",
+        "w": 560,
+        "h": 1440,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/g",
+        "w": 459,
+        "h": 176,
+        "x": 845,
+        "y": 1651,
+        "fx": -228,
+        "fy": -93,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1975,
+        "y": 927
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 132,
+        "y": 1693,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1,
+        "y": 1693,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 845,
+        "y": 1416
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/l",
+        "w": 633,
+        "h": 238,
+        "x": 210,
+        "y": 1443,
+        "fx": -5,
+        "fy": -31,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/m",
+        "w": 55,
+        "h": 215,
+        "x": 1894,
+        "y": 1058,
+        "r": true,
+        "fx": -143,
+        "fy": -4,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/n",
+        "w": 79,
+        "h": 151,
+        "x": 1894,
+        "y": 905,
+        "r": true,
+        "fx": -283,
+        "fy": -15,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/o",
+        "w": 46,
+        "h": 262,
+        "x": 1951,
+        "y": 1058,
+        "r": true,
+        "fx": -47,
+        "fy": -5,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 563,
+        "y": 563,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/q",
+        "w": 1329,
+        "h": 615,
+        "x": 563,
+        "y": 799,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 563,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/brown_fighter/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1975,
+        "y": 949
+    }
+]

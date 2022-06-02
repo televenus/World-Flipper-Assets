@@ -1,0 +1,194 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 347,
+        "y": 928
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 618,
+        "y": 740,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/c",
+        "w": 220,
+        "h": 736,
+        "x": 840,
+        "y": 1,
+        "r": true,
+        "fx": -138,
+        "fy": -117,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/d",
+        "w": 220,
+        "h": 737,
+        "x": 618,
+        "y": 1,
+        "r": true,
+        "fx": -137,
+        "fy": -117,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 347,
+        "y": 822,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 1062,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/g",
+        "w": 207,
+        "h": 682,
+        "x": 1344,
+        "y": 1,
+        "r": true,
+        "fx": -165,
+        "fy": -120,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 369,
+        "y": 928
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 86,
+        "y": 822,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 216,
+        "y": 822,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 827,
+        "y": 740
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/l",
+        "w": 313,
+        "h": 380,
+        "x": 2504,
+        "y": 618,
+        "r": true,
+        "fx": -12,
+        "fy": -58,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/m",
+        "w": 304,
+        "h": 54,
+        "x": 294,
+        "y": 953,
+        "fx": -99,
+        "fy": -8,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/n",
+        "w": 83,
+        "h": 142,
+        "x": 1,
+        "y": 822,
+        "r": true,
+        "fx": -287,
+        "fy": -12,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/o",
+        "w": 291,
+        "h": 43,
+        "x": 1,
+        "y": 966,
+        "fx": -33,
+        "fy": -7,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/p",
+        "w": 1440,
+        "h": 286,
+        "x": 1062,
+        "y": 723,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/q",
+        "w": 615,
+        "h": 819,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1553,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_15/bishop_girl_smr20/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 391,
+        "y": 928
+    }
+]

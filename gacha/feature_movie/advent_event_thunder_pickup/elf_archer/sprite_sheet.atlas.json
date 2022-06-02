@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1069,
+        "y": 1953
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1699,
+        "y": 1,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/c",
+        "w": 831,
+        "h": 323,
+        "x": 1103,
+        "y": 1505,
+        "fx": -67,
+        "fy": -25,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/d",
+        "w": 832,
+        "h": 323,
+        "x": 1103,
+        "y": 1180,
+        "fx": -67,
+        "fy": -25,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1699,
+        "y": 445,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/f",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/g",
+        "w": 302,
+        "h": 771,
+        "x": 799,
+        "y": 1180,
+        "r": true,
+        "fx": -99,
+        "fy": -35,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1069,
+        "y": 1975
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1113,
+        "y": 1830,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1243,
+        "y": 1830,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1699,
+        "y": 210
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/l",
+        "w": 254,
+        "h": 544,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -11,
+        "fy": -17,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/m",
+        "w": 366,
+        "h": 54,
+        "x": 1374,
+        "y": 1916,
+        "fx": -67,
+        "fy": -4,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/n",
+        "w": 220,
+        "h": 84,
+        "x": 1374,
+        "y": 1830,
+        "fx": -248,
+        "fy": -12,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/o",
+        "w": 268,
+        "h": 46,
+        "x": 799,
+        "y": 1953,
+        "fx": -45,
+        "fy": -5,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/p",
+        "w": 234,
+        "h": 1440,
+        "x": 563,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/q",
+        "w": 1134,
+        "h": 615,
+        "x": 799,
+        "y": 563,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/r",
+        "w": 560,
+        "h": 1440,
+        "x": 1,
+        "y": 563,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/elf_archer/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1091,
+        "y": 1953
+    }
+]

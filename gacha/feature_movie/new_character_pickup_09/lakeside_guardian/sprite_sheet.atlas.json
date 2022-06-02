@@ -1,0 +1,193 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1029,
+        "y": 1955
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1513,
+        "y": 1367,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/c",
+        "w": 238,
+        "h": 681,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -172,
+        "fy": -62,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/d",
+        "w": 238,
+        "h": 681,
+        "x": 1443,
+        "y": 684,
+        "r": true,
+        "fx": -172,
+        "fy": -62,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1683,
+        "y": 426,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/f",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/g",
+        "w": 226,
+        "h": 632,
+        "x": 1285,
+        "y": 1367,
+        "r": true,
+        "fx": -196,
+        "fy": -68,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 292,
+        "y": 1978
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1513,
+        "y": 1852,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1643,
+        "y": 1852,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1513,
+        "y": 1617
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/l",
+        "w": 254,
+        "h": 592,
+        "x": 1029,
+        "y": 1361,
+        "r": true,
+        "fx": -1,
+        "fy": -57,
+        "fw": 684,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/m",
+        "w": 53,
+        "h": 211,
+        "x": 1683,
+        "y": 213,
+        "r": true,
+        "fx": -146,
+        "fy": -9,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/n",
+        "w": 83,
+        "h": 210,
+        "x": 1683,
+        "y": 1,
+        "r": true,
+        "fx": -254,
+        "fy": -18,
+        "fw": 720,
+        "fh": 102
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/o",
+        "w": 289,
+        "h": 41,
+        "x": 1,
+        "y": 1978,
+        "fx": -34,
+        "fy": -8,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 1125,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/q",
+        "w": 1026,
+        "h": 615,
+        "x": 1,
+        "y": 1361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 563
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/lakeside_guardian/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1683,
+        "y": 532
+    }
+]

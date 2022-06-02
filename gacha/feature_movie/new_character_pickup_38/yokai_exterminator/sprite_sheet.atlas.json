@@ -1,0 +1,136 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 2192,
+        "y": 395
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 2042,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 2042,
+        "y": 293,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/d",
+        "w": 50,
+        "h": 245,
+        "x": 2214,
+        "y": 236,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 247,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/e",
+        "w": 80,
+        "h": 256,
+        "x": 2042,
+        "y": 419,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 258,
+        "fh": 82
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/f",
+        "w": 170,
+        "h": 55,
+        "x": 2042,
+        "y": 236,
+        "fx": -2,
+        "fy": -1,
+        "fw": 173,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 2168,
+        "y": 309,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/h",
+        "w": 778,
+        "h": 885,
+        "x": 1262,
+        "y": 1,
+        "fx": -159,
+        "fy": -124,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 2180,
+        "y": 309,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/j",
+        "w": 1259,
+        "h": 885,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -334,
+        "fy": -308,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 2168,
+        "y": 293
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 2198,
+        "y": 293
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 2192,
+        "y": 407
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_38/yokai_exterminator/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 2168,
+        "y": 409
+    }
+]

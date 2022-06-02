@@ -1,0 +1,382 @@
+[
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1399,
+        "y": 1407
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/aa",
+        "w": 129,
+        "h": 132,
+        "x": 1794,
+        "y": 1555,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/ab",
+        "w": 129,
+        "h": 132,
+        "x": 1898,
+        "y": 1370,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/ac",
+        "w": 132,
+        "h": 129,
+        "x": 1794,
+        "y": 1689
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/ad",
+        "w": 135,
+        "h": 176,
+        "x": 999,
+        "y": 1651,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 180,
+        "fh": 135
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/ae",
+        "w": 135,
+        "h": 176,
+        "x": 1761,
+        "y": 1377,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 180,
+        "fh": 135
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/af",
+        "w": 176,
+        "h": 135,
+        "x": 1868,
+        "y": 1233,
+        "fx": -4,
+        "fy": 0,
+        "fw": 180,
+        "fh": 135
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/ag",
+        "w": 514,
+        "h": 526,
+        "x": 1506,
+        "y": 705,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/ah",
+        "w": 540,
+        "h": 702,
+        "x": 1506,
+        "y": 1,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 719,
+        "fh": 540
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/ai",
+        "w": 996,
+        "h": 433,
+        "x": 1,
+        "y": 1289,
+        "fx": -25,
+        "fy": 0,
+        "fw": 1042,
+        "fh": 462
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/aj",
+        "w": 96,
+        "h": 360,
+        "x": 1301,
+        "y": 1289,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 360,
+        "fh": 102
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/ak",
+        "w": 129,
+        "h": 532,
+        "x": 1170,
+        "y": 1289,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 534,
+        "fh": 129
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/b",
+        "w": 61,
+        "h": 1440,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 624
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/c",
+        "w": 1440,
+        "h": 610,
+        "x": 1,
+        "y": 677
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/d",
+        "w": 360,
+        "h": 142,
+        "x": 1506,
+        "y": 1233
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/e",
+        "w": 63,
+        "h": 86,
+        "x": 1928,
+        "y": 1638,
+        "fx": 0,
+        "fy": -1,
+        "fw": 63,
+        "fh": 88
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/f",
+        "w": 69,
+        "h": 20,
+        "x": 689,
+        "y": 1785,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 71
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/g",
+        "w": 160,
+        "h": 33,
+        "x": 1632,
+        "y": 1785,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 161
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/h",
+        "w": 328,
+        "h": 92,
+        "x": 1,
+        "y": 1724,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 93,
+        "fh": 328
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/i",
+        "w": 80,
+        "h": 158,
+        "x": 1301,
+        "y": 1651,
+        "fx": -1,
+        "fy": 0,
+        "fw": 82,
+        "fh": 158
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/j",
+        "w": 160,
+        "h": 104,
+        "x": 797,
+        "y": 1724,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 105,
+        "fh": 162
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/k",
+        "w": 28,
+        "h": 175,
+        "x": 1136,
+        "y": 1651,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 176
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/l",
+        "w": 61,
+        "h": 23,
+        "x": 395,
+        "y": 1789,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 23,
+        "fh": 63
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/m",
+        "w": 233,
+        "h": 38,
+        "x": 1397,
+        "y": 1785,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 39,
+        "fh": 235
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/n",
+        "w": 28,
+        "h": 103,
+        "x": 959,
+        "y": 1724,
+        "fx": 0,
+        "fy": 0,
+        "fw": 29,
+        "fh": 103
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/o",
+        "w": 12,
+        "h": 160,
+        "x": 1383,
+        "y": 1651,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 161
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/p",
+        "w": 251,
+        "h": 63,
+        "x": 331,
+        "y": 1724,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 252
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/q",
+        "w": 82,
+        "h": 132,
+        "x": 1925,
+        "y": 1504,
+        "fx": -1,
+        "fy": 0,
+        "fw": 83,
+        "fh": 132
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/r",
+        "w": 62,
+        "h": 23,
+        "x": 331,
+        "y": 1789,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 24,
+        "fh": 62
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/s",
+        "w": 103,
+        "h": 28,
+        "x": 584,
+        "y": 1785,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 29,
+        "fh": 103
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/t",
+        "w": 39,
+        "h": 116,
+        "x": 1399,
+        "y": 1289,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 117
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/u",
+        "w": 211,
+        "h": 45,
+        "x": 584,
+        "y": 1724,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 212
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/v",
+        "w": 160,
+        "h": 12,
+        "x": 584,
+        "y": 1771,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/w",
+        "w": 169,
+        "h": 360,
+        "x": 999,
+        "y": 1289,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/x",
+        "w": 360,
+        "h": 169,
+        "x": 1399,
+        "y": 1443
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/y",
+        "w": 360,
+        "h": 169,
+        "x": 1399,
+        "y": 1614
+    },
+    {
+        "n": "gacha/feature_movie/challenge_dungeon_pickup_01/top/.gen/feature/z",
+        "w": 1440,
+        "h": 674,
+        "x": 1,
+        "y": 1
+    }
+]

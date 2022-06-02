@@ -1,0 +1,204 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1230,
+        "y": 1412
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1231,
+        "y": 907,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/c",
+        "w": 945,
+        "h": 293,
+        "x": 1,
+        "y": 1235,
+        "fx": -50,
+        "fy": -61,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/d",
+        "w": 945,
+        "h": 293,
+        "x": 1,
+        "y": 1530,
+        "fx": -50,
+        "fy": -61,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1729,
+        "y": 1364,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 948,
+        "y": 1235,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/g",
+        "w": 277,
+        "h": 875,
+        "x": 1679,
+        "y": 1,
+        "r": true,
+        "fx": -84,
+        "fy": -67,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1252,
+        "y": 1412
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1230,
+        "y": 1235,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1679,
+        "y": 1233,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1679,
+        "y": 878
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/l",
+        "w": 497,
+        "h": 288,
+        "x": 1230,
+        "y": 1443,
+        "fx": -59,
+        "fy": -18,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/m",
+        "w": 54,
+        "h": 287,
+        "x": 1231,
+        "y": 618,
+        "r": true,
+        "fx": -106,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/n",
+        "w": 87,
+        "h": 232,
+        "x": 1287,
+        "y": 618,
+        "r": true,
+        "fx": -242,
+        "fy": -6,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/o",
+        "w": 165,
+        "h": 45,
+        "x": 1230,
+        "y": 1365,
+        "fx": -96,
+        "fy": -5,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/p",
+        "w": 234,
+        "h": 1440,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/q",
+        "w": 1228,
+        "h": 615,
+        "x": 1,
+        "y": 618,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/s",
+        "w": 208,
+        "h": 118,
+        "x": 1679,
+        "y": 1113,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 124
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/.gen/feature/t",
+        "w": 20,
+        "h": 20,
+        "x": 1274,
+        "y": 1412
+    }
+]

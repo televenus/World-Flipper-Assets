@@ -1,0 +1,194 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 107,
+        "y": 1919
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1438,
+        "y": 1443,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/c",
+        "w": 719,
+        "h": 267,
+        "x": 635,
+        "y": 900,
+        "fx": -140,
+        "fy": -47,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/d",
+        "w": 267,
+        "h": 719,
+        "x": 870,
+        "y": 1169,
+        "r": true,
+        "fx": -140,
+        "fy": -47,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1,
+        "y": 1839,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/f",
+        "w": 720,
+        "h": 280,
+        "x": 635,
+        "y": 618
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/g",
+        "w": 250,
+        "h": 668,
+        "x": 618,
+        "y": 1169,
+        "r": true,
+        "fx": -166,
+        "fy": -55,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 129,
+        "y": 1919
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1270,
+        "y": 1813,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1139,
+        "y": 1813,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1438,
+        "y": 1652
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/l",
+        "w": 297,
+        "h": 642,
+        "x": 1139,
+        "y": 1169,
+        "r": true,
+        "fx": -12,
+        "fy": -72,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/m",
+        "w": 378,
+        "h": 53,
+        "x": 255,
+        "y": 1839,
+        "fx": -62,
+        "fy": -9,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/n",
+        "w": 146,
+        "h": 78,
+        "x": 107,
+        "y": 1839,
+        "fx": -287,
+        "fy": -12,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/o",
+        "w": 233,
+        "h": 42,
+        "x": 255,
+        "y": 1894,
+        "fx": -62,
+        "fy": -7,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/p",
+        "w": 286,
+        "h": 1440,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/q",
+        "w": 615,
+        "h": 1219,
+        "x": 1,
+        "y": 618,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/neoviolin_musician/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 151,
+        "y": 1919
+    }
+]

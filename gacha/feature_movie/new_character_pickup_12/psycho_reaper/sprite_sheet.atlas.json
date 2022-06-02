@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1747,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1443,
+        "y": 250,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/c",
+        "w": 847,
+        "h": 263,
+        "x": 1051,
+        "y": 1446,
+        "fx": -75,
+        "fy": -62,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/d",
+        "w": 847,
+        "h": 264,
+        "x": 1051,
+        "y": 1180,
+        "fx": -75,
+        "fy": -62,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1780,
+        "y": 1,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/f",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/g",
+        "w": 250,
+        "h": 784,
+        "x": 799,
+        "y": 1180,
+        "r": true,
+        "fx": -108,
+        "fy": -68,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1747,
+        "y": 23
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1718,
+        "y": 1711,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1718,
+        "y": 1841,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1652,
+        "y": 250
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/l",
+        "w": 665,
+        "h": 288,
+        "x": 1051,
+        "y": 1711,
+        "fx": -6,
+        "fy": -43,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/m",
+        "w": 302,
+        "h": 52,
+        "x": 1443,
+        "y": 1,
+        "fx": -100,
+        "fy": -10,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/n",
+        "w": 78,
+        "h": 141,
+        "x": 1780,
+        "y": 107,
+        "r": true,
+        "fx": -286,
+        "fy": -16,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/o",
+        "w": 256,
+        "h": 41,
+        "x": 1443,
+        "y": 55,
+        "fx": -50,
+        "fy": -8,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/p",
+        "w": 234,
+        "h": 1440,
+        "x": 563,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/q",
+        "w": 979,
+        "h": 615,
+        "x": 799,
+        "y": 563,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/r",
+        "w": 560,
+        "h": 1440,
+        "x": 1,
+        "y": 563,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_12/psycho_reaper/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1747,
+        "y": 45
+    }
+]

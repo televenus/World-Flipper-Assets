@@ -1,0 +1,158 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 2080,
+        "y": 467
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1858,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1891,
+        "y": 512,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/d",
+        "w": 218,
+        "h": 48,
+        "x": 1858,
+        "y": 236,
+        "fx": 0,
+        "fy": -1,
+        "fw": 219,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/e",
+        "w": 268,
+        "h": 72,
+        "x": 1245,
+        "y": 869,
+        "fx": -1,
+        "fy": 0,
+        "fw": 270,
+        "fh": 73
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/f",
+        "w": 374,
+        "h": 53,
+        "x": 1515,
+        "y": 869,
+        "fx": -1,
+        "fy": -1,
+        "fw": 376,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 2068,
+        "y": 368,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/h",
+        "w": 611,
+        "h": 866,
+        "x": 1245,
+        "y": 1,
+        "fx": -155,
+        "fy": -134,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/i",
+        "w": 10,
+        "h": 97,
+        "x": 2080,
+        "y": 368,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/j",
+        "w": 1242,
+        "h": 989,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -224,
+        "fy": -446,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 2068,
+        "y": 338,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 2078,
+        "y": 236
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1245,
+        "y": 943
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1245,
+        "y": 955
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 1858,
+        "y": 286,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 1891,
+        "y": 382,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1693,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/c",
+        "w": 732,
+        "h": 238,
+        "x": 799,
+        "y": 1386,
+        "fx": -146,
+        "fy": -30,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/d",
+        "w": 238,
+        "h": 733,
+        "x": 1443,
+        "y": 210,
+        "r": true,
+        "fx": -146,
+        "fy": -30,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 799,
+        "y": 1626,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/f",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/g",
+        "w": 680,
+        "h": 225,
+        "x": 1034,
+        "y": 1736,
+        "fx": -172,
+        "fy": -38,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1693,
+        "y": 23
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1533,
+        "y": 1475,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1533,
+        "y": 1605,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 799,
+        "y": 1736
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/l",
+        "w": 295,
+        "h": 439,
+        "x": 1416,
+        "y": 945,
+        "r": true,
+        "fx": -44,
+        "fy": -47,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/m",
+        "w": 213,
+        "h": 56,
+        "x": 905,
+        "y": 1626,
+        "fx": -145,
+        "fy": -4,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/n",
+        "w": 154,
+        "h": 87,
+        "x": 1533,
+        "y": 1386,
+        "fx": -280,
+        "fy": -8,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/o",
+        "w": 293,
+        "h": 45,
+        "x": 799,
+        "y": 1329,
+        "fx": -32,
+        "fy": -5,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/p",
+        "w": 234,
+        "h": 1440,
+        "x": 563,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/q",
+        "w": 615,
+        "h": 764,
+        "x": 799,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/r",
+        "w": 560,
+        "h": 1440,
+        "x": 1,
+        "y": 563,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/dog_slasher/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1693,
+        "y": 45
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1,
+        "y": 1013
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/b",
+        "w": 1440,
+        "h": 61,
+        "x": 1027,
+        "y": 943,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 624
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/c",
+        "w": 50,
+        "h": 50,
+        "x": 2593,
+        "y": 315
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/d",
+        "w": 50,
+        "h": 50,
+        "x": 2593,
+        "y": 367
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/e",
+        "w": 476,
+        "h": 312,
+        "x": 1637,
+        "y": 315,
+        "fx": -1,
+        "fy": 0,
+        "fw": 481,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/f",
+        "w": 50,
+        "h": 50,
+        "x": 2593,
+        "y": 419
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/g",
+        "w": 280,
+        "h": 360,
+        "x": 629,
+        "y": 629,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/h",
+        "w": 476,
+        "h": 312,
+        "x": 2115,
+        "y": 315,
+        "fx": -1,
+        "fy": 0,
+        "fw": 481,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/i",
+        "w": 470,
+        "h": 312,
+        "x": 2179,
+        "y": 1,
+        "fx": -39,
+        "fy": 0,
+        "fw": 509,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/j",
+        "w": 470,
+        "h": 312,
+        "x": 2179,
+        "y": 629,
+        "fx": -39,
+        "fy": 0,
+        "fw": 509,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/k",
+        "w": 574,
+        "h": 312,
+        "x": 1027,
+        "y": 629,
+        "fx": -29,
+        "fy": 0,
+        "fw": 605,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/l",
+        "w": 574,
+        "h": 312,
+        "x": 1603,
+        "y": 629,
+        "fx": -29,
+        "fy": 0,
+        "fw": 605,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/m",
+        "w": 312,
+        "h": 362,
+        "x": 1,
+        "y": 649,
+        "r": true,
+        "fx": -134,
+        "fy": 0,
+        "fw": 515,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/n",
+        "w": 312,
+        "h": 362,
+        "x": 315,
+        "y": 629,
+        "r": true,
+        "fx": -134,
+        "fy": 0,
+        "fw": 515,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/o",
+        "w": 10,
+        "h": 10,
+        "x": 13,
+        "y": 1013
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/p",
+        "w": 15,
+        "h": 15,
+        "x": 271,
+        "y": 629,
+        "fx": 0,
+        "fy": 0,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/q",
+        "w": 1364,
+        "h": 626,
+        "x": 271,
+        "y": 1,
+        "fx": -43,
+        "fy": 0,
+        "fw": 1407,
+        "fh": 626
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/r",
+        "w": 519,
+        "h": 33,
+        "x": 1637,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/s",
+        "w": 268,
+        "h": 646,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 675,
+        "fh": 270
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/t",
+        "w": 472,
+        "h": 96,
+        "x": 1637,
+        "y": 36,
+        "r": true,
+        "fx": -12,
+        "fy": -140,
+        "fw": 121,
+        "fh": 612
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/u",
+        "w": 114,
+        "h": 360,
+        "x": 911,
+        "y": 629,
+        "r": true,
+        "fx": 0,
+        "fy": -42,
+        "fw": 360,
+        "fh": 156
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/v",
+        "w": 142,
+        "h": 166,
+        "x": 1814,
+        "y": 134,
+        "r": true,
+        "fx": -46,
+        "fy": 0,
+        "fw": 242,
+        "fh": 142
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/top/.gen/feature/w",
+        "w": 175,
+        "h": 176,
+        "x": 1637,
+        "y": 134,
+        "r": true
+    }
+]

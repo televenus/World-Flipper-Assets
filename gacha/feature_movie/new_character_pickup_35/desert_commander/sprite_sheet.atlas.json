@@ -1,0 +1,191 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 2233,
+        "y": 853
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 2468,
+        "y": 618,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/c",
+        "w": 850,
+        "h": 271,
+        "x": 2547,
+        "y": 1,
+        "fx": -96,
+        "fy": -73,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/d",
+        "w": 271,
+        "h": 850,
+        "x": 3399,
+        "y": 1,
+        "r": true,
+        "fx": -96,
+        "fy": -73,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 3672,
+        "y": 663,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/f",
+        "w": 720,
+        "h": 280,
+        "x": 2547,
+        "y": 274
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/g",
+        "w": 788,
+        "h": 255,
+        "x": 1443,
+        "y": 618,
+        "fx": -126,
+        "fy": -79,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 2255,
+        "y": 853
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 3672,
+        "y": 392,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 3672,
+        "y": 532,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 2233,
+        "y": 618
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/l",
+        "w": 686,
+        "h": 287,
+        "x": 2677,
+        "y": 556,
+        "fx": -1,
+        "fy": -72,
+        "fw": 688,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/m",
+        "w": 53,
+        "h": 223,
+        "x": 3269,
+        "y": 274,
+        "r": true,
+        "fx": -139,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/n",
+        "w": 87,
+        "h": 389,
+        "x": 3672,
+        "y": 1,
+        "r": true,
+        "fx": -163,
+        "fy": -7,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/o",
+        "w": 47,
+        "h": 216,
+        "x": 3324,
+        "y": 274,
+        "r": true,
+        "fx": -71,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 618,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/q",
+        "w": 1102,
+        "h": 615,
+        "x": 1443,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/desert_commander/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 2277,
+        "y": 853
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 442,
+        "y": 803
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1171,
+        "y": 595
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1632,
+        "y": 595,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/d",
+        "w": 187,
+        "h": 52,
+        "x": 253,
+        "y": 761,
+        "fx": -1,
+        "fy": -1,
+        "fw": 189,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/e",
+        "w": 264,
+        "h": 76,
+        "x": 1502,
+        "y": 735,
+        "fx": -1,
+        "fy": -1,
+        "fw": 266,
+        "fh": 78
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/f",
+        "w": 250,
+        "h": 56,
+        "x": 1,
+        "y": 761,
+        "fx": -1,
+        "fy": -1,
+        "fw": 252,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 442,
+        "y": 791,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/h",
+        "w": 853,
+        "h": 592,
+        "x": 1171,
+        "y": 1,
+        "r": true,
+        "fx": -190,
+        "fy": -141,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 355,
+        "y": 815,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/j",
+        "w": 1168,
+        "h": 758,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -337,
+        "fy": -463,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 442,
+        "y": 761,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 253,
+        "y": 815,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 454,
+        "y": 803
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 455,
+        "y": 815
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 1406,
+        "y": 595,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_20/priest_hw20/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 1502,
+        "y": 595,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

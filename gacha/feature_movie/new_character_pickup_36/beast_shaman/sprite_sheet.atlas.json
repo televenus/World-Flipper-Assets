@@ -1,0 +1,191 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 2508,
+        "y": 618
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 2258,
+        "y": 618,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/c",
+        "w": 878,
+        "h": 217,
+        "x": 2584,
+        "y": 1,
+        "fx": -78,
+        "fy": -110,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/d",
+        "w": 878,
+        "h": 217,
+        "x": 2584,
+        "y": 220,
+        "fx": -78,
+        "fy": -110,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1714,
+        "y": 825,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/f",
+        "w": 720,
+        "h": 280,
+        "x": 2584,
+        "y": 439
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/g",
+        "w": 813,
+        "h": 205,
+        "x": 1443,
+        "y": 618,
+        "fx": -110,
+        "fy": -113,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 3306,
+        "y": 658
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1443,
+        "y": 825,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1583,
+        "y": 825,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 2999,
+        "y": 721
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/l",
+        "w": 489,
+        "h": 192,
+        "x": 2508,
+        "y": 721,
+        "fx": -88,
+        "fy": -57,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/m",
+        "w": 54,
+        "h": 217,
+        "x": 3306,
+        "y": 439,
+        "r": true,
+        "fx": -142,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/n",
+        "w": 291,
+        "h": 88,
+        "x": 1,
+        "y": 854,
+        "fx": -213,
+        "fy": -7,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/o",
+        "w": 47,
+        "h": 183,
+        "x": 3234,
+        "y": 721,
+        "r": true,
+        "fx": -87,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 618,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/q",
+        "w": 1139,
+        "h": 615,
+        "x": 1443,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/beast_shaman/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 3362,
+        "y": 439
+    }
+]

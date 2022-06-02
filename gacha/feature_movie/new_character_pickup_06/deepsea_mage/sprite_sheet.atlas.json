@@ -1,0 +1,198 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1828,
+        "y": 150
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1443,
+        "y": 553,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/c",
+        "w": 231,
+        "h": 570,
+        "x": 1416,
+        "y": 997,
+        "r": true,
+        "fx": -148,
+        "fy": -117,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/d",
+        "w": 571,
+        "h": 231,
+        "x": 799,
+        "y": 1685,
+        "fx": -148,
+        "fy": -117,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1651,
+        "y": 872,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/f",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/g",
+        "w": 218,
+        "h": 530,
+        "x": 1649,
+        "y": 997,
+        "r": true,
+        "fx": -174,
+        "fy": -119,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1828,
+        "y": 172
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1693,
+        "y": 611,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1693,
+        "y": 741,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1416,
+        "y": 762
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/l",
+        "w": 328,
+        "h": 550,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -9,
+        "fy": -25,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/m",
+        "w": 53,
+        "h": 210,
+        "x": 1773,
+        "y": 150,
+        "r": true,
+        "fx": -146,
+        "fy": -9,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/n",
+        "w": 78,
+        "h": 147,
+        "x": 1773,
+        "y": 1,
+        "r": true,
+        "fx": -284,
+        "fy": -18,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/o",
+        "w": 42,
+        "h": 247,
+        "x": 1773,
+        "y": 362,
+        "r": true,
+        "fx": -55,
+        "fy": -7,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/p",
+        "w": 234,
+        "h": 1440,
+        "x": 563,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/q",
+        "w": 615,
+        "h": 1120,
+        "x": 799,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/r",
+        "w": 560,
+        "h": 1440,
+        "x": 1,
+        "y": 563,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_06/deepsea_mage/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1828,
+        "y": 194
+    }
+]

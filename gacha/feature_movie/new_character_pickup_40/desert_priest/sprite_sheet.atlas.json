@@ -1,0 +1,138 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1498,
+        "y": 888
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1263,
+        "y": 665
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1609,
+        "y": 665,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/d",
+        "w": 52,
+        "h": 221,
+        "x": 1498,
+        "y": 665,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/e",
+        "w": 269,
+        "h": 77,
+        "x": 1609,
+        "y": 791,
+        "fx": -1,
+        "fy": -1,
+        "fw": 271,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/f",
+        "w": 55,
+        "h": 180,
+        "x": 1552,
+        "y": 665,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 182,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1495,
+        "y": 900,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/h",
+        "w": 888,
+        "h": 662,
+        "x": 1263,
+        "y": 1,
+        "r": true,
+        "fx": -191,
+        "fy": -103,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 1395,
+        "y": 900,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/j",
+        "w": 1260,
+        "h": 914,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -215,
+        "fy": -279,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1263,
+        "y": 900
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1293,
+        "y": 900,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1510,
+        "y": 888
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/desert_priest/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1522,
+        "y": 888
+    }
+]

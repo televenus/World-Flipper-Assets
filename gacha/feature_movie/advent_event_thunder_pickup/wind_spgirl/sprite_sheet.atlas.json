@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1925,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1717,
+        "y": 958,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/c",
+        "w": 776,
+        "h": 272,
+        "x": 1096,
+        "y": 1421,
+        "fx": -69,
+        "fy": -20,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/d",
+        "w": 272,
+        "h": 777,
+        "x": 1443,
+        "y": 642,
+        "r": true,
+        "fx": -69,
+        "fy": -20,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1785,
+        "y": 348,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/f",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/g",
+        "w": 720,
+        "h": 257,
+        "x": 1096,
+        "y": 1695,
+        "fx": -101,
+        "fy": -29,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1925,
+        "y": 23
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1785,
+        "y": 1,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1785,
+        "y": 217,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1717,
+        "y": 723
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/l",
+        "w": 138,
+        "h": 84,
+        "x": 1785,
+        "y": 131,
+        "fx": -287,
+        "fy": -11,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/m",
+        "w": 340,
+        "h": 639,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -8,
+        "fw": 681,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/n",
+        "w": 54,
+        "h": 208,
+        "x": 1891,
+        "y": 348,
+        "r": true,
+        "fx": -146,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/o",
+        "w": 46,
+        "h": 267,
+        "x": 1785,
+        "y": 454,
+        "r": true,
+        "fx": -45,
+        "fy": -5,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 1125,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/q",
+        "w": 1093,
+        "h": 615,
+        "x": 1,
+        "y": 1361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 563
+    },
+    {
+        "n": "gacha/feature_movie/advent_event_thunder_pickup/wind_spgirl/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1925,
+        "y": 45
+    }
+]
