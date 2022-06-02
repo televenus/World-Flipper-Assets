@@ -1,0 +1,872 @@
+[
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/a",
+        "w": 40,
+        "h": 40,
+        "x": 738,
+        "y": 1849
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/aa",
+        "w": 14,
+        "h": 13,
+        "x": 1849,
+        "y": 575,
+        "fx": -122,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ab",
+        "w": 20,
+        "h": 10,
+        "x": 950,
+        "y": 1777
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ac",
+        "w": 16,
+        "h": 13,
+        "x": 1406,
+        "y": 910,
+        "r": true,
+        "fx": -121,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ad",
+        "w": 13,
+        "h": 15,
+        "x": 780,
+        "y": 1866,
+        "fx": -121,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ae",
+        "w": 13,
+        "h": 16,
+        "x": 1704,
+        "y": 1789,
+        "fx": -122,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/af",
+        "w": 13,
+        "h": 16,
+        "x": 1628,
+        "y": 1135,
+        "fx": -123,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ag",
+        "w": 12,
+        "h": 13,
+        "x": 1657,
+        "y": 1135,
+        "fx": -123,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ah",
+        "w": 32,
+        "h": 24,
+        "x": 1406,
+        "y": 1241,
+        "fx": -113,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ai",
+        "w": 23,
+        "h": 22,
+        "x": 950,
+        "y": 1731,
+        "fx": -123,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/aj",
+        "w": 22,
+        "h": 18,
+        "x": 1547,
+        "y": 1162,
+        "fx": -122,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ak",
+        "w": 14,
+        "h": 15,
+        "x": 751,
+        "y": 1891,
+        "fx": -123,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/al",
+        "w": 11,
+        "h": 14,
+        "x": 725,
+        "y": 1916,
+        "fx": -123,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/am",
+        "w": 12,
+        "h": 15,
+        "x": 1719,
+        "y": 1790,
+        "fx": -121,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/an",
+        "w": 15,
+        "h": 15,
+        "x": 780,
+        "y": 1849,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ao",
+        "w": 34,
+        "h": 31,
+        "x": 635,
+        "y": 1894,
+        "r": true,
+        "fx": -111,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ap",
+        "w": 35,
+        "h": 25,
+        "x": 671,
+        "y": 1916,
+        "r": true,
+        "fx": -110,
+        "fy": -105,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/aq",
+        "w": 28,
+        "h": 24,
+        "x": 1440,
+        "y": 1241,
+        "r": true,
+        "fx": -110,
+        "fy": -105,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ar",
+        "w": 23,
+        "h": 20,
+        "x": 950,
+        "y": 1755,
+        "fx": -111,
+        "fy": -105,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/as",
+        "w": 11,
+        "h": 14,
+        "x": 738,
+        "y": 1913,
+        "fx": -123,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/at",
+        "w": 13,
+        "h": 12,
+        "x": 738,
+        "y": 1929,
+        "r": true,
+        "fx": -123,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/au",
+        "w": 14,
+        "h": 14,
+        "x": 797,
+        "y": 1849,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/av",
+        "w": 15,
+        "h": 15,
+        "x": 708,
+        "y": 1916,
+        "fx": -120,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/aw",
+        "w": 12,
+        "h": 14,
+        "x": 1843,
+        "y": 590,
+        "fx": -122,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ax",
+        "w": 10,
+        "h": 12,
+        "x": 1720,
+        "y": 1807,
+        "r": true,
+        "fx": -122,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ay",
+        "w": 11,
+        "h": 14,
+        "x": 767,
+        "y": 1891,
+        "fx": -123,
+        "fy": -105,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/az",
+        "w": 11,
+        "h": 12,
+        "x": 753,
+        "y": 1929,
+        "r": true,
+        "fx": -123,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/b",
+        "w": 173,
+        "h": 43,
+        "x": 496,
+        "y": 1849,
+        "fx": -31,
+        "fy": 0,
+        "fw": 234,
+        "fh": 43
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ba",
+        "w": 11,
+        "h": 14,
+        "x": 780,
+        "y": 1883,
+        "fx": -122,
+        "fy": -106,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bb",
+        "w": 12,
+        "h": 15,
+        "x": 1643,
+        "y": 1135,
+        "fx": -123,
+        "fy": -109,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bc",
+        "w": 13,
+        "h": 17,
+        "x": 1681,
+        "y": 1128,
+        "r": true,
+        "fx": -119,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bd",
+        "w": 17,
+        "h": 13,
+        "x": 1830,
+        "y": 575,
+        "fx": -119,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/be",
+        "w": 13,
+        "h": 14,
+        "x": 813,
+        "y": 1849,
+        "fx": -121,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bf",
+        "w": 15,
+        "h": 11,
+        "x": 1857,
+        "y": 590,
+        "r": true,
+        "fx": -124,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bg",
+        "w": 11,
+        "h": 14,
+        "x": 1830,
+        "y": 609,
+        "fx": -124,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bh",
+        "w": 11,
+        "h": 14,
+        "x": 828,
+        "y": 1849,
+        "fx": -124,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bi",
+        "w": 11,
+        "h": 17,
+        "x": 1830,
+        "y": 590,
+        "fx": -123,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bj",
+        "w": 11,
+        "h": 20,
+        "x": 738,
+        "y": 1891,
+        "fx": -123,
+        "fy": -106,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bk",
+        "w": 11,
+        "h": 19,
+        "x": 1691,
+        "y": 1789,
+        "fx": -123,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bl",
+        "w": 11,
+        "h": 16,
+        "x": 1691,
+        "y": 1810,
+        "fx": -123,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bm",
+        "w": 11,
+        "h": 18,
+        "x": 1547,
+        "y": 1203,
+        "fx": -123,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bn",
+        "w": 11,
+        "h": 19,
+        "x": 1547,
+        "y": 1182,
+        "fx": -123,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bo",
+        "w": 764,
+        "h": 108,
+        "x": 896,
+        "y": 1789,
+        "fx": 0,
+        "fy": -20,
+        "fw": 764,
+        "fh": 140
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bp",
+        "w": 42,
+        "h": 94,
+        "x": 1830,
+        "y": 451,
+        "fx": -7,
+        "fy": -24,
+        "fw": 66,
+        "fh": 138
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bq",
+        "w": 493,
+        "h": 92,
+        "x": 1,
+        "y": 1849,
+        "fx": -3,
+        "fy": 0,
+        "fw": 496,
+        "fh": 92
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/br",
+        "w": 87,
+        "h": 77,
+        "x": 1406,
+        "y": 1162,
+        "fx": -2,
+        "fy": 0,
+        "fw": 94,
+        "fh": 80
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bs",
+        "w": 220,
+        "h": 220,
+        "x": 1497,
+        "y": 1567
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bt",
+        "w": 60,
+        "h": 95,
+        "x": 1628,
+        "y": 1031,
+        "fx": -4,
+        "fy": -23,
+        "fw": 66,
+        "fh": 138
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bu",
+        "w": 62,
+        "h": 96,
+        "x": 1628,
+        "y": 933,
+        "fx": -3,
+        "fy": -23,
+        "fw": 66,
+        "fh": 138
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bv",
+        "w": 132,
+        "h": 770,
+        "x": 1696,
+        "y": 451,
+        "r": true,
+        "fx": -2,
+        "fy": -7,
+        "fw": 773,
+        "fh": 141
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bw",
+        "w": 220,
+        "h": 220,
+        "x": 1406,
+        "y": 933
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bx",
+        "w": 972,
+        "h": 1728,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/by",
+        "w": 429,
+        "h": 682,
+        "x": 975,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 433,
+        "fh": 698
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/bz",
+        "w": 429,
+        "h": 580,
+        "x": 975,
+        "y": 685,
+        "fx": -1,
+        "fy": 0,
+        "fw": 433,
+        "fh": 596
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/c",
+        "w": 119,
+        "h": 221,
+        "x": 1719,
+        "y": 1567,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ca",
+        "w": 42,
+        "h": 19,
+        "x": 1830,
+        "y": 547,
+        "fx": -2,
+        "fy": -3,
+        "fw": 48,
+        "fh": 24
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/cb",
+        "w": 52,
+        "h": 52,
+        "x": 896,
+        "y": 1731
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/cc",
+        "w": 4,
+        "h": 4,
+        "x": 1690,
+        "y": 1031
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/cd",
+        "w": 65,
+        "h": 65,
+        "x": 671,
+        "y": 1849
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ce",
+        "w": 4,
+        "h": 4,
+        "x": 1690,
+        "y": 1037
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/cf",
+        "w": 47,
+        "h": 47,
+        "x": 496,
+        "y": 1894
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/cg",
+        "w": 4,
+        "h": 4,
+        "x": 1690,
+        "y": 1043
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ch",
+        "w": 4,
+        "h": 4,
+        "x": 1690,
+        "y": 1049
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/ci",
+        "w": 46,
+        "h": 47,
+        "x": 545,
+        "y": 1894,
+        "fx": -1,
+        "fy": 0,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/cj",
+        "w": 4,
+        "h": 4,
+        "x": 1690,
+        "y": 1055
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/d",
+        "w": 194,
+        "h": 5,
+        "x": 1406,
+        "y": 1155,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/e",
+        "w": 893,
+        "h": 116,
+        "x": 1,
+        "y": 1731,
+        "fx": -1,
+        "fy": -4,
+        "fw": 894,
+        "fh": 134
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/f",
+        "w": 5,
+        "h": 19,
+        "x": 751,
+        "y": 1908
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/g",
+        "w": 28,
+        "h": 5,
+        "x": 1495,
+        "y": 1214,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/h",
+        "w": 42,
+        "h": 5,
+        "x": 1830,
+        "y": 568,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/i",
+        "w": 51,
+        "h": 5,
+        "x": 1628,
+        "y": 1128,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/j",
+        "w": 34,
+        "h": 5,
+        "x": 635,
+        "y": 1927,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/k",
+        "w": 5,
+        "h": 48,
+        "x": 1684,
+        "y": 1789
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/l",
+        "w": 342,
+        "h": 342,
+        "x": 1497,
+        "y": 1223
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/m",
+        "w": 448,
+        "h": 448,
+        "x": 1424,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/n",
+        "w": 520,
+        "h": 520,
+        "x": 975,
+        "y": 1267
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/o",
+        "w": 12,
+        "h": 14,
+        "x": 1733,
+        "y": 1790,
+        "fx": -123,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/p",
+        "w": 270,
+        "h": 480,
+        "x": 1424,
+        "y": 451
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/q",
+        "w": 16,
+        "h": 907,
+        "x": 1406,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/r",
+        "w": 20,
+        "h": 96,
+        "x": 1662,
+        "y": 1789,
+        "fx": 0,
+        "fy": -3,
+        "fw": 20,
+        "fh": 100
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/s",
+        "w": 40,
+        "h": 39,
+        "x": 593,
+        "y": 1894,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/t",
+        "w": 50,
+        "h": 50,
+        "x": 1495,
+        "y": 1162
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/u",
+        "w": 20,
+        "h": 19,
+        "x": 1470,
+        "y": 1241,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/v",
+        "w": 20,
+        "h": 10,
+        "x": 1662,
+        "y": 1887
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/w",
+        "w": 10,
+        "h": 9,
+        "x": 725,
+        "y": 1932,
+        "fx": 0,
+        "fy": -1,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/x",
+        "w": 9,
+        "h": 10,
+        "x": 1560,
+        "y": 1182,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/y",
+        "w": 20,
+        "h": 10,
+        "x": 1571,
+        "y": 1162
+    },
+    {
+        "n": "tutorial/movie/equipment/.gen/equipment/z",
+        "w": 14,
+        "h": 13,
+        "x": 1704,
+        "y": 1807,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    }
+]

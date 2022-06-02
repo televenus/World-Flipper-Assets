@@ -1,0 +1,1176 @@
+[
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/a",
+        "w": 40,
+        "h": 40,
+        "x": 2683,
+        "y": 403
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/aa",
+        "w": 29,
+        "h": 17,
+        "x": 1600,
+        "y": 463
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/ab",
+        "w": 10,
+        "h": 15,
+        "x": 2250,
+        "y": 465,
+        "fx": -3,
+        "fy": -5,
+        "fw": 16,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/ac",
+        "w": 12,
+        "h": 12,
+        "x": 2766,
+        "y": 435,
+        "fx": -9,
+        "fy": -17,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/ad",
+        "w": 17,
+        "h": 14,
+        "x": 1532,
+        "y": 466,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/ae",
+        "w": 18,
+        "h": 17,
+        "x": 1631,
+        "y": 463
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/af",
+        "w": 23,
+        "h": 23,
+        "x": 2468,
+        "y": 236,
+        "fx": -20,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/ag",
+        "w": 92,
+        "h": 29,
+        "x": 2215,
+        "y": 226
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/ah",
+        "w": 42,
+        "h": 9,
+        "x": 1089,
+        "y": 407,
+        "fx": -5,
+        "fy": -6,
+        "fw": 51,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/ai",
+        "w": 38,
+        "h": 15,
+        "x": 2175,
+        "y": 465,
+        "fx": -3,
+        "fy": -1,
+        "fw": 44,
+        "fh": 18
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/aj",
+        "w": 736,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/ak",
+        "w": 31,
+        "h": 31,
+        "x": 2599,
+        "y": 449
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/al",
+        "w": 907,
+        "h": 16,
+        "x": 1,
+        "y": 400
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/am",
+        "w": 731,
+        "h": 62,
+        "x": 1,
+        "y": 418,
+        "fx": -5,
+        "fy": 0,
+        "fw": 741,
+        "fh": 62
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/an",
+        "w": 841,
+        "h": 123,
+        "x": 1,
+        "y": 275,
+        "fx": -2,
+        "fy": -8,
+        "fw": 845,
+        "fh": 138
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/b",
+        "w": 173,
+        "h": 43,
+        "x": 2438,
+        "y": 1,
+        "fx": -31,
+        "fy": 0,
+        "fw": 234,
+        "fh": 43
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/c",
+        "w": 221,
+        "h": 119,
+        "x": 2215,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/d",
+        "w": 194,
+        "h": 5,
+        "x": 910,
+        "y": 400,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/e",
+        "w": 804,
+        "h": 127,
+        "x": 1687,
+        "y": 275,
+        "fx": -1,
+        "fy": -12,
+        "fw": 807,
+        "fh": 148
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/f",
+        "w": 19,
+        "h": 5,
+        "x": 2577,
+        "y": 53,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/g",
+        "w": 28,
+        "h": 5,
+        "x": 2438,
+        "y": 115,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/h",
+        "w": 42,
+        "h": 5,
+        "x": 2265,
+        "y": 257,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/i",
+        "w": 51,
+        "h": 5,
+        "x": 1106,
+        "y": 400,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/j",
+        "w": 34,
+        "h": 5,
+        "x": 2577,
+        "y": 46,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/k",
+        "w": 48,
+        "h": 5,
+        "x": 2215,
+        "y": 257,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/l",
+        "w": 736,
+        "h": 272,
+        "x": 739,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/m",
+        "w": 736,
+        "h": 272,
+        "x": 1477,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/n",
+        "w": 24,
+        "h": 49,
+        "x": 2748,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/o",
+        "w": 196,
+        "h": 102,
+        "x": 2215,
+        "y": 122,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 102,
+        "fh": 207
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/p",
+        "w": 12,
+        "h": 13,
+        "x": 2766,
+        "y": 420,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/q",
+        "w": 3,
+        "h": 9,
+        "x": 1133,
+        "y": 407,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/r",
+        "w": 13,
+        "h": 11,
+        "x": 1467,
+        "y": 469,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/s",
+        "w": 19,
+        "h": 18,
+        "x": 2543,
+        "y": 462,
+        "fx": -9,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/t",
+        "w": 13,
+        "h": 12,
+        "x": 1585,
+        "y": 466,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/u",
+        "w": 15,
+        "h": 15,
+        "x": 2233,
+        "y": 465,
+        "fx": -6,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/v",
+        "w": 13,
+        "h": 14,
+        "x": 1570,
+        "y": 466,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/w",
+        "w": 17,
+        "h": 14,
+        "x": 1551,
+        "y": 466,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/x",
+        "w": 16,
+        "h": 15,
+        "x": 2215,
+        "y": 465,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/y",
+        "w": 12,
+        "h": 14,
+        "x": 2766,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/bossbattle/z",
+        "w": 36,
+        "h": 29,
+        "x": 2683,
+        "y": 445,
+        "r": true,
+        "fx": -35,
+        "fy": -34,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/a",
+        "w": 40,
+        "h": 40,
+        "x": 2683,
+        "y": 403
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/aa",
+        "w": 53,
+        "h": 61,
+        "x": 2413,
+        "y": 122,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ab",
+        "w": 53,
+        "h": 59,
+        "x": 2529,
+        "y": 115
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ac",
+        "w": 53,
+        "h": 59,
+        "x": 2413,
+        "y": 185
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ad",
+        "w": 60,
+        "h": 59,
+        "x": 2239,
+        "y": 404,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ae",
+        "w": 19,
+        "h": 5,
+        "x": 2577,
+        "y": 53,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/af",
+        "w": 28,
+        "h": 5,
+        "x": 2438,
+        "y": 115,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ag",
+        "w": 42,
+        "h": 5,
+        "x": 2265,
+        "y": 257,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ah",
+        "w": 51,
+        "h": 5,
+        "x": 1106,
+        "y": 400,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ai",
+        "w": 34,
+        "h": 5,
+        "x": 2577,
+        "y": 46,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/aj",
+        "w": 48,
+        "h": 5,
+        "x": 2215,
+        "y": 257,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ak",
+        "w": 736,
+        "h": 272,
+        "x": 739,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/al",
+        "w": 736,
+        "h": 272,
+        "x": 1477,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/am",
+        "w": 24,
+        "h": 49,
+        "x": 2748,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/an",
+        "w": 196,
+        "h": 102,
+        "x": 2215,
+        "y": 122,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 102,
+        "fh": 207
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ao",
+        "w": 12,
+        "h": 13,
+        "x": 2766,
+        "y": 420,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ap",
+        "w": 3,
+        "h": 9,
+        "x": 1133,
+        "y": 407,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/aq",
+        "w": 13,
+        "h": 11,
+        "x": 1467,
+        "y": 469,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ar",
+        "w": 19,
+        "h": 18,
+        "x": 2543,
+        "y": 462,
+        "fx": -9,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/as",
+        "w": 13,
+        "h": 12,
+        "x": 1585,
+        "y": 466,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/at",
+        "w": 15,
+        "h": 15,
+        "x": 2233,
+        "y": 465,
+        "fx": -6,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/au",
+        "w": 13,
+        "h": 14,
+        "x": 1570,
+        "y": 466,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/av",
+        "w": 17,
+        "h": 14,
+        "x": 1551,
+        "y": 466,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/aw",
+        "w": 16,
+        "h": 15,
+        "x": 2215,
+        "y": 465,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ax",
+        "w": 12,
+        "h": 14,
+        "x": 2766,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ay",
+        "w": 36,
+        "h": 29,
+        "x": 2683,
+        "y": 445,
+        "r": true,
+        "fx": -35,
+        "fy": -34,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/az",
+        "w": 29,
+        "h": 17,
+        "x": 1600,
+        "y": 463
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/b",
+        "w": 42,
+        "h": 43,
+        "x": 2369,
+        "y": 226
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ba",
+        "w": 10,
+        "h": 15,
+        "x": 2250,
+        "y": 465,
+        "fx": -3,
+        "fy": -5,
+        "fw": 16,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bb",
+        "w": 12,
+        "h": 12,
+        "x": 2766,
+        "y": 435,
+        "fx": -9,
+        "fy": -17,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bc",
+        "w": 17,
+        "h": 14,
+        "x": 1532,
+        "y": 466,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bd",
+        "w": 18,
+        "h": 17,
+        "x": 1631,
+        "y": 463
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/be",
+        "w": 23,
+        "h": 23,
+        "x": 2468,
+        "y": 236,
+        "fx": -20,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bf",
+        "w": 92,
+        "h": 29,
+        "x": 2215,
+        "y": 226
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bg",
+        "w": 42,
+        "h": 9,
+        "x": 1089,
+        "y": 407,
+        "fx": -5,
+        "fy": -6,
+        "fw": 51,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bh",
+        "w": 38,
+        "h": 15,
+        "x": 2175,
+        "y": 465,
+        "fx": -3,
+        "fy": -1,
+        "fw": 44,
+        "fh": 18
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bi",
+        "w": 736,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bj",
+        "w": 31,
+        "h": 31,
+        "x": 2599,
+        "y": 449
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bk",
+        "w": 907,
+        "h": 16,
+        "x": 1,
+        "y": 400
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bl",
+        "w": 731,
+        "h": 62,
+        "x": 734,
+        "y": 418,
+        "fx": -5,
+        "fy": 0,
+        "fw": 741,
+        "fh": 62
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bm",
+        "w": 63,
+        "h": 61,
+        "x": 1600,
+        "y": 400
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bn",
+        "w": 53,
+        "h": 61,
+        "x": 2529,
+        "y": 176,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bo",
+        "w": 62,
+        "h": 61,
+        "x": 1665,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bp",
+        "w": 64,
+        "h": 56,
+        "x": 2682,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bq",
+        "w": 52,
+        "h": 50,
+        "x": 2726,
+        "y": 242,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/br",
+        "w": 49,
+        "h": 57,
+        "x": 2640,
+        "y": 60
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bs",
+        "w": 54,
+        "h": 59,
+        "x": 2584,
+        "y": 178
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bt",
+        "w": 61,
+        "h": 53,
+        "x": 2577,
+        "y": 60
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bu",
+        "w": 53,
+        "h": 59,
+        "x": 2700,
+        "y": 181
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bv",
+        "w": 53,
+        "h": 59,
+        "x": 2488,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bw",
+        "w": 60,
+        "h": 59,
+        "x": 2301,
+        "y": 404,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bx",
+        "w": 841,
+        "h": 123,
+        "x": 844,
+        "y": 275,
+        "fx": -2,
+        "fy": -8,
+        "fw": 845,
+        "fh": 138
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/by",
+        "w": 59,
+        "h": 58,
+        "x": 2468,
+        "y": 176
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/bz",
+        "w": 55,
+        "h": 56,
+        "x": 2548,
+        "y": 293,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/c",
+        "w": 39,
+        "h": 36,
+        "x": 2725,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ca",
+        "w": 62,
+        "h": 61,
+        "x": 1729,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cb",
+        "w": 52,
+        "h": 60,
+        "x": 2700,
+        "y": 119,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cc",
+        "w": 57,
+        "h": 56,
+        "x": 2667,
+        "y": 242
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cd",
+        "w": 23,
+        "h": 23,
+        "x": 2413,
+        "y": 246
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ce",
+        "w": 60,
+        "h": 52,
+        "x": 2543,
+        "y": 239
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cf",
+        "w": 48,
+        "h": 59,
+        "x": 2493,
+        "y": 239
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cg",
+        "w": 57,
+        "h": 9,
+        "x": 971,
+        "y": 407
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ch",
+        "w": 58,
+        "h": 42,
+        "x": 2309,
+        "y": 226,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ci",
+        "w": 59,
+        "h": 59,
+        "x": 2468,
+        "y": 115
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cj",
+        "w": 62,
+        "h": 61,
+        "x": 1793,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ck",
+        "w": 59,
+        "h": 58,
+        "x": 2691,
+        "y": 59
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cl",
+        "w": 52,
+        "h": 50,
+        "x": 2726,
+        "y": 294,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cm",
+        "w": 57,
+        "h": 49,
+        "x": 2605,
+        "y": 352,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cn",
+        "w": 53,
+        "h": 61,
+        "x": 2584,
+        "y": 115,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/co",
+        "w": 60,
+        "h": 61,
+        "x": 2113,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cp",
+        "w": 58,
+        "h": 59,
+        "x": 2640,
+        "y": 178,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cq",
+        "w": 53,
+        "h": 56,
+        "x": 2725,
+        "y": 346,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cr",
+        "w": 57,
+        "h": 50,
+        "x": 2666,
+        "y": 300
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cs",
+        "w": 53,
+        "h": 59,
+        "x": 2493,
+        "y": 300
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/ct",
+        "w": 59,
+        "h": 53,
+        "x": 2605,
+        "y": 297,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/cu",
+        "w": 60,
+        "h": 59,
+        "x": 2363,
+        "y": 404,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/d",
+        "w": 43,
+        "h": 41,
+        "x": 2493,
+        "y": 361
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/e",
+        "w": 41,
+        "h": 43,
+        "x": 2599,
+        "y": 404,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/f",
+        "w": 39,
+        "h": 43,
+        "x": 2642,
+        "y": 403
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/g",
+        "w": 221,
+        "h": 119,
+        "x": 2215,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/h",
+        "w": 194,
+        "h": 5,
+        "x": 910,
+        "y": 400,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/i",
+        "w": 62,
+        "h": 61,
+        "x": 1857,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/j",
+        "w": 60,
+        "h": 56,
+        "x": 2605,
+        "y": 239
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/k",
+        "w": 62,
+        "h": 59,
+        "x": 2175,
+        "y": 404,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/l",
+        "w": 55,
+        "h": 51,
+        "x": 2548,
+        "y": 351,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/m",
+        "w": 59,
+        "h": 57,
+        "x": 2639,
+        "y": 119,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/n",
+        "w": 61,
+        "h": 58,
+        "x": 2425,
+        "y": 404,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/o",
+        "w": 57,
+        "h": 9,
+        "x": 1030,
+        "y": 407
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/p",
+        "w": 57,
+        "h": 49,
+        "x": 2664,
+        "y": 352,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/q",
+        "w": 59,
+        "h": 9,
+        "x": 910,
+        "y": 407
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/r",
+        "w": 62,
+        "h": 61,
+        "x": 1921,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/s",
+        "w": 54,
+        "h": 56,
+        "x": 2543,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/t",
+        "w": 67,
+        "h": 67,
+        "x": 2508,
+        "y": 46
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/u",
+        "w": 63,
+        "h": 67,
+        "x": 1467,
+        "y": 400
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/v",
+        "w": 66,
+        "h": 64,
+        "x": 1532,
+        "y": 400
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/w",
+        "w": 68,
+        "h": 67,
+        "x": 2438,
+        "y": 46
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/x",
+        "w": 67,
+        "h": 57,
+        "x": 2613,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/y",
+        "w": 62,
+        "h": 61,
+        "x": 1985,
+        "y": 404
+    },
+    {
+        "n": "tutorial/movie/bossbattle/.gen/multibattle/z",
+        "w": 62,
+        "h": 61,
+        "x": 2049,
+        "y": 404
+    }
+]

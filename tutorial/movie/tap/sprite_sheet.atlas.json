@@ -1,0 +1,528 @@
+[
+    {
+        "n": "tutorial/movie/tap/.gen/tap/a",
+        "w": 580,
+        "h": 74,
+        "x": 1378,
+        "y": 923,
+        "fx": -2,
+        "fy": -32,
+        "fw": 585,
+        "fh": 137
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/aa",
+        "w": 138,
+        "h": 138,
+        "x": 1280,
+        "y": 641
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ab",
+        "w": 147,
+        "h": 147,
+        "x": 1231,
+        "y": 492
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ac",
+        "w": 156,
+        "h": 156,
+        "x": 1220,
+        "y": 831
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ad",
+        "w": 164,
+        "h": 164,
+        "x": 1114,
+        "y": 665
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ae",
+        "w": 171,
+        "h": 171,
+        "x": 1058,
+        "y": 492
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/af",
+        "w": 178,
+        "h": 178,
+        "x": 833,
+        "y": 492
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ag",
+        "w": 183,
+        "h": 183,
+        "x": 648,
+        "y": 492
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ah",
+        "w": 188,
+        "h": 188,
+        "x": 924,
+        "y": 672
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ai",
+        "w": 192,
+        "h": 192,
+        "x": 730,
+        "y": 677
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/aj",
+        "w": 196,
+        "h": 196,
+        "x": 450,
+        "y": 480
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ak",
+        "w": 199,
+        "h": 199,
+        "x": 343,
+        "y": 685
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/al",
+        "w": 201,
+        "h": 201,
+        "x": 140,
+        "y": 685
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/am",
+        "w": 580,
+        "h": 429,
+        "x": 1498,
+        "y": 492,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 433,
+        "fh": 596
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/an",
+        "w": 42,
+        "h": 19,
+        "x": 1176,
+        "y": 831,
+        "fx": -2,
+        "fy": -3,
+        "fw": 48,
+        "fh": 24
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ao",
+        "w": 52,
+        "h": 52,
+        "x": 1420,
+        "y": 610
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ap",
+        "w": 4,
+        "h": 4,
+        "x": 431,
+        "y": 992
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/aq",
+        "w": 65,
+        "h": 65,
+        "x": 1960,
+        "y": 923
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ar",
+        "w": 4,
+        "h": 4,
+        "x": 437,
+        "y": 992
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/as",
+        "w": 47,
+        "h": 47,
+        "x": 1337,
+        "y": 781
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/at",
+        "w": 4,
+        "h": 4,
+        "x": 443,
+        "y": 992
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/au",
+        "w": 4,
+        "h": 4,
+        "x": 449,
+        "y": 992
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/av",
+        "w": 47,
+        "h": 46,
+        "x": 1420,
+        "y": 664,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/aw",
+        "w": 4,
+        "h": 4,
+        "x": 455,
+        "y": 992
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ax",
+        "w": 4,
+        "h": 4,
+        "x": 461,
+        "y": 992
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ay",
+        "w": 4,
+        "h": 4,
+        "x": 484,
+        "y": 980
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/az",
+        "w": 29,
+        "h": 24,
+        "x": 2064,
+        "y": 90,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/b",
+        "w": 40,
+        "h": 40,
+        "x": 1420,
+        "y": 712
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/ba",
+        "w": 55,
+        "h": 48,
+        "x": 1280,
+        "y": 781,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bb",
+        "w": 29,
+        "h": 29,
+        "x": 2064,
+        "y": 59,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bc",
+        "w": 40,
+        "h": 20,
+        "x": 1134,
+        "y": 831,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bd",
+        "w": 15,
+        "h": 15,
+        "x": 467,
+        "y": 980,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/be",
+        "w": 20,
+        "h": 18,
+        "x": 140,
+        "y": 888
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bf",
+        "w": 30,
+        "h": 29,
+        "x": 2064,
+        "y": 28,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bg",
+        "w": 18,
+        "h": 22,
+        "x": 1114,
+        "y": 831,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bh",
+        "w": 27,
+        "h": 22,
+        "x": 2064,
+        "y": 191
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bi",
+        "w": 33,
+        "h": 25,
+        "x": 2064,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bj",
+        "w": 27,
+        "h": 35,
+        "x": 2064,
+        "y": 154,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/bk",
+        "w": 27,
+        "h": 36,
+        "x": 2064,
+        "y": 116,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/c",
+        "w": 43,
+        "h": 173,
+        "x": 1013,
+        "y": 492,
+        "r": true,
+        "fx": -31,
+        "fy": 0,
+        "fw": 234,
+        "fh": 43
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/d",
+        "w": 119,
+        "h": 221,
+        "x": 19,
+        "y": 685,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/e",
+        "w": 194,
+        "h": 5,
+        "x": 1,
+        "y": 992,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/f",
+        "w": 429,
+        "h": 682,
+        "x": 19,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 433,
+        "fh": 698
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/g",
+        "w": 184,
+        "h": 194,
+        "x": 544,
+        "y": 678,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 194,
+        "fh": 200
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/h",
+        "w": 80,
+        "h": 80,
+        "x": 1,
+        "y": 910,
+        "fx": 0,
+        "fy": 0,
+        "fw": 81,
+        "fh": 81
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/i",
+        "w": 70,
+        "h": 139,
+        "x": 1148,
+        "y": 853
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/j",
+        "w": 22,
+        "h": 275,
+        "x": 2064,
+        "y": 215,
+        "r": true,
+        "fx": 0,
+        "fy": -13,
+        "fw": 275,
+        "fh": 35
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/k",
+        "w": 1612,
+        "h": 477,
+        "x": 450,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/l",
+        "w": 16,
+        "h": 907,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/m",
+        "w": 458,
+        "h": 120,
+        "x": 559,
+        "y": 874,
+        "fx": 0,
+        "fy": -1,
+        "fw": 458,
+        "fh": 123
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/n",
+        "w": 194,
+        "h": 102,
+        "x": 163,
+        "y": 888,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/o",
+        "w": 19,
+        "h": 5,
+        "x": 410,
+        "y": 992,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/p",
+        "w": 28,
+        "h": 5,
+        "x": 380,
+        "y": 992,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/q",
+        "w": 42,
+        "h": 5,
+        "x": 300,
+        "y": 992,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/r",
+        "w": 51,
+        "h": 5,
+        "x": 197,
+        "y": 992,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/s",
+        "w": 34,
+        "h": 5,
+        "x": 344,
+        "y": 992,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/t",
+        "w": 48,
+        "h": 5,
+        "x": 250,
+        "y": 992,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/u",
+        "w": 64,
+        "h": 64,
+        "x": 2027,
+        "y": 923
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/v",
+        "w": 78,
+        "h": 78,
+        "x": 83,
+        "y": 908
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/w",
+        "w": 92,
+        "h": 92,
+        "x": 465,
+        "y": 886
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/x",
+        "w": 104,
+        "h": 104,
+        "x": 359,
+        "y": 886
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/y",
+        "w": 116,
+        "h": 116,
+        "x": 1380,
+        "y": 492
+    },
+    {
+        "n": "tutorial/movie/tap/.gen/tap/z",
+        "w": 127,
+        "h": 127,
+        "x": 1019,
+        "y": 862
+    }
+]

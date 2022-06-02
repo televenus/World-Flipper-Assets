@@ -1,0 +1,42 @@
+[
+    {
+        "n": "tutorial/movie/challenge_dungeon/.gen/challenge_dungeon_1/a",
+        "w": 415,
+        "h": 952,
+        "x": 3229,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 952,
+        "fh": 420
+    },
+    {
+        "n": "tutorial/movie/challenge_dungeon/.gen/challenge_dungeon_1/b",
+        "w": 1612,
+        "h": 952,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/challenge_dungeon/.gen/challenge_dungeon_2/a",
+        "w": 409,
+        "h": 952,
+        "x": 3646,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 952,
+        "fh": 420
+    },
+    {
+        "n": "tutorial/movie/challenge_dungeon/.gen/challenge_dungeon_2/b",
+        "w": 1612,
+        "h": 952,
+        "x": 1615,
+        "y": 1,
+        "r": true
+    }
+]

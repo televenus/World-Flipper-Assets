@@ -1,0 +1,674 @@
+[
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/a",
+        "w": 173,
+        "h": 43,
+        "x": 1892,
+        "y": 435,
+        "fx": -31,
+        "fy": 0,
+        "fw": 234,
+        "fh": 43
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/aa",
+        "w": 275,
+        "h": 44,
+        "x": 1615,
+        "y": 369,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ab",
+        "w": 275,
+        "h": 44,
+        "x": 1939,
+        "y": 273,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ac",
+        "w": 275,
+        "h": 44,
+        "x": 1615,
+        "y": 415,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ad",
+        "w": 275,
+        "h": 44,
+        "x": 1939,
+        "y": 319,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ae",
+        "w": 19,
+        "h": 19,
+        "x": 2424,
+        "y": 422,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/af",
+        "w": 28,
+        "h": 2,
+        "x": 2444,
+        "y": 122,
+        "fx": -2,
+        "fy": 0,
+        "fw": 30,
+        "fh": 2
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ag",
+        "w": 28,
+        "h": 2,
+        "x": 2474,
+        "y": 122,
+        "fx": -2,
+        "fy": 0,
+        "fw": 30,
+        "fh": 2
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ah",
+        "w": 29,
+        "h": 29,
+        "x": 2390,
+        "y": 449,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ai",
+        "w": 275,
+        "h": 22,
+        "x": 1939,
+        "y": 365,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 34
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/aj",
+        "w": 322,
+        "h": 94,
+        "x": 1615,
+        "y": 273,
+        "fx": -12,
+        "fy": -23,
+        "fw": 345,
+        "fh": 139
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ak",
+        "w": 275,
+        "h": 22,
+        "x": 2216,
+        "y": 374,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 34
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/al",
+        "w": 827,
+        "h": 123,
+        "x": 1615,
+        "y": 1,
+        "fx": -3,
+        "fy": -18,
+        "fw": 832,
+        "fh": 158
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/am",
+        "w": 79,
+        "h": 83,
+        "x": 2565,
+        "y": 282,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/an",
+        "w": 67,
+        "h": 51,
+        "x": 2169,
+        "y": 422,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 55,
+        "fh": 70
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ao",
+        "w": 35,
+        "h": 28,
+        "x": 2671,
+        "y": 101
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ap",
+        "w": 60,
+        "h": 60,
+        "x": 2606,
+        "y": 188
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/aq",
+        "w": 29,
+        "h": 30,
+        "x": 2606,
+        "y": 250,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ar",
+        "w": 39,
+        "h": 39,
+        "x": 2667,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/as",
+        "w": 60,
+        "h": 60,
+        "x": 2646,
+        "y": 250
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/at",
+        "w": 53,
+        "h": 66,
+        "x": 2647,
+        "y": 341,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/au",
+        "w": 38,
+        "h": 8,
+        "x": 2566,
+        "y": 122
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/av",
+        "w": 29,
+        "h": 30,
+        "x": 2138,
+        "y": 435,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/aw",
+        "w": 30,
+        "h": 29,
+        "x": 2326,
+        "y": 447,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ax",
+        "w": 63,
+        "h": 64,
+        "x": 2606,
+        "y": 122,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ay",
+        "w": 44,
+        "h": 34,
+        "x": 2280,
+        "y": 422,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/az",
+        "w": 28,
+        "h": 28,
+        "x": 2668,
+        "y": 188,
+        "fx": -2,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/b",
+        "w": 221,
+        "h": 119,
+        "x": 2444,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/ba",
+        "w": 4,
+        "h": 4,
+        "x": 2702,
+        "y": 341
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bb",
+        "w": 26,
+        "h": 57,
+        "x": 2667,
+        "y": 42,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bc",
+        "w": 48,
+        "h": 23,
+        "x": 2326,
+        "y": 422
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bd",
+        "w": 46,
+        "h": 21,
+        "x": 2376,
+        "y": 422
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/be",
+        "w": 69,
+        "h": 34,
+        "x": 2067,
+        "y": 435
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bf",
+        "w": 60,
+        "h": 27,
+        "x": 2646,
+        "y": 312,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bg",
+        "w": 5,
+        "h": 20,
+        "x": 2462,
+        "y": 427,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bh",
+        "w": 24,
+        "h": 29,
+        "x": 2452,
+        "y": 449,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bi",
+        "w": 55,
+        "h": 48,
+        "x": 2647,
+        "y": 409,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bj",
+        "w": 29,
+        "h": 29,
+        "x": 2421,
+        "y": 449,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bk",
+        "w": 40,
+        "h": 20,
+        "x": 2524,
+        "y": 122,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bl",
+        "w": 15,
+        "h": 15,
+        "x": 2445,
+        "y": 427,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bm",
+        "w": 20,
+        "h": 18,
+        "x": 1916,
+        "y": 369
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bn",
+        "w": 30,
+        "h": 29,
+        "x": 2358,
+        "y": 449,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bo",
+        "w": 22,
+        "h": 18,
+        "x": 1892,
+        "y": 369
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bp",
+        "w": 27,
+        "h": 22,
+        "x": 2668,
+        "y": 218
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bq",
+        "w": 33,
+        "h": 25,
+        "x": 2671,
+        "y": 160
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/br",
+        "w": 35,
+        "h": 27,
+        "x": 2671,
+        "y": 131
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bs",
+        "w": 36,
+        "h": 27,
+        "x": 2446,
+        "y": 398
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/bt",
+        "w": 40,
+        "h": 40,
+        "x": 2238,
+        "y": 422
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/c",
+        "w": 194,
+        "h": 5,
+        "x": 1615,
+        "y": 461,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/d",
+        "w": 712,
+        "h": 127,
+        "x": 1615,
+        "y": 144,
+        "fx": -1,
+        "fy": -5,
+        "fw": 713,
+        "fh": 142
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/e",
+        "w": 19,
+        "h": 5,
+        "x": 2067,
+        "y": 471,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/f",
+        "w": 5,
+        "h": 28,
+        "x": 2637,
+        "y": 250
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/g",
+        "w": 42,
+        "h": 5,
+        "x": 2169,
+        "y": 389,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/h",
+        "w": 51,
+        "h": 5,
+        "x": 2216,
+        "y": 273,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/i",
+        "w": 34,
+        "h": 5,
+        "x": 1811,
+        "y": 461,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/j",
+        "w": 48,
+        "h": 5,
+        "x": 1615,
+        "y": 468,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/k",
+        "w": 80,
+        "h": 80,
+        "x": 2565,
+        "y": 367,
+        "fx": 0,
+        "fy": 0,
+        "fw": 81,
+        "fh": 81
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/l",
+        "w": 70,
+        "h": 139,
+        "x": 2493,
+        "y": 282
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/m",
+        "w": 275,
+        "h": 22,
+        "x": 2169,
+        "y": 398,
+        "fx": 0,
+        "fy": -13,
+        "fw": 275,
+        "fh": 35
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/n",
+        "w": 1612,
+        "h": 477,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/o",
+        "w": 907,
+        "h": 16,
+        "x": 1615,
+        "y": 126
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/p",
+        "w": 4,
+        "h": 4,
+        "x": 2702,
+        "y": 347
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/q",
+        "w": 4,
+        "h": 4,
+        "x": 2702,
+        "y": 353
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/r",
+        "w": 13,
+        "h": 6,
+        "x": 2668,
+        "y": 242,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 12,
+        "fh": 16
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/s",
+        "w": 11,
+        "h": 29,
+        "x": 2695,
+        "y": 42,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/t",
+        "w": 29,
+        "h": 11,
+        "x": 2138,
+        "y": 467,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 14,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/u",
+        "w": 275,
+        "h": 44,
+        "x": 1892,
+        "y": 389,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/v",
+        "w": 275,
+        "h": 44,
+        "x": 2329,
+        "y": 144,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/w",
+        "w": 275,
+        "h": 44,
+        "x": 2329,
+        "y": 190,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/x",
+        "w": 275,
+        "h": 44,
+        "x": 2329,
+        "y": 236,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/y",
+        "w": 275,
+        "h": 44,
+        "x": 2216,
+        "y": 282,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    },
+    {
+        "n": "tutorial/movie/powerflip/.gen/powerflip/z",
+        "w": 275,
+        "h": 44,
+        "x": 2216,
+        "y": 328,
+        "fx": 0,
+        "fy": -12,
+        "fw": 275,
+        "fh": 67
+    }
+]

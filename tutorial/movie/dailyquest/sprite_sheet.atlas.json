@@ -1,0 +1,136 @@
+[
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/a",
+        "w": 40,
+        "h": 40,
+        "x": 176,
+        "y": 401
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/b",
+        "w": 173,
+        "h": 43,
+        "x": 1,
+        "y": 401,
+        "fx": -31,
+        "fy": 0,
+        "fw": 234,
+        "fh": 43
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/c",
+        "w": 221,
+        "h": 119,
+        "x": 787,
+        "y": 19
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/d",
+        "w": 194,
+        "h": 5,
+        "x": 787,
+        "y": 140,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/e",
+        "w": 300,
+        "h": 300,
+        "x": 702,
+        "y": 148
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/f",
+        "w": 699,
+        "h": 112,
+        "x": 1,
+        "y": 287,
+        "fx": -2,
+        "fy": -4,
+        "fw": 703,
+        "fh": 123
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/g",
+        "w": 678,
+        "h": 137,
+        "x": 1,
+        "y": 148,
+        "fx": -92,
+        "fy": -1,
+        "fw": 863,
+        "fh": 139
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/h",
+        "w": 19,
+        "h": 5,
+        "x": 983,
+        "y": 140,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/i",
+        "w": 28,
+        "h": 5,
+        "x": 218,
+        "y": 434,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/j",
+        "w": 42,
+        "h": 5,
+        "x": 251,
+        "y": 401,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/k",
+        "w": 51,
+        "h": 5,
+        "x": 910,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/l",
+        "w": 34,
+        "h": 5,
+        "x": 910,
+        "y": 8,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/m",
+        "w": 5,
+        "h": 48,
+        "x": 681,
+        "y": 148
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/n",
+        "w": 31,
+        "h": 31,
+        "x": 218,
+        "y": 401
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/o",
+        "w": 907,
+        "h": 16,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/dailyquest/.gen/dailyquest/p",
+        "w": 784,
+        "h": 127,
+        "x": 1,
+        "y": 19,
+        "fx": -2,
+        "fy": -13,
+        "fw": 789,
+        "fh": 151
+    }
+]

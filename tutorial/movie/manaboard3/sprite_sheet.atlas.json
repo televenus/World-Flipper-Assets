@@ -1,0 +1,410 @@
+[
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/a",
+        "w": 173,
+        "h": 43,
+        "x": 1732,
+        "y": 838,
+        "fx": -31,
+        "fy": 0,
+        "fw": 234,
+        "fh": 43
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/aa",
+        "w": 504,
+        "h": 20,
+        "x": 2210,
+        "y": 834
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ab",
+        "w": 20,
+        "h": 504,
+        "x": 3006,
+        "y": 30,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ac",
+        "w": 693,
+        "h": 339,
+        "x": 2210,
+        "y": 30,
+        "fx": -1,
+        "fy": 0,
+        "fw": 697,
+        "fh": 339
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ad",
+        "w": 10,
+        "h": 10,
+        "x": 3257,
+        "y": 440
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ae",
+        "w": 20,
+        "h": 9,
+        "x": 910,
+        "y": 912,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/af",
+        "w": 1729,
+        "h": 902,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ag",
+        "w": 1323,
+        "h": 27,
+        "x": 1732,
+        "y": 1,
+        "fx": -2,
+        "fy": 0,
+        "fw": 1327,
+        "fh": 27
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ah",
+        "w": 36,
+        "h": 36,
+        "x": 3273,
+        "y": 522
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ai",
+        "w": 168,
+        "h": 168,
+        "x": 2761,
+        "y": 517
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/aj",
+        "w": 100,
+        "h": 100,
+        "x": 3257,
+        "y": 247
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ak",
+        "w": 89,
+        "h": 89,
+        "x": 3257,
+        "y": 349
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/al",
+        "w": 67,
+        "h": 67,
+        "x": 2931,
+        "y": 511
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/am",
+        "w": 205,
+        "h": 205,
+        "x": 3050,
+        "y": 245,
+        "fx": -1,
+        "fy": -1,
+        "fw": 207,
+        "fh": 207
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/an",
+        "w": 242,
+        "h": 242,
+        "x": 3057,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ao",
+        "w": 80,
+        "h": 80,
+        "x": 3301,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ap",
+        "w": 80,
+        "h": 80,
+        "x": 3301,
+        "y": 83
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/aq",
+        "w": 80,
+        "h": 80,
+        "x": 3301,
+        "y": 165
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ar",
+        "w": 80,
+        "h": 80,
+        "x": 3273,
+        "y": 440
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/as",
+        "w": 549,
+        "h": 346,
+        "x": 2210,
+        "y": 371,
+        "fx": -4,
+        "fy": -3,
+        "fw": 560,
+        "fh": 355
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/at",
+        "w": 138,
+        "h": 144,
+        "x": 3251,
+        "y": 573,
+        "fx": -2,
+        "fy": -1,
+        "fw": 143,
+        "fh": 147
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/au",
+        "w": 143,
+        "h": 142,
+        "x": 3045,
+        "y": 779,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/av",
+        "w": 138,
+        "h": 143,
+        "x": 3251,
+        "y": 719,
+        "fx": -4,
+        "fy": 0,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/aw",
+        "w": 204,
+        "h": 204,
+        "x": 3045,
+        "y": 573
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/ax",
+        "w": 142,
+        "h": 144,
+        "x": 2761,
+        "y": 371,
+        "fx": 0,
+        "fy": -1,
+        "fw": 142,
+        "fh": 147
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/b",
+        "w": 221,
+        "h": 119,
+        "x": 3050,
+        "y": 452
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/c",
+        "w": 5,
+        "h": 194,
+        "x": 3050,
+        "y": 30
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/d",
+        "w": 10,
+        "h": 10,
+        "x": 2761,
+        "y": 707
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/e",
+        "w": 833,
+        "h": 113,
+        "x": 2210,
+        "y": 719,
+        "fx": -25,
+        "fy": -6,
+        "fw": 885,
+        "fh": 132
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/f",
+        "w": 5,
+        "h": 19,
+        "x": 1954,
+        "y": 838
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/g",
+        "w": 5,
+        "h": 28,
+        "x": 3348,
+        "y": 349
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/h",
+        "w": 42,
+        "h": 5,
+        "x": 1732,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/i",
+        "w": 51,
+        "h": 5,
+        "x": 910,
+        "y": 905,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/j",
+        "w": 5,
+        "h": 34,
+        "x": 3383,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/k",
+        "w": 48,
+        "h": 5,
+        "x": 3000,
+        "y": 536,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/l",
+        "w": 476,
+        "h": 806,
+        "x": 1732,
+        "y": 30
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/m",
+        "w": 907,
+        "h": 16,
+        "x": 1,
+        "y": 905
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/n",
+        "w": 10,
+        "h": 10,
+        "x": 2773,
+        "y": 707
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/o",
+        "w": 99,
+        "h": 479,
+        "x": 2905,
+        "y": 30,
+        "r": true,
+        "fx": -48,
+        "fy": 0,
+        "fw": 575,
+        "fh": 99
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/p",
+        "w": 10,
+        "h": 10,
+        "x": 2785,
+        "y": 707
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/q",
+        "w": 35,
+        "h": 47,
+        "x": 3190,
+        "y": 779
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/r",
+        "w": 45,
+        "h": 33,
+        "x": 1907,
+        "y": 838,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/s",
+        "w": 28,
+        "h": 29,
+        "x": 2931,
+        "y": 580
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/t",
+        "w": 29,
+        "h": 20,
+        "x": 2716,
+        "y": 834,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/u",
+        "w": 28,
+        "h": 29,
+        "x": 3190,
+        "y": 828
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/v",
+        "w": 22,
+        "h": 21,
+        "x": 3227,
+        "y": 779
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/w",
+        "w": 29,
+        "h": 25,
+        "x": 3220,
+        "y": 828,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/x",
+        "w": 17,
+        "h": 23,
+        "x": 3359,
+        "y": 247,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/y",
+        "w": 45,
+        "h": 18,
+        "x": 2761,
+        "y": 687,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/manaboard3/.gen/manaboard3/z",
+        "w": 20,
+        "h": 504,
+        "x": 3028,
+        "y": 30,
+        "r": true
+    }
+]

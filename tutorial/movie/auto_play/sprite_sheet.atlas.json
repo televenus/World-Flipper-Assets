@@ -1,0 +1,33 @@
+[
+    {
+        "n": "tutorial/movie/auto_play/.gen/auto_play_unlock/a",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/auto_play/.gen/auto_play_unlock/b",
+        "w": 612,
+        "h": 540,
+        "x": 43,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/auto_play/.gen/auto_play_unlock/c",
+        "w": 628,
+        "h": 540,
+        "x": 657,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/auto_play/.gen/auto_play_unlock/d",
+        "w": 628,
+        "h": 540,
+        "x": 1287,
+        "y": 1,
+        "r": true
+    }
+]

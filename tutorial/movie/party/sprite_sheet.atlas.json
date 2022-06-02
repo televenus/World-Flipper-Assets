@@ -1,0 +1,127 @@
+[
+    {
+        "n": "tutorial/movie/party/.gen/party/a",
+        "w": 4,
+        "h": 4,
+        "x": 1252,
+        "y": 1834
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/b",
+        "w": 173,
+        "h": 43,
+        "x": 1416,
+        "y": 1228,
+        "fx": -31,
+        "fy": 0,
+        "fw": 234,
+        "fh": 43
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/c",
+        "w": 221,
+        "h": 119,
+        "x": 1416,
+        "y": 1107
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/d",
+        "w": 194,
+        "h": 5,
+        "x": 1,
+        "y": 1912,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/e",
+        "w": 871,
+        "h": 44,
+        "x": 910,
+        "y": 1894,
+        "fx": 0,
+        "fy": -10,
+        "fw": 872,
+        "fh": 60
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/f",
+        "w": 19,
+        "h": 5,
+        "x": 197,
+        "y": 1912,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/g",
+        "w": 28,
+        "h": 5,
+        "x": 1,
+        "y": 1919,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/h",
+        "w": 5,
+        "h": 42,
+        "x": 1416,
+        "y": 1273
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/i",
+        "w": 5,
+        "h": 51,
+        "x": 1252,
+        "y": 1781
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/j",
+        "w": 5,
+        "h": 34,
+        "x": 1591,
+        "y": 1228
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/k",
+        "w": 5,
+        "h": 48,
+        "x": 1639,
+        "y": 1107
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/l",
+        "w": 621,
+        "h": 1104,
+        "x": 1252,
+        "y": 1
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/m",
+        "w": 907,
+        "h": 16,
+        "x": 1,
+        "y": 1894
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/n",
+        "w": 1249,
+        "h": 1891,
+        "x": 1,
+        "y": 1,
+        "fx": -8,
+        "fy": -8,
+        "fw": 1267,
+        "fh": 1911
+    },
+    {
+        "n": "tutorial/movie/party/.gen/party/o",
+        "w": 162,
+        "h": 672,
+        "x": 1252,
+        "y": 1107,
+        "r": true,
+        "fx": -3,
+        "fy": -9,
+        "fw": 677,
+        "fh": 180
+    }
+]

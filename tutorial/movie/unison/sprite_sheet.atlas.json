@@ -1,0 +1,743 @@
+[
+    {
+        "n": "tutorial/movie/unison/.gen/unison/a",
+        "w": 4,
+        "h": 4,
+        "x": 2135,
+        "y": 379
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/aa",
+        "w": 18,
+        "h": 19,
+        "x": 1228,
+        "y": 489,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ab",
+        "w": 907,
+        "h": 16,
+        "x": 981,
+        "y": 416
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ac",
+        "w": 47,
+        "h": 47,
+        "x": 1660,
+        "y": 434,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ad",
+        "w": 86,
+        "h": 50,
+        "x": 1343,
+        "y": 434,
+        "fx": -59,
+        "fy": -73,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ae",
+        "w": 44,
+        "h": 44,
+        "x": 2025,
+        "y": 343,
+        "fx": -3,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/af",
+        "w": 13,
+        "h": 10,
+        "x": 1717,
+        "y": 498,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ag",
+        "w": 18,
+        "h": 19,
+        "x": 1248,
+        "y": 489,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ah",
+        "w": 89,
+        "h": 53,
+        "x": 1252,
+        "y": 434,
+        "fx": -58,
+        "fy": -71,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ai",
+        "w": 92,
+        "h": 56,
+        "x": 1831,
+        "y": 342,
+        "fx": -56,
+        "fy": -70,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/aj",
+        "w": 18,
+        "h": 19,
+        "x": 1228,
+        "y": 489,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ak",
+        "w": 92,
+        "h": 58,
+        "x": 2054,
+        "y": 283,
+        "fx": -56,
+        "fy": -69,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/al",
+        "w": 18,
+        "h": 19,
+        "x": 1268,
+        "y": 489,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/am",
+        "w": 94,
+        "h": 53,
+        "x": 1156,
+        "y": 434,
+        "fx": -55,
+        "fy": -68,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/an",
+        "w": 88,
+        "h": 96,
+        "x": 2058,
+        "y": 1,
+        "r": true,
+        "fx": -54,
+        "fy": -42,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ao",
+        "w": 98,
+        "h": 75,
+        "x": 1925,
+        "y": 342,
+        "fx": -53,
+        "fy": -47,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ap",
+        "w": 88,
+        "h": 89,
+        "x": 2058,
+        "y": 192,
+        "r": true,
+        "fx": -57,
+        "fy": -42,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/aq",
+        "w": 68,
+        "h": 68,
+        "x": 1590,
+        "y": 434,
+        "fx": -68,
+        "fy": -52,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ar",
+        "w": 88,
+        "h": 91,
+        "x": 2058,
+        "y": 99,
+        "r": true,
+        "fx": -57,
+        "fy": -42,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/as",
+        "w": 88,
+        "h": 89,
+        "x": 1890,
+        "y": 419,
+        "r": true,
+        "fx": -57,
+        "fy": -42,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/at",
+        "w": 75,
+        "h": 73,
+        "x": 1513,
+        "y": 434,
+        "r": true,
+        "fx": -65,
+        "fy": -47,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/au",
+        "w": 88,
+        "h": 89,
+        "x": 1980,
+        "y": 419,
+        "r": true,
+        "fx": -57,
+        "fy": -42,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/av",
+        "w": 15,
+        "h": 14,
+        "x": 1831,
+        "y": 400,
+        "fx": 0,
+        "fy": -1,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/aw",
+        "w": 7,
+        "h": 7,
+        "x": 1779,
+        "y": 266,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ax",
+        "w": 8,
+        "h": 8,
+        "x": 1880,
+        "y": 468
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ay",
+        "w": 4,
+        "h": 14,
+        "x": 2142,
+        "y": 343,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/az",
+        "w": 23,
+        "h": 23,
+        "x": 2070,
+        "y": 427
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/b",
+        "w": 173,
+        "h": 43,
+        "x": 981,
+        "y": 434,
+        "fx": -31,
+        "fy": 0,
+        "fw": 234,
+        "fh": 43
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ba",
+        "w": 30,
+        "h": 29,
+        "x": 981,
+        "y": 479,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bb",
+        "w": 21,
+        "h": 21,
+        "x": 2070,
+        "y": 452
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bc",
+        "w": 20,
+        "h": 10,
+        "x": 1695,
+        "y": 498
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bd",
+        "w": 8,
+        "h": 4,
+        "x": 1590,
+        "y": 504,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/be",
+        "w": 40,
+        "h": 40,
+        "x": 2071,
+        "y": 343
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bf",
+        "w": 60,
+        "h": 30,
+        "x": 1709,
+        "y": 434,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bg",
+        "w": 60,
+        "h": 30,
+        "x": 1771,
+        "y": 434,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bh",
+        "w": 12,
+        "h": 6,
+        "x": 2027,
+        "y": 335,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bi",
+        "w": 40,
+        "h": 40,
+        "x": 2071,
+        "y": 385
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bj",
+        "w": 4,
+        "h": 12,
+        "x": 2142,
+        "y": 359,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bk",
+        "w": 60,
+        "h": 30,
+        "x": 1709,
+        "y": 466,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bl",
+        "w": 60,
+        "h": 30,
+        "x": 1771,
+        "y": 466,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bm",
+        "w": 13,
+        "h": 10,
+        "x": 1732,
+        "y": 498,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bn",
+        "w": 337,
+        "h": 211,
+        "x": 1719,
+        "y": 1,
+        "fx": -465,
+        "fy": -155,
+        "fw": 1024,
+        "fh": 512
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bo",
+        "w": 100,
+        "h": 50,
+        "x": 1719,
+        "y": 214,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 102
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bp",
+        "w": 4,
+        "h": 4,
+        "x": 2142,
+        "y": 373
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bq",
+        "w": 8,
+        "h": 15,
+        "x": 1880,
+        "y": 434,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/br",
+        "w": 13,
+        "h": 10,
+        "x": 1747,
+        "y": 498,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bs",
+        "w": 29,
+        "h": 29,
+        "x": 1045,
+        "y": 479,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bt",
+        "w": 20,
+        "h": 40,
+        "x": 2113,
+        "y": 343,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bu",
+        "w": 15,
+        "h": 15,
+        "x": 2131,
+        "y": 385,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bv",
+        "w": 20,
+        "h": 18,
+        "x": 1288,
+        "y": 489
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bw",
+        "w": 30,
+        "h": 29,
+        "x": 1013,
+        "y": 479,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bx",
+        "w": 27,
+        "h": 22,
+        "x": 1127,
+        "y": 479
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/by",
+        "w": 33,
+        "h": 25,
+        "x": 1660,
+        "y": 483
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/bz",
+        "w": 35,
+        "h": 27,
+        "x": 2025,
+        "y": 389
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/c",
+        "w": 221,
+        "h": 119,
+        "x": 1831,
+        "y": 214
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/ca",
+        "w": 36,
+        "h": 27,
+        "x": 1833,
+        "y": 481
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/d",
+        "w": 194,
+        "h": 5,
+        "x": 1831,
+        "y": 335,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/e",
+        "w": 848,
+        "h": 139,
+        "x": 981,
+        "y": 275,
+        "fx": -2,
+        "fy": -2,
+        "fw": 853,
+        "fh": 142
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/f",
+        "w": 5,
+        "h": 19,
+        "x": 1310,
+        "y": 489
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/g",
+        "w": 5,
+        "h": 28,
+        "x": 2062,
+        "y": 389
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/h",
+        "w": 5,
+        "h": 42,
+        "x": 1821,
+        "y": 214
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/i",
+        "w": 51,
+        "h": 5,
+        "x": 1127,
+        "y": 503,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/j",
+        "w": 5,
+        "h": 34,
+        "x": 2135,
+        "y": 343
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/k",
+        "w": 48,
+        "h": 5,
+        "x": 1719,
+        "y": 266,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/l",
+        "w": 978,
+        "h": 503,
+        "x": 1,
+        "y": 1,
+        "fx": -10,
+        "fy": -9,
+        "fw": 1024,
+        "fh": 512
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/m",
+        "w": 80,
+        "h": 51,
+        "x": 1431,
+        "y": 434,
+        "fx": -62,
+        "fy": -69,
+        "fw": 202,
+        "fh": 202
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/n",
+        "w": 9,
+        "h": 3,
+        "x": 1076,
+        "y": 505
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/o",
+        "w": 45,
+        "h": 45,
+        "x": 1833,
+        "y": 434,
+        "fx": -2,
+        "fy": -2,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/p",
+        "w": 46,
+        "h": 17,
+        "x": 1180,
+        "y": 489,
+        "r": true
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/q",
+        "w": 8,
+        "h": 7,
+        "x": 1769,
+        "y": 266,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/r",
+        "w": 8,
+        "h": 8,
+        "x": 1821,
+        "y": 258
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/s",
+        "w": 10,
+        "h": 10,
+        "x": 1762,
+        "y": 498
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/t",
+        "w": 10,
+        "h": 10,
+        "x": 1774,
+        "y": 498
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/u",
+        "w": 10,
+        "h": 10,
+        "x": 1786,
+        "y": 498
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/v",
+        "w": 16,
+        "h": 20,
+        "x": 2113,
+        "y": 385,
+        "fx": -1,
+        "fy": -1,
+        "fw": 18,
+        "fh": 22
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/w",
+        "w": 10,
+        "h": 10,
+        "x": 1798,
+        "y": 498
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/x",
+        "w": 8,
+        "h": 15,
+        "x": 1880,
+        "y": 451,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/y",
+        "w": 49,
+        "h": 24,
+        "x": 1076,
+        "y": 479
+    },
+    {
+        "n": "tutorial/movie/unison/.gen/unison/z",
+        "w": 736,
+        "h": 272,
+        "x": 981,
+        "y": 1,
+        "r": true
+    }
+]
