@@ -1,0 +1,1634 @@
+[
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 875,
+        "y": 473
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/aa",
+        "w": 3,
+        "h": 3,
+        "x": 575,
+        "y": 486,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ab",
+        "w": 5,
+        "h": 6,
+        "x": 894,
+        "y": 454,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ac",
+        "w": 6,
+        "h": 6,
+        "x": 905,
+        "y": 403,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ad",
+        "w": 16,
+        "h": 12,
+        "x": 876,
+        "y": 445,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ae",
+        "w": 14,
+        "h": 14,
+        "x": 1068,
+        "y": 136,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/af",
+        "w": 14,
+        "h": 15,
+        "x": 1068,
+        "y": 119,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ag",
+        "w": 12,
+        "h": 14,
+        "x": 861,
+        "y": 461
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ah",
+        "w": 5,
+        "h": 5,
+        "x": 1073,
+        "y": 189,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ai",
+        "w": 7,
+        "h": 7,
+        "x": 1063,
+        "y": 166,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/aj",
+        "w": 9,
+        "h": 11,
+        "x": 338,
+        "y": 483,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ak",
+        "w": 23,
+        "h": 21,
+        "x": 876,
+        "y": 422,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/al",
+        "w": 5,
+        "h": 7,
+        "x": 568,
+        "y": 486,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/am",
+        "w": 7,
+        "h": 11,
+        "x": 349,
+        "y": 483,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/an",
+        "w": 9,
+        "h": 15,
+        "x": 1017,
+        "y": 479,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ao",
+        "w": 12,
+        "h": 13,
+        "x": 1064,
+        "y": 479,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ap",
+        "w": 12,
+        "h": 13,
+        "x": 518,
+        "y": 469,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/aq",
+        "w": 12,
+        "h": 13,
+        "x": 1064,
+        "y": 479,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ar",
+        "w": 12,
+        "h": 13,
+        "x": 532,
+        "y": 466,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/as",
+        "w": 12,
+        "h": 13,
+        "x": 532,
+        "y": 481,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/at",
+        "w": 12,
+        "h": 13,
+        "x": 546,
+        "y": 471,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/au",
+        "w": 12,
+        "h": 13,
+        "x": 560,
+        "y": 471,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/av",
+        "w": 12,
+        "h": 13,
+        "x": 574,
+        "y": 471,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/aw",
+        "w": 12,
+        "h": 11,
+        "x": 133,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ax",
+        "w": 11,
+        "h": 11,
+        "x": 287,
+        "y": 483,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ay",
+        "w": 12,
+        "h": 11,
+        "x": 147,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/az",
+        "w": 12,
+        "h": 13,
+        "x": 588,
+        "y": 471,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/b",
+        "w": 39,
+        "h": 63,
+        "x": 1027,
+        "y": 77,
+        "r": true,
+        "fx": -24,
+        "fy": -112,
+        "fw": 213,
+        "fh": 152
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ba",
+        "w": 14,
+        "h": 19,
+        "x": 1068,
+        "y": 77,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bb",
+        "w": 12,
+        "h": 13,
+        "x": 602,
+        "y": 471,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bc",
+        "w": 14,
+        "h": 19,
+        "x": 1068,
+        "y": 77,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bd",
+        "w": 12,
+        "h": 13,
+        "x": 602,
+        "y": 471,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/be",
+        "w": 14,
+        "h": 19,
+        "x": 1068,
+        "y": 77,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bf",
+        "w": 12,
+        "h": 13,
+        "x": 602,
+        "y": 471,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bg",
+        "w": 14,
+        "h": 19,
+        "x": 1068,
+        "y": 77,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bh",
+        "w": 12,
+        "h": 13,
+        "x": 602,
+        "y": 471,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bi",
+        "w": 13,
+        "h": 33,
+        "x": 1048,
+        "y": 142,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bj",
+        "w": 19,
+        "h": 41,
+        "x": 1027,
+        "y": 142,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bk",
+        "w": 10,
+        "h": 15,
+        "x": 1005,
+        "y": 479,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bl",
+        "w": 33,
+        "h": 15,
+        "x": 470,
+        "y": 447
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bm",
+        "w": 13,
+        "h": 15,
+        "x": 990,
+        "y": 479
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bn",
+        "w": 180,
+        "h": 192,
+        "x": 549,
+        "y": 195
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bo",
+        "w": 27,
+        "h": 31,
+        "x": 876,
+        "y": 389,
+        "fx": -3,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bp",
+        "w": 15,
+        "h": 11,
+        "x": 1,
+        "y": 483,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bq",
+        "w": 13,
+        "h": 10,
+        "x": 358,
+        "y": 483,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/br",
+        "w": 15,
+        "h": 11,
+        "x": 18,
+        "y": 483,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bs",
+        "w": 14,
+        "h": 19,
+        "x": 1068,
+        "y": 98,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bt",
+        "w": 12,
+        "h": 13,
+        "x": 616,
+        "y": 471,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bu",
+        "w": 14,
+        "h": 19,
+        "x": 1068,
+        "y": 98,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bv",
+        "w": 12,
+        "h": 13,
+        "x": 616,
+        "y": 471,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bw",
+        "w": 14,
+        "h": 19,
+        "x": 1068,
+        "y": 98,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bx",
+        "w": 12,
+        "h": 13,
+        "x": 616,
+        "y": 471,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/by",
+        "w": 14,
+        "h": 19,
+        "x": 1068,
+        "y": 98,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/bz",
+        "w": 12,
+        "h": 13,
+        "x": 616,
+        "y": 471,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/c",
+        "w": 15,
+        "h": 11,
+        "x": 35,
+        "y": 483,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ca",
+        "w": 5,
+        "h": 4,
+        "x": 1066,
+        "y": 189,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cb",
+        "w": 7,
+        "h": 7,
+        "x": 404,
+        "y": 483,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cc",
+        "w": 5,
+        "h": 7,
+        "x": 894,
+        "y": 445,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cd",
+        "w": 17,
+        "h": 17,
+        "x": 527,
+        "y": 447,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ce",
+        "w": 12,
+        "h": 13,
+        "x": 630,
+        "y": 471,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cf",
+        "w": 15,
+        "h": 15,
+        "x": 922,
+        "y": 479
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cg",
+        "w": 15,
+        "h": 15,
+        "x": 939,
+        "y": 479
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ch",
+        "w": 15,
+        "h": 15,
+        "x": 956,
+        "y": 479
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ci",
+        "w": 10,
+        "h": 16,
+        "x": 901,
+        "y": 422
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cj",
+        "w": 3,
+        "h": 8,
+        "x": 563,
+        "y": 486,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ck",
+        "w": 16,
+        "h": 12,
+        "x": 1028,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cl",
+        "w": 15,
+        "h": 15,
+        "x": 973,
+        "y": 479
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cm",
+        "w": 14,
+        "h": 11,
+        "x": 86,
+        "y": 483,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cn",
+        "w": 4,
+        "h": 4,
+        "x": 881,
+        "y": 473
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/co",
+        "w": 7,
+        "h": 10,
+        "x": 395,
+        "y": 483,
+        "fx": -2,
+        "fy": -1,
+        "fw": 11,
+        "fh": 11
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cp",
+        "w": 13,
+        "h": 16,
+        "x": 861,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 15,
+        "fh": 17
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cq",
+        "w": 180,
+        "h": 192,
+        "x": 731,
+        "y": 195
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cr",
+        "w": 14,
+        "h": 12,
+        "x": 470,
+        "y": 464,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cs",
+        "w": 14,
+        "h": 12,
+        "x": 486,
+        "y": 464,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ct",
+        "w": 180,
+        "h": 80,
+        "x": 549,
+        "y": 389,
+        "fx": 0,
+        "fy": -112,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cu",
+        "w": 34,
+        "h": 17,
+        "x": 832,
+        "y": 477,
+        "fx": 0,
+        "fy": -3,
+        "fw": 39,
+        "fh": 63
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cv",
+        "w": 10,
+        "h": 16,
+        "x": 901,
+        "y": 440
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cw",
+        "w": 16,
+        "h": 12,
+        "x": 1046,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cx",
+        "w": 8,
+        "h": 10,
+        "x": 385,
+        "y": 483,
+        "fx": -10,
+        "fy": -4,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cy",
+        "w": 10,
+        "h": 11,
+        "x": 326,
+        "y": 483,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/cz",
+        "w": 14,
+        "h": 11,
+        "x": 102,
+        "y": 483,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/d",
+        "w": 3,
+        "h": 9,
+        "x": 1063,
+        "y": 142,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/da",
+        "w": 272,
+        "h": 444,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/db",
+        "w": 16,
+        "h": 15,
+        "x": 868,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dc",
+        "w": 12,
+        "h": 12,
+        "x": 644,
+        "y": 471,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dd",
+        "w": 12,
+        "h": 12,
+        "x": 658,
+        "y": 471,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/de",
+        "w": 12,
+        "h": 12,
+        "x": 644,
+        "y": 471,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/df",
+        "w": 12,
+        "h": 12,
+        "x": 672,
+        "y": 471,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dg",
+        "w": 7,
+        "h": 3,
+        "x": 904,
+        "y": 458,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dh",
+        "w": 3,
+        "h": 8,
+        "x": 1063,
+        "y": 153
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/di",
+        "w": 4,
+        "h": 8,
+        "x": 546,
+        "y": 486
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dj",
+        "w": 4,
+        "h": 9,
+        "x": 905,
+        "y": 411
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dk",
+        "w": 4,
+        "h": 8,
+        "x": 546,
+        "y": 486
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dl",
+        "w": 4,
+        "h": 9,
+        "x": 905,
+        "y": 411
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dm",
+        "w": 3,
+        "h": 8,
+        "x": 558,
+        "y": 486
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dn",
+        "w": 7,
+        "h": 3,
+        "x": 904,
+        "y": 463,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/do",
+        "w": 9,
+        "h": 4,
+        "x": 491,
+        "y": 478,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dp",
+        "w": 4,
+        "h": 8,
+        "x": 552,
+        "y": 486
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dq",
+        "w": 9,
+        "h": 4,
+        "x": 491,
+        "y": 478,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dr",
+        "w": 4,
+        "h": 8,
+        "x": 552,
+        "y": 486
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ds",
+        "w": 12,
+        "h": 11,
+        "x": 161,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dt",
+        "w": 12,
+        "h": 11,
+        "x": 175,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/du",
+        "w": 12,
+        "h": 11,
+        "x": 161,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dv",
+        "w": 12,
+        "h": 11,
+        "x": 189,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dw",
+        "w": 12,
+        "h": 12,
+        "x": 686,
+        "y": 471,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dx",
+        "w": 12,
+        "h": 12,
+        "x": 700,
+        "y": 471,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dy",
+        "w": 99,
+        "h": 99,
+        "x": 731,
+        "y": 389,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/dz",
+        "w": 9,
+        "h": 7,
+        "x": 1073,
+        "y": 166,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/e",
+        "w": 14,
+        "h": 12,
+        "x": 1068,
+        "y": 152,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ea",
+        "w": 6,
+        "h": 12,
+        "x": 905,
+        "y": 389,
+        "fx": -10,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/eb",
+        "w": 4,
+        "h": 10,
+        "x": 491,
+        "y": 484,
+        "fx": -11,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ec",
+        "w": 1,
+        "h": 1,
+        "x": 1045,
+        "y": 185,
+        "fx": -12,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ed",
+        "w": 3,
+        "h": 3,
+        "x": 575,
+        "y": 491,
+        "fx": -6,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ee",
+        "w": 1,
+        "h": 1,
+        "x": 1045,
+        "y": 185,
+        "fx": -7,
+        "fy": -5,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ef",
+        "w": 158,
+        "h": 163,
+        "x": 913,
+        "y": 195,
+        "r": true,
+        "fx": -9,
+        "fy": -9,
+        "fw": 184,
+        "fh": 184
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/eg",
+        "w": 476,
+        "h": 192,
+        "x": 549,
+        "y": 1,
+        "r": true,
+        "fx": -19,
+        "fy": -22,
+        "fw": 234,
+        "fh": 524
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/eh",
+        "w": 163,
+        "h": 117,
+        "x": 913,
+        "y": 360,
+        "fx": -9,
+        "fy": -9,
+        "fw": 184,
+        "fh": 135
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ei",
+        "w": 10,
+        "h": 10,
+        "x": 373,
+        "y": 483
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ej",
+        "w": 20,
+        "h": 20,
+        "x": 505,
+        "y": 447
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ek",
+        "w": 4,
+        "h": 10,
+        "x": 497,
+        "y": 484
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/el",
+        "w": 16,
+        "h": 16,
+        "x": 1048,
+        "y": 177
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/em",
+        "w": 27,
+        "h": 32,
+        "x": 832,
+        "y": 443,
+        "fx": -10,
+        "fy": 0,
+        "fw": 37,
+        "fh": 32
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/en",
+        "w": 37,
+        "h": 27,
+        "x": 431,
+        "y": 447,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/eo",
+        "w": 55,
+        "h": 74,
+        "x": 1027,
+        "y": 1
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ep",
+        "w": 42,
+        "h": 52,
+        "x": 832,
+        "y": 389
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/eq",
+        "w": 12,
+        "h": 12,
+        "x": 714,
+        "y": 471,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/er",
+        "w": 12,
+        "h": 12,
+        "x": 463,
+        "y": 478,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/es",
+        "w": 12,
+        "h": 11,
+        "x": 203,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/et",
+        "w": 12,
+        "h": 11,
+        "x": 217,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/eu",
+        "w": 12,
+        "h": 11,
+        "x": 203,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ev",
+        "w": 12,
+        "h": 11,
+        "x": 231,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ew",
+        "w": 12,
+        "h": 12,
+        "x": 463,
+        "y": 478,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ex",
+        "w": 12,
+        "h": 12,
+        "x": 477,
+        "y": 478,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ey",
+        "w": 12,
+        "h": 12,
+        "x": 714,
+        "y": 471,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ez",
+        "w": 12,
+        "h": 12,
+        "x": 1066,
+        "y": 175,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/f",
+        "w": 272,
+        "h": 480,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/fa",
+        "w": 16,
+        "h": 8,
+        "x": 1027,
+        "y": 185,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/fb",
+        "w": 12,
+        "h": 12,
+        "x": 463,
+        "y": 478,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/fc",
+        "w": 16,
+        "h": 15,
+        "x": 886,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/fd",
+        "w": 12,
+        "h": 12,
+        "x": 876,
+        "y": 459,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/fe",
+        "w": 12,
+        "h": 12,
+        "x": 463,
+        "y": 478,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/ff",
+        "w": 16,
+        "h": 15,
+        "x": 904,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/fg",
+        "w": 12,
+        "h": 12,
+        "x": 890,
+        "y": 462,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/g",
+        "w": 4,
+        "h": 4,
+        "x": 413,
+        "y": 483
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/h",
+        "w": 12,
+        "h": 11,
+        "x": 245,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/i",
+        "w": 154,
+        "h": 34,
+        "x": 275,
+        "y": 447,
+        "fx": -57,
+        "fy": -282,
+        "fw": 272,
+        "fh": 480
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/j",
+        "w": 11,
+        "h": 11,
+        "x": 300,
+        "y": 483,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/k",
+        "w": 13,
+        "h": 11,
+        "x": 118,
+        "y": 483,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/l",
+        "w": 12,
+        "h": 11,
+        "x": 259,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/m",
+        "w": 12,
+        "h": 11,
+        "x": 273,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/n",
+        "w": 12,
+        "h": 11,
+        "x": 259,
+        "y": 483,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/o",
+        "w": 11,
+        "h": 11,
+        "x": 313,
+        "y": 483,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/p",
+        "w": 11,
+        "h": 11,
+        "x": 300,
+        "y": 483,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/q",
+        "w": 15,
+        "h": 11,
+        "x": 52,
+        "y": 483,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/r",
+        "w": 14,
+        "h": 12,
+        "x": 431,
+        "y": 476,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/s",
+        "w": 15,
+        "h": 11,
+        "x": 69,
+        "y": 483,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/t",
+        "w": 14,
+        "h": 12,
+        "x": 447,
+        "y": 476,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/u",
+        "w": 14,
+        "h": 12,
+        "x": 502,
+        "y": 469,
+        "r": true
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/v",
+        "w": 5,
+        "h": 5,
+        "x": 1073,
+        "y": 189,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/w",
+        "w": 7,
+        "h": 7,
+        "x": 1063,
+        "y": 166,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/x",
+        "w": 3,
+        "h": 3,
+        "x": 575,
+        "y": 486,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/y",
+        "w": 23,
+        "h": 21,
+        "x": 876,
+        "y": 422,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_quest/main_chapter_10/main_chapter_10_07/.gen/movie/z",
+        "w": 3,
+        "h": 3,
+        "x": 575,
+        "y": 486,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    }
+]
