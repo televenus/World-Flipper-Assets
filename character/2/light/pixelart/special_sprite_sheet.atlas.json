@@ -1,0 +1,117 @@
+[
+    {
+        "n": "character/light/pixelart/special0006",
+        "w": 17,
+        "h": 10,
+        "x": 0,
+        "y": 12,
+        "r": true,
+        "fx": -123,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0014",
+        "w": 17,
+        "h": 11,
+        "x": 0,
+        "y": 0,
+        "r": true,
+        "fx": -122,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0022",
+        "w": 16,
+        "h": 10,
+        "x": 0,
+        "y": 23,
+        "r": true,
+        "fx": -122,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0030",
+        "w": 16,
+        "h": 10,
+        "x": 0,
+        "y": 34,
+        "r": true,
+        "fx": -122,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0038",
+        "w": 10,
+        "h": 16,
+        "x": 0,
+        "y": 45,
+        "fx": -122,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0046",
+        "w": 11,
+        "h": 16,
+        "x": 18,
+        "y": 0,
+        "fx": -122,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0050",
+        "w": 9,
+        "h": 16,
+        "x": 11,
+        "y": 45,
+        "fx": -123,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0054",
+        "w": 11,
+        "h": 15,
+        "x": 18,
+        "y": 17,
+        "fx": -123,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0058",
+        "w": 15,
+        "h": 11,
+        "x": 17,
+        "y": 33,
+        "fx": -122,
+        "fy": -118,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/light/pixelart/special0088",
+        "w": 8,
+        "h": 15,
+        "x": 21,
+        "y": 45,
+        "r": true,
+        "fx": -122,
+        "fy": -121,
+        "fw": 256,
+        "fh": 256
+    }
+]

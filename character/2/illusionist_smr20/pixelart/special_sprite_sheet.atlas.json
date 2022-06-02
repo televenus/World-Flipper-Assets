@@ -1,0 +1,213 @@
+[
+    {
+        "n": "character/illusionist_smr20/pixelart/special0006",
+        "w": 13,
+        "h": 12,
+        "x": 232,
+        "y": 339,
+        "fx": -122,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0012",
+        "w": 15,
+        "h": 14,
+        "x": 232,
+        "y": 310,
+        "fx": -121,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0018",
+        "w": 51,
+        "h": 38,
+        "x": 74,
+        "y": 352,
+        "fx": -105,
+        "fy": -99,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0024",
+        "w": 70,
+        "h": 59,
+        "x": 161,
+        "y": 310,
+        "fx": -91,
+        "fy": -92,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0030",
+        "w": 78,
+        "h": 65,
+        "x": 82,
+        "y": 286,
+        "fx": -87,
+        "fy": -89,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0036",
+        "w": 87,
+        "h": 68,
+        "x": 0,
+        "y": 72,
+        "fx": -84,
+        "fy": -87,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0042",
+        "w": 91,
+        "h": 71,
+        "x": 0,
+        "y": 0,
+        "fx": -82,
+        "fy": -85,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0048",
+        "w": 87,
+        "h": 73,
+        "x": 92,
+        "y": 0,
+        "fx": -84,
+        "fy": -82,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0054",
+        "w": 84,
+        "h": 74,
+        "x": 0,
+        "y": 141,
+        "fx": -84,
+        "fy": -80,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0060",
+        "w": 80,
+        "h": 73,
+        "x": 167,
+        "y": 236,
+        "fx": -89,
+        "fy": -78,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0066",
+        "w": 81,
+        "h": 73,
+        "x": 0,
+        "y": 216,
+        "fx": -88,
+        "fy": -77,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0072",
+        "w": 82,
+        "h": 73,
+        "x": 174,
+        "y": 87,
+        "fx": -87,
+        "fy": -77,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0078",
+        "w": 81,
+        "h": 74,
+        "x": 169,
+        "y": 161,
+        "fx": -88,
+        "fy": -76,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0084",
+        "w": 81,
+        "h": 74,
+        "x": 85,
+        "y": 211,
+        "fx": -88,
+        "fy": -76,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0090",
+        "w": 73,
+        "h": 63,
+        "x": 0,
+        "y": 290,
+        "fx": -91,
+        "fy": -85,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0096",
+        "w": 83,
+        "h": 65,
+        "x": 85,
+        "y": 145,
+        "fx": -87,
+        "fy": -81,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0102",
+        "w": 85,
+        "h": 70,
+        "x": 88,
+        "y": 74,
+        "fx": -86,
+        "fy": -79,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0108",
+        "w": 75,
+        "h": 86,
+        "x": 180,
+        "y": 0,
+        "r": true,
+        "fx": -86,
+        "fy": -78,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/illusionist_smr20/pixelart/special0138",
+        "w": 15,
+        "h": 13,
+        "x": 232,
+        "y": 325,
+        "r": true,
+        "fx": -122,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    }
+]

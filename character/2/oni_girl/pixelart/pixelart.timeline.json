@@ -1,0 +1,136 @@
+{
+    "sequences": [
+        {
+            "name": "neutral",
+            "kind": "loop",
+            "begin": 1,
+            "end": 1
+        },
+        {
+            "name": "walk_back",
+            "kind": "loop",
+            "begin": 2,
+            "end": 25
+        },
+        {
+            "name": "walk_front",
+            "kind": "loop",
+            "begin": 26,
+            "end": 49
+        },
+        {
+            "name": "skill_ready",
+            "kind": "once",
+            "begin": 50,
+            "end": 97
+        },
+        {
+            "name": "kachidoki",
+            "kind": "loop",
+            "begin": 98,
+            "end": 145
+        },
+        {
+            "name": "into_coffin",
+            "kind": "pass",
+            "begin": 146,
+            "end": 187
+        },
+        {
+            "name": "ghost_raise",
+            "kind": "pass",
+            "begin": 188,
+            "end": 212
+        },
+        {
+            "name": "ghost_neutral",
+            "kind": "loop",
+            "begin": 213,
+            "end": 373
+        },
+        {
+            "name": "revive",
+            "kind": "once",
+            "begin": 374,
+            "end": 415
+        }
+    ],
+    "circles": [
+        {
+            "path": "unit_body",
+            "frames": [
+                {
+                    "begin": 2,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 3,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 27,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 51,
+                    "data": []
+                },
+                {
+                    "begin": 99,
+                    "data": []
+                },
+                {
+                    "begin": 147,
+                    "data": []
+                },
+                {
+                    "begin": 189,
+                    "data": []
+                },
+                {
+                    "begin": 214,
+                    "data": []
+                },
+                {
+                    "begin": 375,
+                    "data": []
+                }
+            ]
+        }
+    ],
+    "points": [
+        {
+            "path": "hp_gauge",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -10
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "sounds": []
+}
