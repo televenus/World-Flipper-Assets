@@ -1,0 +1,4647 @@
+[
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1777,
+        "y": 657
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/aa",
+        "w": 3,
+        "h": 2,
+        "x": 1890,
+        "y": 422,
+        "fx": -134,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ab",
+        "w": 46,
+        "h": 16,
+        "x": 948,
+        "y": 662,
+        "r": true,
+        "fx": -114,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ac",
+        "w": 24,
+        "h": 29,
+        "x": 1219,
+        "y": 636,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ad",
+        "w": 55,
+        "h": 48,
+        "x": 446,
+        "y": 651,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ae",
+        "w": 39,
+        "h": 11,
+        "x": 66,
+        "y": 708,
+        "r": true,
+        "fx": -113,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/af",
+        "w": 32,
+        "h": 11,
+        "x": 107,
+        "y": 708,
+        "r": true,
+        "fx": -112,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ag",
+        "w": 29,
+        "h": 25,
+        "x": 1179,
+        "y": 667,
+        "r": true,
+        "fx": -111,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ah",
+        "w": 32,
+        "h": 37,
+        "x": 756,
+        "y": 682,
+        "r": true,
+        "fx": -111,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ai",
+        "w": 34,
+        "h": 33,
+        "x": 1936,
+        "y": 613,
+        "fx": -114,
+        "fy": -106,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/aj",
+        "w": 25,
+        "h": 25,
+        "x": 841,
+        "y": 654,
+        "fx": -121,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ak",
+        "w": 22,
+        "h": 23,
+        "x": 1003,
+        "y": 631,
+        "fx": -123,
+        "fy": -107,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/al",
+        "w": 17,
+        "h": 13,
+        "x": 1567,
+        "y": 639,
+        "fx": -123,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/am",
+        "w": 13,
+        "h": 12,
+        "x": 1679,
+        "y": 692,
+        "fx": -123,
+        "fy": -109,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/an",
+        "w": 2,
+        "h": 2,
+        "x": 1082,
+        "y": 665,
+        "fx": -126,
+        "fy": -119,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ao",
+        "w": 1,
+        "h": 1,
+        "x": 1691,
+        "y": 689,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ap",
+        "w": 1,
+        "h": 1,
+        "x": 1691,
+        "y": 689,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/aq",
+        "w": 32,
+        "h": 30,
+        "x": 1149,
+        "y": 243,
+        "fx": -110,
+        "fy": -99,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ar",
+        "w": 33,
+        "h": 34,
+        "x": 1935,
+        "y": 256,
+        "fx": -110,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/as",
+        "w": 32,
+        "h": 38,
+        "x": 2010,
+        "y": 559,
+        "fx": -111,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/at",
+        "w": 31,
+        "h": 39,
+        "x": 2015,
+        "y": 481,
+        "fx": -112,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/au",
+        "w": 32,
+        "h": 31,
+        "x": 2014,
+        "y": 634,
+        "r": true,
+        "fx": -113,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/av",
+        "w": 26,
+        "h": 26,
+        "x": 647,
+        "y": 636,
+        "fx": -114,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/aw",
+        "w": 1,
+        "h": 1,
+        "x": 1691,
+        "y": 689,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ax",
+        "w": 59,
+        "h": 59,
+        "x": 1895,
+        "y": 497,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ay",
+        "w": 80,
+        "h": 80,
+        "x": 1813,
+        "y": 426
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/az",
+        "w": 77,
+        "h": 74,
+        "x": 948,
+        "y": 517,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/b",
+        "w": 10,
+        "h": 16,
+        "x": 1923,
+        "y": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ba",
+        "w": 59,
+        "h": 59,
+        "x": 1788,
+        "y": 550,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bb",
+        "w": 5,
+        "h": 20,
+        "x": 1383,
+        "y": 688,
+        "r": true,
+        "fx": -118,
+        "fy": -104,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bc",
+        "w": 43,
+        "h": 28,
+        "x": 715,
+        "y": 650,
+        "r": true,
+        "fx": -114,
+        "fy": -90,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bd",
+        "w": 33,
+        "h": 51,
+        "x": 731,
+        "y": 597,
+        "fx": -111,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/be",
+        "w": 53,
+        "h": 32,
+        "x": 786,
+        "y": 568,
+        "r": true,
+        "fx": -112,
+        "fy": -85,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bf",
+        "w": 53,
+        "h": 33,
+        "x": 868,
+        "y": 635,
+        "r": true,
+        "fx": -111,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bg",
+        "w": 53,
+        "h": 33,
+        "x": 1027,
+        "y": 618,
+        "r": true,
+        "fx": -111,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bh",
+        "w": 27,
+        "h": 48,
+        "x": 919,
+        "y": 584,
+        "fx": -113,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bi",
+        "w": 37,
+        "h": 18,
+        "x": 442,
+        "y": 701,
+        "r": true,
+        "fx": -118,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bj",
+        "w": 16,
+        "h": 14,
+        "x": 1491,
+        "y": 705,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bk",
+        "w": 15,
+        "h": 13,
+        "x": 1596,
+        "y": 706,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bl",
+        "w": 13,
+        "h": 11,
+        "x": 1772,
+        "y": 687,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bm",
+        "w": 1,
+        "h": 1,
+        "x": 1691,
+        "y": 689,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bn",
+        "w": 1,
+        "h": 1,
+        "x": 1691,
+        "y": 689,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bo",
+        "w": 1,
+        "h": 1,
+        "x": 1691,
+        "y": 689,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bp",
+        "w": 1,
+        "h": 1,
+        "x": 1691,
+        "y": 689,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bq",
+        "w": 1,
+        "h": 1,
+        "x": 1691,
+        "y": 689,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/br",
+        "w": 29,
+        "h": 29,
+        "x": 1086,
+        "y": 665,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bs",
+        "w": 40,
+        "h": 20,
+        "x": 1972,
+        "y": 644,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bt",
+        "w": 15,
+        "h": 15,
+        "x": 1640,
+        "y": 639,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bu",
+        "w": 20,
+        "h": 18,
+        "x": 481,
+        "y": 701
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bv",
+        "w": 30,
+        "h": 29,
+        "x": 1187,
+        "y": 636,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bw",
+        "w": 27,
+        "h": 22,
+        "x": 1110,
+        "y": 697
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bx",
+        "w": 25,
+        "h": 33,
+        "x": 841,
+        "y": 568,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/by",
+        "w": 35,
+        "h": 27,
+        "x": 1082,
+        "y": 636
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/bz",
+        "w": 27,
+        "h": 36,
+        "x": 646,
+        "y": 598,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/c",
+        "w": 8,
+        "h": 3,
+        "x": 766,
+        "y": 597
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ca",
+        "w": 13,
+        "h": 18,
+        "x": 1509,
+        "y": 665,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cb",
+        "w": 14,
+        "h": 14,
+        "x": 1691,
+        "y": 657,
+        "fx": -22,
+        "fy": -5,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cc",
+        "w": 16,
+        "h": 15,
+        "x": 1586,
+        "y": 639,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cd",
+        "w": 15,
+        "h": 15,
+        "x": 1562,
+        "y": 672,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ce",
+        "w": 15,
+        "h": 8,
+        "x": 929,
+        "y": 670,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cf",
+        "w": 16,
+        "h": 15,
+        "x": 1604,
+        "y": 639,
+        "fx": -7,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cg",
+        "w": 15,
+        "h": 15,
+        "x": 1613,
+        "y": 656,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ch",
+        "w": 10,
+        "h": 13,
+        "x": 1891,
+        "y": 678,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ci",
+        "w": 16,
+        "h": 15,
+        "x": 1586,
+        "y": 639,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cj",
+        "w": 15,
+        "h": 15,
+        "x": 1562,
+        "y": 672,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ck",
+        "w": 16,
+        "h": 15,
+        "x": 1622,
+        "y": 639,
+        "fx": -7,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cl",
+        "w": 15,
+        "h": 15,
+        "x": 1630,
+        "y": 656,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cm",
+        "w": 15,
+        "h": 11,
+        "x": 1390,
+        "y": 708,
+        "r": true,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cn",
+        "w": 5,
+        "h": 22,
+        "x": 1100,
+        "y": 517,
+        "r": true,
+        "fx": -17,
+        "fy": -9,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/co",
+        "w": 32,
+        "h": 16,
+        "x": 1972,
+        "y": 666
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cp",
+        "w": 10,
+        "h": 20,
+        "x": 1305,
+        "y": 693,
+        "fx": -25,
+        "fy": -2,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cq",
+        "w": 21,
+        "h": 5,
+        "x": 953,
+        "y": 712,
+        "r": true,
+        "fx": -27,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cr",
+        "w": 20,
+        "h": 10,
+        "x": 1335,
+        "y": 709,
+        "r": true,
+        "fx": -24,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cs",
+        "w": 14,
+        "h": 14,
+        "x": 1663,
+        "y": 674,
+        "fx": -22,
+        "fy": -4,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ct",
+        "w": 5,
+        "h": 22,
+        "x": 2039,
+        "y": 667,
+        "r": true,
+        "fx": -20,
+        "fy": -9,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cu",
+        "w": 18,
+        "h": 10,
+        "x": 1524,
+        "y": 673,
+        "fx": -22,
+        "fy": -6,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cv",
+        "w": 14,
+        "h": 14,
+        "x": 1663,
+        "y": 690,
+        "fx": -23,
+        "fy": -4,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cw",
+        "w": 20,
+        "h": 9,
+        "x": 868,
+        "y": 670,
+        "r": true,
+        "fx": -25,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cx",
+        "w": 21,
+        "h": 5,
+        "x": 1001,
+        "y": 656,
+        "r": true,
+        "fx": -27,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cy",
+        "w": 20,
+        "h": 9,
+        "x": 890,
+        "y": 670,
+        "r": true,
+        "fx": -25,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/cz",
+        "w": 14,
+        "h": 14,
+        "x": 1663,
+        "y": 674,
+        "fx": -22,
+        "fy": -4,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/d",
+        "w": 16,
+        "h": 12,
+        "x": 1452,
+        "y": 707,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/da",
+        "w": 4,
+        "h": 4,
+        "x": 1816,
+        "y": 712
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/db",
+        "w": 13,
+        "h": 9,
+        "x": 1060,
+        "y": 710
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dc",
+        "w": 5,
+        "h": 4,
+        "x": 1740,
+        "y": 700
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dd",
+        "w": 4,
+        "h": 4,
+        "x": 1777,
+        "y": 663
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/de",
+        "w": 2,
+        "h": 2,
+        "x": 1028,
+        "y": 717
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/df",
+        "w": 13,
+        "h": 13,
+        "x": 1800,
+        "y": 667,
+        "fx": -19,
+        "fy": -14,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dg",
+        "w": 14,
+        "h": 13,
+        "x": 1740,
+        "y": 685,
+        "fx": -17,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dh",
+        "w": 3,
+        "h": 9,
+        "x": 1385,
+        "y": 710,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/di",
+        "w": 18,
+        "h": 12,
+        "x": 1432,
+        "y": 707,
+        "r": true,
+        "fx": -21,
+        "fy": -10,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dj",
+        "w": 14,
+        "h": 14,
+        "x": 1691,
+        "y": 673,
+        "fx": -19,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dk",
+        "w": 14,
+        "h": 15,
+        "x": 1579,
+        "y": 672,
+        "fx": -19,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dl",
+        "w": 14,
+        "h": 13,
+        "x": 1756,
+        "y": 670,
+        "fx": -17,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dm",
+        "w": 16,
+        "h": 13,
+        "x": 1657,
+        "y": 642,
+        "r": true,
+        "fx": -16,
+        "fy": -3,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dn",
+        "w": 13,
+        "h": 10,
+        "x": 1972,
+        "y": 684
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/do",
+        "w": 5,
+        "h": 12,
+        "x": 1903,
+        "y": 663,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dp",
+        "w": 3,
+        "h": 3,
+        "x": 1795,
+        "y": 716
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dq",
+        "w": 4,
+        "h": 4,
+        "x": 1822,
+        "y": 712
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dr",
+        "w": 13,
+        "h": 15,
+        "x": 1711,
+        "y": 642,
+        "fx": -19,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ds",
+        "w": 15,
+        "h": 13,
+        "x": 1630,
+        "y": 706,
+        "r": true,
+        "fx": -16,
+        "fy": -3,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dt",
+        "w": 3,
+        "h": 3,
+        "x": 1923,
+        "y": 716
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/du",
+        "w": 15,
+        "h": 13,
+        "x": 1647,
+        "y": 706,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dv",
+        "w": 4,
+        "h": 4,
+        "x": 1929,
+        "y": 711
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dw",
+        "w": 16,
+        "h": 13,
+        "x": 1675,
+        "y": 642,
+        "r": true,
+        "fx": -17,
+        "fy": -3,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dx",
+        "w": 2,
+        "h": 3,
+        "x": 2044,
+        "y": 559,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dy",
+        "w": 3,
+        "h": 4,
+        "x": 1312,
+        "y": 715
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/dz",
+        "w": 11,
+        "h": 13,
+        "x": 1910,
+        "y": 703
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/e",
+        "w": 15,
+        "h": 15,
+        "x": 1578,
+        "y": 689
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ea",
+        "w": 15,
+        "h": 14,
+        "x": 1578,
+        "y": 656,
+        "fx": -18,
+        "fy": -4,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/eb",
+        "w": 16,
+        "h": 13,
+        "x": 1693,
+        "y": 642,
+        "r": true,
+        "fx": -18,
+        "fy": -9,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ec",
+        "w": 3,
+        "h": 3,
+        "x": 1969,
+        "y": 716
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ed",
+        "w": 11,
+        "h": 14,
+        "x": 1763,
+        "y": 700
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ee",
+        "w": 4,
+        "h": 4,
+        "x": 1935,
+        "y": 711
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ef",
+        "w": 12,
+        "h": 13,
+        "x": 1816,
+        "y": 682,
+        "fx": -18,
+        "fy": -12,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/eg",
+        "w": 15,
+        "h": 13,
+        "x": 1707,
+        "y": 659,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/eh",
+        "w": 16,
+        "h": 13,
+        "x": 1578,
+        "y": 706,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ei",
+        "w": 4,
+        "h": 4,
+        "x": 1969,
+        "y": 710
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ej",
+        "w": 11,
+        "h": 14,
+        "x": 1776,
+        "y": 700
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ek",
+        "w": 4,
+        "h": 4,
+        "x": 1935,
+        "y": 711
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/el",
+        "w": 32,
+        "h": 24,
+        "x": 630,
+        "y": 695,
+        "fx": -8,
+        "fy": -7,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/em",
+        "w": 14,
+        "h": 13,
+        "x": 1756,
+        "y": 685,
+        "r": true,
+        "fx": -18,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/en",
+        "w": 22,
+        "h": 23,
+        "x": 1086,
+        "y": 696,
+        "r": true,
+        "fx": -18,
+        "fy": -7,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/eo",
+        "w": 4,
+        "h": 3,
+        "x": 1733,
+        "y": 701
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ep",
+        "w": 11,
+        "h": 14,
+        "x": 1789,
+        "y": 700
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/eq",
+        "w": 4,
+        "h": 4,
+        "x": 1935,
+        "y": 711
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/er",
+        "w": 18,
+        "h": 22,
+        "x": 1183,
+        "y": 243,
+        "r": true,
+        "fx": -17,
+        "fy": -7,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/es",
+        "w": 3,
+        "h": 3,
+        "x": 1974,
+        "y": 716
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/et",
+        "w": 15,
+        "h": 11,
+        "x": 1407,
+        "y": 708,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/eu",
+        "w": 4,
+        "h": 3,
+        "x": 1765,
+        "y": 716
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ev",
+        "w": 13,
+        "h": 9,
+        "x": 1357,
+        "y": 710,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ew",
+        "w": 15,
+        "h": 14,
+        "x": 1657,
+        "y": 657,
+        "r": true,
+        "fx": -18,
+        "fy": -6,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ex",
+        "w": 4,
+        "h": 6,
+        "x": 1948,
+        "y": 413
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ey",
+        "w": 5,
+        "h": 8,
+        "x": 1903,
+        "y": 677
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ez",
+        "w": 4,
+        "h": 3,
+        "x": 1783,
+        "y": 716,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/f",
+        "w": 3,
+        "h": 9,
+        "x": 1385,
+        "y": 710,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fa",
+        "w": 13,
+        "h": 11,
+        "x": 1987,
+        "y": 684
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fb",
+        "w": 4,
+        "h": 4,
+        "x": 1975,
+        "y": 710
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fc",
+        "w": 4,
+        "h": 5,
+        "x": 1923,
+        "y": 709,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fd",
+        "w": 21,
+        "h": 27,
+        "x": 1270,
+        "y": 664
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fe",
+        "w": 33,
+        "h": 26,
+        "x": 751,
+        "y": 569,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ff",
+        "w": 36,
+        "h": 44,
+        "x": 1972,
+        "y": 556
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fg",
+        "w": 14,
+        "h": 11,
+        "x": 1846,
+        "y": 708,
+        "r": true,
+        "fx": -18,
+        "fy": -6,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fh",
+        "w": 13,
+        "h": 13,
+        "x": 1815,
+        "y": 667
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fi",
+        "w": 19,
+        "h": 18,
+        "x": 1432,
+        "y": 687
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fj",
+        "w": 21,
+        "h": 27,
+        "x": 1293,
+        "y": 664,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fk",
+        "w": 12,
+        "h": 15,
+        "x": 216,
+        "y": 704,
+        "fx": -16,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fl",
+        "w": 3,
+        "h": 6,
+        "x": 1890,
+        "y": 550
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fm",
+        "w": 5,
+        "h": 6,
+        "x": 1100,
+        "y": 541
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fn",
+        "w": 4,
+        "h": 3,
+        "x": 1771,
+        "y": 716
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fo",
+        "w": 14,
+        "h": 11,
+        "x": 141,
+        "y": 708
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fp",
+        "w": 4,
+        "h": 4,
+        "x": 1975,
+        "y": 710
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fq",
+        "w": 5,
+        "h": 4,
+        "x": 707,
+        "y": 664
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fr",
+        "w": 9,
+        "h": 8,
+        "x": 1075,
+        "y": 710
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fs",
+        "w": 11,
+        "h": 10,
+        "x": 1982,
+        "y": 295
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ft",
+        "w": 16,
+        "h": 16,
+        "x": 1542,
+        "y": 654
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fu",
+        "w": 15,
+        "h": 15,
+        "x": 1595,
+        "y": 673,
+        "fx": -17,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fv",
+        "w": 4,
+        "h": 4,
+        "x": 1981,
+        "y": 710
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fw",
+        "w": 11,
+        "h": 12,
+        "x": 1929,
+        "y": 697
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fx",
+        "w": 7,
+        "h": 5,
+        "x": 2039,
+        "y": 691
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fy",
+        "w": 4,
+        "h": 4,
+        "x": 1992,
+        "y": 711
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/fz",
+        "w": 4,
+        "h": 4,
+        "x": 1998,
+        "y": 711
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/g",
+        "w": 12,
+        "h": 14,
+        "x": 1802,
+        "y": 696
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ga",
+        "w": 34,
+        "h": 31,
+        "x": 1936,
+        "y": 648,
+        "r": true,
+        "fx": -6,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gb",
+        "w": 35,
+        "h": 25,
+        "x": 804,
+        "y": 654,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gc",
+        "w": 14,
+        "h": 23,
+        "x": 1267,
+        "y": 696,
+        "fx": -36,
+        "fy": -21,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gd",
+        "w": 4,
+        "h": 4,
+        "x": 2002,
+        "y": 696
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ge",
+        "w": 15,
+        "h": 10,
+        "x": 1726,
+        "y": 657,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gf",
+        "w": 4,
+        "h": 4,
+        "x": 1935,
+        "y": 711
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gg",
+        "w": 16,
+        "h": 24,
+        "x": 646,
+        "y": 667,
+        "fx": -37,
+        "fy": -21,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gh",
+        "w": 28,
+        "h": 24,
+        "x": 1210,
+        "y": 667,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gi",
+        "w": 16,
+        "h": 18,
+        "x": 1453,
+        "y": 687,
+        "r": true,
+        "fx": -38,
+        "fy": -29,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gj",
+        "w": 4,
+        "h": 4,
+        "x": 1816,
+        "y": 712
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gk",
+        "w": 14,
+        "h": 11,
+        "x": 1875,
+        "y": 678,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gl",
+        "w": 6,
+        "h": 4,
+        "x": 1424,
+        "y": 708,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gm",
+        "w": 4,
+        "h": 4,
+        "x": 2008,
+        "y": 696
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gn",
+        "w": 5,
+        "h": 5,
+        "x": 1424,
+        "y": 714
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/go",
+        "w": 20,
+        "h": 23,
+        "x": 1060,
+        "y": 653,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gp",
+        "w": 11,
+        "h": 14,
+        "x": 1903,
+        "y": 687,
+        "fx": -18,
+        "fy": -6,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gq",
+        "w": 4,
+        "h": 3,
+        "x": 1789,
+        "y": 716,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gr",
+        "w": 6,
+        "h": 3,
+        "x": 1757,
+        "y": 716,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gs",
+        "w": 15,
+        "h": 10,
+        "x": 1743,
+        "y": 657,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gt",
+        "w": 4,
+        "h": 4,
+        "x": 2002,
+        "y": 702
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gu",
+        "w": 12,
+        "h": 13,
+        "x": 1816,
+        "y": 697,
+        "fx": -18,
+        "fy": -12,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gv",
+        "w": 3,
+        "h": 3,
+        "x": 1979,
+        "y": 716
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gw",
+        "w": 3,
+        "h": 5,
+        "x": 1205,
+        "y": 714
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gx",
+        "w": 14,
+        "h": 10,
+        "x": 1830,
+        "y": 709,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gy",
+        "w": 3,
+        "h": 3,
+        "x": 1984,
+        "y": 716
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/gz",
+        "w": 14,
+        "h": 14,
+        "x": 1724,
+        "y": 669,
+        "fx": -16,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/h",
+        "w": 15,
+        "h": 13,
+        "x": 1664,
+        "y": 706,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ha",
+        "w": 12,
+        "h": 14,
+        "x": 1846,
+        "y": 676
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hb",
+        "w": 11,
+        "h": 14,
+        "x": 1916,
+        "y": 683,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hc",
+        "w": 11,
+        "h": 14,
+        "x": 1929,
+        "y": 681,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hd",
+        "w": 5,
+        "h": 7,
+        "x": 1802,
+        "y": 712,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/he",
+        "w": 11,
+        "h": 7,
+        "x": 1935,
+        "y": 413,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hf",
+        "w": 15,
+        "h": 9,
+        "x": 912,
+        "y": 670,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hg",
+        "w": 5,
+        "h": 5,
+        "x": 707,
+        "y": 657,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hh",
+        "w": 7,
+        "h": 7,
+        "x": 986,
+        "y": 712,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hi",
+        "w": 11,
+        "h": 9,
+        "x": 1372,
+        "y": 710,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hj",
+        "w": 23,
+        "h": 21,
+        "x": 1154,
+        "y": 697,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hk",
+        "w": 10,
+        "h": 10,
+        "x": 1957,
+        "y": 709
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hl",
+        "w": 20,
+        "h": 20,
+        "x": 1388,
+        "y": 665
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hm",
+        "w": 10,
+        "h": 4,
+        "x": 1300,
+        "y": 715,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hn",
+        "w": 16,
+        "h": 16,
+        "x": 1560,
+        "y": 654
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ho",
+        "w": 68,
+        "h": 61,
+        "x": 1246,
+        "y": 549,
+        "fx": -10,
+        "fy": -6,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hp",
+        "w": 66,
+        "h": 61,
+        "x": 1385,
+        "y": 549,
+        "fx": -10,
+        "fy": -5,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hq",
+        "w": 66,
+        "h": 61,
+        "x": 1453,
+        "y": 549,
+        "fx": -10,
+        "fy": -6,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hr",
+        "w": 66,
+        "h": 61,
+        "x": 1521,
+        "y": 549,
+        "fx": -10,
+        "fy": -7,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hs",
+        "w": 67,
+        "h": 61,
+        "x": 1316,
+        "y": 549,
+        "fx": -10,
+        "fy": -8,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ht",
+        "w": 66,
+        "h": 61,
+        "x": 1589,
+        "y": 549,
+        "fx": -10,
+        "fy": -7,
+        "fw": 96,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hu",
+        "w": 43,
+        "h": 17,
+        "x": 230,
+        "y": 702
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hv",
+        "w": 16,
+        "h": 15,
+        "x": 1544,
+        "y": 672,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hw",
+        "w": 8,
+        "h": 15,
+        "x": 1647,
+        "y": 656,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hx",
+        "w": 15,
+        "h": 14,
+        "x": 1595,
+        "y": 690,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hy",
+        "w": 7,
+        "h": 3,
+        "x": 1724,
+        "y": 701,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/hz",
+        "w": 3,
+        "h": 8,
+        "x": 1205,
+        "y": 694
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/i",
+        "w": 384,
+        "h": 272,
+        "x": 721,
+        "y": 243,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ia",
+        "w": 4,
+        "h": 8,
+        "x": 1928,
+        "y": 671
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ib",
+        "w": 9,
+        "h": 4,
+        "x": 664,
+        "y": 664,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ic",
+        "w": 4,
+        "h": 8,
+        "x": 1928,
+        "y": 671
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/id",
+        "w": 9,
+        "h": 4,
+        "x": 664,
+        "y": 664,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ie",
+        "w": 3,
+        "h": 8,
+        "x": 1205,
+        "y": 704
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/if",
+        "w": 7,
+        "h": 3,
+        "x": 1748,
+        "y": 716,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ig",
+        "w": 9,
+        "h": 4,
+        "x": 1191,
+        "y": 267,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ih",
+        "w": 4,
+        "h": 8,
+        "x": 1923,
+        "y": 699
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ii",
+        "w": 9,
+        "h": 4,
+        "x": 1191,
+        "y": 267,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ij",
+        "w": 4,
+        "h": 8,
+        "x": 1923,
+        "y": 699
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ik",
+        "w": 13,
+        "h": 12,
+        "x": 1888,
+        "y": 693,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/il",
+        "w": 14,
+        "h": 12,
+        "x": 1562,
+        "y": 707,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/im",
+        "w": 640,
+        "h": 272,
+        "x": 1107,
+        "y": 275,
+        "r": true,
+        "fx": -184,
+        "fy": 0,
+        "fw": 640,
+        "fh": 640
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/in",
+        "w": 13,
+        "h": 12,
+        "x": 1942,
+        "y": 681,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/io",
+        "w": 13,
+        "h": 12,
+        "x": 1888,
+        "y": 693,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ip",
+        "w": 13,
+        "h": 12,
+        "x": 1957,
+        "y": 681,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/iq",
+        "w": 14,
+        "h": 12,
+        "x": 1830,
+        "y": 667,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ir",
+        "w": 14,
+        "h": 12,
+        "x": 1562,
+        "y": 707,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/is",
+        "w": 14,
+        "h": 12,
+        "x": 1800,
+        "y": 682,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/it",
+        "w": 15,
+        "h": 14,
+        "x": 1612,
+        "y": 690,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/iu",
+        "w": 15,
+        "h": 14,
+        "x": 1595,
+        "y": 690,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/iv",
+        "w": 15,
+        "h": 14,
+        "x": 1629,
+        "y": 690,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/iw",
+        "w": 15,
+        "h": 16,
+        "x": 1561,
+        "y": 689,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ix",
+        "w": 16,
+        "h": 15,
+        "x": 1544,
+        "y": 672,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/iy",
+        "w": 14,
+        "h": 12,
+        "x": 1830,
+        "y": 681,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/iz",
+        "w": 13,
+        "h": 12,
+        "x": 1942,
+        "y": 695,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/j",
+        "w": 4,
+        "h": 4,
+        "x": 2014,
+        "y": 696
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ja",
+        "w": 50,
+        "h": 100,
+        "x": 1996,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jb",
+        "w": 50,
+        "h": 100,
+        "x": 1996,
+        "y": 103
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jc",
+        "w": 89,
+        "h": 2,
+        "x": 66,
+        "y": 704,
+        "fx": 0,
+        "fy": 0,
+        "fw": 90,
+        "fh": 2
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jd",
+        "w": 68,
+        "h": 61,
+        "x": 1246,
+        "y": 549,
+        "fx": -26,
+        "fy": -22,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/je",
+        "w": 18,
+        "h": 7,
+        "x": 933,
+        "y": 712,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jf",
+        "w": 13,
+        "h": 10,
+        "x": 1942,
+        "y": 709,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jg",
+        "w": 50,
+        "h": 100,
+        "x": 1996,
+        "y": 205
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jh",
+        "w": 100,
+        "h": 50,
+        "x": 683,
+        "y": 517,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ji",
+        "w": 61,
+        "h": 62,
+        "x": 1725,
+        "y": 550,
+        "fx": -31,
+        "fy": -24,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jj",
+        "w": 10,
+        "h": 24,
+        "x": 671,
+        "y": 543,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jk",
+        "w": 69,
+        "h": 57,
+        "x": 1175,
+        "y": 549,
+        "r": true,
+        "fx": -36,
+        "fy": -9,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jl",
+        "w": 11,
+        "h": 26,
+        "x": 1236,
+        "y": 693,
+        "r": true,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jm",
+        "w": 28,
+        "h": 11,
+        "x": 1850,
+        "y": 663,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jn",
+        "w": 15,
+        "h": 15,
+        "x": 1612,
+        "y": 673,
+        "fx": -57,
+        "fy": -11,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jo",
+        "w": 57,
+        "h": 73,
+        "x": 1895,
+        "y": 422,
+        "fx": -36,
+        "fy": -4,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jp",
+        "w": 21,
+        "h": 21,
+        "x": 1342,
+        "y": 665,
+        "fx": -54,
+        "fy": -8,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jq",
+        "w": 57,
+        "h": 73,
+        "x": 1956,
+        "y": 481,
+        "fx": -36,
+        "fy": -4,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jr",
+        "w": 16,
+        "h": 15,
+        "x": 1595,
+        "y": 656,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/js",
+        "w": 29,
+        "h": 29,
+        "x": 1117,
+        "y": 666,
+        "fx": -50,
+        "fy": -4,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jt",
+        "w": 73,
+        "h": 57,
+        "x": 1100,
+        "y": 549,
+        "r": true,
+        "fx": -36,
+        "fy": -4,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ju",
+        "w": 18,
+        "h": 18,
+        "x": 1471,
+        "y": 687,
+        "fx": -11,
+        "fy": -3,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jv",
+        "w": 49,
+        "h": 49,
+        "x": 766,
+        "y": 602,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jw",
+        "w": 38,
+        "h": 38,
+        "x": 813,
+        "y": 681,
+        "fx": 0,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jx",
+        "w": 38,
+        "h": 38,
+        "x": 853,
+        "y": 681,
+        "fx": 0,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jy",
+        "w": 49,
+        "h": 49,
+        "x": 817,
+        "y": 603,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/jz",
+        "w": 49,
+        "h": 49,
+        "x": 868,
+        "y": 584,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/k",
+        "w": 15,
+        "h": 15,
+        "x": 1629,
+        "y": 673
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ka",
+        "w": 49,
+        "h": 49,
+        "x": 664,
+        "y": 670,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kb",
+        "w": 71,
+        "h": 71,
+        "x": 1027,
+        "y": 517
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kc",
+        "w": 78,
+        "h": 65,
+        "x": 868,
+        "y": 517,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kd",
+        "w": 39,
+        "h": 59,
+        "x": 1849,
+        "y": 550
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ke",
+        "w": 19,
+        "h": 4,
+        "x": 707,
+        "y": 644,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 4
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kf",
+        "w": 15,
+        "h": 4,
+        "x": 1283,
+        "y": 715,
+        "fx": -5,
+        "fy": 0,
+        "fw": 20,
+        "fh": 4
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kg",
+        "w": 29,
+        "h": 30,
+        "x": 965,
+        "y": 680,
+        "fx": -1,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kh",
+        "w": 36,
+        "h": 15,
+        "x": 157,
+        "y": 704,
+        "r": true,
+        "fx": -36,
+        "fy": 0,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ki",
+        "w": 66,
+        "h": 36,
+        "x": 578,
+        "y": 598,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 36,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kj",
+        "w": 66,
+        "h": 33,
+        "x": 503,
+        "y": 664,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kk",
+        "w": 19,
+        "h": 19,
+        "x": 1390,
+        "y": 687
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kl",
+        "w": 4,
+        "h": 4,
+        "x": 2008,
+        "y": 702
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/km",
+        "w": 30,
+        "h": 29,
+        "x": 996,
+        "y": 665,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kn",
+        "w": 4,
+        "h": 4,
+        "x": 2020,
+        "y": 696
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ko",
+        "w": 4,
+        "h": 4,
+        "x": 2014,
+        "y": 702
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kp",
+        "w": 75,
+        "h": 149,
+        "x": 1813,
+        "y": 275,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 150,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kq",
+        "w": 80,
+        "h": 40,
+        "x": 1813,
+        "y": 508,
+        "fx": -1,
+        "fy": -1,
+        "fw": 82,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kr",
+        "w": 24,
+        "h": 65,
+        "x": 1970,
+        "y": 228,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 68,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ks",
+        "w": 23,
+        "h": 17,
+        "x": 300,
+        "y": 702,
+        "r": true,
+        "fx": -37,
+        "fy": -13,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kt",
+        "w": 16,
+        "h": 23,
+        "x": 1249,
+        "y": 696,
+        "r": true,
+        "fx": -36,
+        "fy": -19,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ku",
+        "w": 19,
+        "h": 15,
+        "x": 195,
+        "y": 704,
+        "fx": -37,
+        "fy": -19,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kv",
+        "w": 16,
+        "h": 17,
+        "x": 1524,
+        "y": 654,
+        "fx": -37,
+        "fy": -19,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kw",
+        "w": 16,
+        "h": 14,
+        "x": 1509,
+        "y": 705,
+        "r": true,
+        "fx": -38,
+        "fy": -20,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kx",
+        "w": 31,
+        "h": 35,
+        "x": 2015,
+        "y": 522,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 45,
+        "fh": 39
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ky",
+        "w": 29,
+        "h": 29,
+        "x": 1148,
+        "y": 666
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/kz",
+        "w": 19,
+        "h": 18,
+        "x": 1488,
+        "y": 665,
+        "fx": -7,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/l",
+        "w": 12,
+        "h": 14,
+        "x": 1846,
+        "y": 692
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/la",
+        "w": 66,
+        "h": 66,
+        "x": 1954,
+        "y": 413
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lb",
+        "w": 52,
+        "h": 51,
+        "x": 1890,
+        "y": 558,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lc",
+        "w": 66,
+        "h": 66,
+        "x": 1657,
+        "y": 549
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ld",
+        "w": 16,
+        "h": 16,
+        "x": 1526,
+        "y": 685,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/le",
+        "w": 81,
+        "h": 49,
+        "x": 785,
+        "y": 517,
+        "fx": -1,
+        "fy": -1,
+        "fw": 84,
+        "fh": 53
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lf",
+        "w": 113,
+        "h": 105,
+        "x": 230,
+        "y": 595,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 105,
+        "fh": 114
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lg",
+        "w": 99,
+        "h": 103,
+        "x": 345,
+        "y": 595,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 103,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lh",
+        "w": 15,
+        "h": 13,
+        "x": 1707,
+        "y": 674,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/li",
+        "w": 62,
+        "h": 65,
+        "x": 1749,
+        "y": 483,
+        "r": true,
+        "fx": -32,
+        "fy": -31,
+        "fw": 128,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lj",
+        "w": 13,
+        "h": 12,
+        "x": 1957,
+        "y": 695,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lk",
+        "w": 13,
+        "h": 12,
+        "x": 1972,
+        "y": 696,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ll",
+        "w": 13,
+        "h": 12,
+        "x": 1957,
+        "y": 695,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lm",
+        "w": 13,
+        "h": 12,
+        "x": 1987,
+        "y": 697,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ln",
+        "w": 38,
+        "h": 38,
+        "x": 893,
+        "y": 681,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lo",
+        "w": 13,
+        "h": 13,
+        "x": 1860,
+        "y": 676,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lp",
+        "w": 20,
+        "h": 20,
+        "x": 1410,
+        "y": 665
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lq",
+        "w": 20,
+        "h": 20,
+        "x": 1432,
+        "y": 665
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lr",
+        "w": 13,
+        "h": 18,
+        "x": 1509,
+        "y": 665,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ls",
+        "w": 43,
+        "h": 145,
+        "x": 1890,
+        "y": 275,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lt",
+        "w": 45,
+        "h": 253,
+        "x": 1923,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lu",
+        "w": 62,
+        "h": 206,
+        "x": 1749,
+        "y": 275,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lv",
+        "w": 111,
+        "h": 53,
+        "x": 1935,
+        "y": 307,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lw",
+        "w": 15,
+        "h": 13,
+        "x": 1681,
+        "y": 706,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lx",
+        "w": 13,
+        "h": 18,
+        "x": 1511,
+        "y": 685,
+        "fx": -10,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ly",
+        "w": 22,
+        "h": 36,
+        "x": 1003,
+        "y": 593,
+        "fx": -23,
+        "fy": -1,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/lz",
+        "w": 40,
+        "h": 40,
+        "x": 1972,
+        "y": 602
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/m",
+        "w": 13,
+        "h": 15,
+        "x": 1694,
+        "y": 689,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ma",
+        "w": 21,
+        "h": 37,
+        "x": 790,
+        "y": 682,
+        "fx": -24,
+        "fy": 0,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mb",
+        "w": 23,
+        "h": 31,
+        "x": 1911,
+        "y": 638,
+        "fx": -23,
+        "fy": -6,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mc",
+        "w": 33,
+        "h": 23,
+        "x": 1282,
+        "y": 639,
+        "r": true,
+        "fx": -23,
+        "fy": -4,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/md",
+        "w": 23,
+        "h": 34,
+        "x": 923,
+        "y": 634,
+        "fx": -23,
+        "fy": -3,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/me",
+        "w": 30,
+        "h": 23,
+        "x": 996,
+        "y": 696,
+        "r": true,
+        "fx": -23,
+        "fy": -7,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mf",
+        "w": 31,
+        "h": 23,
+        "x": 1491,
+        "y": 640,
+        "r": true,
+        "fx": -23,
+        "fy": -6,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mg",
+        "w": 32,
+        "h": 23,
+        "x": 1388,
+        "y": 640,
+        "r": true,
+        "fx": -23,
+        "fy": -5,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mh",
+        "w": 33,
+        "h": 23,
+        "x": 1353,
+        "y": 640,
+        "r": true,
+        "fx": -23,
+        "fy": -4,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mi",
+        "w": 28,
+        "h": 24,
+        "x": 1240,
+        "y": 667,
+        "r": true,
+        "fx": -23,
+        "fy": -9,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mj",
+        "w": 30,
+        "h": 24,
+        "x": 675,
+        "y": 644,
+        "r": true,
+        "fx": -23,
+        "fy": -8,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mk",
+        "w": 24,
+        "h": 30,
+        "x": 1060,
+        "y": 678,
+        "fx": -23,
+        "fy": -8,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ml",
+        "w": 32,
+        "h": 23,
+        "x": 1422,
+        "y": 640,
+        "r": true,
+        "fx": -23,
+        "fy": -6,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mm",
+        "w": 33,
+        "h": 22,
+        "x": 1456,
+        "y": 640,
+        "r": true,
+        "fx": -23,
+        "fy": -5,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mn",
+        "w": 34,
+        "h": 23,
+        "x": 1317,
+        "y": 640,
+        "r": true,
+        "fx": -22,
+        "fy": -4,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mo",
+        "w": 35,
+        "h": 23,
+        "x": 1245,
+        "y": 639,
+        "r": true,
+        "fx": -22,
+        "fy": -3,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mp",
+        "w": 24,
+        "h": 19,
+        "x": 1316,
+        "y": 665,
+        "fx": -2,
+        "fy": -1,
+        "fw": 33,
+        "fh": 27
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mq",
+        "w": 24,
+        "h": 26,
+        "x": 1210,
+        "y": 693,
+        "fx": -2,
+        "fy": -2,
+        "fw": 33,
+        "fh": 35
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mr",
+        "w": 57,
+        "h": 41,
+        "x": 1726,
+        "y": 614,
+        "fx": -2,
+        "fy": -3,
+        "fw": 64,
+        "fh": 51
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ms",
+        "w": 54,
+        "h": 45,
+        "x": 675,
+        "y": 597,
+        "fx": -3,
+        "fy": -1,
+        "fw": 62,
+        "fh": 51
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mt",
+        "w": 57,
+        "h": 51,
+        "x": 446,
+        "y": 598,
+        "fx": -2,
+        "fy": -2,
+        "fw": 64,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mu",
+        "w": 31,
+        "h": 28,
+        "x": 1154,
+        "y": 636,
+        "fx": -3,
+        "fy": -2,
+        "fw": 41,
+        "fh": 37
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mv",
+        "w": 31,
+        "h": 27,
+        "x": 2006,
+        "y": 667,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 39,
+        "fh": 39
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mw",
+        "w": 15,
+        "h": 13,
+        "x": 1698,
+        "y": 706,
+        "r": true,
+        "fx": -19,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mx",
+        "w": 16,
+        "h": 20,
+        "x": 1454,
+        "y": 665,
+        "fx": -17,
+        "fy": -8,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/my",
+        "w": 20,
+        "h": 13,
+        "x": 1525,
+        "y": 639,
+        "r": true,
+        "fx": -18,
+        "fy": -9,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/mz",
+        "w": 21,
+        "h": 13,
+        "x": 1880,
+        "y": 663,
+        "r": true,
+        "fx": -18,
+        "fy": -9,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/n",
+        "w": 15,
+        "h": 15,
+        "x": 1646,
+        "y": 673
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/na",
+        "w": 23,
+        "h": 13,
+        "x": 1935,
+        "y": 292,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nb",
+        "w": 4,
+        "h": 4,
+        "x": 2008,
+        "y": 702
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nc",
+        "w": 110,
+        "h": 49,
+        "x": 1935,
+        "y": 362,
+        "fx": -2,
+        "fy": -9,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nd",
+        "w": 13,
+        "h": 22,
+        "x": 1139,
+        "y": 697,
+        "fx": -17,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ne",
+        "w": 20,
+        "h": 10,
+        "x": 1960,
+        "y": 295
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nf",
+        "w": 39,
+        "h": 39,
+        "x": 715,
+        "y": 680,
+        "fx": 0,
+        "fy": 0,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ng",
+        "w": 20,
+        "h": 20,
+        "x": 1283,
+        "y": 693
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nh",
+        "w": 20,
+        "h": 20,
+        "x": 1317,
+        "y": 686
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ni",
+        "w": 20,
+        "h": 19,
+        "x": 1339,
+        "y": 688,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nj",
+        "w": 40,
+        "h": 30,
+        "x": 1107,
+        "y": 243,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nk",
+        "w": 53,
+        "h": 40,
+        "x": 948,
+        "y": 593,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nl",
+        "w": 14,
+        "h": 14,
+        "x": 1724,
+        "y": 685
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nm",
+        "w": 14,
+        "h": 12,
+        "x": 1830,
+        "y": 695,
+        "fx": 0,
+        "fy": 0,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nn",
+        "w": 18,
+        "h": 18,
+        "x": 1491,
+        "y": 685,
+        "fx": -8,
+        "fy": -1,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/no",
+        "w": 20,
+        "h": 20,
+        "x": 1361,
+        "y": 688
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/np",
+        "w": 18,
+        "h": 13,
+        "x": 1547,
+        "y": 639,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nq",
+        "w": 16,
+        "h": 10,
+        "x": 1910,
+        "y": 671
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nr",
+        "w": 4,
+        "h": 4,
+        "x": 2008,
+        "y": 702
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ns",
+        "w": 15,
+        "h": 16,
+        "x": 1082,
+        "y": 618
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nt",
+        "w": 12,
+        "h": 14,
+        "x": 1860,
+        "y": 691
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nu",
+        "w": 15,
+        "h": 16,
+        "x": 1527,
+        "y": 703
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nv",
+        "w": 12,
+        "h": 14,
+        "x": 1874,
+        "y": 691
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nw",
+        "w": 15,
+        "h": 16,
+        "x": 1544,
+        "y": 689
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nx",
+        "w": 16,
+        "h": 11,
+        "x": 1317,
+        "y": 708,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ny",
+        "w": 718,
+        "h": 272,
+        "x": 1,
+        "y": 243,
+        "r": true,
+        "fx": -223,
+        "fy": 0,
+        "fw": 718,
+        "fh": 718
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/nz",
+        "w": 12,
+        "h": 14,
+        "x": 1802,
+        "y": 696
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/o",
+        "w": 13,
+        "h": 15,
+        "x": 1709,
+        "y": 689,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oa",
+        "w": 718,
+        "h": 272,
+        "x": 1203,
+        "y": 1,
+        "r": true,
+        "fx": -223,
+        "fy": 0,
+        "fw": 718,
+        "fh": 718
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ob",
+        "w": 14,
+        "h": 12,
+        "x": 1862,
+        "y": 707,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oc",
+        "w": 14,
+        "h": 12,
+        "x": 1830,
+        "y": 681,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/od",
+        "w": 14,
+        "h": 12,
+        "x": 1878,
+        "y": 707,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oe",
+        "w": 5,
+        "h": 5,
+        "x": 707,
+        "y": 657,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/of",
+        "w": 7,
+        "h": 7,
+        "x": 986,
+        "y": 712,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/og",
+        "w": 3,
+        "h": 3,
+        "x": 1987,
+        "y": 711,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oh",
+        "w": 23,
+        "h": 21,
+        "x": 1154,
+        "y": 697,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oi",
+        "w": 3,
+        "h": 3,
+        "x": 1987,
+        "y": 711,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oj",
+        "w": 3,
+        "h": 3,
+        "x": 1987,
+        "y": 711,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ok",
+        "w": 15,
+        "h": 15,
+        "x": 1674,
+        "y": 657
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ol",
+        "w": 8,
+        "h": 7,
+        "x": 976,
+        "y": 712,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/om",
+        "w": 21,
+        "h": 21,
+        "x": 1365,
+        "y": 665,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/on",
+        "w": 19,
+        "h": 19,
+        "x": 1411,
+        "y": 687,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oo",
+        "w": 15,
+        "h": 13,
+        "x": 1715,
+        "y": 706,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/op",
+        "w": 32,
+        "h": 33,
+        "x": 2014,
+        "y": 599,
+        "fx": -1,
+        "fy": -1,
+        "fw": 34,
+        "fh": 35
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oq",
+        "w": 227,
+        "h": 185,
+        "x": 1,
+        "y": 517,
+        "fx": -14,
+        "fy": -24,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/or",
+        "w": 1200,
+        "h": 240,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/os",
+        "w": 227,
+        "h": 185,
+        "x": 1,
+        "y": 517,
+        "fx": -14,
+        "fy": -24,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ot",
+        "w": 212,
+        "h": 24,
+        "x": 457,
+        "y": 543,
+        "r": true,
+        "fx": -116,
+        "fy": -11,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ou",
+        "w": 216,
+        "h": 24,
+        "x": 230,
+        "y": 569,
+        "r": true,
+        "fx": -116,
+        "fy": -8,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ov",
+        "w": 224,
+        "h": 24,
+        "x": 457,
+        "y": 517,
+        "r": true,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ow",
+        "w": 225,
+        "h": 24,
+        "x": 230,
+        "y": 517,
+        "r": true,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ox",
+        "w": 24,
+        "h": 225,
+        "x": 1970,
+        "y": 1,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oy",
+        "w": 225,
+        "h": 24,
+        "x": 230,
+        "y": 543,
+        "r": true,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/oz",
+        "w": 26,
+        "h": 53,
+        "x": 1944,
+        "y": 558,
+        "fx": -115,
+        "fy": -172,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/p",
+        "w": 14,
+        "h": 12,
+        "x": 1894,
+        "y": 707,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pa",
+        "w": 30,
+        "h": 30,
+        "x": 933,
+        "y": 680
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pb",
+        "w": 30,
+        "h": 30,
+        "x": 1028,
+        "y": 653
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pc",
+        "w": 30,
+        "h": 30,
+        "x": 1028,
+        "y": 685
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pd",
+        "w": 5,
+        "h": 7,
+        "x": 1809,
+        "y": 712,
+        "r": true,
+        "fx": -125,
+        "fy": -125,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pe",
+        "w": 15,
+        "h": 13,
+        "x": 1613,
+        "y": 706,
+        "fx": -121,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pf",
+        "w": 14,
+        "h": 21,
+        "x": 1472,
+        "y": 664,
+        "r": true,
+        "fx": -117,
+        "fy": -120,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pg",
+        "w": 24,
+        "h": 25,
+        "x": 1179,
+        "y": 694,
+        "r": true,
+        "fx": -116,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ph",
+        "w": 33,
+        "h": 28,
+        "x": 1119,
+        "y": 636,
+        "r": true,
+        "fx": -114,
+        "fy": -104,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pi",
+        "w": 42,
+        "h": 27,
+        "x": 760,
+        "y": 653,
+        "r": true,
+        "fx": -116,
+        "fy": -93,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pj",
+        "w": 51,
+        "h": 25,
+        "x": 948,
+        "y": 635,
+        "r": true,
+        "fx": -117,
+        "fy": -84,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pk",
+        "w": 57,
+        "h": 24,
+        "x": 571,
+        "y": 695,
+        "r": true,
+        "fx": -117,
+        "fy": -78,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pl",
+        "w": 62,
+        "h": 25,
+        "x": 1593,
+        "y": 612,
+        "r": true,
+        "fx": -117,
+        "fy": -74,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pm",
+        "w": 65,
+        "h": 29,
+        "x": 580,
+        "y": 636,
+        "r": true,
+        "fx": -115,
+        "fy": -72,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pn",
+        "w": 65,
+        "h": 26,
+        "x": 1458,
+        "y": 612,
+        "r": true,
+        "fx": -116,
+        "fy": -70,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/po",
+        "w": 66,
+        "h": 25,
+        "x": 1525,
+        "y": 612,
+        "r": true,
+        "fx": -117,
+        "fy": -68,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pp",
+        "w": 70,
+        "h": 26,
+        "x": 1027,
+        "y": 590,
+        "r": true,
+        "fx": -117,
+        "fy": -66,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pq",
+        "w": 72,
+        "h": 25,
+        "x": 1788,
+        "y": 611,
+        "r": true,
+        "fx": -116,
+        "fy": -64,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pr",
+        "w": 74,
+        "h": 27,
+        "x": 525,
+        "y": 569,
+        "r": true,
+        "fx": -115,
+        "fy": -63,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ps",
+        "w": 72,
+        "h": 25,
+        "x": 1862,
+        "y": 611,
+        "r": true,
+        "fx": -116,
+        "fy": -62,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pt",
+        "w": 68,
+        "h": 26,
+        "x": 1388,
+        "y": 612,
+        "r": true,
+        "fx": -117,
+        "fy": -67,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pu",
+        "w": 69,
+        "h": 26,
+        "x": 1317,
+        "y": 612,
+        "r": true,
+        "fx": -116,
+        "fy": -65,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pv",
+        "w": 73,
+        "h": 26,
+        "x": 505,
+        "y": 636,
+        "r": true,
+        "fx": -116,
+        "fy": -63,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pw",
+        "w": 75,
+        "h": 27,
+        "x": 448,
+        "y": 569,
+        "r": true,
+        "fx": -115,
+        "fy": -62,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/px",
+        "w": 73,
+        "h": 26,
+        "x": 571,
+        "y": 667,
+        "r": true,
+        "fx": -115,
+        "fy": -62,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/py",
+        "w": 72,
+        "h": 26,
+        "x": 1099,
+        "y": 608,
+        "r": true,
+        "fx": -114,
+        "fy": -60,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/pz",
+        "w": 74,
+        "h": 26,
+        "x": 675,
+        "y": 569,
+        "r": true,
+        "fx": -113,
+        "fy": -60,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/q",
+        "w": 13,
+        "h": 15,
+        "x": 1694,
+        "y": 689,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qa",
+        "w": 70,
+        "h": 26,
+        "x": 1173,
+        "y": 608,
+        "r": true,
+        "fx": -114,
+        "fy": -66,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qb",
+        "w": 63,
+        "h": 27,
+        "x": 1785,
+        "y": 638,
+        "r": true,
+        "fx": -115,
+        "fy": -74,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qc",
+        "w": 59,
+        "h": 23,
+        "x": 1850,
+        "y": 638,
+        "r": true,
+        "fx": -115,
+        "fy": -71,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qd",
+        "w": 24,
+        "h": 63,
+        "x": 2022,
+        "y": 413,
+        "fx": -114,
+        "fy": -69,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qe",
+        "w": 67,
+        "h": 23,
+        "x": 1657,
+        "y": 617,
+        "r": true,
+        "fx": -115,
+        "fy": -67,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qf",
+        "w": 70,
+        "h": 25,
+        "x": 1245,
+        "y": 612,
+        "r": true,
+        "fx": -115,
+        "fy": -66,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qg",
+        "w": 72,
+        "h": 27,
+        "x": 601,
+        "y": 569,
+        "r": true,
+        "fx": -115,
+        "fy": -65,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qh",
+        "w": 63,
+        "h": 20,
+        "x": 503,
+        "y": 699,
+        "r": true,
+        "fx": -117,
+        "fy": -67,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qi",
+        "w": 63,
+        "h": 15,
+        "x": 1,
+        "y": 704,
+        "r": true,
+        "fx": -121,
+        "fy": -69,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qj",
+        "w": 66,
+        "h": 19,
+        "x": 345,
+        "y": 700,
+        "r": true,
+        "fx": -119,
+        "fy": -68,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qk",
+        "w": 23,
+        "h": 17,
+        "x": 275,
+        "y": 702,
+        "fx": -117,
+        "fy": -119,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/ql",
+        "w": 27,
+        "h": 19,
+        "x": 413,
+        "y": 700,
+        "fx": -115,
+        "fy": -118,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qm",
+        "w": 10,
+        "h": 16,
+        "x": 1679,
+        "y": 674
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qn",
+        "w": 16,
+        "h": 12,
+        "x": 1470,
+        "y": 707,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qo",
+        "w": 15,
+        "h": 11,
+        "x": 1760,
+        "y": 657,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qp",
+        "w": 14,
+        "h": 13,
+        "x": 1732,
+        "y": 706,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qq",
+        "w": 13,
+        "h": 14,
+        "x": 1748,
+        "y": 700,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qr",
+        "w": 14,
+        "h": 13,
+        "x": 1732,
+        "y": 706,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qs",
+        "w": 11,
+        "h": 15,
+        "x": 1772,
+        "y": 670
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qt",
+        "w": 13,
+        "h": 14,
+        "x": 1785,
+        "y": 667,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/qu",
+        "w": 11,
+        "h": 15,
+        "x": 1787,
+        "y": 683
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/r",
+        "w": 6,
+        "h": 5,
+        "x": 707,
+        "y": 650,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/s",
+        "w": 6,
+        "h": 6,
+        "x": 1183,
+        "y": 267,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/t",
+        "w": 16,
+        "h": 12,
+        "x": 1544,
+        "y": 707,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/u",
+        "w": 14,
+        "h": 14,
+        "x": 1740,
+        "y": 669,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/v",
+        "w": 15,
+        "h": 14,
+        "x": 1646,
+        "y": 690,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/w",
+        "w": 18,
+        "h": 17,
+        "x": 325,
+        "y": 702,
+        "r": true,
+        "fx": -39,
+        "fy": -28,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/x",
+        "w": 71,
+        "h": 36,
+        "x": 505,
+        "y": 598,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 36,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/y",
+        "w": 4,
+        "h": 3,
+        "x": 1777,
+        "y": 716,
+        "fx": -118,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/dog_slasher_proud_001/.gen/movie/z",
+        "w": 8,
+        "h": 3,
+        "x": 776,
+        "y": 597,
+        "fx": -129,
+        "fy": -93,
+        "fw": 256,
+        "fh": 256
+    }
+]

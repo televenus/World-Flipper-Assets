@@ -1,0 +1,4296 @@
+[
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 2043,
+        "y": 415
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/aa",
+        "w": 4,
+        "h": 8,
+        "x": 2043,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ab",
+        "w": 9,
+        "h": 4,
+        "x": 1000,
+        "y": 1942,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ac",
+        "w": 4,
+        "h": 8,
+        "x": 2043,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ad",
+        "w": 9,
+        "h": 4,
+        "x": 1000,
+        "y": 1942,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ae",
+        "w": 8,
+        "h": 3,
+        "x": 1746,
+        "y": 1875,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/af",
+        "w": 7,
+        "h": 3,
+        "x": 461,
+        "y": 1883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ag",
+        "w": 9,
+        "h": 4,
+        "x": 1203,
+        "y": 1361,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ah",
+        "w": 4,
+        "h": 8,
+        "x": 2043,
+        "y": 397
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ai",
+        "w": 9,
+        "h": 4,
+        "x": 1203,
+        "y": 1361,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/aj",
+        "w": 4,
+        "h": 8,
+        "x": 2043,
+        "y": 397
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ak",
+        "w": 15,
+        "h": 14,
+        "x": 1684,
+        "y": 1818,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/al",
+        "w": 15,
+        "h": 14,
+        "x": 2012,
+        "y": 1799,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/am",
+        "w": 15,
+        "h": 14,
+        "x": 2029,
+        "y": 1799,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/an",
+        "w": 15,
+        "h": 14,
+        "x": 2027,
+        "y": 1866,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ao",
+        "w": 15,
+        "h": 15,
+        "x": 2027,
+        "y": 1815,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ap",
+        "w": 15,
+        "h": 15,
+        "x": 2027,
+        "y": 1832,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/aq",
+        "w": 15,
+        "h": 14,
+        "x": 1889,
+        "y": 1851,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ar",
+        "w": 15,
+        "h": 14,
+        "x": 1889,
+        "y": 1867,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/as",
+        "w": 15,
+        "h": 14,
+        "x": 1889,
+        "y": 1851,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/at",
+        "w": 14,
+        "h": 11,
+        "x": 210,
+        "y": 1935,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/au",
+        "w": 14,
+        "h": 11,
+        "x": 226,
+        "y": 1935,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/av",
+        "w": 14,
+        "h": 11,
+        "x": 242,
+        "y": 1935,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/aw",
+        "w": 805,
+        "h": 272,
+        "x": 1,
+        "y": 1423,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ax",
+        "w": 16,
+        "h": 15,
+        "x": 683,
+        "y": 1931,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ay",
+        "w": 12,
+        "h": 14,
+        "x": 1922,
+        "y": 1884
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/az",
+        "w": 16,
+        "h": 15,
+        "x": 701,
+        "y": 1931,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/b",
+        "w": 180,
+        "h": 41,
+        "x": 586,
+        "y": 1888,
+        "fx": 0,
+        "fy": -151,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ba",
+        "w": 14,
+        "h": 12,
+        "x": 1920,
+        "y": 1917,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bb",
+        "w": 16,
+        "h": 15,
+        "x": 719,
+        "y": 1931,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bc",
+        "w": 12,
+        "h": 14,
+        "x": 1952,
+        "y": 1883
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bd",
+        "w": 5,
+        "h": 7,
+        "x": 908,
+        "y": 1933,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/be",
+        "w": 11,
+        "h": 7,
+        "x": 1045,
+        "y": 1722,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bf",
+        "w": 9,
+        "h": 15,
+        "x": 1777,
+        "y": 1594,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bg",
+        "w": 14,
+        "h": 11,
+        "x": 258,
+        "y": 1935,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bh",
+        "w": 14,
+        "h": 11,
+        "x": 274,
+        "y": 1935,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bi",
+        "w": 14,
+        "h": 12,
+        "x": 1966,
+        "y": 1894,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bj",
+        "w": 15,
+        "h": 15,
+        "x": 2027,
+        "y": 1849
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bk",
+        "w": 15,
+        "h": 14,
+        "x": 1906,
+        "y": 1851,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bl",
+        "w": 14,
+        "h": 12,
+        "x": 2027,
+        "y": 1896,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bm",
+        "w": 15,
+        "h": 14,
+        "x": 1889,
+        "y": 1883,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bn",
+        "w": 74,
+        "h": 58,
+        "x": 768,
+        "y": 1888,
+        "fx": -22,
+        "fy": -16,
+        "fw": 111,
+        "fh": 111
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bo",
+        "w": 14,
+        "h": 12,
+        "x": 1998,
+        "y": 1907,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bp",
+        "w": 15,
+        "h": 15,
+        "x": 1610,
+        "y": 1931,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bq",
+        "w": 60,
+        "h": 60,
+        "x": 1965,
+        "y": 1815
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/br",
+        "w": 33,
+        "h": 20,
+        "x": 809,
+        "y": 1858,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bs",
+        "w": 248,
+        "h": 256,
+        "x": 808,
+        "y": 1423,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bt",
+        "w": 21,
+        "h": 31,
+        "x": 2026,
+        "y": 1098,
+        "r": true,
+        "fx": -51,
+        "fy": -31,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bu",
+        "w": 12,
+        "h": 15,
+        "x": 1856,
+        "y": 1920,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bv",
+        "w": 19,
+        "h": 16,
+        "x": 1821,
+        "y": 1922,
+        "fx": -7,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bw",
+        "w": 19,
+        "h": 16,
+        "x": 546,
+        "y": 1858,
+        "fx": -9,
+        "fy": -1,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bx",
+        "w": 19,
+        "h": 16,
+        "x": 2026,
+        "y": 1665,
+        "fx": -7,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/by",
+        "w": 19,
+        "h": 16,
+        "x": 1847,
+        "y": 1884,
+        "fx": -7,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/bz",
+        "w": 8,
+        "h": 3,
+        "x": 1423,
+        "y": 1787
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/c",
+        "w": 15,
+        "h": 14,
+        "x": 1889,
+        "y": 1883,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ca",
+        "w": 65,
+        "h": 52,
+        "x": 1773,
+        "y": 1747,
+        "fx": -3,
+        "fy": -7,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cb",
+        "w": 67,
+        "h": 52,
+        "x": 989,
+        "y": 1367,
+        "fx": -2,
+        "fy": -7,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cc",
+        "w": 69,
+        "h": 53,
+        "x": 1702,
+        "y": 1716,
+        "fx": -1,
+        "fy": -6,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cd",
+        "w": 71,
+        "h": 50,
+        "x": 1927,
+        "y": 1696,
+        "fx": 0,
+        "fy": -9,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ce",
+        "w": 71,
+        "h": 52,
+        "x": 1854,
+        "y": 1693,
+        "fx": 0,
+        "fy": -7,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cf",
+        "w": 65,
+        "h": 53,
+        "x": 1840,
+        "y": 1747,
+        "fx": -3,
+        "fy": -6,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cg",
+        "w": 433,
+        "h": 150,
+        "x": 1583,
+        "y": 472,
+        "r": true,
+        "fx": -62,
+        "fy": -53,
+        "fw": 272,
+        "fh": 750
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ch",
+        "w": 150,
+        "h": 433,
+        "x": 1894,
+        "y": 624,
+        "fx": -62,
+        "fy": -54,
+        "fw": 272,
+        "fh": 750
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ci",
+        "w": 150,
+        "h": 435,
+        "x": 1591,
+        "y": 624,
+        "fx": -62,
+        "fy": -52,
+        "fw": 272,
+        "fh": 750
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cj",
+        "w": 149,
+        "h": 435,
+        "x": 1743,
+        "y": 624,
+        "fx": -62,
+        "fy": -51,
+        "fw": 272,
+        "fh": 750
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ck",
+        "w": 431,
+        "h": 148,
+        "x": 1615,
+        "y": 1,
+        "r": true,
+        "fx": -62,
+        "fy": -56,
+        "fw": 272,
+        "fh": 750
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cl",
+        "w": 433,
+        "h": 149,
+        "x": 1591,
+        "y": 1061,
+        "r": true,
+        "fx": -62,
+        "fy": -54,
+        "fw": 272,
+        "fh": 750
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cm",
+        "w": 7,
+        "h": 13,
+        "x": 2040,
+        "y": 1173,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cn",
+        "w": 43,
+        "h": 44,
+        "x": 1722,
+        "y": 1880,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/co",
+        "w": 37,
+        "h": 65,
+        "x": 1973,
+        "y": 1748,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cp",
+        "w": 35,
+        "h": 23,
+        "x": 1143,
+        "y": 1342,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cq",
+        "w": 272,
+        "h": 750,
+        "x": 989,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cr",
+        "w": 19,
+        "h": 16,
+        "x": 1821,
+        "y": 1922,
+        "fx": -7,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cs",
+        "w": 19,
+        "h": 16,
+        "x": 1868,
+        "y": 1863,
+        "fx": -7,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ct",
+        "w": 17,
+        "h": 16,
+        "x": 2030,
+        "y": 259,
+        "fx": -10,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cu",
+        "w": 19,
+        "h": 16,
+        "x": 1847,
+        "y": 1902,
+        "fx": -25,
+        "fy": -18,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cv",
+        "w": 16,
+        "h": 15,
+        "x": 737,
+        "y": 1931,
+        "r": true,
+        "fx": -29,
+        "fy": -19,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cw",
+        "w": 16,
+        "h": 16,
+        "x": 1868,
+        "y": 1899,
+        "fx": -28,
+        "fy": -20,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cx",
+        "w": 17,
+        "h": 14,
+        "x": 2030,
+        "y": 277,
+        "fx": -28,
+        "fy": -22,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cy",
+        "w": 13,
+        "h": 15,
+        "x": 1903,
+        "y": 1931,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/cz",
+        "w": 17,
+        "h": 14,
+        "x": 1477,
+        "y": 1873,
+        "fx": -28,
+        "fy": -22,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/d",
+        "w": 9,
+        "h": 3,
+        "x": 1462,
+        "y": 1727
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/da",
+        "w": 16,
+        "h": 20,
+        "x": 2030,
+        "y": 293,
+        "fx": -27,
+        "fy": -10,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/db",
+        "w": 54,
+        "h": 41,
+        "x": 1367,
+        "y": 1787,
+        "r": true,
+        "fx": -65,
+        "fy": -35,
+        "fw": 166,
+        "fh": 166
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dc",
+        "w": 80,
+        "h": 61,
+        "x": 1944,
+        "y": 1563,
+        "r": true,
+        "fx": -51,
+        "fy": -7,
+        "fw": 166,
+        "fh": 166
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dd",
+        "w": 24,
+        "h": 15,
+        "x": 602,
+        "y": 1931,
+        "r": true,
+        "fx": -28,
+        "fy": -4,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/de",
+        "w": 26,
+        "h": 15,
+        "x": 574,
+        "y": 1931,
+        "r": true,
+        "fx": -28,
+        "fy": -2,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/df",
+        "w": 74,
+        "h": 81,
+        "x": 1296,
+        "y": 1832,
+        "fx": -44,
+        "fy": -4,
+        "fw": 166,
+        "fh": 166
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dg",
+        "w": 14,
+        "h": 27,
+        "x": 1360,
+        "y": 1194,
+        "fx": -29,
+        "fy": -1,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dh",
+        "w": 80,
+        "h": 87,
+        "x": 1132,
+        "y": 1859,
+        "fx": -40,
+        "fy": 0,
+        "fw": 166,
+        "fh": 166
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/di",
+        "w": 18,
+        "h": 26,
+        "x": 1533,
+        "y": 1184,
+        "fx": -28,
+        "fy": 0,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dj",
+        "w": 85,
+        "h": 87,
+        "x": 1045,
+        "y": 1859,
+        "fx": -39,
+        "fy": 0,
+        "fw": 166,
+        "fh": 166
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dk",
+        "w": 35,
+        "h": 31,
+        "x": 1283,
+        "y": 1915,
+        "fx": -5,
+        "fy": 0,
+        "fw": 45,
+        "fh": 39
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dl",
+        "w": 33,
+        "h": 39,
+        "x": 978,
+        "y": 1901,
+        "fx": -18,
+        "fy": -11,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dm",
+        "w": 11,
+        "h": 15,
+        "x": 755,
+        "y": 1931,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dn",
+        "w": 65,
+        "h": 87,
+        "x": 1788,
+        "y": 1525,
+        "r": true,
+        "fx": -38,
+        "fy": -7,
+        "fw": 166,
+        "fh": 166
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/do",
+        "w": 43,
+        "h": 36,
+        "x": 1432,
+        "y": 1855,
+        "fx": -13,
+        "fy": -17,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dp",
+        "w": 14,
+        "h": 11,
+        "x": 290,
+        "y": 1935,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dq",
+        "w": 51,
+        "h": 52,
+        "x": 1641,
+        "y": 1553,
+        "fx": -3,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dr",
+        "w": 87,
+        "h": 59,
+        "x": 1855,
+        "y": 1563
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ds",
+        "w": 74,
+        "h": 37,
+        "x": 1702,
+        "y": 1677,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dt",
+        "w": 91,
+        "h": 120,
+        "x": 1369,
+        "y": 1610,
+        "fx": -6,
+        "fy": -4,
+        "fw": 113,
+        "fh": 139
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/du",
+        "w": 86,
+        "h": 67,
+        "x": 1855,
+        "y": 1624,
+        "fx": -38,
+        "fy": -6,
+        "fw": 166,
+        "fh": 166
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dv",
+        "w": 43,
+        "h": 48,
+        "x": 2000,
+        "y": 1696,
+        "r": true,
+        "fx": -11,
+        "fy": -12,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dw",
+        "w": 67,
+        "h": 92,
+        "x": 1298,
+        "y": 1738
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dx",
+        "w": 59,
+        "h": 87,
+        "x": 1641,
+        "y": 1607,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dy",
+        "w": 29,
+        "h": 24,
+        "x": 2018,
+        "y": 565,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/dz",
+        "w": 74,
+        "h": 37,
+        "x": 1702,
+        "y": 1677,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/e",
+        "w": 15,
+        "h": 15,
+        "x": 1627,
+        "y": 1931,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ea",
+        "w": 21,
+        "h": 14,
+        "x": 2026,
+        "y": 1563,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/eb",
+        "w": 92,
+        "h": 67,
+        "x": 1694,
+        "y": 1525,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ec",
+        "w": 55,
+        "h": 48,
+        "x": 1992,
+        "y": 315,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ed",
+        "w": 23,
+        "h": 30,
+        "x": 2024,
+        "y": 1461,
+        "fx": -50,
+        "fy": -21,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ee",
+        "w": 49,
+        "h": 48,
+        "x": 1620,
+        "y": 1878,
+        "fx": -10,
+        "fy": -9,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ef",
+        "w": 23,
+        "h": 31,
+        "x": 2024,
+        "y": 1428,
+        "fx": -50,
+        "fy": -20,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/eg",
+        "w": 4,
+        "h": 4,
+        "x": 1530,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/eh",
+        "w": 59,
+        "h": 59,
+        "x": 1641,
+        "y": 1696,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ei",
+        "w": 80,
+        "h": 80,
+        "x": 1214,
+        "y": 1829
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ej",
+        "w": 74,
+        "h": 77,
+        "x": 1778,
+        "y": 1668,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ek",
+        "w": 59,
+        "h": 59,
+        "x": 1641,
+        "y": 1757,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/el",
+        "w": 95,
+        "h": 115,
+        "x": 1462,
+        "y": 1610,
+        "r": true,
+        "fx": -34,
+        "fy": 0,
+        "fw": 175,
+        "fh": 104
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/em",
+        "w": 16,
+        "h": 16,
+        "x": 2012,
+        "y": 1746,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/en",
+        "w": 18,
+        "h": 26,
+        "x": 1553,
+        "y": 1184,
+        "r": true,
+        "fx": -51,
+        "fy": -34,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/eo",
+        "w": 49,
+        "h": 81,
+        "x": 1992,
+        "y": 365,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 84,
+        "fh": 53
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ep",
+        "w": 69,
+        "h": 73,
+        "x": 844,
+        "y": 1858,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/eq",
+        "w": 22,
+        "h": 16,
+        "x": 1586,
+        "y": 1923,
+        "fx": -56,
+        "fy": -39,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/er",
+        "w": 16,
+        "h": 15,
+        "x": 2012,
+        "y": 1782,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/es",
+        "w": 73,
+        "h": 81,
+        "x": 1702,
+        "y": 1594
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/et",
+        "w": 61,
+        "h": 57,
+        "x": 915,
+        "y": 1889,
+        "fx": -4,
+        "fy": -1,
+        "fw": 70,
+        "fh": 70
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/eu",
+        "w": 109,
+        "h": 126,
+        "x": 1045,
+        "y": 1731
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ev",
+        "w": 16,
+        "h": 15,
+        "x": 2012,
+        "y": 1782,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ew",
+        "w": 58,
+        "h": 61,
+        "x": 1372,
+        "y": 1830,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 70,
+        "fh": 70
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ex",
+        "w": 150,
+        "h": 130,
+        "x": 1217,
+        "y": 1606,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ey",
+        "w": 13,
+        "h": 15,
+        "x": 1918,
+        "y": 1931,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ez",
+        "w": 152,
+        "h": 148,
+        "x": 989,
+        "y": 1217
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/f",
+        "w": 14,
+        "h": 11,
+        "x": 226,
+        "y": 1935,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fa",
+        "w": 14,
+        "h": 11,
+        "x": 306,
+        "y": 1935,
+        "r": true,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fb",
+        "w": 17,
+        "h": 16,
+        "x": 1477,
+        "y": 1855,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fc",
+        "w": 102,
+        "h": 92,
+        "x": 1,
+        "y": 1854,
+        "fx": 0,
+        "fy": 0,
+        "fw": 102,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fd",
+        "w": 16,
+        "h": 16,
+        "x": 2012,
+        "y": 1764,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fe",
+        "w": 16,
+        "h": 11,
+        "x": 156,
+        "y": 1935,
+        "r": true,
+        "fx": -64,
+        "fy": -51,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ff",
+        "w": 62,
+        "h": 109,
+        "x": 1143,
+        "y": 1231,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fg",
+        "w": 14,
+        "h": 11,
+        "x": 322,
+        "y": 1935,
+        "r": true,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fh",
+        "w": 22,
+        "h": 82,
+        "x": 1583,
+        "y": 353,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 82,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fi",
+        "w": 88,
+        "h": 32,
+        "x": 360,
+        "y": 1854
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fj",
+        "w": 21,
+        "h": 37,
+        "x": 2026,
+        "y": 1059,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fk",
+        "w": 19,
+        "h": 16,
+        "x": 1868,
+        "y": 1881,
+        "fx": -38,
+        "fy": 0,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fl",
+        "w": 61,
+        "h": 58,
+        "x": 1433,
+        "y": 1732,
+        "fx": -10,
+        "fy": -6,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fm",
+        "w": 15,
+        "h": 14,
+        "x": 1886,
+        "y": 1899,
+        "fx": -10,
+        "fy": -3,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fn",
+        "w": 16,
+        "h": 25,
+        "x": 1573,
+        "y": 1184,
+        "r": true,
+        "fx": -35,
+        "fy": -2,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fo",
+        "w": 12,
+        "h": 13,
+        "x": 1935,
+        "y": 1900,
+        "fx": -11,
+        "fy": -3,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fp",
+        "w": 61,
+        "h": 59,
+        "x": 1496,
+        "y": 1727,
+        "fx": -10,
+        "fy": -5,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fq",
+        "w": 38,
+        "h": 38,
+        "x": 1767,
+        "y": 1842,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fr",
+        "w": 13,
+        "h": 13,
+        "x": 1949,
+        "y": 1899,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fs",
+        "w": 20,
+        "h": 20,
+        "x": 1722,
+        "y": 1926
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ft",
+        "w": 20,
+        "h": 20,
+        "x": 1744,
+        "y": 1926
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fu",
+        "w": 18,
+        "h": 27,
+        "x": 450,
+        "y": 1854,
+        "r": true,
+        "fx": -34,
+        "fy": -7,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fv",
+        "w": 145,
+        "h": 43,
+        "x": 1376,
+        "y": 1565,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fw",
+        "w": 63,
+        "h": 61,
+        "x": 1702,
+        "y": 1771,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fx",
+        "w": 16,
+        "h": 13,
+        "x": 1923,
+        "y": 1851,
+        "fx": -9,
+        "fy": -2,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fy",
+        "w": 253,
+        "h": 45,
+        "x": 105,
+        "y": 1854,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/fz",
+        "w": 17,
+        "h": 12,
+        "x": 1622,
+        "y": 1763,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/g",
+        "w": 14,
+        "h": 12,
+        "x": 1906,
+        "y": 1885,
+        "fx": 0,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ga",
+        "w": 23,
+        "h": 19,
+        "x": 2024,
+        "y": 1515,
+        "fx": -36,
+        "fy": -18,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gb",
+        "w": 23,
+        "h": 32,
+        "x": 2024,
+        "y": 1394,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gc",
+        "w": 64,
+        "h": 61,
+        "x": 1907,
+        "y": 1748,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gd",
+        "w": 62,
+        "h": 206,
+        "x": 915,
+        "y": 1681,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ge",
+        "w": 16,
+        "h": 31,
+        "x": 2018,
+        "y": 591,
+        "r": true,
+        "fx": -32,
+        "fy": -26,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gf",
+        "w": 15,
+        "h": 14,
+        "x": 1903,
+        "y": 1899,
+        "fx": -9,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gg",
+        "w": 23,
+        "h": 20,
+        "x": 2024,
+        "y": 1493,
+        "fx": -4,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gh",
+        "w": 53,
+        "h": 111,
+        "x": 1156,
+        "y": 1731,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gi",
+        "w": 61,
+        "h": 58,
+        "x": 1559,
+        "y": 1759,
+        "fx": -10,
+        "fy": -6,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gj",
+        "w": 14,
+        "h": 13,
+        "x": 1998,
+        "y": 1877,
+        "fx": -14,
+        "fy": -8,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gk",
+        "w": 61,
+        "h": 58,
+        "x": 1496,
+        "y": 1788,
+        "fx": -10,
+        "fy": -6,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gl",
+        "w": 13,
+        "h": 15,
+        "x": 1966,
+        "y": 1877,
+        "r": true,
+        "fx": -8,
+        "fy": -6,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gm",
+        "w": 13,
+        "h": 16,
+        "x": 2030,
+        "y": 1746,
+        "fx": -13,
+        "fy": 0,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gn",
+        "w": 59,
+        "h": 61,
+        "x": 1435,
+        "y": 1792,
+        "r": true,
+        "fx": -10,
+        "fy": -6,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/go",
+        "w": 18,
+        "h": 13,
+        "x": 339,
+        "y": 1901,
+        "fx": -8,
+        "fy": -6,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gp",
+        "w": 13,
+        "h": 15,
+        "x": 1921,
+        "y": 1867,
+        "fx": -13,
+        "fy": 0,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gq",
+        "w": 60,
+        "h": 58,
+        "x": 1622,
+        "y": 1818,
+        "fx": -11,
+        "fy": -7,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gr",
+        "w": 60,
+        "h": 44,
+        "x": 1684,
+        "y": 1834
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gs",
+        "w": 13,
+        "h": 16,
+        "x": 2030,
+        "y": 1764,
+        "fx": -14,
+        "fy": 0,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gt",
+        "w": 60,
+        "h": 56,
+        "x": 1496,
+        "y": 1848,
+        "fx": -11,
+        "fy": -9,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gu",
+        "w": 14,
+        "h": 14,
+        "x": 1936,
+        "y": 1883,
+        "fx": -10,
+        "fy": -5,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gv",
+        "w": 13,
+        "h": 16,
+        "x": 1906,
+        "y": 1867,
+        "fx": -15,
+        "fy": -6,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gw",
+        "w": 60,
+        "h": 52,
+        "x": 1558,
+        "y": 1869,
+        "fx": -11,
+        "fy": -13,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gx",
+        "w": 14,
+        "h": 15,
+        "x": 2030,
+        "y": 1782,
+        "fx": -10,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gy",
+        "w": 12,
+        "h": 13,
+        "x": 1936,
+        "y": 1915,
+        "fx": -15,
+        "fy": -9,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/gz",
+        "w": 14,
+        "h": 11,
+        "x": 1622,
+        "y": 1805,
+        "r": true,
+        "fx": -19,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/h",
+        "w": 192,
+        "h": 180,
+        "x": 1855,
+        "y": 1212,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ha",
+        "w": 19,
+        "h": 2,
+        "x": 1767,
+        "y": 1922,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 2
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hb",
+        "w": 18,
+        "h": 26,
+        "x": 1583,
+        "y": 437,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hc",
+        "w": 26,
+        "h": 18,
+        "x": 1558,
+        "y": 1923,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hd",
+        "w": 6,
+        "h": 3,
+        "x": 1694,
+        "y": 1602
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/he",
+        "w": 62,
+        "h": 53,
+        "x": 1369,
+        "y": 1732,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hf",
+        "w": 61,
+        "h": 48,
+        "x": 1559,
+        "y": 1819,
+        "fx": -11,
+        "fy": -17,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hg",
+        "w": 24,
+        "h": 32,
+        "x": 1533,
+        "y": 1553,
+        "r": true,
+        "fx": -5,
+        "fy": -4,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hh",
+        "w": 12,
+        "h": 12,
+        "x": 1980,
+        "y": 1923
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hi",
+        "w": 64,
+        "h": 40,
+        "x": 1559,
+        "y": 1717,
+        "fx": -9,
+        "fy": -25,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hj",
+        "w": 11,
+        "h": 17,
+        "x": 2036,
+        "y": 591,
+        "fx": -20,
+        "fy": -8,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hk",
+        "w": 21,
+        "h": 16,
+        "x": 2026,
+        "y": 1192,
+        "fx": -37,
+        "fy": -31,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hl",
+        "w": 64,
+        "h": 39,
+        "x": 1767,
+        "y": 1801,
+        "fx": -9,
+        "fy": -26,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hm",
+        "w": 4,
+        "h": 4,
+        "x": 1530,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hn",
+        "w": 4,
+        "h": 4,
+        "x": 1959,
+        "y": 1851
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ho",
+        "w": 15,
+        "h": 15,
+        "x": 1644,
+        "y": 1931
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hp",
+        "w": 15,
+        "h": 15,
+        "x": 1661,
+        "y": 1931
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hq",
+        "w": 15,
+        "h": 15,
+        "x": 1678,
+        "y": 1931
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hr",
+        "w": 19,
+        "h": 19,
+        "x": 1537,
+        "y": 1906,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hs",
+        "w": 19,
+        "h": 16,
+        "x": 1847,
+        "y": 1902,
+        "fx": -38,
+        "fy": -31,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ht",
+        "w": 7,
+        "h": 18,
+        "x": 1758,
+        "y": 1834,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hu",
+        "w": 11,
+        "h": 20,
+        "x": 1045,
+        "y": 1681,
+        "fx": -20,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hv",
+        "w": 64,
+        "h": 38,
+        "x": 1833,
+        "y": 1802,
+        "fx": -9,
+        "fy": -27,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hw",
+        "w": 10,
+        "h": 24,
+        "x": 1788,
+        "y": 1922,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hx",
+        "w": 64,
+        "h": 38,
+        "x": 1899,
+        "y": 1811,
+        "fx": -9,
+        "fy": -27,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hy",
+        "w": 26,
+        "h": 11,
+        "x": 1263,
+        "y": 740,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/hz",
+        "w": 19,
+        "h": 11,
+        "x": 135,
+        "y": 1935,
+        "r": true,
+        "fx": -20,
+        "fy": -4,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/i",
+        "w": 5,
+        "h": 5,
+        "x": 567,
+        "y": 1858,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ia",
+        "w": 28,
+        "h": 11,
+        "x": 105,
+        "y": 1935,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ib",
+        "w": 16,
+        "h": 15,
+        "x": 2012,
+        "y": 1782,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ic",
+        "w": 17,
+        "h": 15,
+        "x": 628,
+        "y": 1931,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/id",
+        "w": 16,
+        "h": 11,
+        "x": 174,
+        "y": 1935,
+        "r": true,
+        "fx": -20,
+        "fy": -10,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ie",
+        "w": 16,
+        "h": 11,
+        "x": 192,
+        "y": 1935,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/if",
+        "w": 30,
+        "h": 30,
+        "x": 1013,
+        "y": 1916
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ig",
+        "w": 67,
+        "h": 34,
+        "x": 1291,
+        "y": 1194,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ih",
+        "w": 67,
+        "h": 34,
+        "x": 1214,
+        "y": 1911,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ii",
+        "w": 29,
+        "h": 29,
+        "x": 2018,
+        "y": 472,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ij",
+        "w": 19,
+        "h": 19,
+        "x": 1537,
+        "y": 1927,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ik",
+        "w": 19,
+        "h": 19,
+        "x": 504,
+        "y": 1858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/il",
+        "w": 30,
+        "h": 30,
+        "x": 1013,
+        "y": 1916
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/im",
+        "w": 19,
+        "h": 19,
+        "x": 1537,
+        "y": 1927,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/in",
+        "w": 19,
+        "h": 19,
+        "x": 504,
+        "y": 1858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/io",
+        "w": 19,
+        "h": 19,
+        "x": 1537,
+        "y": 1906,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ip",
+        "w": 67,
+        "h": 34,
+        "x": 1291,
+        "y": 1194,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/iq",
+        "w": 67,
+        "h": 34,
+        "x": 1214,
+        "y": 1911,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ir",
+        "w": 29,
+        "h": 29,
+        "x": 2018,
+        "y": 472,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/is",
+        "w": 13,
+        "h": 14,
+        "x": 900,
+        "y": 1681,
+        "fx": -16,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/it",
+        "w": 4,
+        "h": 4,
+        "x": 1530,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/iu",
+        "w": 4,
+        "h": 4,
+        "x": 1959,
+        "y": 1851
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/iv",
+        "w": 15,
+        "h": 15,
+        "x": 1644,
+        "y": 1931
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/iw",
+        "w": 15,
+        "h": 15,
+        "x": 1661,
+        "y": 1931
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ix",
+        "w": 15,
+        "h": 15,
+        "x": 1678,
+        "y": 1931
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/iy",
+        "w": 19,
+        "h": 19,
+        "x": 2026,
+        "y": 1623,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/iz",
+        "w": 19,
+        "h": 19,
+        "x": 1847,
+        "y": 1842,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/j",
+        "w": 7,
+        "h": 7,
+        "x": 1758,
+        "y": 1854,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ja",
+        "w": 15,
+        "h": 15,
+        "x": 1695,
+        "y": 1931,
+        "fx": -23,
+        "fy": -15,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jb",
+        "w": 9,
+        "h": 3,
+        "x": 450,
+        "y": 1883
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jc",
+        "w": 29,
+        "h": 29,
+        "x": 2018,
+        "y": 503,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jd",
+        "w": 62,
+        "h": 53,
+        "x": 1369,
+        "y": 1732,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/je",
+        "w": 59,
+        "h": 53,
+        "x": 1435,
+        "y": 1893,
+        "fx": -16,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jf",
+        "w": 61,
+        "h": 53,
+        "x": 1372,
+        "y": 1893,
+        "fx": -14,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jg",
+        "w": 6,
+        "h": 6,
+        "x": 1694,
+        "y": 1594
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jh",
+        "w": 6,
+        "h": 6,
+        "x": 1899,
+        "y": 1802
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ji",
+        "w": 18,
+        "h": 25,
+        "x": 2024,
+        "y": 1536,
+        "r": true,
+        "fx": -26,
+        "fy": -15,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jj",
+        "w": 6,
+        "h": 6,
+        "x": 829,
+        "y": 1880
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jk",
+        "w": 29,
+        "h": 29,
+        "x": 2018,
+        "y": 534,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jl",
+        "w": 39,
+        "h": 39,
+        "x": 1496,
+        "y": 1906,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jm",
+        "w": 19,
+        "h": 19,
+        "x": 1800,
+        "y": 1922,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jn",
+        "w": 19,
+        "h": 19,
+        "x": 525,
+        "y": 1858,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jo",
+        "w": 11,
+        "h": 13,
+        "x": 2014,
+        "y": 1877,
+        "fx": -27,
+        "fy": -15,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jp",
+        "w": 22,
+        "h": 19,
+        "x": 1348,
+        "y": 1915,
+        "r": true,
+        "fx": -25,
+        "fy": -9,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jq",
+        "w": 16,
+        "h": 15,
+        "x": 647,
+        "y": 1931,
+        "fx": -19,
+        "fy": -20,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jr",
+        "w": 16,
+        "h": 15,
+        "x": 665,
+        "y": 1931,
+        "fx": -19,
+        "fy": -20,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/js",
+        "w": 14,
+        "h": 11,
+        "x": 2026,
+        "y": 1683,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jt",
+        "w": 4,
+        "h": 4,
+        "x": 2043,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ju",
+        "w": 11,
+        "h": 12,
+        "x": 2036,
+        "y": 610
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jv",
+        "w": 5,
+        "h": 7,
+        "x": 1365,
+        "y": 1936,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jw",
+        "w": 4,
+        "h": 4,
+        "x": 1536,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jx",
+        "w": 4,
+        "h": 4,
+        "x": 1959,
+        "y": 1857
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jy",
+        "w": 4,
+        "h": 4,
+        "x": 2043,
+        "y": 427
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/jz",
+        "w": 15,
+        "h": 10,
+        "x": 1348,
+        "y": 1936,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/k",
+        "w": 3,
+        "h": 3,
+        "x": 1481,
+        "y": 1727,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ka",
+        "w": 4,
+        "h": 4,
+        "x": 1542,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kb",
+        "w": 4,
+        "h": 4,
+        "x": 2043,
+        "y": 433
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kc",
+        "w": 11,
+        "h": 14,
+        "x": 2036,
+        "y": 448
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kd",
+        "w": 4,
+        "h": 6,
+        "x": 2043,
+        "y": 407
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ke",
+        "w": 4,
+        "h": 4,
+        "x": 1548,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kf",
+        "w": 5,
+        "h": 5,
+        "x": 837,
+        "y": 1880
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kg",
+        "w": 3,
+        "h": 4,
+        "x": 1554,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kh",
+        "w": 3,
+        "h": 6,
+        "x": 1773,
+        "y": 1727
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ki",
+        "w": 15,
+        "h": 10,
+        "x": 546,
+        "y": 1876,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kj",
+        "w": 4,
+        "h": 4,
+        "x": 2043,
+        "y": 439
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kk",
+        "w": 3,
+        "h": 3,
+        "x": 2044,
+        "y": 1554
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kl",
+        "w": 3,
+        "h": 5,
+        "x": 2044,
+        "y": 1547
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/km",
+        "w": 14,
+        "h": 10,
+        "x": 2027,
+        "y": 1910,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kn",
+        "w": 3,
+        "h": 3,
+        "x": 1573,
+        "y": 1943
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ko",
+        "w": 26,
+        "h": 31,
+        "x": 1320,
+        "y": 1915,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kp",
+        "w": 5,
+        "h": 5,
+        "x": 567,
+        "y": 1865
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kq",
+        "w": 12,
+        "h": 15,
+        "x": 1951,
+        "y": 1866
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kr",
+        "w": 3,
+        "h": 3,
+        "x": 1573,
+        "y": 1943
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ks",
+        "w": 4,
+        "h": 5,
+        "x": 1211,
+        "y": 1731
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kt",
+        "w": 3,
+        "h": 3,
+        "x": 1773,
+        "y": 1741
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ku",
+        "w": 16,
+        "h": 13,
+        "x": 1941,
+        "y": 1851
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kv",
+        "w": 5,
+        "h": 4,
+        "x": 1523,
+        "y": 1604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kw",
+        "w": 13,
+        "h": 15,
+        "x": 1936,
+        "y": 1866
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kx",
+        "w": 3,
+        "h": 3,
+        "x": 1573,
+        "y": 1943
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ky",
+        "w": 5,
+        "h": 3,
+        "x": 1810,
+        "y": 1943,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/kz",
+        "w": 3,
+        "h": 3,
+        "x": 1773,
+        "y": 1741
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/l",
+        "w": 21,
+        "h": 23,
+        "x": 1180,
+        "y": 1342,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/la",
+        "w": 8,
+        "h": 9,
+        "x": 1523,
+        "y": 1565,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lb",
+        "w": 4,
+        "h": 4,
+        "x": 2043,
+        "y": 1896
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lc",
+        "w": 13,
+        "h": 15,
+        "x": 1920,
+        "y": 1900
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ld",
+        "w": 3,
+        "h": 4,
+        "x": 1773,
+        "y": 1735
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/le",
+        "w": 3,
+        "h": 3,
+        "x": 1486,
+        "y": 1727
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lf",
+        "w": 3,
+        "h": 3,
+        "x": 1573,
+        "y": 1943
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lg",
+        "w": 13,
+        "h": 15,
+        "x": 1933,
+        "y": 1931,
+        "fx": -24,
+        "fy": -5,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lh",
+        "w": 19,
+        "h": 19,
+        "x": 1847,
+        "y": 1842,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/li",
+        "w": 19,
+        "h": 19,
+        "x": 2026,
+        "y": 1623,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lj",
+        "w": 39,
+        "h": 39,
+        "x": 1496,
+        "y": 1906,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lk",
+        "w": 19,
+        "h": 19,
+        "x": 1800,
+        "y": 1922,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ll",
+        "w": 19,
+        "h": 19,
+        "x": 525,
+        "y": 1858,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lm",
+        "w": 17,
+        "h": 42,
+        "x": 2030,
+        "y": 151,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ln",
+        "w": 17,
+        "h": 30,
+        "x": 2030,
+        "y": 195
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lo",
+        "w": 17,
+        "h": 30,
+        "x": 2030,
+        "y": 227,
+        "fx": -20,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lp",
+        "w": 49,
+        "h": 49,
+        "x": 1671,
+        "y": 1880,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lq",
+        "w": 38,
+        "h": 38,
+        "x": 1767,
+        "y": 1882,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lr",
+        "w": 19,
+        "h": 19,
+        "x": 2026,
+        "y": 1644,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ls",
+        "w": 19,
+        "h": 19,
+        "x": 1868,
+        "y": 1842,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lt",
+        "w": 81,
+        "h": 68,
+        "x": 1943,
+        "y": 1626,
+        "fx": 0,
+        "fy": -1,
+        "fw": 81,
+        "fh": 69
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lu",
+        "w": 38,
+        "h": 38,
+        "x": 1807,
+        "y": 1842,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lv",
+        "w": 19,
+        "h": 19,
+        "x": 1847,
+        "y": 1863,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lw",
+        "w": 44,
+        "h": 14,
+        "x": 808,
+        "y": 1681,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lx",
+        "w": 17,
+        "h": 42,
+        "x": 2030,
+        "y": 151,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ly",
+        "w": 44,
+        "h": 14,
+        "x": 854,
+        "y": 1681,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/lz",
+        "w": 14,
+        "h": 44,
+        "x": 1625,
+        "y": 1717
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/m",
+        "w": 3,
+        "h": 3,
+        "x": 1481,
+        "y": 1727,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ma",
+        "w": 17,
+        "h": 12,
+        "x": 1622,
+        "y": 1791,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mb",
+        "w": 4,
+        "h": 3,
+        "x": 1567,
+        "y": 1943
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mc",
+        "w": 62,
+        "h": 12,
+        "x": 844,
+        "y": 1933,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/md",
+        "w": 10,
+        "h": 28,
+        "x": 1603,
+        "y": 437
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/me",
+        "w": 10,
+        "h": 28,
+        "x": 470,
+        "y": 1858
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mf",
+        "w": 20,
+        "h": 4,
+        "x": 978,
+        "y": 1942
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mg",
+        "w": 4,
+        "h": 20,
+        "x": 2043,
+        "y": 365,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mh",
+        "w": 12,
+        "h": 17,
+        "x": 1203,
+        "y": 1342,
+        "fx": -25,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mi",
+        "w": 6,
+        "h": 17,
+        "x": 1607,
+        "y": 353
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mj",
+        "w": 26,
+        "h": 8,
+        "x": 1444,
+        "y": 1184,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mk",
+        "w": 8,
+        "h": 26,
+        "x": 1207,
+        "y": 1231
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ml",
+        "w": 14,
+        "h": 13,
+        "x": 1998,
+        "y": 1892
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mm",
+        "w": 5,
+        "h": 4,
+        "x": 908,
+        "y": 1942
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mn",
+        "w": 7,
+        "h": 19,
+        "x": 2040,
+        "y": 1131
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mo",
+        "w": 7,
+        "h": 19,
+        "x": 2040,
+        "y": 1152
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mp",
+        "w": 45,
+        "h": 12,
+        "x": 1156,
+        "y": 1844,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mq",
+        "w": 3,
+        "h": 10,
+        "x": 1143,
+        "y": 1217
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mr",
+        "w": 6,
+        "h": 18,
+        "x": 1583,
+        "y": 624
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ms",
+        "w": 18,
+        "h": 6,
+        "x": 809,
+        "y": 1880,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mt",
+        "w": 14,
+        "h": 5,
+        "x": 1420,
+        "y": 733,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mu",
+        "w": 14,
+        "h": 5,
+        "x": 1583,
+        "y": 465,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mv",
+        "w": 10,
+        "h": 39,
+        "x": 1746,
+        "y": 1834
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mw",
+        "w": 15,
+        "h": 12,
+        "x": 1870,
+        "y": 1934
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mx",
+        "w": 6,
+        "h": 3,
+        "x": 1473,
+        "y": 1727,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/my",
+        "w": 4,
+        "h": 13,
+        "x": 1767,
+        "y": 1771
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/mz",
+        "w": 4,
+        "h": 13,
+        "x": 1767,
+        "y": 1786
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/n",
+        "w": 3,
+        "h": 3,
+        "x": 1481,
+        "y": 1727,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/na",
+        "w": 3,
+        "h": 9,
+        "x": 1773,
+        "y": 1716
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nb",
+        "w": 3,
+        "h": 9,
+        "x": 2044,
+        "y": 1536
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nc",
+        "w": 10,
+        "h": 35,
+        "x": 1423,
+        "y": 1792
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nd",
+        "w": 15,
+        "h": 13,
+        "x": 1981,
+        "y": 1877
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ne",
+        "w": 5,
+        "h": 4,
+        "x": 908,
+        "y": 1942
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nf",
+        "w": 13,
+        "h": 13,
+        "x": 1950,
+        "y": 1914,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ng",
+        "w": 15,
+        "h": 14,
+        "x": 1886,
+        "y": 1915,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nh",
+        "w": 76,
+        "h": 52,
+        "x": 1777,
+        "y": 1614,
+        "r": true,
+        "fx": 0,
+        "fy": -85,
+        "fw": 52,
+        "fh": 161
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ni",
+        "w": 167,
+        "h": 167,
+        "x": 1855,
+        "y": 1394,
+        "fx": -4,
+        "fy": -4,
+        "fw": 175,
+        "fh": 175
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nj",
+        "w": 42,
+        "h": 22,
+        "x": 1992,
+        "y": 448,
+        "fx": -2,
+        "fy": -7,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nk",
+        "w": 32,
+        "h": 218,
+        "x": 979,
+        "y": 1681,
+        "r": true,
+        "fx": -10,
+        "fy": -2,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nl",
+        "w": 232,
+        "h": 32,
+        "x": 105,
+        "y": 1901,
+        "fx": -16,
+        "fy": -2,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nm",
+        "w": 30,
+        "h": 233,
+        "x": 1013,
+        "y": 1681,
+        "r": true,
+        "fx": -21,
+        "fy": -3,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nn",
+        "w": 233,
+        "h": 30,
+        "x": 339,
+        "y": 1916,
+        "fx": -25,
+        "fy": -3,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/no",
+        "w": 233,
+        "h": 28,
+        "x": 574,
+        "y": 1858,
+        "fx": -33,
+        "fy": -4,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/np",
+        "w": 224,
+        "h": 26,
+        "x": 360,
+        "y": 1888,
+        "fx": -47,
+        "fy": -5,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nq",
+        "w": 12,
+        "h": 59,
+        "x": 2026,
+        "y": 1131,
+        "r": true,
+        "fx": -215,
+        "fy": -12,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nr",
+        "w": 17,
+        "h": 12,
+        "x": 1622,
+        "y": 1777,
+        "fx": -257,
+        "fy": -12,
+        "fw": 276,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ns",
+        "w": 6,
+        "h": 15,
+        "x": 1583,
+        "y": 644,
+        "fx": -6,
+        "fy": -4,
+        "fw": 15,
+        "fh": 23
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nt",
+        "w": 15,
+        "h": 12,
+        "x": 2027,
+        "y": 1882,
+        "r": true,
+        "fx": -63,
+        "fy": -51,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nu",
+        "w": 85,
+        "h": 89,
+        "x": 1211,
+        "y": 1738
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nv",
+        "w": 59,
+        "h": 59,
+        "x": 1641,
+        "y": 1696,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nw",
+        "w": 80,
+        "h": 80,
+        "x": 1214,
+        "y": 1829
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nx",
+        "w": 74,
+        "h": 77,
+        "x": 1778,
+        "y": 1668,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ny",
+        "w": 59,
+        "h": 59,
+        "x": 1641,
+        "y": 1757,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/nz",
+        "w": 38,
+        "h": 38,
+        "x": 1807,
+        "y": 1882,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/o",
+        "w": 6,
+        "h": 5,
+        "x": 1436,
+        "y": 733,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oa",
+        "w": 13,
+        "h": 13,
+        "x": 1965,
+        "y": 1908,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ob",
+        "w": 20,
+        "h": 20,
+        "x": 1766,
+        "y": 1926
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oc",
+        "w": 20,
+        "h": 20,
+        "x": 2026,
+        "y": 1579
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/od",
+        "w": 20,
+        "h": 20,
+        "x": 482,
+        "y": 1858
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oe",
+        "w": 20,
+        "h": 20,
+        "x": 2026,
+        "y": 1601
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/of",
+        "w": 15,
+        "h": 14,
+        "x": 1889,
+        "y": 1883,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/og",
+        "w": 11,
+        "h": 12,
+        "x": 2014,
+        "y": 1908,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oh",
+        "w": 15,
+        "h": 14,
+        "x": 1886,
+        "y": 1899,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oi",
+        "w": 14,
+        "h": 15,
+        "x": 1887,
+        "y": 1931,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oj",
+        "w": 15,
+        "h": 15,
+        "x": 1523,
+        "y": 1587,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ok",
+        "w": 4,
+        "h": 4,
+        "x": 2043,
+        "y": 1902
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ol",
+        "w": 11,
+        "h": 17,
+        "x": 1045,
+        "y": 1703,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/om",
+        "w": 986,
+        "h": 1420,
+        "x": 1,
+        "y": 1,
+        "fx": -30,
+        "fy": -47,
+        "fw": 1075,
+        "fh": 1590
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/on",
+        "w": 80,
+        "h": 80,
+        "x": 1559,
+        "y": 1553,
+        "fx": -1,
+        "fy": -1,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oo",
+        "w": 80,
+        "h": 80,
+        "x": 1559,
+        "y": 1635,
+        "fx": -1,
+        "fy": -1,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/op",
+        "w": 413,
+        "h": 162,
+        "x": 1615,
+        "y": 151,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oq",
+        "w": 441,
+        "h": 159,
+        "x": 472,
+        "y": 1697,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/or",
+        "w": 157,
+        "h": 462,
+        "x": 989,
+        "y": 753,
+        "fx": 0,
+        "fy": -23,
+        "fw": 157,
+        "fh": 485
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/os",
+        "w": 469,
+        "h": 155,
+        "x": 1,
+        "y": 1697,
+        "r": true,
+        "fx": 0,
+        "fy": -10,
+        "fw": 155,
+        "fh": 479
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ot",
+        "w": 151,
+        "h": 452,
+        "x": 1291,
+        "y": 740,
+        "fx": 0,
+        "fy": -1,
+        "fw": 151,
+        "fh": 453
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ou",
+        "w": 145,
+        "h": 449,
+        "x": 1444,
+        "y": 733,
+        "fx": 0,
+        "fy": -41,
+        "fw": 145,
+        "fh": 490
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ov",
+        "w": 141,
+        "h": 476,
+        "x": 1148,
+        "y": 753
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ow",
+        "w": 159,
+        "h": 311,
+        "x": 1694,
+        "y": 1212,
+        "fx": 0,
+        "fy": -48,
+        "fw": 159,
+        "fh": 359
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ox",
+        "w": 157,
+        "h": 362,
+        "x": 1058,
+        "y": 1367
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oy",
+        "w": 155,
+        "h": 369,
+        "x": 1376,
+        "y": 1194
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/oz",
+        "w": 155,
+        "h": 385,
+        "x": 1263,
+        "y": 353
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/p",
+        "w": 6,
+        "h": 6,
+        "x": 1607,
+        "y": 372,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pa",
+        "w": 375,
+        "h": 155,
+        "x": 1615,
+        "y": 315,
+        "r": true,
+        "fx": 0,
+        "fy": -9,
+        "fw": 155,
+        "fh": 384
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pb",
+        "w": 157,
+        "h": 373,
+        "x": 1217,
+        "y": 1231,
+        "fx": 0,
+        "fy": -14,
+        "fw": 157,
+        "fh": 387
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pc",
+        "w": 161,
+        "h": 378,
+        "x": 1420,
+        "y": 353
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pd",
+        "w": 413,
+        "h": 162,
+        "x": 1615,
+        "y": 151,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pe",
+        "w": 441,
+        "h": 159,
+        "x": 472,
+        "y": 1697,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pf",
+        "w": 157,
+        "h": 462,
+        "x": 989,
+        "y": 753,
+        "fx": 0,
+        "fy": -23,
+        "fw": 157,
+        "fh": 485
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pg",
+        "w": 469,
+        "h": 155,
+        "x": 1,
+        "y": 1697,
+        "r": true,
+        "fx": 0,
+        "fy": -10,
+        "fw": 155,
+        "fh": 479
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ph",
+        "w": 151,
+        "h": 452,
+        "x": 1291,
+        "y": 740,
+        "fx": 0,
+        "fy": -1,
+        "fw": 151,
+        "fh": 453
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pi",
+        "w": 145,
+        "h": 449,
+        "x": 1444,
+        "y": 733,
+        "fx": 0,
+        "fy": -41,
+        "fw": 145,
+        "fh": 490
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pj",
+        "w": 141,
+        "h": 476,
+        "x": 1148,
+        "y": 753
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pk",
+        "w": 159,
+        "h": 311,
+        "x": 1694,
+        "y": 1212,
+        "fx": 0,
+        "fy": -48,
+        "fw": 159,
+        "fh": 359
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pl",
+        "w": 159,
+        "h": 339,
+        "x": 1533,
+        "y": 1212
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pm",
+        "w": 157,
+        "h": 362,
+        "x": 1058,
+        "y": 1367
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pn",
+        "w": 159,
+        "h": 339,
+        "x": 1533,
+        "y": 1212
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/po",
+        "w": 155,
+        "h": 369,
+        "x": 1376,
+        "y": 1194
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pp",
+        "w": 155,
+        "h": 385,
+        "x": 1263,
+        "y": 353
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pq",
+        "w": 350,
+        "h": 350,
+        "x": 1263,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pr",
+        "w": 13,
+        "h": 13,
+        "x": 1980,
+        "y": 1908,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/ps",
+        "w": 13,
+        "h": 13,
+        "x": 1950,
+        "y": 1914,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pt",
+        "w": 375,
+        "h": 155,
+        "x": 1615,
+        "y": 315,
+        "r": true,
+        "fx": 0,
+        "fy": -9,
+        "fw": 155,
+        "fh": 384
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pu",
+        "w": 13,
+        "h": 13,
+        "x": 1965,
+        "y": 1923,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pv",
+        "w": 157,
+        "h": 373,
+        "x": 1217,
+        "y": 1231,
+        "fx": 0,
+        "fy": -14,
+        "fw": 157,
+        "fh": 387
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/pw",
+        "w": 161,
+        "h": 378,
+        "x": 1420,
+        "y": 353
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/px",
+        "w": 14,
+        "h": 15,
+        "x": 1887,
+        "y": 1931,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/py",
+        "w": 11,
+        "h": 14,
+        "x": 2014,
+        "y": 1892,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/q",
+        "w": 12,
+        "h": 16,
+        "x": 1842,
+        "y": 1922,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/r",
+        "w": 14,
+        "h": 14,
+        "x": 1982,
+        "y": 1892,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/s",
+        "w": 14,
+        "h": 15,
+        "x": 1870,
+        "y": 1917,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/t",
+        "w": 15,
+        "h": 14,
+        "x": 1903,
+        "y": 1915,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/u",
+        "w": 15,
+        "h": 15,
+        "x": 1540,
+        "y": 1587,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/v",
+        "w": 15,
+        "h": 14,
+        "x": 1903,
+        "y": 1915,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/w",
+        "w": 15,
+        "h": 14,
+        "x": 2012,
+        "y": 1799,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/x",
+        "w": 15,
+        "h": 15,
+        "x": 2027,
+        "y": 1832,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/y",
+        "w": 7,
+        "h": 3,
+        "x": 1558,
+        "y": 1943,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/devil_leader_002/.gen/movie/z",
+        "w": 8,
+        "h": 3,
+        "x": 1800,
+        "y": 1943,
+        "r": true
+    }
+]

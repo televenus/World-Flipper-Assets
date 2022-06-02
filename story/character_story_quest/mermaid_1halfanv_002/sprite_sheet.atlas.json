@@ -1,0 +1,2338 @@
+[
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 493,
+        "y": 22
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/aa",
+        "w": 13,
+        "h": 13,
+        "x": 462,
+        "y": 630,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ab",
+        "w": 13,
+        "h": 13,
+        "x": 471,
+        "y": 1914,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ac",
+        "w": 28,
+        "h": 63,
+        "x": 457,
+        "y": 1037,
+        "r": true,
+        "fx": -18,
+        "fy": -41,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ad",
+        "w": 12,
+        "h": 14,
+        "x": 485,
+        "y": 1648
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ae",
+        "w": 16,
+        "h": 19,
+        "x": 462,
+        "y": 1966,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/af",
+        "w": 12,
+        "h": 14,
+        "x": 467,
+        "y": 714
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ag",
+        "w": 16,
+        "h": 19,
+        "x": 475,
+        "y": 1880,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ah",
+        "w": 16,
+        "h": 19,
+        "x": 462,
+        "y": 1966,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ai",
+        "w": 12,
+        "h": 14,
+        "x": 467,
+        "y": 730
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/aj",
+        "w": 19,
+        "h": 16,
+        "x": 430,
+        "y": 723,
+        "fx": -7,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ak",
+        "w": 6,
+        "h": 5,
+        "x": 491,
+        "y": 1573,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/al",
+        "w": 6,
+        "h": 6,
+        "x": 488,
+        "y": 1360,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/am",
+        "w": 12,
+        "h": 16,
+        "x": 485,
+        "y": 1613,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/an",
+        "w": 14,
+        "h": 14,
+        "x": 451,
+        "y": 723,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ao",
+        "w": 15,
+        "h": 14,
+        "x": 462,
+        "y": 680,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ap",
+        "w": 3,
+        "h": 7,
+        "x": 493,
+        "y": 1696
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/aq",
+        "w": 3,
+        "h": 8,
+        "x": 395,
+        "y": 1977
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ar",
+        "w": 8,
+        "h": 4,
+        "x": 431,
+        "y": 1501,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/as",
+        "w": 4,
+        "h": 9,
+        "x": 397,
+        "y": 1551
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/at",
+        "w": 8,
+        "h": 4,
+        "x": 431,
+        "y": 1501,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/au",
+        "w": 4,
+        "h": 9,
+        "x": 397,
+        "y": 1551
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/av",
+        "w": 3,
+        "h": 8,
+        "x": 462,
+        "y": 769
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/aw",
+        "w": 7,
+        "h": 3,
+        "x": 490,
+        "y": 475,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ax",
+        "w": 4,
+        "h": 9,
+        "x": 493,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ay",
+        "w": 4,
+        "h": 8,
+        "x": 493,
+        "y": 12
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/az",
+        "w": 4,
+        "h": 9,
+        "x": 493,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/b",
+        "w": 10,
+        "h": 10,
+        "x": 487,
+        "y": 1401
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ba",
+        "w": 4,
+        "h": 8,
+        "x": 493,
+        "y": 12
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bb",
+        "w": 14,
+        "h": 11,
+        "x": 447,
+        "y": 815,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bc",
+        "w": 16,
+        "h": 14,
+        "x": 476,
+        "y": 1171,
+        "r": true,
+        "fx": -12,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bd",
+        "w": 14,
+        "h": 11,
+        "x": 475,
+        "y": 1901,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/be",
+        "w": 14,
+        "h": 16,
+        "x": 483,
+        "y": 1102,
+        "fx": -12,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bf",
+        "w": 11,
+        "h": 15,
+        "x": 431,
+        "y": 1484,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bg",
+        "w": 17,
+        "h": 14,
+        "x": 457,
+        "y": 1171,
+        "r": true,
+        "fx": -12,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bh",
+        "w": 15,
+        "h": 11,
+        "x": 430,
+        "y": 815,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bi",
+        "w": 17,
+        "h": 14,
+        "x": 413,
+        "y": 1971,
+        "r": true,
+        "fx": -12,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bj",
+        "w": 19,
+        "h": 16,
+        "x": 430,
+        "y": 741,
+        "fx": -7,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bk",
+        "w": 12,
+        "h": 14,
+        "x": 481,
+        "y": 714
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bl",
+        "w": 5,
+        "h": 4,
+        "x": 405,
+        "y": 1895,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bm",
+        "w": 7,
+        "h": 7,
+        "x": 434,
+        "y": 1843,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bn",
+        "w": 7,
+        "h": 5,
+        "x": 490,
+        "y": 468,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bo",
+        "w": 17,
+        "h": 17,
+        "x": 448,
+        "y": 1705,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bp",
+        "w": 15,
+        "h": 18,
+        "x": 430,
+        "y": 759,
+        "fx": -22,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bq",
+        "w": 15,
+        "h": 16,
+        "x": 431,
+        "y": 1548,
+        "fx": -21,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/br",
+        "w": 14,
+        "h": 16,
+        "x": 483,
+        "y": 1120,
+        "fx": -22,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bs",
+        "w": 13,
+        "h": 15,
+        "x": 484,
+        "y": 267,
+        "fx": -23,
+        "fy": -4,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bt",
+        "w": 15,
+        "h": 14,
+        "x": 479,
+        "y": 680,
+        "r": true,
+        "fx": -23,
+        "fy": -5,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bu",
+        "w": 13,
+        "h": 16,
+        "x": 484,
+        "y": 249,
+        "fx": -23,
+        "fy": -12,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bv",
+        "w": 15,
+        "h": 16,
+        "x": 430,
+        "y": 779,
+        "r": true,
+        "fx": -21,
+        "fy": -15,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bw",
+        "w": 16,
+        "h": 16,
+        "x": 430,
+        "y": 797,
+        "fx": -21,
+        "fy": -14,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bx",
+        "w": 15,
+        "h": 24,
+        "x": 431,
+        "y": 1458,
+        "r": true,
+        "fx": -1,
+        "fy": -6,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/by",
+        "w": 26,
+        "h": 16,
+        "x": 403,
+        "y": 1548,
+        "fx": -2,
+        "fy": -4,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/bz",
+        "w": 15,
+        "h": 22,
+        "x": 407,
+        "y": 1828,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/c",
+        "w": 157,
+        "h": 281,
+        "x": 275,
+        "y": 349,
+        "fx": -106,
+        "fy": -31,
+        "fw": 368,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ca",
+        "w": 21,
+        "h": 13,
+        "x": 353,
+        "y": 1551,
+        "fx": -3,
+        "fy": -3,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cb",
+        "w": 6,
+        "h": 15,
+        "x": 491,
+        "y": 1546,
+        "fx": -3,
+        "fy": -4,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cc",
+        "w": 14,
+        "h": 12,
+        "x": 483,
+        "y": 1156,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cd",
+        "w": 14,
+        "h": 12,
+        "x": 477,
+        "y": 631,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ce",
+        "w": 5,
+        "h": 5,
+        "x": 487,
+        "y": 1437,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cf",
+        "w": 7,
+        "h": 7,
+        "x": 432,
+        "y": 1971,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cg",
+        "w": 3,
+        "h": 3,
+        "x": 296,
+        "y": 1823,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ch",
+        "w": 21,
+        "h": 23,
+        "x": 476,
+        "y": 1801,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ci",
+        "w": 3,
+        "h": 3,
+        "x": 296,
+        "y": 1823,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cj",
+        "w": 3,
+        "h": 3,
+        "x": 296,
+        "y": 1823,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ck",
+        "w": 5,
+        "h": 5,
+        "x": 487,
+        "y": 1437,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cl",
+        "w": 7,
+        "h": 7,
+        "x": 432,
+        "y": 1971,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cm",
+        "w": 11,
+        "h": 9,
+        "x": 219,
+        "y": 1963,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cn",
+        "w": 21,
+        "h": 23,
+        "x": 476,
+        "y": 1801,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/co",
+        "w": 11,
+        "h": 14,
+        "x": 486,
+        "y": 1914,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cp",
+        "w": 7,
+        "h": 5,
+        "x": 432,
+        "y": 1980,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cq",
+        "w": 7,
+        "h": 11,
+        "x": 219,
+        "y": 1948,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cr",
+        "w": 9,
+        "h": 15,
+        "x": 488,
+        "y": 1343,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cs",
+        "w": 12,
+        "h": 14,
+        "x": 481,
+        "y": 730
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ct",
+        "w": 12,
+        "h": 14,
+        "x": 448,
+        "y": 797
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cu",
+        "w": 13,
+        "h": 13,
+        "x": 447,
+        "y": 769,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cv",
+        "w": 12,
+        "h": 11,
+        "x": 484,
+        "y": 349,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cw",
+        "w": 40,
+        "h": 33,
+        "x": 457,
+        "y": 1002,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 41,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cx",
+        "w": 41,
+        "h": 65,
+        "x": 364,
+        "y": 1828
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cy",
+        "w": 41,
+        "h": 65,
+        "x": 441,
+        "y": 228
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/cz",
+        "w": 41,
+        "h": 65,
+        "x": 441,
+        "y": 295
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/d",
+        "w": 9,
+        "h": 64,
+        "x": 488,
+        "y": 1277,
+        "r": true,
+        "fx": -124,
+        "fy": -190,
+        "fw": 368,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/da",
+        "w": 41,
+        "h": 65,
+        "x": 434,
+        "y": 362
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/db",
+        "w": 41,
+        "h": 65,
+        "x": 434,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dc",
+        "w": 41,
+        "h": 65,
+        "x": 434,
+        "y": 496
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dd",
+        "w": 41,
+        "h": 65,
+        "x": 434,
+        "y": 563
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/de",
+        "w": 41,
+        "h": 65,
+        "x": 424,
+        "y": 1724
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/df",
+        "w": 41,
+        "h": 65,
+        "x": 448,
+        "y": 1546
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dg",
+        "w": 67,
+        "h": 11,
+        "x": 1,
+        "y": 1974,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dh",
+        "w": 67,
+        "h": 11,
+        "x": 70,
+        "y": 1974,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/di",
+        "w": 67,
+        "h": 11,
+        "x": 139,
+        "y": 1974,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dj",
+        "w": 67,
+        "h": 11,
+        "x": 208,
+        "y": 1974,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dk",
+        "w": 11,
+        "h": 67,
+        "x": 457,
+        "y": 1102
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dl",
+        "w": 11,
+        "h": 67,
+        "x": 477,
+        "y": 402
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dm",
+        "w": 11,
+        "h": 67,
+        "x": 470,
+        "y": 1102
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dn",
+        "w": 11,
+        "h": 67,
+        "x": 477,
+        "y": 471
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/do",
+        "w": 11,
+        "h": 67,
+        "x": 477,
+        "y": 540
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dp",
+        "w": 76,
+        "h": 244,
+        "x": 275,
+        "y": 828
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dq",
+        "w": 76,
+        "h": 244,
+        "x": 275,
+        "y": 1074
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dr",
+        "w": 76,
+        "h": 244,
+        "x": 353,
+        "y": 960
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ds",
+        "w": 76,
+        "h": 244,
+        "x": 275,
+        "y": 1320
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dt",
+        "w": 76,
+        "h": 244,
+        "x": 353,
+        "y": 1206
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/du",
+        "w": 76,
+        "h": 244,
+        "x": 275,
+        "y": 1320
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dv",
+        "w": 76,
+        "h": 244,
+        "x": 353,
+        "y": 960
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dw",
+        "w": 76,
+        "h": 244,
+        "x": 275,
+        "y": 1074
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dx",
+        "w": 76,
+        "h": 244,
+        "x": 275,
+        "y": 828
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dy",
+        "w": 29,
+        "h": 25,
+        "x": 440,
+        "y": 1907
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/dz",
+        "w": 29,
+        "h": 25,
+        "x": 430,
+        "y": 696
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/e",
+        "w": 4,
+        "h": 4,
+        "x": 461,
+        "y": 714
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ea",
+        "w": 272,
+        "h": 741,
+        "x": 1,
+        "y": 747,
+        "fx": -235,
+        "fy": -1,
+        "fw": 742,
+        "fh": 742
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/eb",
+        "w": 272,
+        "h": 744,
+        "x": 1,
+        "y": 1,
+        "fx": -236,
+        "fy": 0,
+        "fw": 744,
+        "fh": 744
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ec",
+        "w": 6,
+        "h": 8,
+        "x": 491,
+        "y": 1563,
+        "fx": -2,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ed",
+        "w": 3,
+        "h": 8,
+        "x": 400,
+        "y": 1977,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ee",
+        "w": 10,
+        "h": 10,
+        "x": 487,
+        "y": 1413
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ef",
+        "w": 11,
+        "h": 12,
+        "x": 473,
+        "y": 1929,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/eg",
+        "w": 20,
+        "h": 20,
+        "x": 477,
+        "y": 609
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/eh",
+        "w": 4,
+        "h": 10,
+        "x": 269,
+        "y": 1922
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ei",
+        "w": 16,
+        "h": 16,
+        "x": 462,
+        "y": 645
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ej",
+        "w": 10,
+        "h": 10,
+        "x": 487,
+        "y": 1425
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ek",
+        "w": 15,
+        "h": 15,
+        "x": 462,
+        "y": 663,
+        "fx": 0,
+        "fy": 0,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/el",
+        "w": 50,
+        "h": 50,
+        "x": 424,
+        "y": 1791
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/em",
+        "w": 34,
+        "h": 34,
+        "x": 407,
+        "y": 1852,
+        "fx": 0,
+        "fy": -16,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/en",
+        "w": 39,
+        "h": 39,
+        "x": 364,
+        "y": 1895,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/eo",
+        "w": 7,
+        "h": 7,
+        "x": 484,
+        "y": 1696,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ep",
+        "w": 39,
+        "h": 39,
+        "x": 372,
+        "y": 1936,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/eq",
+        "w": 4,
+        "h": 4,
+        "x": 493,
+        "y": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/er",
+        "w": 40,
+        "h": 40,
+        "x": 457,
+        "y": 960,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/es",
+        "w": 39,
+        "h": 39,
+        "x": 403,
+        "y": 1507,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/et",
+        "w": 39,
+        "h": 39,
+        "x": 228,
+        "y": 1922,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/eu",
+        "w": 11,
+        "h": 11,
+        "x": 447,
+        "y": 784,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ev",
+        "w": 11,
+        "h": 11,
+        "x": 480,
+        "y": 1958,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ew",
+        "w": 11,
+        "h": 11,
+        "x": 480,
+        "y": 1971,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ex",
+        "w": 7,
+        "h": 7,
+        "x": 490,
+        "y": 425,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ey",
+        "w": 7,
+        "h": 7,
+        "x": 490,
+        "y": 434,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ez",
+        "w": 7,
+        "h": 7,
+        "x": 490,
+        "y": 443,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/f",
+        "w": 13,
+        "h": 14,
+        "x": 484,
+        "y": 301,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fa",
+        "w": 18,
+        "h": 29,
+        "x": 475,
+        "y": 1849,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 32,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fb",
+        "w": 46,
+        "h": 46,
+        "x": 277,
+        "y": 1939,
+        "fx": -27,
+        "fy": -26,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fc",
+        "w": 14,
+        "h": 16,
+        "x": 483,
+        "y": 1138,
+        "fx": -22,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fd",
+        "w": 10,
+        "h": 29,
+        "x": 487,
+        "y": 1037,
+        "fx": 0,
+        "fy": -1,
+        "fw": 10,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fe",
+        "w": 20,
+        "h": 38,
+        "x": 477,
+        "y": 362,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ff",
+        "w": 121,
+        "h": 102,
+        "x": 301,
+        "y": 1724,
+        "fx": -14,
+        "fy": -11,
+        "fw": 150,
+        "fh": 126
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fg",
+        "w": 14,
+        "h": 12,
+        "x": 467,
+        "y": 746,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fh",
+        "w": 7,
+        "h": 18,
+        "x": 467,
+        "y": 1769,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fi",
+        "w": 10,
+        "h": 24,
+        "x": 487,
+        "y": 1068,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fj",
+        "w": 26,
+        "h": 11,
+        "x": 467,
+        "y": 215,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fk",
+        "w": 28,
+        "h": 11,
+        "x": 413,
+        "y": 1888,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fl",
+        "w": 13,
+        "h": 13,
+        "x": 483,
+        "y": 760,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fm",
+        "w": 11,
+        "h": 12,
+        "x": 486,
+        "y": 1930,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fn",
+        "w": 14,
+        "h": 16,
+        "x": 461,
+        "y": 696,
+        "fx": -23,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fo",
+        "w": 15,
+        "h": 15,
+        "x": 479,
+        "y": 663,
+        "fx": -23,
+        "fy": -2,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fp",
+        "w": 14,
+        "h": 16,
+        "x": 480,
+        "y": 645,
+        "fx": -23,
+        "fy": -2,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fq",
+        "w": 11,
+        "h": 12,
+        "x": 473,
+        "y": 1943,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fr",
+        "w": 14,
+        "h": 16,
+        "x": 477,
+        "y": 696,
+        "fx": -23,
+        "fy": -2,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fs",
+        "w": 11,
+        "h": 12,
+        "x": 486,
+        "y": 1930,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ft",
+        "w": 19,
+        "h": 13,
+        "x": 376,
+        "y": 1551,
+        "r": true,
+        "fx": -25,
+        "fy": -10,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fu",
+        "w": 13,
+        "h": 15,
+        "x": 484,
+        "y": 284,
+        "fx": -25,
+        "fy": -12,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fv",
+        "w": 11,
+        "h": 12,
+        "x": 486,
+        "y": 1944,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fw",
+        "w": 45,
+        "h": 46,
+        "x": 325,
+        "y": 1939,
+        "fx": -8,
+        "fy": -2,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fx",
+        "w": 87,
+        "h": 53,
+        "x": 275,
+        "y": 1884,
+        "fx": -84,
+        "fy": -72,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fy",
+        "w": 10,
+        "h": 6,
+        "x": 487,
+        "y": 1094,
+        "fx": -3,
+        "fy": -6,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/fz",
+        "w": 7,
+        "h": 5,
+        "x": 490,
+        "y": 461,
+        "fx": -8,
+        "fy": -6,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/g",
+        "w": 3,
+        "h": 9,
+        "x": 232,
+        "y": 1963,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ga",
+        "w": 11,
+        "h": 8,
+        "x": 372,
+        "y": 1977,
+        "fx": -5,
+        "fy": -5,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gb",
+        "w": 4,
+        "h": 5,
+        "x": 407,
+        "y": 1888,
+        "fx": -6,
+        "fy": -8,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gc",
+        "w": 7,
+        "h": 7,
+        "x": 490,
+        "y": 452,
+        "fx": -5,
+        "fy": -5,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gd",
+        "w": 54,
+        "h": 88,
+        "x": 431,
+        "y": 1368,
+        "r": true,
+        "fx": -84,
+        "fy": -71,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ge",
+        "w": 5,
+        "h": 8,
+        "x": 434,
+        "y": 349,
+        "r": true,
+        "fx": -6,
+        "fy": -8,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gf",
+        "w": 5,
+        "h": 21,
+        "x": 490,
+        "y": 402,
+        "fx": 0,
+        "fy": -5,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gg",
+        "w": 1,
+        "h": 21,
+        "x": 496,
+        "y": 631,
+        "fx": -15,
+        "fy": -5,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gh",
+        "w": 19,
+        "h": 3,
+        "x": 275,
+        "y": 1823,
+        "r": true,
+        "fx": -8,
+        "fy": -5,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gi",
+        "w": 35,
+        "h": 44,
+        "x": 448,
+        "y": 1613,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gj",
+        "w": 55,
+        "h": 89,
+        "x": 431,
+        "y": 1277,
+        "r": true,
+        "fx": -84,
+        "fy": -70,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gk",
+        "w": 12,
+        "h": 15,
+        "x": 485,
+        "y": 1631,
+        "fx": -25,
+        "fy": -12,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gl",
+        "w": 87,
+        "h": 54,
+        "x": 275,
+        "y": 1828,
+        "fx": -84,
+        "fy": -70,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gm",
+        "w": 49,
+        "h": 86,
+        "x": 448,
+        "y": 1458,
+        "r": true,
+        "fx": -85,
+        "fy": -70,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gn",
+        "w": 33,
+        "h": 33,
+        "x": 405,
+        "y": 1901,
+        "fx": -13,
+        "fy": -11,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/go",
+        "w": 1,
+        "h": 1,
+        "x": 364,
+        "y": 1936,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gp",
+        "w": 34,
+        "h": 44,
+        "x": 448,
+        "y": 1659,
+        "fx": -13,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gq",
+        "w": 12,
+        "h": 15,
+        "x": 485,
+        "y": 1631,
+        "fx": -25,
+        "fy": -12,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gr",
+        "w": 20,
+        "h": 38,
+        "x": 477,
+        "y": 362,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gs",
+        "w": 3,
+        "h": 11,
+        "x": 494,
+        "y": 1170,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gt",
+        "w": 14,
+        "h": 12,
+        "x": 483,
+        "y": 746,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gu",
+        "w": 14,
+        "h": 12,
+        "x": 467,
+        "y": 746,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gv",
+        "w": 14,
+        "h": 12,
+        "x": 451,
+        "y": 755,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gw",
+        "w": 66,
+        "h": 88,
+        "x": 431,
+        "y": 1187,
+        "r": true,
+        "fx": -92,
+        "fy": -175,
+        "fw": 272,
+        "fh": 430
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gx",
+        "w": 272,
+        "h": 430,
+        "x": 1,
+        "y": 1490
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gy",
+        "w": 13,
+        "h": 14,
+        "x": 484,
+        "y": 317,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/gz",
+        "w": 13,
+        "h": 14,
+        "x": 484,
+        "y": 333,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/h",
+        "w": 48,
+        "h": 97,
+        "x": 353,
+        "y": 1452,
+        "r": true,
+        "fx": -127,
+        "fy": -146,
+        "fw": 368,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ha",
+        "w": 13,
+        "h": 14,
+        "x": 484,
+        "y": 317,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hb",
+        "w": 13,
+        "h": 14,
+        "x": 484,
+        "y": 333,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hc",
+        "w": 10,
+        "h": 11,
+        "x": 487,
+        "y": 1388,
+        "fx": -10,
+        "fy": -9,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hd",
+        "w": 10,
+        "h": 18,
+        "x": 487,
+        "y": 1368,
+        "r": true,
+        "fx": -5,
+        "fy": -10,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/he",
+        "w": 23,
+        "h": 29,
+        "x": 275,
+        "y": 1792,
+        "r": true,
+        "fx": -1,
+        "fy": -6,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hf",
+        "w": 21,
+        "h": 30,
+        "x": 476,
+        "y": 1769,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hg",
+        "w": 26,
+        "h": 33,
+        "x": 413,
+        "y": 1936,
+        "fx": -2,
+        "fy": 0,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hh",
+        "w": 30,
+        "h": 30,
+        "x": 467,
+        "y": 1705,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hi",
+        "w": 2,
+        "h": 48,
+        "x": 444,
+        "y": 1484
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hj",
+        "w": 8,
+        "h": 8,
+        "x": 385,
+        "y": 1977
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hk",
+        "w": 153,
+        "h": 194,
+        "x": 275,
+        "y": 632,
+        "r": true,
+        "fx": -20,
+        "fy": -20,
+        "fw": 234,
+        "fh": 188
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hl",
+        "w": 13,
+        "h": 14,
+        "x": 484,
+        "y": 1664,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hm",
+        "w": 30,
+        "h": 30,
+        "x": 467,
+        "y": 1737
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hn",
+        "w": 30,
+        "h": 30,
+        "x": 443,
+        "y": 1843
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ho",
+        "w": 30,
+        "h": 30,
+        "x": 443,
+        "y": 1875
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hp",
+        "w": 30,
+        "h": 30,
+        "x": 441,
+        "y": 1934
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hq",
+        "w": 30,
+        "h": 30,
+        "x": 430,
+        "y": 632
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hr",
+        "w": 30,
+        "h": 30,
+        "x": 430,
+        "y": 664
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hs",
+        "w": 26,
+        "h": 53,
+        "x": 403,
+        "y": 1452,
+        "fx": -115,
+        "fy": -172,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/ht",
+        "w": 225,
+        "h": 24,
+        "x": 1,
+        "y": 1922,
+        "r": true,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hu",
+        "w": 24,
+        "h": 225,
+        "x": 441,
+        "y": 1,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hv",
+        "w": 24,
+        "h": 225,
+        "x": 431,
+        "y": 960,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hw",
+        "w": 24,
+        "h": 224,
+        "x": 275,
+        "y": 1566,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hx",
+        "w": 216,
+        "h": 24,
+        "x": 1,
+        "y": 1948,
+        "r": true,
+        "fx": -116,
+        "fy": -8,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/hy",
+        "w": 24,
+        "h": 212,
+        "x": 467,
+        "y": 1,
+        "fx": -116,
+        "fy": -11,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/i",
+        "w": 14,
+        "h": 12,
+        "x": 477,
+        "y": 631,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/j",
+        "w": 13,
+        "h": 19,
+        "x": 484,
+        "y": 228,
+        "fx": -1,
+        "fy": 0,
+        "fw": 15,
+        "fh": 23
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/k",
+        "w": 145,
+        "h": 156,
+        "x": 301,
+        "y": 1566,
+        "r": true,
+        "fx": -106,
+        "fy": -74,
+        "fw": 368,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/l",
+        "w": 144,
+        "h": 130,
+        "x": 353,
+        "y": 828,
+        "r": true,
+        "fx": -122,
+        "fy": -167,
+        "fw": 368,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/m",
+        "w": 164,
+        "h": 346,
+        "x": 275,
+        "y": 1,
+        "fx": -102,
+        "fy": -6,
+        "fw": 368,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/n",
+        "w": 4,
+        "h": 4,
+        "x": 493,
+        "y": 34
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/o",
+        "w": 6,
+        "h": 5,
+        "x": 491,
+        "y": 1573,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/p",
+        "w": 6,
+        "h": 6,
+        "x": 488,
+        "y": 1360,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/q",
+        "w": 13,
+        "h": 12,
+        "x": 467,
+        "y": 774,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/r",
+        "w": 14,
+        "h": 14,
+        "x": 451,
+        "y": 739,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/s",
+        "w": 8,
+        "h": 7,
+        "x": 424,
+        "y": 1843,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/t",
+        "w": 14,
+        "h": 12,
+        "x": 467,
+        "y": 760,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/u",
+        "w": 21,
+        "h": 21,
+        "x": 476,
+        "y": 1826,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/v",
+        "w": 19,
+        "h": 19,
+        "x": 441,
+        "y": 1966,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/w",
+        "w": 13,
+        "h": 14,
+        "x": 484,
+        "y": 1680,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/x",
+        "w": 13,
+        "h": 14,
+        "x": 484,
+        "y": 301,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/y",
+        "w": 13,
+        "h": 13,
+        "x": 462,
+        "y": 630,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mermaid_1halfanv_002/.gen/movie/z",
+        "w": 13,
+        "h": 13,
+        "x": 482,
+        "y": 775,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    }
+]

@@ -1,0 +1,1083 @@
+[
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 882,
+        "y": 299
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/aa",
+        "w": 14,
+        "h": 11,
+        "x": 366,
+        "y": 313,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ab",
+        "w": 14,
+        "h": 11,
+        "x": 382,
+        "y": 313,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ac",
+        "w": 14,
+        "h": 11,
+        "x": 398,
+        "y": 313,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ad",
+        "w": 17,
+        "h": 18,
+        "x": 503,
+        "y": 306,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ae",
+        "w": 10,
+        "h": 10,
+        "x": 875,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/af",
+        "w": 20,
+        "h": 20,
+        "x": 589,
+        "y": 304
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ag",
+        "w": 10,
+        "h": 4,
+        "x": 740,
+        "y": 320,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ah",
+        "w": 16,
+        "h": 16,
+        "x": 755,
+        "y": 301
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ai",
+        "w": 17,
+        "h": 15,
+        "x": 466,
+        "y": 309,
+        "fx": -5,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/aj",
+        "w": 13,
+        "h": 13,
+        "x": 868,
+        "y": 307,
+        "fx": -10,
+        "fy": -10,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ak",
+        "w": 12,
+        "h": 14,
+        "x": 807,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/al",
+        "w": 12,
+        "h": 14,
+        "x": 815,
+        "y": 291
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/am",
+        "w": 12,
+        "h": 14,
+        "x": 821,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/an",
+        "w": 14,
+        "h": 11,
+        "x": 414,
+        "y": 313,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ao",
+        "w": 14,
+        "h": 11,
+        "x": 430,
+        "y": 313,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ap",
+        "w": 15,
+        "h": 11,
+        "x": 283,
+        "y": 313,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/aq",
+        "w": 16,
+        "h": 8,
+        "x": 240,
+        "y": 315,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ar",
+        "w": 15,
+        "h": 11,
+        "x": 300,
+        "y": 313,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/as",
+        "w": 11,
+        "h": 14,
+        "x": 843,
+        "y": 291,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/at",
+        "w": 10,
+        "h": 16,
+        "x": 778,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/au",
+        "w": 12,
+        "h": 16,
+        "x": 750,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/av",
+        "w": 18,
+        "h": 15,
+        "x": 446,
+        "y": 309,
+        "fx": 0,
+        "fy": -2,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/aw",
+        "w": 12,
+        "h": 21,
+        "x": 714,
+        "y": 301,
+        "r": true,
+        "fx": 0,
+        "fy": -5,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ax",
+        "w": 15,
+        "h": 11,
+        "x": 317,
+        "y": 313,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ay",
+        "w": 42,
+        "h": 48,
+        "x": 58,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/az",
+        "w": 54,
+        "h": 40,
+        "x": 140,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/b",
+        "w": 12,
+        "h": 14,
+        "x": 827,
+        "y": 307
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ba",
+        "w": 58,
+        "h": 36,
+        "x": 260,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bb",
+        "w": 56,
+        "h": 36,
+        "x": 320,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bc",
+        "w": 54,
+        "h": 36,
+        "x": 378,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bd",
+        "w": 54,
+        "h": 38,
+        "x": 204,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/be",
+        "w": 54,
+        "h": 32,
+        "x": 434,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bf",
+        "w": 50,
+        "h": 26,
+        "x": 614,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bg",
+        "w": 20,
+        "h": 48,
+        "x": 102,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bh",
+        "w": 14,
+        "h": 42,
+        "x": 124,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bi",
+        "w": 6,
+        "h": 40,
+        "x": 196,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bj",
+        "w": 6,
+        "h": 5,
+        "x": 762,
+        "y": 319,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bk",
+        "w": 6,
+        "h": 6,
+        "x": 759,
+        "y": 293,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bl",
+        "w": 12,
+        "h": 16,
+        "x": 764,
+        "y": 275,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bm",
+        "w": 14,
+        "h": 14,
+        "x": 811,
+        "y": 309,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bn",
+        "w": 14,
+        "h": 15,
+        "x": 799,
+        "y": 292,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bo",
+        "w": 13,
+        "h": 17,
+        "x": 740,
+        "y": 301,
+        "r": true,
+        "fx": -13,
+        "fy": -9,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bp",
+        "w": 16,
+        "h": 15,
+        "x": 485,
+        "y": 309,
+        "r": true,
+        "fx": -14,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bq",
+        "w": 15,
+        "h": 13,
+        "x": 777,
+        "y": 311,
+        "fx": -14,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/br",
+        "w": 15,
+        "h": 13,
+        "x": 794,
+        "y": 311,
+        "fx": -14,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bs",
+        "w": 15,
+        "h": 15,
+        "x": 790,
+        "y": 275,
+        "fx": -14,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bt",
+        "w": 11,
+        "h": 13,
+        "x": 869,
+        "y": 291,
+        "r": true,
+        "fx": -3,
+        "fy": -5,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bu",
+        "w": 17,
+        "h": 17,
+        "x": 522,
+        "y": 306,
+        "fx": -12,
+        "fy": -10,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bv",
+        "w": 21,
+        "h": 7,
+        "x": 142,
+        "y": 317,
+        "fx": -10,
+        "fy": -21,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bw",
+        "w": 24,
+        "h": 29,
+        "x": 490,
+        "y": 275,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bx",
+        "w": 10,
+        "h": 21,
+        "x": 728,
+        "y": 301,
+        "r": true,
+        "fx": -10,
+        "fy": -18,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/by",
+        "w": 24,
+        "h": 21,
+        "x": 640,
+        "y": 303,
+        "r": true,
+        "fx": -10,
+        "fy": -5,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/bz",
+        "w": 55,
+        "h": 48,
+        "x": 1,
+        "y": 275,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 235,
+        "y": 315,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ca",
+        "w": 24,
+        "h": 27,
+        "x": 567,
+        "y": 275,
+        "r": true,
+        "fx": -7,
+        "fy": -4,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cb",
+        "w": 24,
+        "h": 29,
+        "x": 516,
+        "y": 275,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cc",
+        "w": 23,
+        "h": 28,
+        "x": 542,
+        "y": 275,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cd",
+        "w": 27,
+        "h": 19,
+        "x": 560,
+        "y": 305,
+        "fx": -6,
+        "fy": -9,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ce",
+        "w": 19,
+        "h": 27,
+        "x": 593,
+        "y": 275,
+        "r": true,
+        "fx": -6,
+        "fy": -11,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cf",
+        "w": 27,
+        "h": 19,
+        "x": 611,
+        "y": 304,
+        "fx": -6,
+        "fy": -11,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cg",
+        "w": 17,
+        "h": 11,
+        "x": 264,
+        "y": 313,
+        "fx": -3,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ch",
+        "w": 19,
+        "h": 25,
+        "x": 666,
+        "y": 275,
+        "r": true,
+        "fx": -7,
+        "fy": -11,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ci",
+        "w": 19,
+        "h": 24,
+        "x": 687,
+        "y": 275,
+        "r": true,
+        "fx": -8,
+        "fy": -11,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cj",
+        "w": 19,
+        "h": 24,
+        "x": 708,
+        "y": 275,
+        "r": true,
+        "fx": -8,
+        "fy": -11,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ck",
+        "w": 11,
+        "h": 14,
+        "x": 849,
+        "y": 275,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cl",
+        "w": 5,
+        "h": 5,
+        "x": 770,
+        "y": 319,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cm",
+        "w": 7,
+        "h": 7,
+        "x": 188,
+        "y": 317,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cn",
+        "w": 3,
+        "h": 3,
+        "x": 888,
+        "y": 299,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/co",
+        "w": 23,
+        "h": 21,
+        "x": 666,
+        "y": 302,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cp",
+        "w": 3,
+        "h": 3,
+        "x": 888,
+        "y": 299,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cq",
+        "w": 3,
+        "h": 3,
+        "x": 888,
+        "y": 299,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cr",
+        "w": 7,
+        "h": 3,
+        "x": 894,
+        "y": 287,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cs",
+        "w": 8,
+        "h": 3,
+        "x": 739,
+        "y": 296,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/ct",
+        "w": 4,
+        "h": 8,
+        "x": 258,
+        "y": 315
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cu",
+        "w": 4,
+        "h": 9,
+        "x": 223,
+        "y": 315
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cv",
+        "w": 4,
+        "h": 8,
+        "x": 258,
+        "y": 315
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cw",
+        "w": 4,
+        "h": 9,
+        "x": 223,
+        "y": 315
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cx",
+        "w": 8,
+        "h": 3,
+        "x": 749,
+        "y": 296,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cy",
+        "w": 7,
+        "h": 3,
+        "x": 894,
+        "y": 292,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/cz",
+        "w": 4,
+        "h": 9,
+        "x": 229,
+        "y": 315
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/d",
+        "w": 10,
+        "h": 16,
+        "x": 787,
+        "y": 293
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/da",
+        "w": 8,
+        "h": 4,
+        "x": 752,
+        "y": 320,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/db",
+        "w": 4,
+        "h": 9,
+        "x": 229,
+        "y": 315
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/dc",
+        "w": 8,
+        "h": 4,
+        "x": 752,
+        "y": 320,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/dd",
+        "w": 8,
+        "h": 7,
+        "x": 178,
+        "y": 317,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/de",
+        "w": 12,
+        "h": 14,
+        "x": 829,
+        "y": 291
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/df",
+        "w": 21,
+        "h": 21,
+        "x": 691,
+        "y": 301,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/dg",
+        "w": 19,
+        "h": 19,
+        "x": 729,
+        "y": 275,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/e",
+        "w": 8,
+        "h": 3,
+        "x": 729,
+        "y": 296
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/f",
+        "w": 12,
+        "h": 16,
+        "x": 773,
+        "y": 293
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/g",
+        "w": 10,
+        "h": 10,
+        "x": 887,
+        "y": 275,
+        "fx": -7,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/h",
+        "w": 14,
+        "h": 11,
+        "x": 334,
+        "y": 313,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/i",
+        "w": 900,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/j",
+        "w": 14,
+        "h": 11,
+        "x": 350,
+        "y": 313,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/k",
+        "w": 10,
+        "h": 10,
+        "x": 882,
+        "y": 287,
+        "fx": -7,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/l",
+        "w": 4,
+        "h": 4,
+        "x": 894,
+        "y": 297
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/m",
+        "w": 12,
+        "h": 14,
+        "x": 835,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/n",
+        "w": 12,
+        "h": 14,
+        "x": 841,
+        "y": 307
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/o",
+        "w": 11,
+        "h": 14,
+        "x": 855,
+        "y": 307,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/p",
+        "w": 11,
+        "h": 14,
+        "x": 856,
+        "y": 291,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/q",
+        "w": 11,
+        "h": 14,
+        "x": 855,
+        "y": 307,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/r",
+        "w": 11,
+        "h": 14,
+        "x": 862,
+        "y": 275,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/s",
+        "w": 7,
+        "h": 5,
+        "x": 124,
+        "y": 319,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/t",
+        "w": 11,
+        "h": 7,
+        "x": 165,
+        "y": 317,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/u",
+        "w": 15,
+        "h": 9,
+        "x": 206,
+        "y": 315,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/v",
+        "w": 4,
+        "h": 5,
+        "x": 767,
+        "y": 293,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/w",
+        "w": 7,
+        "h": 7,
+        "x": 197,
+        "y": 317,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/x",
+        "w": 7,
+        "h": 5,
+        "x": 133,
+        "y": 319,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/y",
+        "w": 17,
+        "h": 17,
+        "x": 541,
+        "y": 306,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/trap_errand_001/.gen/movie/z",
+        "w": 14,
+        "h": 11,
+        "x": 382,
+        "y": 313,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    }
+]

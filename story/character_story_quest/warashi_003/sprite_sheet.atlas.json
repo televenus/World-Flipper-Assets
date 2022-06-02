@@ -1,0 +1,1215 @@
+[
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 609,
+        "y": 874
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/aa",
+        "w": 6,
+        "h": 6,
+        "x": 543,
+        "y": 932,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ab",
+        "w": 16,
+        "h": 12,
+        "x": 113,
+        "y": 927,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ac",
+        "w": 14,
+        "h": 14,
+        "x": 707,
+        "y": 874,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ad",
+        "w": 14,
+        "h": 15,
+        "x": 691,
+        "y": 874,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ae",
+        "w": 4,
+        "h": 5,
+        "x": 549,
+        "y": 874,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/af",
+        "w": 7,
+        "h": 7,
+        "x": 501,
+        "y": 932,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ag",
+        "w": 8,
+        "h": 9,
+        "x": 84,
+        "y": 930,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ah",
+        "w": 17,
+        "h": 17,
+        "x": 585,
+        "y": 913,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ai",
+        "w": 3,
+        "h": 7,
+        "x": 533,
+        "y": 932
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/aj",
+        "w": 8,
+        "h": 3,
+        "x": 481,
+        "y": 936,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ak",
+        "w": 8,
+        "h": 4,
+        "x": 589,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/al",
+        "w": 9,
+        "h": 4,
+        "x": 567,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/am",
+        "w": 8,
+        "h": 4,
+        "x": 589,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/an",
+        "w": 9,
+        "h": 4,
+        "x": 567,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ao",
+        "w": 8,
+        "h": 3,
+        "x": 621,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ap",
+        "w": 3,
+        "h": 7,
+        "x": 538,
+        "y": 932
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/aq",
+        "w": 9,
+        "h": 4,
+        "x": 578,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ar",
+        "w": 8,
+        "h": 4,
+        "x": 599,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/as",
+        "w": 9,
+        "h": 4,
+        "x": 578,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/at",
+        "w": 8,
+        "h": 4,
+        "x": 599,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/au",
+        "w": 209,
+        "h": 31,
+        "x": 266,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/av",
+        "w": 11,
+        "h": 5,
+        "x": 558,
+        "y": 932,
+        "fx": -121,
+        "fy": -68,
+        "fw": 209,
+        "fh": 149
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/aw",
+        "w": 11,
+        "h": 20,
+        "x": 405,
+        "y": 916,
+        "r": true,
+        "fx": -119,
+        "fy": -65,
+        "fw": 209,
+        "fh": 149
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ax",
+        "w": 14,
+        "h": 20,
+        "x": 389,
+        "y": 916,
+        "r": true,
+        "fx": -119,
+        "fy": -62,
+        "fw": 209,
+        "fh": 149
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ay",
+        "w": 11,
+        "h": 13,
+        "x": 788,
+        "y": 889,
+        "r": true,
+        "fx": -120,
+        "fy": -60,
+        "fw": 209,
+        "fh": 149
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/az",
+        "w": 18,
+        "h": 20,
+        "x": 369,
+        "y": 916,
+        "r": true,
+        "fx": -119,
+        "fy": -58,
+        "fw": 209,
+        "fh": 149
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/b",
+        "w": 82,
+        "h": 45,
+        "x": 1,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ba",
+        "w": 20,
+        "h": 20,
+        "x": 325,
+        "y": 916,
+        "fx": -119,
+        "fy": -56,
+        "fw": 209,
+        "fh": 149
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bb",
+        "w": 11,
+        "h": 13,
+        "x": 750,
+        "y": 905,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bc",
+        "w": 11,
+        "h": 13,
+        "x": 762,
+        "y": 889,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bd",
+        "w": 209,
+        "h": 149,
+        "x": 1385,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/be",
+        "w": 260,
+        "h": 340,
+        "x": 1097,
+        "y": 549
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bf",
+        "w": 17,
+        "h": 12,
+        "x": 94,
+        "y": 927
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bg",
+        "w": 5,
+        "h": 5,
+        "x": 571,
+        "y": 932,
+        "fx": -11,
+        "fy": -18,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bh",
+        "w": 7,
+        "h": 7,
+        "x": 501,
+        "y": 932,
+        "fx": -10,
+        "fy": -14,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bi",
+        "w": 13,
+        "h": 13,
+        "x": 747,
+        "y": 890,
+        "fx": -7,
+        "fy": -8,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bj",
+        "w": 17,
+        "h": 17,
+        "x": 604,
+        "y": 913,
+        "fx": -5,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bk",
+        "w": 11,
+        "h": 14,
+        "x": 727,
+        "y": 922,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bl",
+        "w": 16,
+        "h": 8,
+        "x": 623,
+        "y": 931,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bm",
+        "w": 11,
+        "h": 13,
+        "x": 767,
+        "y": 874,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bn",
+        "w": 11,
+        "h": 13,
+        "x": 762,
+        "y": 889,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bo",
+        "w": 11,
+        "h": 13,
+        "x": 754,
+        "y": 920,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bp",
+        "w": 11,
+        "h": 13,
+        "x": 763,
+        "y": 904,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bq",
+        "w": 11,
+        "h": 13,
+        "x": 775,
+        "y": 889,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/br",
+        "w": 11,
+        "h": 13,
+        "x": 763,
+        "y": 904,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bs",
+        "w": 11,
+        "h": 13,
+        "x": 780,
+        "y": 874,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bt",
+        "w": 8,
+        "h": 7,
+        "x": 491,
+        "y": 932,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bu",
+        "w": 21,
+        "h": 21,
+        "x": 302,
+        "y": 916,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bv",
+        "w": 19,
+        "h": 19,
+        "x": 418,
+        "y": 916,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bw",
+        "w": 11,
+        "h": 13,
+        "x": 767,
+        "y": 919,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bx",
+        "w": 11,
+        "h": 13,
+        "x": 750,
+        "y": 905,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/by",
+        "w": 11,
+        "h": 13,
+        "x": 776,
+        "y": 904,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/bz",
+        "w": 14,
+        "h": 12,
+        "x": 167,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/c",
+        "w": 539,
+        "h": 272,
+        "x": 823,
+        "y": 275,
+        "r": true,
+        "fx": 0,
+        "fy": -21,
+        "fw": 272,
+        "fh": 560
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ca",
+        "w": 5,
+        "h": 5,
+        "x": 578,
+        "y": 932,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cb",
+        "w": 7,
+        "h": 7,
+        "x": 510,
+        "y": 932,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cc",
+        "w": 3,
+        "h": 3,
+        "x": 631,
+        "y": 874,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cd",
+        "w": 21,
+        "h": 23,
+        "x": 279,
+        "y": 916,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ce",
+        "w": 3,
+        "h": 3,
+        "x": 631,
+        "y": 874,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cf",
+        "w": 3,
+        "h": 3,
+        "x": 631,
+        "y": 874,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cg",
+        "w": 272,
+        "h": 871,
+        "x": 549,
+        "y": 1,
+        "fx": 0,
+        "fy": -9,
+        "fw": 272,
+        "fh": 880
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ch",
+        "w": 272,
+        "h": 880,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ci",
+        "w": 272,
+        "h": 880,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cj",
+        "w": 14,
+        "h": 12,
+        "x": 183,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ck",
+        "w": 14,
+        "h": 12,
+        "x": 199,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cl",
+        "w": 14,
+        "h": 13,
+        "x": 247,
+        "y": 926,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cm",
+        "w": 11,
+        "h": 14,
+        "x": 737,
+        "y": 906,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cn",
+        "w": 8,
+        "h": 16,
+        "x": 679,
+        "y": 910
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/co",
+        "w": 10,
+        "h": 10,
+        "x": 789,
+        "y": 904
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cp",
+        "w": 20,
+        "h": 20,
+        "x": 347,
+        "y": 916
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cq",
+        "w": 10,
+        "h": 4,
+        "x": 555,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cr",
+        "w": 16,
+        "h": 16,
+        "x": 623,
+        "y": 913
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cs",
+        "w": 14,
+        "h": 13,
+        "x": 263,
+        "y": 926,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ct",
+        "w": 5,
+        "h": 7,
+        "x": 526,
+        "y": 932,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cu",
+        "w": 11,
+        "h": 7,
+        "x": 266,
+        "y": 916,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cv",
+        "w": 15,
+        "h": 9,
+        "x": 67,
+        "y": 930,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cw",
+        "w": 13,
+        "h": 14,
+        "x": 712,
+        "y": 924,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cx",
+        "w": 13,
+        "h": 13,
+        "x": 752,
+        "y": 874,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cy",
+        "w": 14,
+        "h": 14,
+        "x": 706,
+        "y": 908,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/cz",
+        "w": 13,
+        "h": 13,
+        "x": 752,
+        "y": 874,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/d",
+        "w": 10,
+        "h": 16,
+        "x": 679,
+        "y": 874
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/da",
+        "w": 13,
+        "h": 14,
+        "x": 717,
+        "y": 890,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/db",
+        "w": 14,
+        "h": 13,
+        "x": 247,
+        "y": 926,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dc",
+        "w": 13,
+        "h": 14,
+        "x": 723,
+        "y": 874,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dd",
+        "w": 24,
+        "h": 41,
+        "x": 240,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/de",
+        "w": 157,
+        "h": 281,
+        "x": 1385,
+        "y": 152,
+        "fx": -58,
+        "fy": -31,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/df",
+        "w": 164,
+        "h": 28,
+        "x": 477,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dg",
+        "w": 64,
+        "h": 9,
+        "x": 1,
+        "y": 930
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dh",
+        "w": 15,
+        "h": 16,
+        "x": 662,
+        "y": 874
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/di",
+        "w": 15,
+        "h": 11,
+        "x": 662,
+        "y": 928,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dj",
+        "w": 8,
+        "h": 3,
+        "x": 471,
+        "y": 936
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dk",
+        "w": 8,
+        "h": 8,
+        "x": 792,
+        "y": 916
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dl",
+        "w": 97,
+        "h": 17,
+        "x": 486,
+        "y": 913
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dm",
+        "w": 17,
+        "h": 65,
+        "x": 643,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dn",
+        "w": 24,
+        "h": 18,
+        "x": 460,
+        "y": 916,
+        "fx": -4,
+        "fy": -7,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/do",
+        "w": 153,
+        "h": 42,
+        "x": 85,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dp",
+        "w": 272,
+        "h": 368,
+        "x": 823,
+        "y": 549
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dq",
+        "w": 15,
+        "h": 16,
+        "x": 662,
+        "y": 892
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dr",
+        "w": 15,
+        "h": 16,
+        "x": 662,
+        "y": 910
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/ds",
+        "w": 15,
+        "h": 11,
+        "x": 679,
+        "y": 928,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dt",
+        "w": 11,
+        "h": 15,
+        "x": 691,
+        "y": 891
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/du",
+        "w": 12,
+        "h": 12,
+        "x": 793,
+        "y": 874,
+        "fx": 0,
+        "fy": 0,
+        "fw": 12,
+        "fh": 13
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dv",
+        "w": 15,
+        "h": 15,
+        "x": 689,
+        "y": 910
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dw",
+        "w": 11,
+        "h": 15,
+        "x": 704,
+        "y": 891
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dx",
+        "w": 12,
+        "h": 13,
+        "x": 740,
+        "y": 922
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/dy",
+        "w": 19,
+        "h": 19,
+        "x": 439,
+        "y": 916
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/e",
+        "w": 8,
+        "h": 3,
+        "x": 471,
+        "y": 936
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/f",
+        "w": 16,
+        "h": 12,
+        "x": 131,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/g",
+        "w": 14,
+        "h": 12,
+        "x": 215,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/h",
+        "w": 9,
+        "h": 3,
+        "x": 460,
+        "y": 936
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/i",
+        "w": 272,
+        "h": 472,
+        "x": 1364,
+        "y": 435,
+        "fx": 0,
+        "fy": -88,
+        "fw": 272,
+        "fh": 560
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/j",
+        "w": 560,
+        "h": 272,
+        "x": 823,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/k",
+        "w": 4,
+        "h": 4,
+        "x": 615,
+        "y": 874
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/l",
+        "w": 14,
+        "h": 12,
+        "x": 231,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/m",
+        "w": 14,
+        "h": 12,
+        "x": 696,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/n",
+        "w": 10,
+        "h": 16,
+        "x": 679,
+        "y": 892
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/o",
+        "w": 16,
+        "h": 12,
+        "x": 149,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/p",
+        "w": 10,
+        "h": 11,
+        "x": 780,
+        "y": 919
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/q",
+        "w": 4,
+        "h": 5,
+        "x": 549,
+        "y": 874,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/r",
+        "w": 12,
+        "h": 14,
+        "x": 738,
+        "y": 874
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/s",
+        "w": 7,
+        "h": 7,
+        "x": 501,
+        "y": 932,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/t",
+        "w": 5,
+        "h": 7,
+        "x": 519,
+        "y": 932,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/u",
+        "w": 17,
+        "h": 17,
+        "x": 585,
+        "y": 913,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/v",
+        "w": 13,
+        "h": 14,
+        "x": 712,
+        "y": 924,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/w",
+        "w": 13,
+        "h": 14,
+        "x": 722,
+        "y": 906,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/x",
+        "w": 13,
+        "h": 14,
+        "x": 712,
+        "y": 924,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/y",
+        "w": 13,
+        "h": 14,
+        "x": 732,
+        "y": 890,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/warashi_003/.gen/movie/z",
+        "w": 5,
+        "h": 6,
+        "x": 551,
+        "y": 932,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    }
+]

@@ -1,0 +1,3413 @@
+[
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 432,
+        "y": 1702
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/aa",
+        "w": 4,
+        "h": 4,
+        "x": 435,
+        "y": 1588
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ab",
+        "w": 3,
+        "h": 3,
+        "x": 443,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ac",
+        "w": 5,
+        "h": 3,
+        "x": 474,
+        "y": 288,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ad",
+        "w": 10,
+        "h": 14,
+        "x": 500,
+        "y": 813
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ae",
+        "w": 3,
+        "h": 3,
+        "x": 448,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/af",
+        "w": 26,
+        "h": 31,
+        "x": 435,
+        "y": 1533,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ag",
+        "w": 5,
+        "h": 5,
+        "x": 505,
+        "y": 989
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ah",
+        "w": 12,
+        "h": 15,
+        "x": 466,
+        "y": 1190
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ai",
+        "w": 3,
+        "h": 3,
+        "x": 448,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/aj",
+        "w": 5,
+        "h": 4,
+        "x": 57,
+        "y": 1333,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ak",
+        "w": 3,
+        "h": 3,
+        "x": 306,
+        "y": 1120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/al",
+        "w": 16,
+        "h": 13,
+        "x": 450,
+        "y": 254
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/am",
+        "w": 4,
+        "h": 5,
+        "x": 490,
+        "y": 1580
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/an",
+        "w": 13,
+        "h": 15,
+        "x": 466,
+        "y": 1207
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ao",
+        "w": 3,
+        "h": 3,
+        "x": 448,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ap",
+        "w": 3,
+        "h": 5,
+        "x": 507,
+        "y": 304
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/aq",
+        "w": 3,
+        "h": 3,
+        "x": 306,
+        "y": 1120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ar",
+        "w": 9,
+        "h": 8,
+        "x": 470,
+        "y": 1384
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/as",
+        "w": 4,
+        "h": 4,
+        "x": 306,
+        "y": 1114
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/at",
+        "w": 13,
+        "h": 15,
+        "x": 466,
+        "y": 1224
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/au",
+        "w": 3,
+        "h": 4,
+        "x": 307,
+        "y": 1101
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/av",
+        "w": 3,
+        "h": 3,
+        "x": 453,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/aw",
+        "w": 3,
+        "h": 3,
+        "x": 448,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ax",
+        "w": 17,
+        "h": 42,
+        "x": 308,
+        "y": 1387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ay",
+        "w": 17,
+        "h": 30,
+        "x": 463,
+        "y": 1530
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/az",
+        "w": 16,
+        "h": 13,
+        "x": 446,
+        "y": 1175,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/b",
+        "w": 10,
+        "h": 16,
+        "x": 500,
+        "y": 743
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ba",
+        "w": 14,
+        "h": 44,
+        "x": 496,
+        "y": 535
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bb",
+        "w": 17,
+        "h": 42,
+        "x": 308,
+        "y": 1387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bc",
+        "w": 14,
+        "h": 44,
+        "x": 496,
+        "y": 581
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bd",
+        "w": 14,
+        "h": 44,
+        "x": 450,
+        "y": 1048
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/be",
+        "w": 12,
+        "h": 17,
+        "x": 457,
+        "y": 1566
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bf",
+        "w": 4,
+        "h": 3,
+        "x": 420,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bg",
+        "w": 12,
+        "h": 62,
+        "x": 294,
+        "y": 1387
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bh",
+        "w": 10,
+        "h": 28,
+        "x": 438,
+        "y": 1048
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bi",
+        "w": 10,
+        "h": 28,
+        "x": 394,
+        "y": 1657
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bj",
+        "w": 17,
+        "h": 6,
+        "x": 471,
+        "y": 1580,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bk",
+        "w": 26,
+        "h": 8,
+        "x": 484,
+        "y": 1496,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bl",
+        "w": 8,
+        "h": 26,
+        "x": 425,
+        "y": 1562
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bm",
+        "w": 14,
+        "h": 13,
+        "x": 425,
+        "y": 1615
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bn",
+        "w": 5,
+        "h": 4,
+        "x": 36,
+        "y": 1333
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bo",
+        "w": 7,
+        "h": 19,
+        "x": 401,
+        "y": 1687
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bp",
+        "w": 19,
+        "h": 7,
+        "x": 486,
+        "y": 734,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bq",
+        "w": 12,
+        "h": 45,
+        "x": 436,
+        "y": 222
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/br",
+        "w": 10,
+        "h": 3,
+        "x": 176,
+        "y": 1339,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bs",
+        "w": 6,
+        "h": 18,
+        "x": 473,
+        "y": 200
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bt",
+        "w": 6,
+        "h": 18,
+        "x": 440,
+        "y": 992
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bu",
+        "w": 5,
+        "h": 14,
+        "x": 505,
+        "y": 956
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bv",
+        "w": 14,
+        "h": 5,
+        "x": 409,
+        "y": 1486,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bw",
+        "w": 10,
+        "h": 39,
+        "x": 449,
+        "y": 1446
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bx",
+        "w": 12,
+        "h": 15,
+        "x": 498,
+        "y": 1236,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/by",
+        "w": 6,
+        "h": 3,
+        "x": 377,
+        "y": 514,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/bz",
+        "w": 13,
+        "h": 4,
+        "x": 1,
+        "y": 1333,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/c",
+        "w": 8,
+        "h": 3,
+        "x": 410,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ca",
+        "w": 13,
+        "h": 4,
+        "x": 496,
+        "y": 627,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cb",
+        "w": 3,
+        "h": 9,
+        "x": 307,
+        "y": 1082
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cc",
+        "w": 3,
+        "h": 9,
+        "x": 507,
+        "y": 293
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cd",
+        "w": 10,
+        "h": 35,
+        "x": 499,
+        "y": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ce",
+        "w": 13,
+        "h": 15,
+        "x": 497,
+        "y": 1185,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cf",
+        "w": 5,
+        "h": 4,
+        "x": 36,
+        "y": 1333
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cg",
+        "w": 15,
+        "h": 13,
+        "x": 481,
+        "y": 1235,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ch",
+        "w": 29,
+        "h": 29,
+        "x": 481,
+        "y": 200,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ci",
+        "w": 20,
+        "h": 40,
+        "x": 450,
+        "y": 1094,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cj",
+        "w": 15,
+        "h": 15,
+        "x": 483,
+        "y": 797,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ck",
+        "w": 18,
+        "h": 20,
+        "x": 410,
+        "y": 1681,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cl",
+        "w": 29,
+        "h": 30,
+        "x": 450,
+        "y": 222,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cm",
+        "w": 22,
+        "h": 27,
+        "x": 461,
+        "y": 1440,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cn",
+        "w": 25,
+        "h": 33,
+        "x": 379,
+        "y": 1047,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/co",
+        "w": 35,
+        "h": 27,
+        "x": 39,
+        "y": 1679
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cp",
+        "w": 36,
+        "h": 27,
+        "x": 1,
+        "y": 1679
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cq",
+        "w": 12,
+        "h": 14,
+        "x": 498,
+        "y": 1253
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cr",
+        "w": 12,
+        "h": 14,
+        "x": 498,
+        "y": 1269
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cs",
+        "w": 10,
+        "h": 16,
+        "x": 500,
+        "y": 761
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ct",
+        "w": 12,
+        "h": 16,
+        "x": 460,
+        "y": 1136
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cu",
+        "w": 12,
+        "h": 14,
+        "x": 498,
+        "y": 1285
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cv",
+        "w": 5,
+        "h": 5,
+        "x": 505,
+        "y": 996,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cw",
+        "w": 7,
+        "h": 7,
+        "x": 409,
+        "y": 1385,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cx",
+        "w": 11,
+        "h": 9,
+        "x": 482,
+        "y": 1675,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cy",
+        "w": 21,
+        "h": 23,
+        "x": 272,
+        "y": 1683,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/cz",
+        "w": 12,
+        "h": 14,
+        "x": 498,
+        "y": 1301
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/d",
+        "w": 12,
+        "h": 16,
+        "x": 461,
+        "y": 1154
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/da",
+        "w": 12,
+        "h": 14,
+        "x": 498,
+        "y": 1317
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/db",
+        "w": 15,
+        "h": 16,
+        "x": 483,
+        "y": 743
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dc",
+        "w": 8,
+        "h": 16,
+        "x": 501,
+        "y": 829
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dd",
+        "w": 11,
+        "h": 14,
+        "x": 468,
+        "y": 254,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/de",
+        "w": 11,
+        "h": 14,
+        "x": 470,
+        "y": 1615,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/df",
+        "w": 15,
+        "h": 16,
+        "x": 483,
+        "y": 761
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dg",
+        "w": 11,
+        "h": 15,
+        "x": 499,
+        "y": 115,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dh",
+        "w": 5,
+        "h": 5,
+        "x": 505,
+        "y": 996,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/di",
+        "w": 7,
+        "h": 7,
+        "x": 409,
+        "y": 1385,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dj",
+        "w": 3,
+        "h": 3,
+        "x": 430,
+        "y": 1681,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dk",
+        "w": 21,
+        "h": 23,
+        "x": 272,
+        "y": 1683,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dl",
+        "w": 3,
+        "h": 3,
+        "x": 430,
+        "y": 1681,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dm",
+        "w": 3,
+        "h": 3,
+        "x": 430,
+        "y": 1681,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dn",
+        "w": 114,
+        "h": 112,
+        "x": 196,
+        "y": 1125,
+        "fx": -15,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/do",
+        "w": 108,
+        "h": 108,
+        "x": 275,
+        "y": 858,
+        "fx": -18,
+        "fy": -18,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dp",
+        "w": 96,
+        "h": 96,
+        "x": 312,
+        "y": 1190,
+        "fx": -24,
+        "fy": -24,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dq",
+        "w": 86,
+        "h": 86,
+        "x": 320,
+        "y": 315,
+        "fx": -29,
+        "fy": -29,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dr",
+        "w": 70,
+        "h": 70,
+        "x": 327,
+        "y": 1493,
+        "fx": -37,
+        "fy": -37,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ds",
+        "w": 58,
+        "h": 58,
+        "x": 385,
+        "y": 877,
+        "fx": -43,
+        "fy": -43,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dt",
+        "w": 50,
+        "h": 50,
+        "x": 394,
+        "y": 1138,
+        "fx": -47,
+        "fy": -47,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/du",
+        "w": 10,
+        "h": 10,
+        "x": 469,
+        "y": 1678
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dv",
+        "w": 38,
+        "h": 38,
+        "x": 409,
+        "y": 1446,
+        "fx": -53,
+        "fy": -53,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dw",
+        "w": 70,
+        "h": 28,
+        "x": 386,
+        "y": 847,
+        "r": true,
+        "fx": -58,
+        "fy": -58,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dx",
+        "w": 20,
+        "h": 20,
+        "x": 462,
+        "y": 1485
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dy",
+        "w": 10,
+        "h": 4,
+        "x": 16,
+        "y": 1333,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/dz",
+        "w": 24,
+        "h": 65,
+        "x": 486,
+        "y": 633,
+        "fx": -62,
+        "fy": -62,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/e",
+        "w": 12,
+        "h": 14,
+        "x": 457,
+        "y": 1585
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ea",
+        "w": 16,
+        "h": 16,
+        "x": 463,
+        "y": 270
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/eb",
+        "w": 30,
+        "h": 109,
+        "x": 377,
+        "y": 403,
+        "fx": -57,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ec",
+        "w": 44,
+        "h": 105,
+        "x": 453,
+        "y": 1,
+        "fx": -50,
+        "fy": -17,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ed",
+        "w": 101,
+        "h": 108,
+        "x": 409,
+        "y": 315,
+        "r": true,
+        "fx": -36,
+        "fy": -19,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ee",
+        "w": 95,
+        "h": 105,
+        "x": 386,
+        "y": 740,
+        "r": true,
+        "fx": -38,
+        "fy": -23,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ef",
+        "w": 91,
+        "h": 112,
+        "x": 234,
+        "y": 1453,
+        "r": true,
+        "fx": -29,
+        "fy": -24,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/eg",
+        "w": 80,
+        "h": 106,
+        "x": 312,
+        "y": 1082,
+        "r": true,
+        "fx": -32,
+        "fy": -32,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/eh",
+        "w": 129,
+        "h": 107,
+        "x": 322,
+        "y": 1,
+        "fx": -6,
+        "fy": -18,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ei",
+        "w": 121,
+        "h": 103,
+        "x": 65,
+        "y": 1234,
+        "fx": -8,
+        "fy": -20,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ej",
+        "w": 100,
+        "h": 114,
+        "x": 231,
+        "y": 1567,
+        "r": true,
+        "fx": -11,
+        "fy": -21,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ek",
+        "w": 115,
+        "h": 112,
+        "x": 1,
+        "y": 1451,
+        "fx": -14,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/el",
+        "w": 114,
+        "h": 112,
+        "x": 1,
+        "y": 1565,
+        "fx": -15,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/em",
+        "w": 112,
+        "h": 112,
+        "x": 117,
+        "y": 1567,
+        "fx": -16,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/en",
+        "w": 118,
+        "h": 110,
+        "x": 1,
+        "y": 1339,
+        "fx": -18,
+        "fy": -17,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/eo",
+        "w": 108,
+        "h": 113,
+        "x": 275,
+        "y": 519,
+        "r": true,
+        "fx": -21,
+        "fy": -18,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ep",
+        "w": 102,
+        "h": 112,
+        "x": 275,
+        "y": 968,
+        "r": true,
+        "fx": -24,
+        "fy": -20,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/eq",
+        "w": 109,
+        "h": 96,
+        "x": 385,
+        "y": 535,
+        "fx": -26,
+        "fy": -24,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/er",
+        "w": 114,
+        "h": 112,
+        "x": 118,
+        "y": 1453,
+        "fx": -29,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/es",
+        "w": 109,
+        "h": 110,
+        "x": 275,
+        "y": 634,
+        "fx": -33,
+        "fy": -17,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/et",
+        "w": 121,
+        "h": 110,
+        "x": 322,
+        "y": 110,
+        "fx": -20,
+        "fy": -18,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/eu",
+        "w": 116,
+        "h": 107,
+        "x": 176,
+        "y": 1344,
+        "fx": -22,
+        "fy": -20,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ev",
+        "w": 109,
+        "h": 110,
+        "x": 275,
+        "y": 746,
+        "r": true,
+        "fx": -24,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ew",
+        "w": 98,
+        "h": 105,
+        "x": 386,
+        "y": 633,
+        "fx": -30,
+        "fy": -17,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ex",
+        "w": 101,
+        "h": 108,
+        "x": 409,
+        "y": 425,
+        "r": true,
+        "fx": -36,
+        "fy": -19,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ey",
+        "w": 105,
+        "h": 95,
+        "x": 311,
+        "y": 1288,
+        "fx": -38,
+        "fy": -23,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ez",
+        "w": 112,
+        "h": 91,
+        "x": 322,
+        "y": 222,
+        "fx": -29,
+        "fy": -24,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/f",
+        "w": 9,
+        "h": 3,
+        "x": 463,
+        "y": 288
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fa",
+        "w": 80,
+        "h": 106,
+        "x": 327,
+        "y": 1385,
+        "r": true,
+        "fx": -32,
+        "fy": -32,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fb",
+        "w": 129,
+        "h": 107,
+        "x": 65,
+        "y": 1125,
+        "fx": -6,
+        "fy": -18,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fc",
+        "w": 121,
+        "h": 103,
+        "x": 188,
+        "y": 1239,
+        "fx": -8,
+        "fy": -20,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fd",
+        "w": 100,
+        "h": 114,
+        "x": 275,
+        "y": 403,
+        "r": true,
+        "fx": -11,
+        "fy": -21,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fe",
+        "w": 54,
+        "h": 54,
+        "x": 449,
+        "y": 956,
+        "fx": -33,
+        "fy": -33,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ff",
+        "w": 54,
+        "h": 54,
+        "x": 394,
+        "y": 1082,
+        "fx": -33,
+        "fy": -33,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fg",
+        "w": 54,
+        "h": 54,
+        "x": 410,
+        "y": 1190,
+        "fx": -33,
+        "fy": -33,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fh",
+        "w": 54,
+        "h": 54,
+        "x": 449,
+        "y": 956,
+        "fx": -33,
+        "fy": -33,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fi",
+        "w": 52,
+        "h": 52,
+        "x": 458,
+        "y": 847,
+        "fx": -34,
+        "fy": -34,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fj",
+        "w": 52,
+        "h": 52,
+        "x": 418,
+        "y": 1288,
+        "fx": -34,
+        "fy": -34,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fk",
+        "w": 50,
+        "h": 50,
+        "x": 418,
+        "y": 1342,
+        "fx": -35,
+        "fy": -35,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fl",
+        "w": 44,
+        "h": 44,
+        "x": 466,
+        "y": 1048,
+        "fx": -38,
+        "fy": -38,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fm",
+        "w": 30,
+        "h": 30,
+        "x": 275,
+        "y": 1082,
+        "fx": -45,
+        "fy": -45,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fn",
+        "w": 20,
+        "h": 20,
+        "x": 463,
+        "y": 293,
+        "fx": -50,
+        "fy": -50,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fo",
+        "w": 28,
+        "h": 28,
+        "x": 482,
+        "y": 1533,
+        "fx": -46,
+        "fy": -46,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fp",
+        "w": 38,
+        "h": 38,
+        "x": 409,
+        "y": 1446,
+        "fx": -41,
+        "fy": -41,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fq",
+        "w": 50,
+        "h": 50,
+        "x": 394,
+        "y": 1138,
+        "fx": -35,
+        "fy": -35,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fr",
+        "w": 58,
+        "h": 58,
+        "x": 385,
+        "y": 877,
+        "fx": -31,
+        "fy": -31,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fs",
+        "w": 70,
+        "h": 70,
+        "x": 327,
+        "y": 1493,
+        "fx": -25,
+        "fy": -25,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ft",
+        "w": 86,
+        "h": 86,
+        "x": 320,
+        "y": 315,
+        "fx": -17,
+        "fy": -17,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fu",
+        "w": 96,
+        "h": 96,
+        "x": 312,
+        "y": 1190,
+        "fx": -12,
+        "fy": -12,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fv",
+        "w": 108,
+        "h": 108,
+        "x": 275,
+        "y": 858,
+        "fx": -6,
+        "fy": -6,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fw",
+        "w": 114,
+        "h": 112,
+        "x": 196,
+        "y": 1125,
+        "fx": -3,
+        "fy": -4,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fx",
+        "w": 8,
+        "h": 16,
+        "x": 471,
+        "y": 1562
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fy",
+        "w": 13,
+        "h": 11,
+        "x": 454,
+        "y": 1662
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/fz",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/g",
+        "w": 15,
+        "h": 16,
+        "x": 483,
+        "y": 779
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ga",
+        "w": 12,
+        "h": 12,
+        "x": 441,
+        "y": 1631
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gb",
+        "w": 11,
+        "h": 14,
+        "x": 468,
+        "y": 1646
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gc",
+        "w": 11,
+        "h": 14,
+        "x": 469,
+        "y": 1662
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gd",
+        "w": 14,
+        "h": 12,
+        "x": 433,
+        "y": 1601,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ge",
+        "w": 14,
+        "h": 12,
+        "x": 449,
+        "y": 1601,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gf",
+        "w": 14,
+        "h": 12,
+        "x": 433,
+        "y": 1601,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gg",
+        "w": 12,
+        "h": 14,
+        "x": 441,
+        "y": 1615,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gh",
+        "w": 4,
+        "h": 4,
+        "x": 490,
+        "y": 1587
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gi",
+        "w": 13,
+        "h": 15,
+        "x": 466,
+        "y": 1241
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gj",
+        "w": 38,
+        "h": 38,
+        "x": 472,
+        "y": 1094,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gk",
+        "w": 13,
+        "h": 13,
+        "x": 455,
+        "y": 1615,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gl",
+        "w": 20,
+        "h": 20,
+        "x": 485,
+        "y": 293
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gm",
+        "w": 20,
+        "h": 20,
+        "x": 435,
+        "y": 1566
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gn",
+        "w": 43,
+        "h": 145,
+        "x": 275,
+        "y": 256,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/go",
+        "w": 45,
+        "h": 253,
+        "x": 275,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gp",
+        "w": 62,
+        "h": 206,
+        "x": 1,
+        "y": 1125,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gq",
+        "w": 53,
+        "h": 111,
+        "x": 121,
+        "y": 1339,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gr",
+        "w": 13,
+        "h": 15,
+        "x": 466,
+        "y": 1258,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gs",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1595,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gt",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1608,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gu",
+        "w": 11,
+        "h": 15,
+        "x": 499,
+        "y": 132,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gv",
+        "w": 11,
+        "h": 15,
+        "x": 499,
+        "y": 149,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gw",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1621,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gx",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1608,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gy",
+        "w": 11,
+        "h": 14,
+        "x": 483,
+        "y": 1632,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/gz",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1634,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/h",
+        "w": 15,
+        "h": 15,
+        "x": 483,
+        "y": 814,
+        "fx": -13,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ha",
+        "w": 11,
+        "h": 15,
+        "x": 499,
+        "y": 166,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hb",
+        "w": 11,
+        "h": 15,
+        "x": 499,
+        "y": 183,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hc",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1647,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hd",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1634,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/he",
+        "w": 11,
+        "h": 15,
+        "x": 472,
+        "y": 1288,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hf",
+        "w": 11,
+        "h": 15,
+        "x": 472,
+        "y": 1305,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hg",
+        "w": 14,
+        "h": 12,
+        "x": 465,
+        "y": 1601,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hh",
+        "w": 12,
+        "h": 14,
+        "x": 440,
+        "y": 1645,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hi",
+        "w": 12,
+        "h": 14,
+        "x": 455,
+        "y": 1630,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hj",
+        "w": 10,
+        "h": 10,
+        "x": 443,
+        "y": 1691
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hk",
+        "w": 14,
+        "h": 11,
+        "x": 466,
+        "y": 1275
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hl",
+        "w": 3,
+        "h": 3,
+        "x": 435,
+        "y": 1681
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hm",
+        "w": 14,
+        "h": 11,
+        "x": 441,
+        "y": 1588
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hn",
+        "w": 3,
+        "h": 2,
+        "x": 507,
+        "y": 311
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ho",
+        "w": 3,
+        "h": 2,
+        "x": 317,
+        "y": 1683,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hp",
+        "w": 12,
+        "h": 12,
+        "x": 440,
+        "y": 1661
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hq",
+        "w": 14,
+        "h": 14,
+        "x": 482,
+        "y": 1265
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hr",
+        "w": 5,
+        "h": 5,
+        "x": 505,
+        "y": 1003
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hs",
+        "w": 4,
+        "h": 11,
+        "x": 379,
+        "y": 968,
+        "r": true,
+        "fx": -123,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ht",
+        "w": 6,
+        "h": 23,
+        "x": 425,
+        "y": 1590,
+        "r": true,
+        "fx": -117,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hu",
+        "w": 29,
+        "h": 9,
+        "x": 275,
+        "y": 1114,
+        "fx": -114,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hv",
+        "w": 15,
+        "h": 13,
+        "x": 481,
+        "y": 1250
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hw",
+        "w": 5,
+        "h": 5,
+        "x": 308,
+        "y": 1446
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hx",
+        "w": 2,
+        "h": 3,
+        "x": 445,
+        "y": 919
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hy",
+        "w": 12,
+        "h": 37,
+        "x": 452,
+        "y": 1246,
+        "r": true,
+        "fx": -110,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/hz",
+        "w": 15,
+        "h": 41,
+        "x": 294,
+        "y": 1344,
+        "r": true,
+        "fx": -108,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/i",
+        "w": 272,
+        "h": 384,
+        "x": 1,
+        "y": 739
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ia",
+        "w": 11,
+        "h": 13,
+        "x": 456,
+        "y": 1675
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ib",
+        "w": 4,
+        "h": 4,
+        "x": 425,
+        "y": 1673
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ic",
+        "w": 22,
+        "h": 44,
+        "x": 461,
+        "y": 1394,
+        "r": true,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/id",
+        "w": 44,
+        "h": 25,
+        "x": 76,
+        "y": 1681,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ie",
+        "w": 3,
+        "h": 3,
+        "x": 494,
+        "y": 1333
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/if",
+        "w": 11,
+        "h": 15,
+        "x": 472,
+        "y": 1322
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ig",
+        "w": 4,
+        "h": 3,
+        "x": 426,
+        "y": 1703
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ih",
+        "w": 44,
+        "h": 25,
+        "x": 122,
+        "y": 1681,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ii",
+        "w": 4,
+        "h": 6,
+        "x": 379,
+        "y": 981
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ij",
+        "w": 8,
+        "h": 5,
+        "x": 425,
+        "y": 1486,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ik",
+        "w": 3,
+        "h": 4,
+        "x": 322,
+        "y": 1446
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/il",
+        "w": 13,
+        "h": 11,
+        "x": 481,
+        "y": 1648
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/im",
+        "w": 4,
+        "h": 4,
+        "x": 431,
+        "y": 1673
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/in",
+        "w": 5,
+        "h": 4,
+        "x": 43,
+        "y": 1333
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/io",
+        "w": 44,
+        "h": 25,
+        "x": 122,
+        "y": 1681,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ip",
+        "w": 44,
+        "h": 25,
+        "x": 168,
+        "y": 1681,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/iq",
+        "w": 44,
+        "h": 25,
+        "x": 168,
+        "y": 1681,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ir",
+        "w": 25,
+        "h": 44,
+        "x": 436,
+        "y": 269,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/is",
+        "w": 44,
+        "h": 25,
+        "x": 168,
+        "y": 1681,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/it",
+        "w": 25,
+        "h": 44,
+        "x": 436,
+        "y": 269,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/iu",
+        "w": 25,
+        "h": 44,
+        "x": 485,
+        "y": 1384,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/iv",
+        "w": 25,
+        "h": 44,
+        "x": 485,
+        "y": 1384,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/iw",
+        "w": 25,
+        "h": 44,
+        "x": 436,
+        "y": 269,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ix",
+        "w": 25,
+        "h": 44,
+        "x": 436,
+        "y": 269,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/iy",
+        "w": 44,
+        "h": 25,
+        "x": 168,
+        "y": 1681,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/iz",
+        "w": 25,
+        "h": 44,
+        "x": 485,
+        "y": 1384,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/j",
+        "w": 4,
+        "h": 4,
+        "x": 437,
+        "y": 1675
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ja",
+        "w": 25,
+        "h": 44,
+        "x": 485,
+        "y": 1384,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jb",
+        "w": 59,
+        "h": 59,
+        "x": 333,
+        "y": 1565,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jc",
+        "w": 59,
+        "h": 59,
+        "x": 333,
+        "y": 1626,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jd",
+        "w": 3,
+        "h": 6,
+        "x": 507,
+        "y": 734
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/je",
+        "w": 5,
+        "h": 6,
+        "x": 505,
+        "y": 981
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jf",
+        "w": 3,
+        "h": 4,
+        "x": 438,
+        "y": 1702,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jg",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1582
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jh",
+        "w": 4,
+        "h": 4,
+        "x": 431,
+        "y": 1673
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ji",
+        "w": 5,
+        "h": 4,
+        "x": 50,
+        "y": 1333
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jj",
+        "w": 12,
+        "h": 14,
+        "x": 454,
+        "y": 1646,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jk",
+        "w": 11,
+        "h": 15,
+        "x": 485,
+        "y": 1281,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jl",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1660,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jm",
+        "w": 21,
+        "h": 14,
+        "x": 461,
+        "y": 1469,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jn",
+        "w": 32,
+        "h": 23,
+        "x": 214,
+        "y": 1683,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jo",
+        "w": 44,
+        "h": 25,
+        "x": 122,
+        "y": 1681,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jp",
+        "w": 20,
+        "h": 23,
+        "x": 295,
+        "y": 1683,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jq",
+        "w": 25,
+        "h": 44,
+        "x": 485,
+        "y": 1430,
+        "r": true,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jr",
+        "w": 25,
+        "h": 44,
+        "x": 445,
+        "y": 110,
+        "r": true,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/js",
+        "w": 17,
+        "h": 22,
+        "x": 406,
+        "y": 1657,
+        "r": true,
+        "fx": -6,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jt",
+        "w": 25,
+        "h": 44,
+        "x": 445,
+        "y": 156,
+        "r": true,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ju",
+        "w": 12,
+        "h": 15,
+        "x": 498,
+        "y": 1202,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jv",
+        "w": 25,
+        "h": 44,
+        "x": 472,
+        "y": 108,
+        "r": true,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jw",
+        "w": 12,
+        "h": 14,
+        "x": 454,
+        "y": 1646,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jx",
+        "w": 25,
+        "h": 44,
+        "x": 472,
+        "y": 154,
+        "r": true,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jy",
+        "w": 25,
+        "h": 44,
+        "x": 435,
+        "y": 1487,
+        "r": true,
+        "fx": -106,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/jz",
+        "w": 12,
+        "h": 15,
+        "x": 498,
+        "y": 1219,
+        "fx": -29,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/k",
+        "w": 4,
+        "h": 4,
+        "x": 433,
+        "y": 1594
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ka",
+        "w": 13,
+        "h": 16,
+        "x": 446,
+        "y": 1157,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kb",
+        "w": 11,
+        "h": 15,
+        "x": 485,
+        "y": 1298,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kc",
+        "w": 14,
+        "h": 10,
+        "x": 424,
+        "y": 1645,
+        "r": true,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kd",
+        "w": 17,
+        "h": 13,
+        "x": 308,
+        "y": 1431,
+        "r": true,
+        "fx": -26,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ke",
+        "w": 15,
+        "h": 11,
+        "x": 471,
+        "y": 1588,
+        "fx": -25,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kf",
+        "w": 15,
+        "h": 13,
+        "x": 424,
+        "y": 1630,
+        "fx": -25,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kg",
+        "w": 13,
+        "h": 16,
+        "x": 464,
+        "y": 1172,
+        "r": true,
+        "fx": -25,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kh",
+        "w": 16,
+        "h": 14,
+        "x": 483,
+        "y": 831,
+        "fx": -25,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ki",
+        "w": 15,
+        "h": 15,
+        "x": 481,
+        "y": 1563
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kj",
+        "w": 11,
+        "h": 15,
+        "x": 485,
+        "y": 1315,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kk",
+        "w": 14,
+        "h": 11,
+        "x": 496,
+        "y": 1673,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kl",
+        "w": 11,
+        "h": 15,
+        "x": 483,
+        "y": 1615,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/km",
+        "w": 14,
+        "h": 15,
+        "x": 492,
+        "y": 1151,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kn",
+        "w": 14,
+        "h": 15,
+        "x": 496,
+        "y": 1168,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ko",
+        "w": 12,
+        "h": 13,
+        "x": 469,
+        "y": 1631,
+        "fx": -13,
+        "fy": -7,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kp",
+        "w": 24,
+        "h": 32,
+        "x": 486,
+        "y": 700,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kq",
+        "w": 22,
+        "h": 23,
+        "x": 248,
+        "y": 1683,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kr",
+        "w": 22,
+        "h": 18,
+        "x": 385,
+        "y": 514,
+        "fx": -12,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ks",
+        "w": 12,
+        "h": 17,
+        "x": 498,
+        "y": 1563,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kt",
+        "w": 13,
+        "h": 14,
+        "x": 425,
+        "y": 1657,
+        "fx": -16,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ku",
+        "w": 11,
+        "h": 14,
+        "x": 430,
+        "y": 1686,
+        "fx": -19,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kv",
+        "w": 2,
+        "h": 19,
+        "x": 445,
+        "y": 898,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 2
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kw",
+        "w": 26,
+        "h": 18,
+        "x": 445,
+        "y": 202,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kx",
+        "w": 26,
+        "h": 18,
+        "x": 484,
+        "y": 1476,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ky",
+        "w": 6,
+        "h": 3,
+        "x": 188,
+        "y": 1234
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/kz",
+        "w": 62,
+        "h": 53,
+        "x": 385,
+        "y": 937,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/l",
+        "w": 11,
+        "h": 12,
+        "x": 481,
+        "y": 1601
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/la",
+        "w": 12,
+        "h": 12,
+        "x": 482,
+        "y": 1661
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lb",
+        "w": 11,
+        "h": 17,
+        "x": 499,
+        "y": 23,
+        "fx": -20,
+        "fy": -8,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lc",
+        "w": 4,
+        "h": 4,
+        "x": 490,
+        "y": 1587
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ld",
+        "w": 4,
+        "h": 4,
+        "x": 488,
+        "y": 1593
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/le",
+        "w": 15,
+        "h": 15,
+        "x": 474,
+        "y": 1134
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lf",
+        "w": 15,
+        "h": 15,
+        "x": 491,
+        "y": 1134
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lg",
+        "w": 15,
+        "h": 15,
+        "x": 475,
+        "y": 1151
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lh",
+        "w": 19,
+        "h": 19,
+        "x": 317,
+        "y": 1687,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/li",
+        "w": 11,
+        "h": 20,
+        "x": 499,
+        "y": 1,
+        "fx": -20,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lj",
+        "w": 11,
+        "h": 19,
+        "x": 445,
+        "y": 877,
+        "fx": -20,
+        "fy": -4,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lk",
+        "w": 11,
+        "h": 16,
+        "x": 499,
+        "y": 79,
+        "fx": -20,
+        "fy": -10,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ll",
+        "w": 11,
+        "h": 16,
+        "x": 499,
+        "y": 97
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lm",
+        "w": 30,
+        "h": 30,
+        "x": 406,
+        "y": 1047
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ln",
+        "w": 67,
+        "h": 34,
+        "x": 440,
+        "y": 1012,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lo",
+        "w": 34,
+        "h": 67,
+        "x": 399,
+        "y": 1493,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lp",
+        "w": 29,
+        "h": 29,
+        "x": 481,
+        "y": 231,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lq",
+        "w": 19,
+        "h": 19,
+        "x": 338,
+        "y": 1687,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lr",
+        "w": 19,
+        "h": 19,
+        "x": 359,
+        "y": 1687,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ls",
+        "w": 30,
+        "h": 30,
+        "x": 406,
+        "y": 1047
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lt",
+        "w": 19,
+        "h": 19,
+        "x": 338,
+        "y": 1687,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lu",
+        "w": 19,
+        "h": 19,
+        "x": 359,
+        "y": 1687,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lv",
+        "w": 19,
+        "h": 19,
+        "x": 317,
+        "y": 1687,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lw",
+        "w": 67,
+        "h": 34,
+        "x": 440,
+        "y": 1012,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lx",
+        "w": 34,
+        "h": 67,
+        "x": 399,
+        "y": 1493,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ly",
+        "w": 29,
+        "h": 29,
+        "x": 481,
+        "y": 231,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/lz",
+        "w": 12,
+        "h": 17,
+        "x": 446,
+        "y": 1138,
+        "fx": -14,
+        "fy": -5,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/m",
+        "w": 5,
+        "h": 7,
+        "x": 505,
+        "y": 972,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ma",
+        "w": 4,
+        "h": 4,
+        "x": 490,
+        "y": 1587
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mb",
+        "w": 4,
+        "h": 4,
+        "x": 488,
+        "y": 1593
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mc",
+        "w": 15,
+        "h": 15,
+        "x": 474,
+        "y": 1134
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/md",
+        "w": 15,
+        "h": 15,
+        "x": 491,
+        "y": 1134
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/me",
+        "w": 15,
+        "h": 15,
+        "x": 475,
+        "y": 1151
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mf",
+        "w": 62,
+        "h": 53,
+        "x": 385,
+        "y": 937,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mg",
+        "w": 59,
+        "h": 53,
+        "x": 379,
+        "y": 992,
+        "fx": -16,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mh",
+        "w": 61,
+        "h": 53,
+        "x": 449,
+        "y": 901,
+        "fx": -14,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mi",
+        "w": 28,
+        "h": 28,
+        "x": 394,
+        "y": 1627,
+        "fx": 0,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mj",
+        "w": 29,
+        "h": 29,
+        "x": 481,
+        "y": 262,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mk",
+        "w": 40,
+        "h": 40,
+        "x": 410,
+        "y": 1246
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ml",
+        "w": 29,
+        "h": 29,
+        "x": 394,
+        "y": 1565,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mm",
+        "w": 29,
+        "h": 29,
+        "x": 394,
+        "y": 1596,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mn",
+        "w": 40,
+        "h": 40,
+        "x": 470,
+        "y": 1342
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mo",
+        "w": 15,
+        "h": 14,
+        "x": 481,
+        "y": 1219,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mp",
+        "w": 50,
+        "h": 50,
+        "x": 409,
+        "y": 1394,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mq",
+        "w": 25,
+        "h": 25,
+        "x": 485,
+        "y": 1506,
+        "fx": -2,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mr",
+        "w": 15,
+        "h": 15,
+        "x": 479,
+        "y": 1168
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/ms",
+        "w": 15,
+        "h": 15,
+        "x": 480,
+        "y": 1185
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mt",
+        "w": 7,
+        "h": 8,
+        "x": 485,
+        "y": 1332,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mu",
+        "w": 15,
+        "h": 15,
+        "x": 481,
+        "y": 1202
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mv",
+        "w": 21,
+        "h": 21,
+        "x": 462,
+        "y": 1507,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/mw",
+        "w": 19,
+        "h": 19,
+        "x": 380,
+        "y": 1687,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/n",
+        "w": 4,
+        "h": 4,
+        "x": 425,
+        "y": 1673
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/o",
+        "w": 4,
+        "h": 4,
+        "x": 481,
+        "y": 1686
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/p",
+        "w": 4,
+        "h": 4,
+        "x": 487,
+        "y": 1686
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/q",
+        "w": 10,
+        "h": 15,
+        "x": 500,
+        "y": 779
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/r",
+        "w": 4,
+        "h": 4,
+        "x": 493,
+        "y": 1686
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/s",
+        "w": 4,
+        "h": 4,
+        "x": 499,
+        "y": 1686
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/t",
+        "w": 11,
+        "h": 14,
+        "x": 443,
+        "y": 1675
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/u",
+        "w": 6,
+        "h": 4,
+        "x": 28,
+        "y": 1333,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/v",
+        "w": 4,
+        "h": 4,
+        "x": 505,
+        "y": 1686
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/w",
+        "w": 5,
+        "h": 5,
+        "x": 315,
+        "y": 1446
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/x",
+        "w": 3,
+        "h": 4,
+        "x": 307,
+        "y": 1107
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/y",
+        "w": 3,
+        "h": 6,
+        "x": 307,
+        "y": 1093
+    },
+    {
+        "n": "story/character_story_quest/alk_003/.gen/movie/z",
+        "w": 10,
+        "h": 15,
+        "x": 500,
+        "y": 796
+    }
+]

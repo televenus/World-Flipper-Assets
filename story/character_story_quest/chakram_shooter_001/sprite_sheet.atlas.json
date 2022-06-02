@@ -1,0 +1,477 @@
+[
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 237,
+        "y": 474
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/aa",
+        "w": 14,
+        "h": 11,
+        "x": 121,
+        "y": 468,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ab",
+        "w": 11,
+        "h": 15,
+        "x": 61,
+        "y": 474,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ac",
+        "w": 11,
+        "h": 15,
+        "x": 211,
+        "y": 443,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ad",
+        "w": 12,
+        "h": 14,
+        "x": 74,
+        "y": 474
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ae",
+        "w": 5,
+        "h": 5,
+        "x": 185,
+        "y": 479,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/af",
+        "w": 7,
+        "h": 7,
+        "x": 1,
+        "y": 484,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ag",
+        "w": 3,
+        "h": 3,
+        "x": 132,
+        "y": 481,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ah",
+        "w": 21,
+        "h": 23,
+        "x": 104,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ai",
+        "w": 3,
+        "h": 3,
+        "x": 132,
+        "y": 481,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/aj",
+        "w": 3,
+        "h": 3,
+        "x": 132,
+        "y": 481,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ak",
+        "w": 4,
+        "h": 5,
+        "x": 237,
+        "y": 467,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/al",
+        "w": 7,
+        "h": 7,
+        "x": 10,
+        "y": 484,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/am",
+        "w": 5,
+        "h": 7,
+        "x": 19,
+        "y": 484,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/an",
+        "w": 17,
+        "h": 17,
+        "x": 42,
+        "y": 474,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ao",
+        "w": 12,
+        "h": 14,
+        "x": 224,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ap",
+        "w": 12,
+        "h": 14,
+        "x": 88,
+        "y": 474
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/aq",
+        "w": 15,
+        "h": 11,
+        "x": 104,
+        "y": 468,
+        "r": true,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/ar",
+        "w": 11,
+        "h": 14,
+        "x": 224,
+        "y": 459,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/as",
+        "w": 12,
+        "h": 13,
+        "x": 152,
+        "y": 464,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/at",
+        "w": 12,
+        "h": 13,
+        "x": 166,
+        "y": 464,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/au",
+        "w": 12,
+        "h": 13,
+        "x": 180,
+        "y": 464,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/b",
+        "w": 12,
+        "h": 13,
+        "x": 180,
+        "y": 464,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 238,
+        "y": 456,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/d",
+        "w": 13,
+        "h": 13,
+        "x": 137,
+        "y": 464,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/e",
+        "w": 3,
+        "h": 11,
+        "x": 238,
+        "y": 443,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/f",
+        "w": 240,
+        "h": 440,
+        "x": 1,
+        "y": 1,
+        "fx": -100,
+        "fy": 0,
+        "fw": 440,
+        "fh": 440
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/g",
+        "w": 4,
+        "h": 4,
+        "x": 185,
+        "y": 486
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/h",
+        "w": 10,
+        "h": 10,
+        "x": 102,
+        "y": 481,
+        "fx": -45,
+        "fy": -45,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/i",
+        "w": 6,
+        "h": 6,
+        "x": 26,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/j",
+        "w": 6,
+        "h": 6,
+        "x": 34,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/k",
+        "w": 6,
+        "h": 6,
+        "x": 124,
+        "y": 481
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/l",
+        "w": 29,
+        "h": 29,
+        "x": 42,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/m",
+        "w": 29,
+        "h": 29,
+        "x": 73,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/n",
+        "w": 8,
+        "h": 10,
+        "x": 114,
+        "y": 481,
+        "r": true,
+        "fx": -45,
+        "fy": -47,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/o",
+        "w": 19,
+        "h": 19,
+        "x": 127,
+        "y": 443,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/p",
+        "w": 19,
+        "h": 19,
+        "x": 148,
+        "y": 443,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/q",
+        "w": 39,
+        "h": 39,
+        "x": 1,
+        "y": 443,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/r",
+        "w": 19,
+        "h": 19,
+        "x": 169,
+        "y": 443,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/s",
+        "w": 19,
+        "h": 19,
+        "x": 190,
+        "y": 443,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/t",
+        "w": 14,
+        "h": 12,
+        "x": 137,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/u",
+        "w": 14,
+        "h": 12,
+        "x": 153,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/v",
+        "w": 14,
+        "h": 12,
+        "x": 169,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/w",
+        "w": 11,
+        "h": 14,
+        "x": 194,
+        "y": 477,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/x",
+        "w": 11,
+        "h": 14,
+        "x": 207,
+        "y": 477,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/y",
+        "w": 15,
+        "h": 11,
+        "x": 194,
+        "y": 464,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/chakram_shooter_001/.gen/movie/z",
+        "w": 11,
+        "h": 15,
+        "x": 211,
+        "y": 460,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    }
+]

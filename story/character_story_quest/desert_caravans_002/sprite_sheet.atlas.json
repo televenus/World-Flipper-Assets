@@ -1,0 +1,2707 @@
+[
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 768,
+        "y": 1728
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/aa",
+        "w": 21,
+        "h": 21,
+        "x": 642,
+        "y": 1637,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ab",
+        "w": 19,
+        "h": 19,
+        "x": 475,
+        "y": 1669,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ac",
+        "w": 13,
+        "h": 12,
+        "x": 462,
+        "y": 1628,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ad",
+        "w": 13,
+        "h": 12,
+        "x": 552,
+        "y": 1657,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ae",
+        "w": 12,
+        "h": 13,
+        "x": 653,
+        "y": 1705,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/af",
+        "w": 15,
+        "h": 15,
+        "x": 495,
+        "y": 1708
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ag",
+        "w": 12,
+        "h": 14,
+        "x": 577,
+        "y": 1706
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ah",
+        "w": 15,
+        "h": 15,
+        "x": 512,
+        "y": 1708
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ai",
+        "w": 12,
+        "h": 14,
+        "x": 577,
+        "y": 1722
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/aj",
+        "w": 13,
+        "h": 14,
+        "x": 591,
+        "y": 1704,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ak",
+        "w": 13,
+        "h": 14,
+        "x": 606,
+        "y": 1703,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/al",
+        "w": 13,
+        "h": 14,
+        "x": 591,
+        "y": 1704,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/am",
+        "w": 13,
+        "h": 14,
+        "x": 561,
+        "y": 1725,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/an",
+        "w": 5,
+        "h": 6,
+        "x": 559,
+        "y": 1742,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ao",
+        "w": 13,
+        "h": 12,
+        "x": 663,
+        "y": 1691,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ap",
+        "w": 6,
+        "h": 6,
+        "x": 544,
+        "y": 1742,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/aq",
+        "w": 16,
+        "h": 12,
+        "x": 598,
+        "y": 1643,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ar",
+        "w": 14,
+        "h": 14,
+        "x": 603,
+        "y": 1687,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/as",
+        "w": 11,
+        "h": 14,
+        "x": 695,
+        "y": 1704,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/at",
+        "w": 15,
+        "h": 14,
+        "x": 510,
+        "y": 1725,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/au",
+        "w": 12,
+        "h": 13,
+        "x": 667,
+        "y": 1705,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/av",
+        "w": 13,
+        "h": 12,
+        "x": 663,
+        "y": 1691,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/aw",
+        "w": 13,
+        "h": 12,
+        "x": 591,
+        "y": 1720,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ax",
+        "w": 5,
+        "h": 5,
+        "x": 477,
+        "y": 1590,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ay",
+        "w": 7,
+        "h": 7,
+        "x": 502,
+        "y": 1741,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/az",
+        "w": 3,
+        "h": 3,
+        "x": 175,
+        "y": 1745,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/b",
+        "w": 16,
+        "h": 26,
+        "x": 471,
+        "y": 1722,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ba",
+        "w": 23,
+        "h": 21,
+        "x": 617,
+        "y": 1637,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bb",
+        "w": 3,
+        "h": 3,
+        "x": 175,
+        "y": 1745,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bc",
+        "w": 3,
+        "h": 3,
+        "x": 175,
+        "y": 1745,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bd",
+        "w": 14,
+        "h": 13,
+        "x": 606,
+        "y": 1719,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/be",
+        "w": 13,
+        "h": 14,
+        "x": 622,
+        "y": 1719,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bf",
+        "w": 14,
+        "h": 13,
+        "x": 606,
+        "y": 1719,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bg",
+        "w": 14,
+        "h": 13,
+        "x": 637,
+        "y": 1720,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bh",
+        "w": 16,
+        "h": 15,
+        "x": 732,
+        "y": 1654,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bi",
+        "w": 16,
+        "h": 15,
+        "x": 750,
+        "y": 1654,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bj",
+        "w": 12,
+        "h": 14,
+        "x": 591,
+        "y": 1734
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bk",
+        "w": 12,
+        "h": 14,
+        "x": 605,
+        "y": 1734
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bl",
+        "w": 5,
+        "h": 4,
+        "x": 543,
+        "y": 1651,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bm",
+        "w": 7,
+        "h": 7,
+        "x": 511,
+        "y": 1741,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bn",
+        "w": 5,
+        "h": 7,
+        "x": 537,
+        "y": 1741,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bo",
+        "w": 17,
+        "h": 17,
+        "x": 516,
+        "y": 1652,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bp",
+        "w": 180,
+        "h": 25,
+        "x": 1,
+        "y": 1713
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bq",
+        "w": 180,
+        "h": 192,
+        "x": 1,
+        "y": 1519
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/br",
+        "w": 180,
+        "h": 192,
+        "x": 183,
+        "y": 1519
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bs",
+        "w": 11,
+        "h": 11,
+        "x": 752,
+        "y": 1687,
+        "fx": -2,
+        "fy": -3,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bt",
+        "w": 10,
+        "h": 10,
+        "x": 800,
+        "y": 1714
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bu",
+        "w": 20,
+        "h": 20,
+        "x": 732,
+        "y": 1632
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bv",
+        "w": 10,
+        "h": 4,
+        "x": 253,
+        "y": 1744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bw",
+        "w": 16,
+        "h": 16,
+        "x": 494,
+        "y": 1690
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bx",
+        "w": 15,
+        "h": 11,
+        "x": 445,
+        "y": 1628,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/by",
+        "w": 272,
+        "h": 1516,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/bz",
+        "w": 11,
+        "h": 15,
+        "x": 352,
+        "y": 1731
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/c",
+        "w": 14,
+        "h": 12,
+        "x": 647,
+        "y": 1691
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ca",
+        "w": 15,
+        "h": 11,
+        "x": 579,
+        "y": 1657,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cb",
+        "w": 15,
+        "h": 11,
+        "x": 596,
+        "y": 1657,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cc",
+        "w": 272,
+        "h": 242,
+        "x": 549,
+        "y": 1365,
+        "fx": 0,
+        "fy": -49,
+        "fw": 272,
+        "fh": 680
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cd",
+        "w": 14,
+        "h": 12,
+        "x": 665,
+        "y": 1659,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ce",
+        "w": 272,
+        "h": 680,
+        "x": 549,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cf",
+        "w": 272,
+        "h": 680,
+        "x": 549,
+        "y": 683
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cg",
+        "w": 11,
+        "h": 14,
+        "x": 708,
+        "y": 1704,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ch",
+        "w": 10,
+        "h": 15,
+        "x": 567,
+        "y": 1652,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ci",
+        "w": 14,
+        "h": 12,
+        "x": 681,
+        "y": 1659,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cj",
+        "w": 14,
+        "h": 12,
+        "x": 697,
+        "y": 1659,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ck",
+        "w": 14,
+        "h": 12,
+        "x": 681,
+        "y": 1659,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cl",
+        "w": 14,
+        "h": 12,
+        "x": 713,
+        "y": 1659,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cm",
+        "w": 16,
+        "h": 8,
+        "x": 1,
+        "y": 1740,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cn",
+        "w": 15,
+        "h": 10,
+        "x": 613,
+        "y": 1660,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/co",
+        "w": 16,
+        "h": 8,
+        "x": 19,
+        "y": 1740,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cp",
+        "w": 11,
+        "h": 14,
+        "x": 709,
+        "y": 1720,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cq",
+        "w": 5,
+        "h": 5,
+        "x": 477,
+        "y": 1590,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cr",
+        "w": 7,
+        "h": 7,
+        "x": 502,
+        "y": 1741,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cs",
+        "w": 9,
+        "h": 11,
+        "x": 812,
+        "y": 1730,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ct",
+        "w": 23,
+        "h": 21,
+        "x": 617,
+        "y": 1637,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cu",
+        "w": 11,
+        "h": 12,
+        "x": 708,
+        "y": 1736,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cv",
+        "w": 11,
+        "h": 12,
+        "x": 721,
+        "y": 1736,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cw",
+        "w": 10,
+        "h": 6,
+        "x": 537,
+        "y": 1556,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cx",
+        "w": 11,
+        "h": 12,
+        "x": 722,
+        "y": 1718,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cy",
+        "w": 7,
+        "h": 7,
+        "x": 520,
+        "y": 1741,
+        "fx": -1,
+        "fy": -1,
+        "fw": 9,
+        "fh": 9
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/cz",
+        "w": 11,
+        "h": 12,
+        "x": 761,
+        "y": 1672,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/d",
+        "w": 13,
+        "h": 16,
+        "x": 808,
+        "y": 1609,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/da",
+        "w": 9,
+        "h": 12,
+        "x": 619,
+        "y": 1687,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/db",
+        "w": 11,
+        "h": 12,
+        "x": 774,
+        "y": 1672,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dc",
+        "w": 11,
+        "h": 12,
+        "x": 787,
+        "y": 1672,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dd",
+        "w": 11,
+        "h": 12,
+        "x": 765,
+        "y": 1686,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/de",
+        "w": 11,
+        "h": 12,
+        "x": 778,
+        "y": 1686,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/df",
+        "w": 11,
+        "h": 12,
+        "x": 722,
+        "y": 1718,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dg",
+        "w": 11,
+        "h": 12,
+        "x": 761,
+        "y": 1672,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dh",
+        "w": 12,
+        "h": 8,
+        "x": 68,
+        "y": 1740,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/di",
+        "w": 11,
+        "h": 12,
+        "x": 721,
+        "y": 1736,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dj",
+        "w": 12,
+        "h": 11,
+        "x": 800,
+        "y": 1673,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dk",
+        "w": 11,
+        "h": 12,
+        "x": 791,
+        "y": 1686,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dl",
+        "w": 11,
+        "h": 12,
+        "x": 804,
+        "y": 1686,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dm",
+        "w": 13,
+        "h": 15,
+        "x": 808,
+        "y": 1627,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dn",
+        "w": 11,
+        "h": 12,
+        "x": 734,
+        "y": 1702,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/do",
+        "w": 11,
+        "h": 12,
+        "x": 747,
+        "y": 1700,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dp",
+        "w": 11,
+        "h": 12,
+        "x": 765,
+        "y": 1686,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dq",
+        "w": 11,
+        "h": 14,
+        "x": 722,
+        "y": 1673,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dr",
+        "w": 59,
+        "h": 59,
+        "x": 365,
+        "y": 1519,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ds",
+        "w": 59,
+        "h": 59,
+        "x": 365,
+        "y": 1580,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dt",
+        "w": 20,
+        "h": 20,
+        "x": 754,
+        "y": 1632
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/du",
+        "w": 49,
+        "h": 49,
+        "x": 426,
+        "y": 1577,
+        "fx": -2,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dv",
+        "w": 56,
+        "h": 56,
+        "x": 426,
+        "y": 1519,
+        "fx": -3,
+        "fy": -5,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dw",
+        "w": 11,
+        "h": 12,
+        "x": 708,
+        "y": 1736,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dx",
+        "w": 8,
+        "h": 5,
+        "x": 798,
+        "y": 1632,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 7,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dy",
+        "w": 11,
+        "h": 12,
+        "x": 760,
+        "y": 1700,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/dz",
+        "w": 11,
+        "h": 12,
+        "x": 773,
+        "y": 1700,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/e",
+        "w": 16,
+        "h": 18,
+        "x": 498,
+        "y": 1649
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ea",
+        "w": 12,
+        "h": 13,
+        "x": 669,
+        "y": 1720,
+        "fx": -13,
+        "fy": -7,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/eb",
+        "w": 32,
+        "h": 24,
+        "x": 652,
+        "y": 1609,
+        "fx": -3,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ec",
+        "w": 23,
+        "h": 22,
+        "x": 665,
+        "y": 1635,
+        "fx": -13,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ed",
+        "w": 15,
+        "h": 12,
+        "x": 535,
+        "y": 1657,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ee",
+        "w": 18,
+        "h": 22,
+        "x": 712,
+        "y": 1635,
+        "r": true,
+        "fx": -12,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ef",
+        "w": 15,
+        "h": 11,
+        "x": 630,
+        "y": 1660,
+        "r": true,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/eg",
+        "w": 12,
+        "h": 14,
+        "x": 664,
+        "y": 1673,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/eh",
+        "w": 12,
+        "h": 13,
+        "x": 681,
+        "y": 1705,
+        "fx": -18,
+        "fy": -12,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ei",
+        "w": 14,
+        "h": 14,
+        "x": 621,
+        "y": 1703,
+        "fx": -16,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ej",
+        "w": 15,
+        "h": 12,
+        "x": 647,
+        "y": 1660,
+        "r": true,
+        "fx": -18,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ek",
+        "w": 17,
+        "h": 16,
+        "x": 516,
+        "y": 1671,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/el",
+        "w": 16,
+        "h": 16,
+        "x": 768,
+        "y": 1654,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/em",
+        "w": 11,
+        "h": 14,
+        "x": 735,
+        "y": 1671,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/en",
+        "w": 19,
+        "h": 14,
+        "x": 489,
+        "y": 1725,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/eo",
+        "w": 18,
+        "h": 16,
+        "x": 474,
+        "y": 1690,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ep",
+        "w": 11,
+        "h": 15,
+        "x": 561,
+        "y": 1689,
+        "fx": -18,
+        "fy": -6,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/eq",
+        "w": 14,
+        "h": 16,
+        "x": 786,
+        "y": 1654,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/er",
+        "w": 11,
+        "h": 14,
+        "x": 748,
+        "y": 1671,
+        "fx": -18,
+        "fy": -6,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/es",
+        "w": 20,
+        "h": 20,
+        "x": 776,
+        "y": 1632
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/et",
+        "w": 27,
+        "h": 21,
+        "x": 779,
+        "y": 1609,
+        "r": true,
+        "fx": -18,
+        "fy": -7,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/eu",
+        "w": 12,
+        "h": 15,
+        "x": 563,
+        "y": 1706,
+        "fx": -16,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ev",
+        "w": 16,
+        "h": 10,
+        "x": 298,
+        "y": 1738
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ew",
+        "w": 37,
+        "h": 30,
+        "x": 477,
+        "y": 1597,
+        "r": true,
+        "fx": -17,
+        "fy": -10,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ex",
+        "w": 15,
+        "h": 15,
+        "x": 544,
+        "y": 1725,
+        "fx": -17,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ey",
+        "w": 28,
+        "h": 21,
+        "x": 720,
+        "y": 1609,
+        "r": true,
+        "fx": -27,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ez",
+        "w": 32,
+        "h": 24,
+        "x": 686,
+        "y": 1609,
+        "fx": -3,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/f",
+        "w": 10,
+        "h": 16,
+        "x": 537,
+        "y": 1538
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fa",
+        "w": 15,
+        "h": 14,
+        "x": 527,
+        "y": 1725,
+        "r": true,
+        "fx": -16,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fb",
+        "w": 5,
+        "h": 11,
+        "x": 477,
+        "y": 1577
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fc",
+        "w": 22,
+        "h": 29,
+        "x": 525,
+        "y": 1567,
+        "fx": -27,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fd",
+        "w": 20,
+        "h": 22,
+        "x": 690,
+        "y": 1635,
+        "fx": -16,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fe",
+        "w": 15,
+        "h": 14,
+        "x": 527,
+        "y": 1725,
+        "r": true,
+        "fx": -16,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ff",
+        "w": 14,
+        "h": 11,
+        "x": 720,
+        "y": 1689,
+        "r": true,
+        "fx": -27,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fg",
+        "w": 19,
+        "h": 12,
+        "x": 474,
+        "y": 1708,
+        "fx": -15,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fh",
+        "w": 11,
+        "h": 15,
+        "x": 566,
+        "y": 1672,
+        "fx": -18,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fi",
+        "w": 12,
+        "h": 14,
+        "x": 678,
+        "y": 1673,
+        "fx": -11,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fj",
+        "w": 11,
+        "h": 15,
+        "x": 566,
+        "y": 1672,
+        "fx": -18,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fk",
+        "w": 18,
+        "h": 15,
+        "x": 559,
+        "y": 1635,
+        "fx": -5,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fl",
+        "w": 11,
+        "h": 14,
+        "x": 721,
+        "y": 1702,
+        "fx": -18,
+        "fy": -6,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fm",
+        "w": 4,
+        "h": 4,
+        "x": 140,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fn",
+        "w": 10,
+        "h": 15,
+        "x": 574,
+        "y": 1689
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fo",
+        "w": 4,
+        "h": 4,
+        "x": 774,
+        "y": 1728
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fp",
+        "w": 4,
+        "h": 4,
+        "x": 146,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fq",
+        "w": 14,
+        "h": 11,
+        "x": 736,
+        "y": 1687,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fr",
+        "w": 4,
+        "h": 6,
+        "x": 817,
+        "y": 1686
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fs",
+        "w": 4,
+        "h": 4,
+        "x": 780,
+        "y": 1728
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ft",
+        "w": 5,
+        "h": 5,
+        "x": 126,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fu",
+        "w": 14,
+        "h": 14,
+        "x": 802,
+        "y": 1644
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fv",
+        "w": 5,
+        "h": 5,
+        "x": 734,
+        "y": 1743
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fw",
+        "w": 15,
+        "h": 8,
+        "x": 37,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fx",
+        "w": 12,
+        "h": 8,
+        "x": 54,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fy",
+        "w": 15,
+        "h": 13,
+        "x": 613,
+        "y": 1672
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/fz",
+        "w": 5,
+        "h": 5,
+        "x": 761,
+        "y": 1728
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/g",
+        "w": 12,
+        "h": 14,
+        "x": 678,
+        "y": 1689
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ga",
+        "w": 2,
+        "h": 3,
+        "x": 563,
+        "y": 1652
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gb",
+        "w": 18,
+        "h": 26,
+        "x": 451,
+        "y": 1722,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gc",
+        "w": 34,
+        "h": 24,
+        "x": 545,
+        "y": 1609
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gd",
+        "w": 39,
+        "h": 28,
+        "x": 484,
+        "y": 1567
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ge",
+        "w": 9,
+        "h": 12,
+        "x": 812,
+        "y": 1702,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gf",
+        "w": 19,
+        "h": 14,
+        "x": 538,
+        "y": 1635
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gg",
+        "w": 16,
+        "h": 22,
+        "x": 458,
+        "y": 1642,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gh",
+        "w": 11,
+        "h": 13,
+        "x": 683,
+        "y": 1720
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gi",
+        "w": 4,
+        "h": 4,
+        "x": 152,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gj",
+        "w": 6,
+        "h": 7,
+        "x": 529,
+        "y": 1741,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gk",
+        "w": 11,
+        "h": 9,
+        "x": 735,
+        "y": 1730
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gl",
+        "w": 11,
+        "h": 9,
+        "x": 748,
+        "y": 1728
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gm",
+        "w": 17,
+        "h": 11,
+        "x": 426,
+        "y": 1628,
+        "r": true,
+        "fx": -18,
+        "fy": -8,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gn",
+        "w": 12,
+        "h": 13,
+        "x": 669,
+        "y": 1720,
+        "fx": -18,
+        "fy": -12,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/go",
+        "w": 17,
+        "h": 11,
+        "x": 426,
+        "y": 1628,
+        "r": true,
+        "fx": -18,
+        "fy": -8,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gp",
+        "w": 17,
+        "h": 12,
+        "x": 579,
+        "y": 1643,
+        "r": true,
+        "fx": -17,
+        "fy": -8,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gq",
+        "w": 3,
+        "h": 3,
+        "x": 761,
+        "y": 1735
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gr",
+        "w": 15,
+        "h": 11,
+        "x": 630,
+        "y": 1690,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gs",
+        "w": 4,
+        "h": 3,
+        "x": 557,
+        "y": 1652
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gt",
+        "w": 13,
+        "h": 9,
+        "x": 430,
+        "y": 1739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gu",
+        "w": 14,
+        "h": 13,
+        "x": 637,
+        "y": 1705,
+        "fx": -17,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gv",
+        "w": 4,
+        "h": 6,
+        "x": 817,
+        "y": 1694
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gw",
+        "w": 5,
+        "h": 8,
+        "x": 102,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gx",
+        "w": 3,
+        "h": 4,
+        "x": 170,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gy",
+        "w": 11,
+        "h": 13,
+        "x": 696,
+        "y": 1720,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/gz",
+        "w": 4,
+        "h": 4,
+        "x": 786,
+        "y": 1728
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/h",
+        "w": 15,
+        "h": 16,
+        "x": 512,
+        "y": 1690
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ha",
+        "w": 5,
+        "h": 4,
+        "x": 550,
+        "y": 1651
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hb",
+        "w": 21,
+        "h": 27,
+        "x": 451,
+        "y": 1693
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hc",
+        "w": 33,
+        "h": 26,
+        "x": 617,
+        "y": 1609,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hd",
+        "w": 36,
+        "h": 44,
+        "x": 413,
+        "y": 1693
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/he",
+        "w": 14,
+        "h": 13,
+        "x": 653,
+        "y": 1720,
+        "r": true,
+        "fx": -16,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hf",
+        "w": 13,
+        "h": 13,
+        "x": 619,
+        "y": 1735
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hg",
+        "w": 18,
+        "h": 19,
+        "x": 496,
+        "y": 1669,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hh",
+        "w": 27,
+        "h": 21,
+        "x": 750,
+        "y": 1609
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hi",
+        "w": 13,
+        "h": 16,
+        "x": 350,
+        "y": 1713,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hj",
+        "w": 6,
+        "h": 3,
+        "x": 535,
+        "y": 1652,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hk",
+        "w": 5,
+        "h": 6,
+        "x": 552,
+        "y": 1742
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hl",
+        "w": 4,
+        "h": 3,
+        "x": 175,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hm",
+        "w": 14,
+        "h": 11,
+        "x": 802,
+        "y": 1660
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hn",
+        "w": 4,
+        "h": 4,
+        "x": 786,
+        "y": 1728
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ho",
+        "w": 5,
+        "h": 4,
+        "x": 133,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hp",
+        "w": 9,
+        "h": 8,
+        "x": 82,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hq",
+        "w": 11,
+        "h": 10,
+        "x": 576,
+        "y": 1738
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hr",
+        "w": 16,
+        "h": 16,
+        "x": 529,
+        "y": 1689
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hs",
+        "w": 12,
+        "h": 13,
+        "x": 694,
+        "y": 1735
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ht",
+        "w": 4,
+        "h": 4,
+        "x": 158,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hu",
+        "w": 11,
+        "h": 12,
+        "x": 786,
+        "y": 1700
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hv",
+        "w": 7,
+        "h": 5,
+        "x": 814,
+        "y": 1674
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hw",
+        "w": 4,
+        "h": 4,
+        "x": 152,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hx",
+        "w": 4,
+        "h": 4,
+        "x": 792,
+        "y": 1728
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hy",
+        "w": 9,
+        "h": 12,
+        "x": 812,
+        "y": 1716,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/hz",
+        "w": 10,
+        "h": 4,
+        "x": 241,
+        "y": 1744
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/i",
+        "w": 15,
+        "h": 21,
+        "x": 458,
+        "y": 1666
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ia",
+        "w": 10,
+        "h": 10,
+        "x": 800,
+        "y": 1726
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ib",
+        "w": 10,
+        "h": 5,
+        "x": 114,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ic",
+        "w": 10,
+        "h": 17,
+        "x": 537,
+        "y": 1519
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/id",
+        "w": 20,
+        "h": 18,
+        "x": 477,
+        "y": 1629,
+        "r": true,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ie",
+        "w": 20,
+        "h": 18,
+        "x": 516,
+        "y": 1632,
+        "r": true,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/if",
+        "w": 20,
+        "h": 18,
+        "x": 476,
+        "y": 1649,
+        "r": true,
+        "fx": -12,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ig",
+        "w": 46,
+        "h": 43,
+        "x": 365,
+        "y": 1705,
+        "r": true,
+        "fx": -29,
+        "fy": -13,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ih",
+        "w": 11,
+        "h": 12,
+        "x": 799,
+        "y": 1700,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ii",
+        "w": 45,
+        "h": 50,
+        "x": 411,
+        "y": 1641,
+        "fx": -28,
+        "fy": -9,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ij",
+        "w": 51,
+        "h": 46,
+        "x": 484,
+        "y": 1519,
+        "fx": -25,
+        "fy": -14,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ik",
+        "w": 44,
+        "h": 62,
+        "x": 365,
+        "y": 1641,
+        "r": true,
+        "fx": -20,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/il",
+        "w": 56,
+        "h": 33,
+        "x": 183,
+        "y": 1713,
+        "fx": -23,
+        "fy": -25,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/im",
+        "w": 55,
+        "h": 29,
+        "x": 241,
+        "y": 1713,
+        "fx": -24,
+        "fy": -25,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/in",
+        "w": 50,
+        "h": 23,
+        "x": 298,
+        "y": 1713,
+        "fx": -25,
+        "fy": -26,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/io",
+        "w": 11,
+        "h": 12,
+        "x": 735,
+        "y": 1716,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ip",
+        "w": 13,
+        "h": 13,
+        "x": 634,
+        "y": 1735,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/iq",
+        "w": 15,
+        "h": 15,
+        "x": 579,
+        "y": 1670,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ir",
+        "w": 15,
+        "h": 16,
+        "x": 529,
+        "y": 1707,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/is",
+        "w": 13,
+        "h": 13,
+        "x": 649,
+        "y": 1735,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/it",
+        "w": 15,
+        "h": 15,
+        "x": 579,
+        "y": 1670,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/iu",
+        "w": 13,
+        "h": 13,
+        "x": 634,
+        "y": 1735,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/iv",
+        "w": 11,
+        "h": 12,
+        "x": 748,
+        "y": 1714,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/iw",
+        "w": 15,
+        "h": 15,
+        "x": 596,
+        "y": 1670,
+        "fx": -7,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ix",
+        "w": 13,
+        "h": 13,
+        "x": 664,
+        "y": 1735,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/iy",
+        "w": 11,
+        "h": 12,
+        "x": 735,
+        "y": 1716,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/iz",
+        "w": 11,
+        "h": 12,
+        "x": 761,
+        "y": 1714,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/j",
+        "w": 15,
+        "h": 18,
+        "x": 499,
+        "y": 1629
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ja",
+        "w": 3,
+        "h": 7,
+        "x": 818,
+        "y": 1665
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jb",
+        "w": 3,
+        "h": 8,
+        "x": 109,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jc",
+        "w": 8,
+        "h": 4,
+        "x": 276,
+        "y": 1744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jd",
+        "w": 4,
+        "h": 9,
+        "x": 445,
+        "y": 1739
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/je",
+        "w": 8,
+        "h": 4,
+        "x": 276,
+        "y": 1744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jf",
+        "w": 4,
+        "h": 9,
+        "x": 445,
+        "y": 1739
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jg",
+        "w": 3,
+        "h": 8,
+        "x": 818,
+        "y": 1655
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jh",
+        "w": 7,
+        "h": 3,
+        "x": 814,
+        "y": 1681,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ji",
+        "w": 9,
+        "h": 4,
+        "x": 265,
+        "y": 1744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jj",
+        "w": 8,
+        "h": 4,
+        "x": 286,
+        "y": 1744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jk",
+        "w": 9,
+        "h": 4,
+        "x": 265,
+        "y": 1744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jl",
+        "w": 8,
+        "h": 4,
+        "x": 286,
+        "y": 1744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jm",
+        "w": 11,
+        "h": 12,
+        "x": 774,
+        "y": 1714,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jn",
+        "w": 11,
+        "h": 12,
+        "x": 799,
+        "y": 1700,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jo",
+        "w": 13,
+        "h": 13,
+        "x": 679,
+        "y": 1735,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jp",
+        "w": 13,
+        "h": 13,
+        "x": 692,
+        "y": 1673,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jq",
+        "w": 13,
+        "h": 13,
+        "x": 679,
+        "y": 1735,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jr",
+        "w": 13,
+        "h": 13,
+        "x": 707,
+        "y": 1673,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/js",
+        "w": 15,
+        "h": 15,
+        "x": 630,
+        "y": 1673,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jt",
+        "w": 15,
+        "h": 15,
+        "x": 647,
+        "y": 1674,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/ju",
+        "w": 15,
+        "h": 15,
+        "x": 630,
+        "y": 1673,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jv",
+        "w": 15,
+        "h": 16,
+        "x": 535,
+        "y": 1671,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jw",
+        "w": 11,
+        "h": 12,
+        "x": 787,
+        "y": 1714,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jx",
+        "w": 5,
+        "h": 7,
+        "x": 566,
+        "y": 1741,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jy",
+        "w": 11,
+        "h": 7,
+        "x": 489,
+        "y": 1741,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/jz",
+        "w": 15,
+        "h": 9,
+        "x": 413,
+        "y": 1739,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/k",
+        "w": 34,
+        "h": 32,
+        "x": 581,
+        "y": 1609
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/l",
+        "w": 27,
+        "h": 32,
+        "x": 516,
+        "y": 1598,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/m",
+        "w": 16,
+        "h": 10,
+        "x": 316,
+        "y": 1738,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/n",
+        "w": 8,
+        "h": 3,
+        "x": 798,
+        "y": 1639
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/o",
+        "w": 12,
+        "h": 16,
+        "x": 547,
+        "y": 1689
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/p",
+        "w": 12,
+        "h": 14,
+        "x": 692,
+        "y": 1688
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/q",
+        "w": 3,
+        "h": 9,
+        "x": 818,
+        "y": 1644,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/r",
+        "w": 13,
+        "h": 12,
+        "x": 552,
+        "y": 1657,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/s",
+        "w": 15,
+        "h": 15,
+        "x": 586,
+        "y": 1687
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/t",
+        "w": 272,
+        "h": 1516,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/u",
+        "w": 4,
+        "h": 4,
+        "x": 164,
+        "y": 1740
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/v",
+        "w": 15,
+        "h": 16,
+        "x": 546,
+        "y": 1707
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/w",
+        "w": 12,
+        "h": 14,
+        "x": 706,
+        "y": 1688
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/x",
+        "w": 16,
+        "h": 10,
+        "x": 334,
+        "y": 1738,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/y",
+        "w": 12,
+        "h": 16,
+        "x": 552,
+        "y": 1671
+    },
+    {
+        "n": "story/character_story_quest/desert_caravans_002/.gen/movie/z",
+        "w": 7,
+        "h": 8,
+        "x": 93,
+        "y": 1740,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    }
+]

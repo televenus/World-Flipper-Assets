@@ -1,0 +1,759 @@
+[
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1239,
+        "y": 789
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/aa",
+        "w": 11,
+        "h": 13,
+        "x": 1239,
+        "y": 537,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ab",
+        "w": 20,
+        "h": 20,
+        "x": 1221,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ac",
+        "w": 4,
+        "h": 10,
+        "x": 1246,
+        "y": 742
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ad",
+        "w": 16,
+        "h": 16,
+        "x": 1221,
+        "y": 531
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ae",
+        "w": 13,
+        "h": 13,
+        "x": 1221,
+        "y": 628,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/af",
+        "w": 13,
+        "h": 13,
+        "x": 1236,
+        "y": 629,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ag",
+        "w": 13,
+        "h": 13,
+        "x": 1221,
+        "y": 628,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ah",
+        "w": 13,
+        "h": 13,
+        "x": 1221,
+        "y": 643,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ai",
+        "w": 13,
+        "h": 13,
+        "x": 1236,
+        "y": 644,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/aj",
+        "w": 7,
+        "h": 8,
+        "x": 1243,
+        "y": 774,
+        "fx": -2,
+        "fy": -1,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ak",
+        "w": 8,
+        "h": 8,
+        "x": 1221,
+        "y": 772
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/al",
+        "w": 9,
+        "h": 9,
+        "x": 1221,
+        "y": 761,
+        "fx": -4,
+        "fy": -4,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/am",
+        "w": 13,
+        "h": 13,
+        "x": 1221,
+        "y": 658,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/an",
+        "w": 13,
+        "h": 13,
+        "x": 1236,
+        "y": 659,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ao",
+        "w": 11,
+        "h": 13,
+        "x": 1239,
+        "y": 597,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ap",
+        "w": 29,
+        "h": 24,
+        "x": 1221,
+        "y": 483,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/aq",
+        "w": 48,
+        "h": 55,
+        "x": 483,
+        "y": 1769,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ar",
+        "w": 16,
+        "h": 15,
+        "x": 1221,
+        "y": 549,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/as",
+        "w": 16,
+        "h": 15,
+        "x": 1221,
+        "y": 566,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/at",
+        "w": 5,
+        "h": 7,
+        "x": 1245,
+        "y": 754,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/au",
+        "w": 11,
+        "h": 7,
+        "x": 1221,
+        "y": 742,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/av",
+        "w": 15,
+        "h": 9,
+        "x": 1221,
+        "y": 617,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/aw",
+        "w": 16,
+        "h": 15,
+        "x": 1221,
+        "y": 583,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ax",
+        "w": 13,
+        "h": 12,
+        "x": 1236,
+        "y": 689,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ay",
+        "w": 7,
+        "h": 12,
+        "x": 1243,
+        "y": 509,
+        "r": true,
+        "fx": -1,
+        "fy": -3,
+        "fw": 14,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/az",
+        "w": 7,
+        "h": 12,
+        "x": 1243,
+        "y": 523,
+        "r": true,
+        "fx": -1,
+        "fy": -3,
+        "fw": 14,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/b",
+        "w": 264,
+        "h": 286,
+        "x": 805,
+        "y": 1543,
+        "fx": 0,
+        "fy": 0,
+        "fw": 480,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/ba",
+        "w": 10,
+        "h": 8,
+        "x": 1221,
+        "y": 751,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 14,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bb",
+        "w": 10,
+        "h": 8,
+        "x": 1233,
+        "y": 754,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 14,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bc",
+        "w": 7,
+        "h": 12,
+        "x": 1243,
+        "y": 509,
+        "r": true,
+        "fx": -1,
+        "fy": -3,
+        "fw": 14,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bd",
+        "w": 7,
+        "h": 12,
+        "x": 1243,
+        "y": 523,
+        "r": true,
+        "fx": -1,
+        "fy": -3,
+        "fw": 14,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/be",
+        "w": 10,
+        "h": 8,
+        "x": 1221,
+        "y": 751,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 14,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bf",
+        "w": 10,
+        "h": 8,
+        "x": 1233,
+        "y": 754,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 14,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bg",
+        "w": 12,
+        "h": 15,
+        "x": 1238,
+        "y": 612,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bh",
+        "w": 7,
+        "h": 3,
+        "x": 1221,
+        "y": 787,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bi",
+        "w": 8,
+        "h": 3,
+        "x": 1221,
+        "y": 782,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bj",
+        "w": 8,
+        "h": 4,
+        "x": 1231,
+        "y": 775,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bk",
+        "w": 4,
+        "h": 9,
+        "x": 1245,
+        "y": 763
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bl",
+        "w": 8,
+        "h": 4,
+        "x": 1231,
+        "y": 775,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bm",
+        "w": 4,
+        "h": 9,
+        "x": 1245,
+        "y": 763
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bn",
+        "w": 8,
+        "h": 3,
+        "x": 1241,
+        "y": 784,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bo",
+        "w": 7,
+        "h": 3,
+        "x": 1230,
+        "y": 787,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bp",
+        "w": 9,
+        "h": 4,
+        "x": 1232,
+        "y": 764,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bq",
+        "w": 8,
+        "h": 4,
+        "x": 1231,
+        "y": 781,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/br",
+        "w": 9,
+        "h": 4,
+        "x": 1232,
+        "y": 764,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bs",
+        "w": 8,
+        "h": 4,
+        "x": 1231,
+        "y": 781,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bt",
+        "w": 12,
+        "h": 11,
+        "x": 1221,
+        "y": 703,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bu",
+        "w": 12,
+        "h": 11,
+        "x": 1235,
+        "y": 703,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bv",
+        "w": 15,
+        "h": 15,
+        "x": 1221,
+        "y": 600
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bw",
+        "w": 12,
+        "h": 11,
+        "x": 1221,
+        "y": 703,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/bx",
+        "w": 12,
+        "h": 11,
+        "x": 1221,
+        "y": 716,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/c",
+        "w": 703,
+        "h": 480,
+        "x": 1,
+        "y": 965,
+        "r": true,
+        "fx": 0,
+        "fy": -28,
+        "fw": 480,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/d",
+        "w": 12,
+        "h": 11,
+        "x": 1235,
+        "y": 716,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/e",
+        "w": 9,
+        "h": 3,
+        "x": 1232,
+        "y": 770
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/f",
+        "w": 13,
+        "h": 13,
+        "x": 1221,
+        "y": 673,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/g",
+        "w": 11,
+        "h": 13,
+        "x": 1239,
+        "y": 552,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/h",
+        "w": 736,
+        "h": 480,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/i",
+        "w": 736,
+        "h": 480,
+        "x": 1,
+        "y": 483,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/j",
+        "w": 511,
+        "h": 480,
+        "x": 739,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -138,
+        "fw": 480,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/k",
+        "w": 480,
+        "h": 400,
+        "x": 1,
+        "y": 1447,
+        "fx": 0,
+        "fy": -267,
+        "fw": 480,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/l",
+        "w": 480,
+        "h": 736,
+        "x": 739,
+        "y": 483
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/m",
+        "w": 320,
+        "h": 320,
+        "x": 483,
+        "y": 1447
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/n",
+        "w": 320,
+        "h": 320,
+        "x": 805,
+        "y": 1221
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/o",
+        "w": 4,
+        "h": 4,
+        "x": 1245,
+        "y": 789
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/p",
+        "w": 12,
+        "h": 11,
+        "x": 1221,
+        "y": 729,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/q",
+        "w": 12,
+        "h": 11,
+        "x": 1235,
+        "y": 716,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/r",
+        "w": 12,
+        "h": 11,
+        "x": 1235,
+        "y": 729,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/s",
+        "w": 11,
+        "h": 13,
+        "x": 1239,
+        "y": 567,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/t",
+        "w": 11,
+        "h": 13,
+        "x": 1239,
+        "y": 552,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/u",
+        "w": 11,
+        "h": 13,
+        "x": 1239,
+        "y": 582,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/v",
+        "w": 13,
+        "h": 13,
+        "x": 1236,
+        "y": 674,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/w",
+        "w": 13,
+        "h": 13,
+        "x": 1221,
+        "y": 673,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/x",
+        "w": 13,
+        "h": 13,
+        "x": 1221,
+        "y": 688,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/y",
+        "w": 10,
+        "h": 10,
+        "x": 1234,
+        "y": 742
+    },
+    {
+        "n": "story/character_story_quest/sailor_girl_001/.gen/movie/z",
+        "w": 13,
+        "h": 13,
+        "x": 1221,
+        "y": 658,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    }
+]

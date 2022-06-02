@@ -1,0 +1,812 @@
+[
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 351,
+        "y": 353
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/aa",
+        "w": 13,
+        "h": 12,
+        "x": 322,
+        "y": 345,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ab",
+        "w": 13,
+        "h": 12,
+        "x": 338,
+        "y": 332,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ac",
+        "w": 6,
+        "h": 5,
+        "x": 354,
+        "y": 313,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ad",
+        "w": 6,
+        "h": 6,
+        "x": 353,
+        "y": 329,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ae",
+        "w": 16,
+        "h": 12,
+        "x": 267,
+        "y": 363,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/af",
+        "w": 14,
+        "h": 14,
+        "x": 308,
+        "y": 275,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ag",
+        "w": 15,
+        "h": 14,
+        "x": 290,
+        "y": 307,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ah",
+        "w": 4,
+        "h": 5,
+        "x": 361,
+        "y": 325,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ai",
+        "w": 7,
+        "h": 7,
+        "x": 318,
+        "y": 376,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/aj",
+        "w": 9,
+        "h": 8,
+        "x": 355,
+        "y": 289,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ak",
+        "w": 17,
+        "h": 17,
+        "x": 267,
+        "y": 344,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/al",
+        "w": 5,
+        "h": 5,
+        "x": 362,
+        "y": 313,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/am",
+        "w": 7,
+        "h": 7,
+        "x": 327,
+        "y": 374,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/an",
+        "w": 11,
+        "h": 9,
+        "x": 340,
+        "y": 304,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ao",
+        "w": 21,
+        "h": 23,
+        "x": 267,
+        "y": 275,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ap",
+        "w": 13,
+        "h": 12,
+        "x": 339,
+        "y": 315,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/aq",
+        "w": 14,
+        "h": 12,
+        "x": 307,
+        "y": 318,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ar",
+        "w": 14,
+        "h": 12,
+        "x": 306,
+        "y": 332,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/as",
+        "w": 14,
+        "h": 11,
+        "x": 324,
+        "y": 289,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/at",
+        "w": 16,
+        "h": 8,
+        "x": 290,
+        "y": 287,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/au",
+        "w": 14,
+        "h": 12,
+        "x": 305,
+        "y": 346,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/av",
+        "w": 16,
+        "h": 10,
+        "x": 288,
+        "y": 323,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/aw",
+        "w": 12,
+        "h": 16,
+        "x": 285,
+        "y": 363
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ax",
+        "w": 7,
+        "h": 8,
+        "x": 299,
+        "y": 378,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ay",
+        "w": 12,
+        "h": 14,
+        "x": 312,
+        "y": 360
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/az",
+        "w": 21,
+        "h": 21,
+        "x": 267,
+        "y": 300,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/b",
+        "w": 4,
+        "h": 4,
+        "x": 346,
+        "y": 368
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ba",
+        "w": 19,
+        "h": 19,
+        "x": 267,
+        "y": 323,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bb",
+        "w": 14,
+        "h": 12,
+        "x": 323,
+        "y": 318,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bc",
+        "w": 162,
+        "h": 230,
+        "x": 645,
+        "y": 1,
+        "fx": -55,
+        "fy": -114,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bd",
+        "w": 183,
+        "h": 85,
+        "x": 352,
+        "y": 371,
+        "r": true,
+        "fx": -93,
+        "fy": -119,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/be",
+        "w": 12,
+        "h": 13,
+        "x": 340,
+        "y": 275,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bf",
+        "w": 368,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bg",
+        "w": 13,
+        "h": 12,
+        "x": 340,
+        "y": 290,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bh",
+        "w": 12,
+        "h": 13,
+        "x": 340,
+        "y": 275,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bi",
+        "w": 13,
+        "h": 12,
+        "x": 354,
+        "y": 275,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bj",
+        "w": 14,
+        "h": 11,
+        "x": 324,
+        "y": 302,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bk",
+        "w": 7,
+        "h": 5,
+        "x": 351,
+        "y": 346,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bl",
+        "w": 11,
+        "h": 7,
+        "x": 353,
+        "y": 304,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bm",
+        "w": 15,
+        "h": 9,
+        "x": 307,
+        "y": 307,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bn",
+        "w": 15,
+        "h": 11,
+        "x": 286,
+        "y": 348,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bo",
+        "w": 11,
+        "h": 15,
+        "x": 299,
+        "y": 361,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bp",
+        "w": 14,
+        "h": 11,
+        "x": 322,
+        "y": 332,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bq",
+        "w": 7,
+        "h": 3,
+        "x": 353,
+        "y": 337,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/br",
+        "w": 3,
+        "h": 8,
+        "x": 293,
+        "y": 381
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bs",
+        "w": 4,
+        "h": 8,
+        "x": 281,
+        "y": 381
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bt",
+        "w": 4,
+        "h": 9,
+        "x": 340,
+        "y": 359
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bu",
+        "w": 4,
+        "h": 8,
+        "x": 281,
+        "y": 381
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bv",
+        "w": 4,
+        "h": 9,
+        "x": 340,
+        "y": 359
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bw",
+        "w": 3,
+        "h": 8,
+        "x": 308,
+        "y": 378
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bx",
+        "w": 7,
+        "h": 3,
+        "x": 354,
+        "y": 320,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/by",
+        "w": 4,
+        "h": 9,
+        "x": 340,
+        "y": 370
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/bz",
+        "w": 4,
+        "h": 8,
+        "x": 287,
+        "y": 381
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/c",
+        "w": 13,
+        "h": 12,
+        "x": 338,
+        "y": 332,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/ca",
+        "w": 4,
+        "h": 9,
+        "x": 340,
+        "y": 370
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/cb",
+        "w": 4,
+        "h": 8,
+        "x": 287,
+        "y": 381
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/cc",
+        "w": 16,
+        "h": 8,
+        "x": 290,
+        "y": 297,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/cd",
+        "w": 182,
+        "h": 191,
+        "x": 645,
+        "y": 233,
+        "fx": -45,
+        "fy": -56,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/d",
+        "w": 9,
+        "h": 3,
+        "x": 355,
+        "y": 299
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/e",
+        "w": 264,
+        "h": 182,
+        "x": 1,
+        "y": 275,
+        "r": true,
+        "fx": -45,
+        "fy": -67,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/f",
+        "w": 14,
+        "h": 12,
+        "x": 324,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/g",
+        "w": 16,
+        "h": 10,
+        "x": 290,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/h",
+        "w": 3,
+        "h": 8,
+        "x": 313,
+        "y": 376,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/i",
+        "w": 12,
+        "h": 16,
+        "x": 267,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/j",
+        "w": 12,
+        "h": 11,
+        "x": 337,
+        "y": 346,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/k",
+        "w": 15,
+        "h": 11,
+        "x": 288,
+        "y": 335,
+        "fx": -6,
+        "fy": -2,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/l",
+        "w": 272,
+        "h": 368,
+        "x": 371,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/m",
+        "w": 4,
+        "h": 5,
+        "x": 361,
+        "y": 325,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/n",
+        "w": 7,
+        "h": 7,
+        "x": 318,
+        "y": 376,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/o",
+        "w": 5,
+        "h": 7,
+        "x": 346,
+        "y": 359,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/p",
+        "w": 17,
+        "h": 17,
+        "x": 267,
+        "y": 344,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/q",
+        "w": 5,
+        "h": 5,
+        "x": 362,
+        "y": 313,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/r",
+        "w": 7,
+        "h": 7,
+        "x": 327,
+        "y": 374,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/s",
+        "w": 3,
+        "h": 3,
+        "x": 363,
+        "y": 320,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/t",
+        "w": 21,
+        "h": 23,
+        "x": 267,
+        "y": 275,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/u",
+        "w": 3,
+        "h": 3,
+        "x": 363,
+        "y": 320,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/v",
+        "w": 3,
+        "h": 3,
+        "x": 363,
+        "y": 320,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/w",
+        "w": 6,
+        "h": 5,
+        "x": 354,
+        "y": 313,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/x",
+        "w": 6,
+        "h": 6,
+        "x": 353,
+        "y": 329,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/y",
+        "w": 12,
+        "h": 13,
+        "x": 326,
+        "y": 359,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sword_beauty_001/.gen/movie/z",
+        "w": 14,
+        "h": 14,
+        "x": 308,
+        "y": 291,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    }
+]

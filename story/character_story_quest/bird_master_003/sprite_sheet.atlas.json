@@ -1,0 +1,907 @@
+[
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 517,
+        "y": 877
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/aa",
+        "w": 27,
+        "h": 17,
+        "x": 298,
+        "y": 876,
+        "r": true,
+        "fx": -29,
+        "fy": -12,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ab",
+        "w": 10,
+        "h": 3,
+        "x": 498,
+        "y": 880
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ac",
+        "w": 25,
+        "h": 29,
+        "x": 351,
+        "y": 865,
+        "r": true,
+        "fx": -23,
+        "fy": -13,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ad",
+        "w": 37,
+        "h": 22,
+        "x": 394,
+        "y": 841,
+        "fx": -19,
+        "fy": -14,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ae",
+        "w": 23,
+        "h": 36,
+        "x": 480,
+        "y": 671,
+        "fx": -26,
+        "fy": 0,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/af",
+        "w": 27,
+        "h": 30,
+        "x": 451,
+        "y": 864,
+        "fx": -24,
+        "fy": -5,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ag",
+        "w": 41,
+        "h": 22,
+        "x": 480,
+        "y": 647,
+        "fx": -17,
+        "fy": -12,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ah",
+        "w": 23,
+        "h": 29,
+        "x": 378,
+        "y": 865,
+        "r": true,
+        "fx": -23,
+        "fy": -12,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ai",
+        "w": 15,
+        "h": 27,
+        "x": 505,
+        "y": 671,
+        "fx": -30,
+        "fy": -11,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/aj",
+        "w": 17,
+        "h": 24,
+        "x": 480,
+        "y": 766,
+        "fx": -31,
+        "fy": -14,
+        "fw": 78,
+        "fh": 78
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ak",
+        "w": 22,
+        "h": 29,
+        "x": 403,
+        "y": 865,
+        "r": true,
+        "fx": -25,
+        "fy": -15,
+        "fw": 78,
+        "fh": 78
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/al",
+        "w": 37,
+        "h": 20,
+        "x": 523,
+        "y": 647,
+        "fx": -21,
+        "fy": -16,
+        "fw": 78,
+        "fh": 78
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/am",
+        "w": 36,
+        "h": 21,
+        "x": 433,
+        "y": 841,
+        "r": true,
+        "fx": -29,
+        "fy": 0,
+        "fw": 78,
+        "fh": 78
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/an",
+        "w": 27,
+        "h": 30,
+        "x": 480,
+        "y": 709,
+        "fx": -26,
+        "fy": -6,
+        "fw": 78,
+        "fh": 78
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ao",
+        "w": 41,
+        "h": 22,
+        "x": 351,
+        "y": 841,
+        "fx": -19,
+        "fy": -13,
+        "fw": 78,
+        "fh": 78
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ap",
+        "w": 22,
+        "h": 29,
+        "x": 427,
+        "y": 865,
+        "r": true,
+        "fx": -25,
+        "fy": -14,
+        "fw": 78,
+        "fh": 78
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/aq",
+        "w": 15,
+        "h": 25,
+        "x": 480,
+        "y": 792,
+        "fx": -32,
+        "fy": -13,
+        "fw": 78,
+        "fh": 78
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ar",
+        "w": 7,
+        "h": 5,
+        "x": 520,
+        "y": 854,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/as",
+        "w": 11,
+        "h": 7,
+        "x": 505,
+        "y": 700,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/at",
+        "w": 15,
+        "h": 9,
+        "x": 516,
+        "y": 885,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/au",
+        "w": 16,
+        "h": 10,
+        "x": 480,
+        "y": 884,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/av",
+        "w": 16,
+        "h": 12,
+        "x": 509,
+        "y": 728,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/aw",
+        "w": 11,
+        "h": 15,
+        "x": 338,
+        "y": 876
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ax",
+        "w": 11,
+        "h": 15,
+        "x": 521,
+        "y": 760
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ay",
+        "w": 15,
+        "h": 15,
+        "x": 499,
+        "y": 774
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/az",
+        "w": 14,
+        "h": 12,
+        "x": 516,
+        "y": 824,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/b",
+        "w": 17,
+        "h": 23,
+        "x": 480,
+        "y": 819,
+        "fx": -9,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ba",
+        "w": 15,
+        "h": 15,
+        "x": 516,
+        "y": 777
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bb",
+        "w": 14,
+        "h": 12,
+        "x": 527,
+        "y": 728,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bc",
+        "w": 15,
+        "h": 11,
+        "x": 499,
+        "y": 791,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bd",
+        "w": 15,
+        "h": 15,
+        "x": 499,
+        "y": 819
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/be",
+        "w": 12,
+        "h": 14,
+        "x": 506,
+        "y": 845
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bf",
+        "w": 15,
+        "h": 11,
+        "x": 516,
+        "y": 794,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bg",
+        "w": 11,
+        "h": 15,
+        "x": 532,
+        "y": 742
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bh",
+        "w": 15,
+        "h": 9,
+        "x": 533,
+        "y": 885,
+        "r": true,
+        "fx": -106,
+        "fy": -133,
+        "fw": 192,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bi",
+        "w": 51,
+        "h": 33,
+        "x": 298,
+        "y": 841,
+        "fx": -102,
+        "fy": -107,
+        "fw": 192,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bj",
+        "w": 9,
+        "h": 18,
+        "x": 327,
+        "y": 876,
+        "fx": -106,
+        "fy": -91,
+        "fw": 192,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bk",
+        "w": 19,
+        "h": 16,
+        "x": 471,
+        "y": 844,
+        "fx": -7,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bl",
+        "w": 180,
+        "h": 192,
+        "x": 298,
+        "y": 647,
+        "fx": -6,
+        "fy": 0,
+        "fw": 192,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bm",
+        "w": 12,
+        "h": 14,
+        "x": 510,
+        "y": 861
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bn",
+        "w": 12,
+        "h": 14,
+        "x": 520,
+        "y": 838
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bo",
+        "w": 8,
+        "h": 7,
+        "x": 562,
+        "y": 658,
+        "r": true,
+        "fx": -153,
+        "fy": -40,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bp",
+        "w": 11,
+        "h": 20,
+        "x": 480,
+        "y": 862,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bq",
+        "w": 16,
+        "h": 9,
+        "x": 498,
+        "y": 885,
+        "r": true,
+        "fx": -106,
+        "fy": -91,
+        "fw": 192,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/br",
+        "w": 5,
+        "h": 6,
+        "x": 510,
+        "y": 877,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bs",
+        "w": 6,
+        "h": 6,
+        "x": 499,
+        "y": 836,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bt",
+        "w": 12,
+        "h": 16,
+        "x": 492,
+        "y": 844,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bu",
+        "w": 14,
+        "h": 14,
+        "x": 524,
+        "y": 861,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bv",
+        "w": 14,
+        "h": 15,
+        "x": 516,
+        "y": 807,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bw",
+        "w": 8,
+        "h": 7,
+        "x": 518,
+        "y": 700,
+        "r": true,
+        "fx": -9,
+        "fy": -19,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bx",
+        "w": 11,
+        "h": 9,
+        "x": 550,
+        "y": 885,
+        "fx": -24,
+        "fy": -29,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/by",
+        "w": 15,
+        "h": 16,
+        "x": 503,
+        "y": 742
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/bz",
+        "w": 4,
+        "h": 4,
+        "x": 554,
+        "y": 684
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 567,
+        "y": 667,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ca",
+        "w": 11,
+        "h": 13,
+        "x": 522,
+        "y": 683,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/cb",
+        "w": 295,
+        "h": 207,
+        "x": 1,
+        "y": 687,
+        "fx": -194,
+        "fy": -477,
+        "fw": 684,
+        "fh": 684
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/cc",
+        "w": 295,
+        "h": 684,
+        "x": 1,
+        "y": 1,
+        "fx": -194,
+        "fy": 0,
+        "fw": 684,
+        "fh": 684
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/cd",
+        "w": 11,
+        "h": 13,
+        "x": 535,
+        "y": 683,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ce",
+        "w": 13,
+        "h": 12,
+        "x": 539,
+        "y": 669,
+        "r": true,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/cf",
+        "w": 15,
+        "h": 13,
+        "x": 497,
+        "y": 804,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/cg",
+        "w": 13,
+        "h": 12,
+        "x": 539,
+        "y": 669,
+        "r": true,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ch",
+        "w": 4,
+        "h": 5,
+        "x": 548,
+        "y": 683,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ci",
+        "w": 7,
+        "h": 7,
+        "x": 507,
+        "y": 836,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/cj",
+        "w": 8,
+        "h": 9,
+        "x": 562,
+        "y": 647,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/ck",
+        "w": 17,
+        "h": 17,
+        "x": 509,
+        "y": 709,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/cl",
+        "w": 272,
+        "h": 644,
+        "x": 298,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/d",
+        "w": 15,
+        "h": 16,
+        "x": 493,
+        "y": 862
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/e",
+        "w": 11,
+        "h": 15,
+        "x": 534,
+        "y": 759
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/f",
+        "w": 10,
+        "h": 16,
+        "x": 520,
+        "y": 742
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/g",
+        "w": 3,
+        "h": 8,
+        "x": 567,
+        "y": 678,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/h",
+        "w": 16,
+        "h": 12,
+        "x": 503,
+        "y": 760,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/i",
+        "w": 14,
+        "h": 12,
+        "x": 523,
+        "y": 669,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/j",
+        "w": 11,
+        "h": 13,
+        "x": 528,
+        "y": 698,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/k",
+        "w": 272,
+        "h": 440,
+        "x": 572,
+        "y": 1,
+        "fx": -84,
+        "fy": 0,
+        "fw": 440,
+        "fh": 440
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/l",
+        "w": 272,
+        "h": 440,
+        "x": 572,
+        "y": 443,
+        "fx": -84,
+        "fy": 0,
+        "fw": 440,
+        "fh": 440
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/m",
+        "w": 4,
+        "h": 4,
+        "x": 545,
+        "y": 750
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/n",
+        "w": 5,
+        "h": 5,
+        "x": 529,
+        "y": 854,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/o",
+        "w": 7,
+        "h": 7,
+        "x": 545,
+        "y": 741,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/p",
+        "w": 3,
+        "h": 3,
+        "x": 548,
+        "y": 690,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/q",
+        "w": 21,
+        "h": 23,
+        "x": 480,
+        "y": 741,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/r",
+        "w": 3,
+        "h": 3,
+        "x": 548,
+        "y": 690,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/s",
+        "w": 3,
+        "h": 3,
+        "x": 548,
+        "y": 690,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/t",
+        "w": 11,
+        "h": 13,
+        "x": 528,
+        "y": 713,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/u",
+        "w": 11,
+        "h": 13,
+        "x": 528,
+        "y": 698,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/v",
+        "w": 11,
+        "h": 13,
+        "x": 554,
+        "y": 669,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/w",
+        "w": 11,
+        "h": 13,
+        "x": 541,
+        "y": 698,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/x",
+        "w": 11,
+        "h": 13,
+        "x": 541,
+        "y": 713,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/y",
+        "w": 11,
+        "h": 13,
+        "x": 541,
+        "y": 698,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bird_master_003/.gen/movie/z",
+        "w": 13,
+        "h": 11,
+        "x": 543,
+        "y": 728,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    }
+]

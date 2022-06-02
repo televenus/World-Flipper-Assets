@@ -1,0 +1,1230 @@
+[
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 964,
+        "y": 1300
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/aa",
+        "w": 10,
+        "h": 4,
+        "x": 844,
+        "y": 1390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ab",
+        "w": 16,
+        "h": 16,
+        "x": 945,
+        "y": 1306
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ac",
+        "w": 16,
+        "h": 12,
+        "x": 887,
+        "y": 1337,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ad",
+        "w": 12,
+        "h": 14,
+        "x": 996,
+        "y": 1300,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ae",
+        "w": 7,
+        "h": 7,
+        "x": 935,
+        "y": 1337,
+        "fx": -2,
+        "fy": -1,
+        "fw": 11,
+        "fh": 13
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/af",
+        "w": 15,
+        "h": 13,
+        "x": 944,
+        "y": 1342,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ag",
+        "w": 19,
+        "h": 6,
+        "x": 824,
+        "y": 1371
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ah",
+        "w": 13,
+        "h": 14,
+        "x": 961,
+        "y": 1342
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ai",
+        "w": 7,
+        "h": 3,
+        "x": 894,
+        "y": 1361,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/aj",
+        "w": 8,
+        "h": 3,
+        "x": 814,
+        "y": 1392,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ak",
+        "w": 8,
+        "h": 4,
+        "x": 878,
+        "y": 1390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/al",
+        "w": 9,
+        "h": 4,
+        "x": 856,
+        "y": 1390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/am",
+        "w": 8,
+        "h": 4,
+        "x": 878,
+        "y": 1390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/an",
+        "w": 9,
+        "h": 4,
+        "x": 856,
+        "y": 1390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ao",
+        "w": 3,
+        "h": 8,
+        "x": 900,
+        "y": 1351
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ap",
+        "w": 3,
+        "h": 7,
+        "x": 900,
+        "y": 1366
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/aq",
+        "w": 9,
+        "h": 4,
+        "x": 867,
+        "y": 1390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ar",
+        "w": 4,
+        "h": 8,
+        "x": 894,
+        "y": 1351
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/as",
+        "w": 9,
+        "h": 4,
+        "x": 867,
+        "y": 1390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/at",
+        "w": 4,
+        "h": 8,
+        "x": 894,
+        "y": 1351
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/au",
+        "w": 14,
+        "h": 11,
+        "x": 981,
+        "y": 1287,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/av",
+        "w": 14,
+        "h": 11,
+        "x": 976,
+        "y": 1345,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/aw",
+        "w": 11,
+        "h": 15,
+        "x": 920,
+        "y": 1354,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ax",
+        "w": 11,
+        "h": 15,
+        "x": 942,
+        "y": 1357,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ay",
+        "w": 14,
+        "h": 11,
+        "x": 992,
+        "y": 1345,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/az",
+        "w": 11,
+        "h": 15,
+        "x": 920,
+        "y": 1371,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/b",
+        "w": 196,
+        "h": 82,
+        "x": 679,
+        "y": 1287,
+        "fx": -38,
+        "fy": -493,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ba",
+        "w": 15,
+        "h": 11,
+        "x": 963,
+        "y": 1306,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bb",
+        "w": 14,
+        "h": 11,
+        "x": 997,
+        "y": 1287,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bc",
+        "w": 11,
+        "h": 14,
+        "x": 482,
+        "y": 563,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bd",
+        "w": 15,
+        "h": 11,
+        "x": 964,
+        "y": 1287,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/be",
+        "w": 15,
+        "h": 11,
+        "x": 963,
+        "y": 1319,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bf",
+        "w": 11,
+        "h": 14,
+        "x": 495,
+        "y": 563,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bg",
+        "w": 15,
+        "h": 11,
+        "x": 961,
+        "y": 1358,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bh",
+        "w": 15,
+        "h": 11,
+        "x": 976,
+        "y": 1332,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bi",
+        "w": 12,
+        "h": 14,
+        "x": 993,
+        "y": 1358
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bj",
+        "w": 14,
+        "h": 12,
+        "x": 970,
+        "y": 1374,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bk",
+        "w": 14,
+        "h": 12,
+        "x": 986,
+        "y": 1374,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bl",
+        "w": 5,
+        "h": 5,
+        "x": 915,
+        "y": 1388,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bm",
+        "w": 7,
+        "h": 7,
+        "x": 933,
+        "y": 1354,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bn",
+        "w": 3,
+        "h": 3,
+        "x": 915,
+        "y": 1372,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bo",
+        "w": 23,
+        "h": 21,
+        "x": 710,
+        "y": 1371,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bp",
+        "w": 3,
+        "h": 3,
+        "x": 915,
+        "y": 1372,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bq",
+        "w": 3,
+        "h": 3,
+        "x": 915,
+        "y": 1372,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/br",
+        "w": 5,
+        "h": 5,
+        "x": 915,
+        "y": 1388,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bs",
+        "w": 7,
+        "h": 7,
+        "x": 933,
+        "y": 1354,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bt",
+        "w": 9,
+        "h": 11,
+        "x": 877,
+        "y": 1304,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bu",
+        "w": 23,
+        "h": 21,
+        "x": 710,
+        "y": 1371,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bv",
+        "w": 12,
+        "h": 14,
+        "x": 993,
+        "y": 1358
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bw",
+        "w": 14,
+        "h": 12,
+        "x": 482,
+        "y": 549,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bx",
+        "w": 13,
+        "h": 15,
+        "x": 905,
+        "y": 1355
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/by",
+        "w": 12,
+        "h": 14,
+        "x": 993,
+        "y": 1358
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/bz",
+        "w": 4,
+        "h": 5,
+        "x": 955,
+        "y": 1357,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/c",
+        "w": 14,
+        "h": 12,
+        "x": 498,
+        "y": 549,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ca",
+        "w": 7,
+        "h": 7,
+        "x": 933,
+        "y": 1363,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cb",
+        "w": 11,
+        "h": 14,
+        "x": 508,
+        "y": 563
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cc",
+        "w": 8,
+        "h": 9,
+        "x": 877,
+        "y": 1330,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cd",
+        "w": 17,
+        "h": 17,
+        "x": 865,
+        "y": 1371,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ce",
+        "w": 14,
+        "h": 12,
+        "x": 498,
+        "y": 549,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cf",
+        "w": 11,
+        "h": 14,
+        "x": 521,
+        "y": 563
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cg",
+        "w": 11,
+        "h": 13,
+        "x": 549,
+        "y": 563,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ch",
+        "w": 11,
+        "h": 13,
+        "x": 482,
+        "y": 579,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ci",
+        "w": 11,
+        "h": 13,
+        "x": 495,
+        "y": 579,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cj",
+        "w": 11,
+        "h": 13,
+        "x": 508,
+        "y": 579,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ck",
+        "w": 11,
+        "h": 13,
+        "x": 521,
+        "y": 579,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cl",
+        "w": 11,
+        "h": 13,
+        "x": 548,
+        "y": 578,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cm",
+        "w": 13,
+        "h": 14,
+        "x": 900,
+        "y": 1375,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cn",
+        "w": 11,
+        "h": 13,
+        "x": 577,
+        "y": 562,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/co",
+        "w": 7,
+        "h": 5,
+        "x": 935,
+        "y": 1346,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cp",
+        "w": 7,
+        "h": 11,
+        "x": 877,
+        "y": 1317,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cq",
+        "w": 9,
+        "h": 15,
+        "x": 877,
+        "y": 1287,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cr",
+        "w": 29,
+        "h": 24,
+        "x": 679,
+        "y": 1371,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cs",
+        "w": 14,
+        "h": 12,
+        "x": 514,
+        "y": 549,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ct",
+        "w": 55,
+        "h": 48,
+        "x": 888,
+        "y": 1287,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cu",
+        "w": 13,
+        "h": 11,
+        "x": 590,
+        "y": 562,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cv",
+        "w": 6,
+        "h": 6,
+        "x": 933,
+        "y": 1372,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cw",
+        "w": 12,
+        "h": 16,
+        "x": 905,
+        "y": 1337,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cx",
+        "w": 14,
+        "h": 14,
+        "x": 884,
+        "y": 1367,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cy",
+        "w": 15,
+        "h": 14,
+        "x": 877,
+        "y": 1351,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/cz",
+        "w": 14,
+        "h": 13,
+        "x": 980,
+        "y": 1300,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/d",
+        "w": 9,
+        "h": 3,
+        "x": 803,
+        "y": 1392
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/da",
+        "w": 13,
+        "h": 14,
+        "x": 900,
+        "y": 1375,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/db",
+        "w": 14,
+        "h": 13,
+        "x": 980,
+        "y": 1315,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dc",
+        "w": 13,
+        "h": 11,
+        "x": 591,
+        "y": 549,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dd",
+        "w": 13,
+        "h": 14,
+        "x": 978,
+        "y": 1358,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/de",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/df",
+        "w": 205,
+        "h": 152,
+        "x": 275,
+        "y": 549,
+        "r": true,
+        "fx": -8,
+        "fy": -17,
+        "fw": 169,
+        "fh": 222
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dg",
+        "w": 736,
+        "h": 272,
+        "x": 1,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dh",
+        "w": 18,
+        "h": 17,
+        "x": 845,
+        "y": 1371
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/di",
+        "w": 16,
+        "h": 16,
+        "x": 945,
+        "y": 1324
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dj",
+        "w": 21,
+        "h": 20,
+        "x": 758,
+        "y": 1371,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dk",
+        "w": 18,
+        "h": 15,
+        "x": 824,
+        "y": 1379,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 17,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dl",
+        "w": 13,
+        "h": 12,
+        "x": 562,
+        "y": 565,
+        "fx": 0,
+        "fy": -1,
+        "fw": 13,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dm",
+        "w": 14,
+        "h": 15,
+        "x": 919,
+        "y": 1337
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dn",
+        "w": 12,
+        "h": 12,
+        "x": 577,
+        "y": 577,
+        "fx": -9,
+        "fy": -17,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/do",
+        "w": 736,
+        "h": 272,
+        "x": 1,
+        "y": 1013,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dp",
+        "w": 6,
+        "h": 5,
+        "x": 963,
+        "y": 1332,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dq",
+        "w": 5,
+        "h": 5,
+        "x": 922,
+        "y": 1388,
+        "fx": -11,
+        "fy": -18,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dr",
+        "w": 7,
+        "h": 7,
+        "x": 933,
+        "y": 1363,
+        "fx": -10,
+        "fy": -14,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/ds",
+        "w": 13,
+        "h": 13,
+        "x": 534,
+        "y": 563,
+        "fx": -7,
+        "fy": -8,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/dt",
+        "w": 17,
+        "h": 17,
+        "x": 945,
+        "y": 1287,
+        "fx": -5,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/e",
+        "w": 11,
+        "h": 12,
+        "x": 534,
+        "y": 593,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/f",
+        "w": 14,
+        "h": 12,
+        "x": 996,
+        "y": 1316,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/g",
+        "w": 12,
+        "h": 13,
+        "x": 534,
+        "y": 578,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/h",
+        "w": 11,
+        "h": 12,
+        "x": 482,
+        "y": 594,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/i",
+        "w": 11,
+        "h": 13,
+        "x": 561,
+        "y": 579,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/j",
+        "w": 736,
+        "h": 272,
+        "x": 275,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/k",
+        "w": 676,
+        "h": 108,
+        "x": 1,
+        "y": 1287,
+        "r": true,
+        "fx": -82,
+        "fy": -24,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/l",
+        "w": 736,
+        "h": 272,
+        "x": 275,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/m",
+        "w": 272,
+        "h": 736,
+        "x": 739,
+        "y": 549
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/n",
+        "w": 4,
+        "h": 4,
+        "x": 970,
+        "y": 1300
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/o",
+        "w": 14,
+        "h": 12,
+        "x": 530,
+        "y": 549,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/p",
+        "w": 14,
+        "h": 12,
+        "x": 546,
+        "y": 549,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/q",
+        "w": 7,
+        "h": 8,
+        "x": 877,
+        "y": 1341,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/r",
+        "w": 21,
+        "h": 21,
+        "x": 735,
+        "y": 1371,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/s",
+        "w": 19,
+        "h": 19,
+        "x": 803,
+        "y": 1371,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/t",
+        "w": 12,
+        "h": 14,
+        "x": 562,
+        "y": 549
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/u",
+        "w": 13,
+        "h": 11,
+        "x": 576,
+        "y": 549
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/v",
+        "w": 14,
+        "h": 13,
+        "x": 993,
+        "y": 1330,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/w",
+        "w": 13,
+        "h": 14,
+        "x": 955,
+        "y": 1371,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/x",
+        "w": 14,
+        "h": 13,
+        "x": 933,
+        "y": 1380,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/y",
+        "w": 10,
+        "h": 10,
+        "x": 888,
+        "y": 1383
+    },
+    {
+        "n": "story/character_story_quest/herbalist_001/.gen/movie/z",
+        "w": 20,
+        "h": 20,
+        "x": 781,
+        "y": 1371
+    }
+]

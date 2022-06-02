@@ -1,0 +1,701 @@
+[
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 313,
+        "y": 827
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/aa",
+        "w": 15,
+        "h": 11,
+        "x": 243,
+        "y": 540,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ab",
+        "w": 15,
+        "h": 11,
+        "x": 260,
+        "y": 540,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ac",
+        "w": 12,
+        "h": 14,
+        "x": 388,
+        "y": 750
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ad",
+        "w": 16,
+        "h": 15,
+        "x": 353,
+        "y": 495,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ae",
+        "w": 12,
+        "h": 14,
+        "x": 388,
+        "y": 766
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/af",
+        "w": 16,
+        "h": 15,
+        "x": 353,
+        "y": 512,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ag",
+        "w": 157,
+        "h": 281,
+        "x": 243,
+        "y": 1,
+        "fx": -58,
+        "fy": -31,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ah",
+        "w": 21,
+        "h": 32,
+        "x": 371,
+        "y": 642,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ai",
+        "w": 12,
+        "h": 12,
+        "x": 387,
+        "y": 782
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/aj",
+        "w": 12,
+        "h": 11,
+        "x": 215,
+        "y": 827,
+        "fx": 0,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ak",
+        "w": 15,
+        "h": 14,
+        "x": 382,
+        "y": 720,
+        "fx": 0,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/al",
+        "w": 12,
+        "h": 12,
+        "x": 371,
+        "y": 817,
+        "fx": 0,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/am",
+        "w": 64,
+        "h": 9,
+        "x": 1,
+        "y": 827,
+        "fx": -16,
+        "fy": -42,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/an",
+        "w": 16,
+        "h": 10,
+        "x": 240,
+        "y": 827,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ao",
+        "w": 8,
+        "h": 3,
+        "x": 353,
+        "y": 476
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ap",
+        "w": 97,
+        "h": 48,
+        "x": 243,
+        "y": 431,
+        "fx": -1,
+        "fy": -7,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/aq",
+        "w": 65,
+        "h": 17,
+        "x": 286,
+        "y": 495,
+        "fx": -17,
+        "fy": -1,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ar",
+        "w": 156,
+        "h": 145,
+        "x": 243,
+        "y": 284,
+        "fx": -58,
+        "fy": -74,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/as",
+        "w": 28,
+        "h": 164,
+        "x": 371,
+        "y": 476,
+        "r": true,
+        "fx": -54,
+        "fy": -324,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/at",
+        "w": 30,
+        "h": 9,
+        "x": 318,
+        "y": 514,
+        "fx": -7,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/au",
+        "w": 9,
+        "h": 30,
+        "x": 371,
+        "y": 701,
+        "r": true,
+        "fx": -4,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/av",
+        "w": 41,
+        "h": 43,
+        "x": 243,
+        "y": 495,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/aw",
+        "w": 41,
+        "h": 43,
+        "x": 342,
+        "y": 431,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ax",
+        "w": 30,
+        "h": 17,
+        "x": 286,
+        "y": 514,
+        "fx": -4,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ay",
+        "w": 30,
+        "h": 17,
+        "x": 286,
+        "y": 514,
+        "fx": -7,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/az",
+        "w": 117,
+        "h": 12,
+        "x": 243,
+        "y": 481,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/b",
+        "w": 15,
+        "h": 17,
+        "x": 385,
+        "y": 431,
+        "fx": -10,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/ba",
+        "w": 368,
+        "h": 272,
+        "x": 1,
+        "y": 553,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bb",
+        "w": 7,
+        "h": 5,
+        "x": 385,
+        "y": 469,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bc",
+        "w": 7,
+        "h": 11,
+        "x": 277,
+        "y": 540,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bd",
+        "w": 9,
+        "h": 15,
+        "x": 371,
+        "y": 733,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/be",
+        "w": 16,
+        "h": 8,
+        "x": 275,
+        "y": 827,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bf",
+        "w": 14,
+        "h": 11,
+        "x": 135,
+        "y": 827,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bg",
+        "w": 15,
+        "h": 10,
+        "x": 258,
+        "y": 827,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bh",
+        "w": 5,
+        "h": 5,
+        "x": 318,
+        "y": 525,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bi",
+        "w": 7,
+        "h": 7,
+        "x": 362,
+        "y": 481,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bj",
+        "w": 9,
+        "h": 11,
+        "x": 229,
+        "y": 827,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bk",
+        "w": 21,
+        "h": 23,
+        "x": 371,
+        "y": 676,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bl",
+        "w": 6,
+        "h": 5,
+        "x": 394,
+        "y": 469,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bm",
+        "w": 6,
+        "h": 6,
+        "x": 394,
+        "y": 642,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bn",
+        "w": 16,
+        "h": 12,
+        "x": 382,
+        "y": 736,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bo",
+        "w": 14,
+        "h": 14,
+        "x": 371,
+        "y": 785,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bp",
+        "w": 14,
+        "h": 15,
+        "x": 371,
+        "y": 768,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/bq",
+        "w": 14,
+        "h": 11,
+        "x": 151,
+        "y": 827,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/br",
+        "w": 14,
+        "h": 11,
+        "x": 167,
+        "y": 827,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 342,
+        "y": 476
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/d",
+        "w": 15,
+        "h": 17,
+        "x": 385,
+        "y": 450,
+        "fx": -10,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/e",
+        "w": 12,
+        "h": 14,
+        "x": 371,
+        "y": 801
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/f",
+        "w": 15,
+        "h": 16,
+        "x": 371,
+        "y": 750
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/g",
+        "w": 240,
+        "h": 550,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/h",
+        "w": 4,
+        "h": 4,
+        "x": 325,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/i",
+        "w": 5,
+        "h": 5,
+        "x": 318,
+        "y": 525,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/j",
+        "w": 7,
+        "h": 7,
+        "x": 362,
+        "y": 481,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/k",
+        "w": 3,
+        "h": 3,
+        "x": 362,
+        "y": 490,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/l",
+        "w": 21,
+        "h": 23,
+        "x": 371,
+        "y": 676,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/m",
+        "w": 3,
+        "h": 3,
+        "x": 362,
+        "y": 490,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/n",
+        "w": 3,
+        "h": 3,
+        "x": 362,
+        "y": 490,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/o",
+        "w": 14,
+        "h": 11,
+        "x": 183,
+        "y": 827,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/p",
+        "w": 14,
+        "h": 11,
+        "x": 199,
+        "y": 827,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/q",
+        "w": 15,
+        "h": 11,
+        "x": 67,
+        "y": 827,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/r",
+        "w": 15,
+        "h": 11,
+        "x": 84,
+        "y": 827,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/s",
+        "w": 15,
+        "h": 11,
+        "x": 101,
+        "y": 827,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/t",
+        "w": 15,
+        "h": 17,
+        "x": 305,
+        "y": 533,
+        "fx": -10,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/u",
+        "w": 15,
+        "h": 17,
+        "x": 382,
+        "y": 701,
+        "fx": -10,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/v",
+        "w": 5,
+        "h": 4,
+        "x": 394,
+        "y": 650,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/w",
+        "w": 7,
+        "h": 7,
+        "x": 304,
+        "y": 827,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/x",
+        "w": 9,
+        "h": 8,
+        "x": 293,
+        "y": 827,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/y",
+        "w": 17,
+        "h": 17,
+        "x": 286,
+        "y": 533,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lich_002/.gen/movie/z",
+        "w": 15,
+        "h": 11,
+        "x": 118,
+        "y": 827,
+        "r": true
+    }
+]

@@ -1,0 +1,1727 @@
+[
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1368,
+        "y": 512
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/aa",
+        "w": 12,
+        "h": 12,
+        "x": 1370,
+        "y": 415,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ab",
+        "w": 5,
+        "h": 6,
+        "x": 1258,
+        "y": 510,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ac",
+        "w": 6,
+        "h": 6,
+        "x": 1250,
+        "y": 510,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ad",
+        "w": 12,
+        "h": 16,
+        "x": 1400,
+        "y": 374,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ae",
+        "w": 14,
+        "h": 14,
+        "x": 1384,
+        "y": 406,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/af",
+        "w": 14,
+        "h": 15,
+        "x": 1384,
+        "y": 389,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ag",
+        "w": 12,
+        "h": 14,
+        "x": 1400,
+        "y": 392
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ah",
+        "w": 12,
+        "h": 14,
+        "x": 1400,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ai",
+        "w": 12,
+        "h": 14,
+        "x": 1400,
+        "y": 424
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/aj",
+        "w": 15,
+        "h": 8,
+        "x": 1301,
+        "y": 467,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ak",
+        "w": 13,
+        "h": 10,
+        "x": 1368,
+        "y": 467,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/al",
+        "w": 8,
+        "h": 15,
+        "x": 1314,
+        "y": 450,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/am",
+        "w": 13,
+        "h": 10,
+        "x": 1318,
+        "y": 477,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/an",
+        "w": 8,
+        "h": 15,
+        "x": 1324,
+        "y": 450,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ao",
+        "w": 13,
+        "h": 10,
+        "x": 1333,
+        "y": 477,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ap",
+        "w": 11,
+        "h": 15,
+        "x": 1301,
+        "y": 450
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/aq",
+        "w": 16,
+        "h": 10,
+        "x": 1334,
+        "y": 426,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ar",
+        "w": 8,
+        "h": 3,
+        "x": 1129,
+        "y": 513
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/as",
+        "w": 12,
+        "h": 16,
+        "x": 1370,
+        "y": 397
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/at",
+        "w": 14,
+        "h": 11,
+        "x": 1384,
+        "y": 436,
+        "r": true,
+        "fx": -19,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/au",
+        "w": 2,
+        "h": 19,
+        "x": 1410,
+        "y": 30,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 2
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/av",
+        "w": 18,
+        "h": 26,
+        "x": 1390,
+        "y": 30,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/aw",
+        "w": 18,
+        "h": 26,
+        "x": 1390,
+        "y": 58,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ax",
+        "w": 6,
+        "h": 3,
+        "x": 1399,
+        "y": 494
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ay",
+        "w": 62,
+        "h": 53,
+        "x": 1118,
+        "y": 429,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/az",
+        "w": 12,
+        "h": 12,
+        "x": 1370,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/b",
+        "w": 7,
+        "h": 3,
+        "x": 1325,
+        "y": 432,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ba",
+        "w": 15,
+        "h": 11,
+        "x": 1334,
+        "y": 438,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bb",
+        "w": 11,
+        "h": 17,
+        "x": 1370,
+        "y": 378,
+        "fx": -20,
+        "fy": -8,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bc",
+        "w": 4,
+        "h": 4,
+        "x": 1399,
+        "y": 499
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bd",
+        "w": 4,
+        "h": 4,
+        "x": 1407,
+        "y": 494
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/be",
+        "w": 15,
+        "h": 15,
+        "x": 1284,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bf",
+        "w": 15,
+        "h": 15,
+        "x": 1284,
+        "y": 460
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bg",
+        "w": 15,
+        "h": 15,
+        "x": 1383,
+        "y": 355
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bh",
+        "w": 19,
+        "h": 19,
+        "x": 1390,
+        "y": 109,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bi",
+        "w": 20,
+        "h": 11,
+        "x": 1243,
+        "y": 471,
+        "r": true,
+        "fx": -20,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bj",
+        "w": 15,
+        "h": 11,
+        "x": 1334,
+        "y": 451,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bk",
+        "w": 11,
+        "h": 19,
+        "x": 1370,
+        "y": 357,
+        "fx": -20,
+        "fy": -4,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bl",
+        "w": 16,
+        "h": 11,
+        "x": 1352,
+        "y": 426,
+        "r": true,
+        "fx": -20,
+        "fy": -10,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bm",
+        "w": 16,
+        "h": 11,
+        "x": 1302,
+        "y": 437,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bn",
+        "w": 30,
+        "h": 30,
+        "x": 1155,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bo",
+        "w": 34,
+        "h": 67,
+        "x": 1334,
+        "y": 357,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bp",
+        "w": 34,
+        "h": 67,
+        "x": 1376,
+        "y": 230,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bq",
+        "w": 29,
+        "h": 29,
+        "x": 1219,
+        "y": 484,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/br",
+        "w": 19,
+        "h": 19,
+        "x": 1390,
+        "y": 130,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bs",
+        "w": 19,
+        "h": 19,
+        "x": 1390,
+        "y": 151,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bt",
+        "w": 30,
+        "h": 30,
+        "x": 1155,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bu",
+        "w": 19,
+        "h": 19,
+        "x": 1390,
+        "y": 130,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bv",
+        "w": 19,
+        "h": 19,
+        "x": 1390,
+        "y": 151,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bw",
+        "w": 19,
+        "h": 19,
+        "x": 1390,
+        "y": 109,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bx",
+        "w": 34,
+        "h": 67,
+        "x": 1334,
+        "y": 357,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/by",
+        "w": 34,
+        "h": 67,
+        "x": 1376,
+        "y": 230,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/bz",
+        "w": 29,
+        "h": 29,
+        "x": 1219,
+        "y": 484,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/c",
+        "w": 8,
+        "h": 3,
+        "x": 1139,
+        "y": 513,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ca",
+        "w": 12,
+        "h": 17,
+        "x": 1400,
+        "y": 355,
+        "fx": -14,
+        "fy": -5,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cb",
+        "w": 4,
+        "h": 4,
+        "x": 1399,
+        "y": 499
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cc",
+        "w": 4,
+        "h": 4,
+        "x": 1407,
+        "y": 494
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cd",
+        "w": 15,
+        "h": 15,
+        "x": 1284,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ce",
+        "w": 15,
+        "h": 15,
+        "x": 1284,
+        "y": 460
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cf",
+        "w": 15,
+        "h": 15,
+        "x": 1383,
+        "y": 355
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cg",
+        "w": 62,
+        "h": 53,
+        "x": 1118,
+        "y": 429,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ch",
+        "w": 59,
+        "h": 53,
+        "x": 1182,
+        "y": 429,
+        "fx": -16,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ci",
+        "w": 61,
+        "h": 53,
+        "x": 1271,
+        "y": 357,
+        "fx": -14,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cj",
+        "w": 13,
+        "h": 11,
+        "x": 1336,
+        "y": 464,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ck",
+        "w": 13,
+        "h": 11,
+        "x": 1348,
+        "y": 477,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cl",
+        "w": 13,
+        "h": 11,
+        "x": 1363,
+        "y": 479,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cm",
+        "w": 7,
+        "h": 18,
+        "x": 1325,
+        "y": 412,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cn",
+        "w": 10,
+        "h": 24,
+        "x": 1250,
+        "y": 484,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/co",
+        "w": 26,
+        "h": 11,
+        "x": 1233,
+        "y": 230,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cp",
+        "w": 28,
+        "h": 11,
+        "x": 1203,
+        "y": 230,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cq",
+        "w": 29,
+        "h": 29,
+        "x": 1271,
+        "y": 412,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cr",
+        "w": 20,
+        "h": 40,
+        "x": 1243,
+        "y": 429,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cs",
+        "w": 15,
+        "h": 15,
+        "x": 1383,
+        "y": 372,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ct",
+        "w": 18,
+        "h": 20,
+        "x": 1390,
+        "y": 172,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cu",
+        "w": 30,
+        "h": 29,
+        "x": 1187,
+        "y": 484,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cv",
+        "w": 22,
+        "h": 27,
+        "x": 1390,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cw",
+        "w": 33,
+        "h": 25,
+        "x": 1376,
+        "y": 328
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cx",
+        "w": 35,
+        "h": 27,
+        "x": 1118,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cy",
+        "w": 36,
+        "h": 27,
+        "x": 1376,
+        "y": 299
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/cz",
+        "w": 12,
+        "h": 14,
+        "x": 1400,
+        "y": 440
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/d",
+        "w": 8,
+        "h": 4,
+        "x": 1291,
+        "y": 487,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/da",
+        "w": 1,
+        "h": 1,
+        "x": 1262,
+        "y": 507,
+        "fx": -11,
+        "fy": -11,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/db",
+        "w": 3,
+        "h": 3,
+        "x": 1149,
+        "y": 513,
+        "fx": -10,
+        "fy": -10,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dc",
+        "w": 5,
+        "h": 5,
+        "x": 1390,
+        "y": 489,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dd",
+        "w": 7,
+        "h": 9,
+        "x": 1278,
+        "y": 507,
+        "fx": -8,
+        "fy": -7,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/de",
+        "w": 7,
+        "h": 9,
+        "x": 1287,
+        "y": 507,
+        "fx": -8,
+        "fy": -7,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/df",
+        "w": 7,
+        "h": 9,
+        "x": 1296,
+        "y": 507,
+        "fx": -8,
+        "fy": -7,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dg",
+        "w": 1,
+        "h": 1,
+        "x": 1378,
+        "y": 489,
+        "fx": 0,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dh",
+        "w": 5,
+        "h": 4,
+        "x": 1361,
+        "y": 512,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/di",
+        "w": 7,
+        "h": 7,
+        "x": 1381,
+        "y": 489,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dj",
+        "w": 5,
+        "h": 7,
+        "x": 1351,
+        "y": 503,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dk",
+        "w": 17,
+        "h": 17,
+        "x": 1265,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dl",
+        "w": 5,
+        "h": 4,
+        "x": 1361,
+        "y": 512,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dm",
+        "w": 7,
+        "h": 7,
+        "x": 1381,
+        "y": 489,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dn",
+        "w": 8,
+        "h": 11,
+        "x": 1261,
+        "y": 230,
+        "r": true,
+        "fx": -4,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/do",
+        "w": 17,
+        "h": 17,
+        "x": 1265,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dp",
+        "w": 5,
+        "h": 5,
+        "x": 1367,
+        "y": 505,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dq",
+        "w": 7,
+        "h": 7,
+        "x": 1381,
+        "y": 498,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dr",
+        "w": 11,
+        "h": 9,
+        "x": 1265,
+        "y": 507,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ds",
+        "w": 21,
+        "h": 23,
+        "x": 1302,
+        "y": 412,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dt",
+        "w": 16,
+        "h": 8,
+        "x": 1318,
+        "y": 467,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/du",
+        "w": 7,
+        "h": 7,
+        "x": 1390,
+        "y": 496,
+        "fx": -12,
+        "fy": -11,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dv",
+        "w": 12,
+        "h": 11,
+        "x": 1320,
+        "y": 437,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dw",
+        "w": 9,
+        "h": 3,
+        "x": 1118,
+        "y": 513
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dx",
+        "w": 12,
+        "h": 13,
+        "x": 1390,
+        "y": 215,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dy",
+        "w": 9,
+        "h": 3,
+        "x": 1118,
+        "y": 513
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/dz",
+        "w": 12,
+        "h": 11,
+        "x": 1383,
+        "y": 476,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/e",
+        "w": 4,
+        "h": 9,
+        "x": 1265,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ea",
+        "w": 11,
+        "h": 12,
+        "x": 1276,
+        "y": 493,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/eb",
+        "w": 13,
+        "h": 11,
+        "x": 1384,
+        "y": 449,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ec",
+        "w": 12,
+        "h": 12,
+        "x": 1383,
+        "y": 462,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ed",
+        "w": 14,
+        "h": 12,
+        "x": 1384,
+        "y": 422,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ee",
+        "w": 11,
+        "h": 12,
+        "x": 1289,
+        "y": 493,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ef",
+        "w": 13,
+        "h": 12,
+        "x": 1399,
+        "y": 456,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/eg",
+        "w": 14,
+        "h": 12,
+        "x": 1351,
+        "y": 439,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/eh",
+        "w": 14,
+        "h": 12,
+        "x": 1351,
+        "y": 453,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ei",
+        "w": 12,
+        "h": 11,
+        "x": 1316,
+        "y": 489,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ej",
+        "w": 12,
+        "h": 11,
+        "x": 1330,
+        "y": 489,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ek",
+        "w": 12,
+        "h": 11,
+        "x": 1316,
+        "y": 489,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/el",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 490,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/em",
+        "w": 12,
+        "h": 11,
+        "x": 1358,
+        "y": 492,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/en",
+        "w": 12,
+        "h": 11,
+        "x": 1383,
+        "y": 476,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/eo",
+        "w": 12,
+        "h": 11,
+        "x": 1305,
+        "y": 505,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ep",
+        "w": 392,
+        "h": 272,
+        "x": 724,
+        "y": 243,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/eq",
+        "w": 7,
+        "h": 8,
+        "x": 1342,
+        "y": 503,
+        "fx": -12,
+        "fy": -10,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/er",
+        "w": 5,
+        "h": 4,
+        "x": 1361,
+        "y": 512,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/es",
+        "w": 7,
+        "h": 7,
+        "x": 1381,
+        "y": 489,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/et",
+        "w": 8,
+        "h": 9,
+        "x": 1404,
+        "y": 215,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/eu",
+        "w": 17,
+        "h": 17,
+        "x": 1265,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ev",
+        "w": 7,
+        "h": 8,
+        "x": 1372,
+        "y": 492,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ew",
+        "w": 21,
+        "h": 21,
+        "x": 1390,
+        "y": 86,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ex",
+        "w": 19,
+        "h": 19,
+        "x": 1390,
+        "y": 194,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ey",
+        "w": 5,
+        "h": 5,
+        "x": 1367,
+        "y": 505,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ez",
+        "w": 7,
+        "h": 7,
+        "x": 1381,
+        "y": 498,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/f",
+        "w": 8,
+        "h": 4,
+        "x": 1291,
+        "y": 487,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fa",
+        "w": 3,
+        "h": 3,
+        "x": 1374,
+        "y": 508,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fb",
+        "w": 21,
+        "h": 23,
+        "x": 1302,
+        "y": 412,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fc",
+        "w": 3,
+        "h": 3,
+        "x": 1374,
+        "y": 508,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fd",
+        "w": 3,
+        "h": 3,
+        "x": 1374,
+        "y": 508,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fe",
+        "w": 7,
+        "h": 5,
+        "x": 1358,
+        "y": 505,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/ff",
+        "w": 7,
+        "h": 11,
+        "x": 1333,
+        "y": 502,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fg",
+        "w": 15,
+        "h": 9,
+        "x": 1367,
+        "y": 443,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fh",
+        "w": 5,
+        "h": 4,
+        "x": 1361,
+        "y": 512,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fi",
+        "w": 7,
+        "h": 7,
+        "x": 1381,
+        "y": 489,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fj",
+        "w": 17,
+        "h": 17,
+        "x": 1265,
+        "y": 462,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 19
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fk",
+        "w": 14,
+        "h": 11,
+        "x": 1367,
+        "y": 454,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fl",
+        "w": 12,
+        "h": 12,
+        "x": 1262,
+        "y": 493,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fm",
+        "w": 151,
+        "h": 184,
+        "x": 1118,
+        "y": 243,
+        "fx": -44,
+        "fy": -1016,
+        "fw": 240,
+        "fh": 1200
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fn",
+        "w": 185,
+        "h": 227,
+        "x": 1203,
+        "y": 1,
+        "r": true,
+        "fx": -14,
+        "fy": -24,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fo",
+        "w": 103,
+        "h": 125,
+        "x": 1271,
+        "y": 230,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/fp",
+        "w": 1200,
+        "h": 240,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/g",
+        "w": 4,
+        "h": 9,
+        "x": 1265,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/h",
+        "w": 3,
+        "h": 8,
+        "x": 1378,
+        "y": 479
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/i",
+        "w": 7,
+        "h": 3,
+        "x": 1342,
+        "y": 513,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/j",
+        "w": 9,
+        "h": 4,
+        "x": 1280,
+        "y": 487,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/k",
+        "w": 8,
+        "h": 4,
+        "x": 1351,
+        "y": 512,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/l",
+        "w": 9,
+        "h": 4,
+        "x": 1280,
+        "y": 487,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/m",
+        "w": 8,
+        "h": 4,
+        "x": 1351,
+        "y": 512,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/n",
+        "w": 15,
+        "h": 8,
+        "x": 1351,
+        "y": 467,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/o",
+        "w": 9,
+        "h": 3,
+        "x": 1118,
+        "y": 513
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/p",
+        "w": 13,
+        "h": 10,
+        "x": 1397,
+        "y": 470,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/q",
+        "w": 15,
+        "h": 8,
+        "x": 1284,
+        "y": 477,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/r",
+        "w": 13,
+        "h": 10,
+        "x": 1397,
+        "y": 482,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/s",
+        "w": 15,
+        "h": 8,
+        "x": 1301,
+        "y": 477,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/t",
+        "w": 13,
+        "h": 10,
+        "x": 1265,
+        "y": 481,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/u",
+        "w": 12,
+        "h": 12,
+        "x": 1302,
+        "y": 487,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/v",
+        "w": 9,
+        "h": 3,
+        "x": 1118,
+        "y": 513
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/w",
+        "w": 721,
+        "h": 272,
+        "x": 1,
+        "y": 243,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/x",
+        "w": 4,
+        "h": 4,
+        "x": 1374,
+        "y": 502
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/y",
+        "w": 12,
+        "h": 12,
+        "x": 1319,
+        "y": 502,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/little_shaman_001/.gen/movie/z",
+        "w": 12,
+        "h": 12,
+        "x": 1302,
+        "y": 487,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    }
+]

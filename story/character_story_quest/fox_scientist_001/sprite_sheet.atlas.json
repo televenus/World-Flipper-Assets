@@ -1,0 +1,915 @@
+[
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 117,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/aa",
+        "w": 10,
+        "h": 16,
+        "x": 372,
+        "y": 982,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ab",
+        "w": 11,
+        "h": 14,
+        "x": 1143,
+        "y": 408,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ac",
+        "w": 10,
+        "h": 15,
+        "x": 523,
+        "y": 980,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ad",
+        "w": 11,
+        "h": 14,
+        "x": 1143,
+        "y": 424,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ae",
+        "w": 10,
+        "h": 15,
+        "x": 1289,
+        "y": 210,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/af",
+        "w": 11,
+        "h": 15,
+        "x": 430,
+        "y": 964,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ag",
+        "w": 11,
+        "h": 15,
+        "x": 443,
+        "y": 964,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ah",
+        "w": 10,
+        "h": 16,
+        "x": 515,
+        "y": 906,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ai",
+        "w": 10,
+        "h": 16,
+        "x": 527,
+        "y": 906
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/aj",
+        "w": 16,
+        "h": 12,
+        "x": 266,
+        "y": 990,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ak",
+        "w": 15,
+        "h": 16,
+        "x": 353,
+        "y": 964,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/al",
+        "w": 15,
+        "h": 15,
+        "x": 394,
+        "y": 982,
+        "fx": -2,
+        "fy": -2,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/am",
+        "w": 10,
+        "h": 3,
+        "x": 129,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/an",
+        "w": 160,
+        "h": 88,
+        "x": 866,
+        "y": 899,
+        "fx": -10,
+        "fy": -11,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ao",
+        "w": 84,
+        "h": 72,
+        "x": 142,
+        "y": 924,
+        "fx": -80,
+        "fy": -23,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ap",
+        "w": 36,
+        "h": 78,
+        "x": 1,
+        "y": 924,
+        "r": true,
+        "fx": -92,
+        "fy": -47,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/aq",
+        "w": 86,
+        "h": 14,
+        "x": 456,
+        "y": 964,
+        "fx": -80,
+        "fy": -85,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ar",
+        "w": 118,
+        "h": 81,
+        "x": 1143,
+        "y": 472,
+        "fx": -30,
+        "fy": -11,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/as",
+        "w": 88,
+        "h": 92,
+        "x": 551,
+        "y": 906,
+        "r": true,
+        "fx": -78,
+        "fy": -11,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/at",
+        "w": 192,
+        "h": 180,
+        "x": 647,
+        "y": 330,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/au",
+        "w": 4,
+        "h": 4,
+        "x": 123,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/av",
+        "w": 11,
+        "h": 15,
+        "x": 445,
+        "y": 981
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/aw",
+        "w": 11,
+        "h": 15,
+        "x": 458,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ax",
+        "w": 11,
+        "h": 15,
+        "x": 471,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ay",
+        "w": 14,
+        "h": 12,
+        "x": 535,
+        "y": 980,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/az",
+        "w": 12,
+        "h": 14,
+        "x": 1143,
+        "y": 328
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/b",
+        "w": 181,
+        "h": 327,
+        "x": 647,
+        "y": 1,
+        "fx": -9,
+        "fy": -4,
+        "fw": 200,
+        "fh": 340
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ba",
+        "w": 12,
+        "h": 14,
+        "x": 1143,
+        "y": 344
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bb",
+        "w": 10,
+        "h": 15,
+        "x": 1289,
+        "y": 227
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bc",
+        "w": 11,
+        "h": 14,
+        "x": 1143,
+        "y": 440
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bd",
+        "w": 10,
+        "h": 15,
+        "x": 1289,
+        "y": 244
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/be",
+        "w": 10,
+        "h": 16,
+        "x": 539,
+        "y": 906
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bf",
+        "w": 16,
+        "h": 12,
+        "x": 284,
+        "y": 990,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bg",
+        "w": 11,
+        "h": 14,
+        "x": 1143,
+        "y": 456
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bh",
+        "w": 11,
+        "h": 15,
+        "x": 484,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bi",
+        "w": 4,
+        "h": 5,
+        "x": 87,
+        "y": 998,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bj",
+        "w": 7,
+        "h": 7,
+        "x": 1289,
+        "y": 342,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bk",
+        "w": 7,
+        "h": 5,
+        "x": 78,
+        "y": 998,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bl",
+        "w": 17,
+        "h": 17,
+        "x": 316,
+        "y": 964,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bm",
+        "w": 12,
+        "h": 14,
+        "x": 1143,
+        "y": 360
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bn",
+        "w": 12,
+        "h": 14,
+        "x": 1143,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bo",
+        "w": 12,
+        "h": 14,
+        "x": 1143,
+        "y": 392
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bp",
+        "w": 10,
+        "h": 10,
+        "x": 1289,
+        "y": 278
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bq",
+        "w": 20,
+        "h": 20,
+        "x": 318,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/br",
+        "w": 10,
+        "h": 4,
+        "x": 105,
+        "y": 998,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bs",
+        "w": 16,
+        "h": 16,
+        "x": 340,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bt",
+        "w": 17,
+        "h": 12,
+        "x": 228,
+        "y": 990,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bu",
+        "w": 6,
+        "h": 18,
+        "x": 302,
+        "y": 985,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bv",
+        "w": 12,
+        "h": 16,
+        "x": 358,
+        "y": 982
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bw",
+        "w": 15,
+        "h": 15,
+        "x": 396,
+        "y": 964,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bx",
+        "w": 15,
+        "h": 15,
+        "x": 411,
+        "y": 981,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/by",
+        "w": 15,
+        "h": 15,
+        "x": 396,
+        "y": 964,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/bz",
+        "w": 15,
+        "h": 15,
+        "x": 413,
+        "y": 964,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/c",
+        "w": 130,
+        "h": 257,
+        "x": 1157,
+        "y": 210,
+        "r": true,
+        "fx": -227,
+        "fy": -144,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ca",
+        "w": 12,
+        "h": 14,
+        "x": 1143,
+        "y": 360
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cb",
+        "w": 7,
+        "h": 5,
+        "x": 69,
+        "y": 998,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cc",
+        "w": 7,
+        "h": 11,
+        "x": 1289,
+        "y": 329,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cd",
+        "w": 9,
+        "h": 15,
+        "x": 1289,
+        "y": 302,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ce",
+        "w": 10,
+        "h": 10,
+        "x": 1289,
+        "y": 290
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cf",
+        "w": 10,
+        "h": 5,
+        "x": 57,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cg",
+        "w": 12,
+        "h": 9,
+        "x": 535,
+        "y": 994
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ch",
+        "w": 10,
+        "h": 4,
+        "x": 93,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ci",
+        "w": 12,
+        "h": 16,
+        "x": 370,
+        "y": 964
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cj",
+        "w": 17,
+        "h": 12,
+        "x": 247,
+        "y": 990,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/ck",
+        "w": 16,
+        "h": 5,
+        "x": 39,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cl",
+        "w": 6,
+        "h": 18,
+        "x": 310,
+        "y": 985,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cm",
+        "w": 15,
+        "h": 15,
+        "x": 394,
+        "y": 982,
+        "fx": -10,
+        "fy": -2,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cn",
+        "w": 15,
+        "h": 15,
+        "x": 428,
+        "y": 981,
+        "fx": -10,
+        "fy": -2,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/co",
+        "w": 16,
+        "h": 17,
+        "x": 335,
+        "y": 964,
+        "fx": -10,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cp",
+        "w": 4,
+        "h": 5,
+        "x": 87,
+        "y": 998,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cq",
+        "w": 7,
+        "h": 7,
+        "x": 1289,
+        "y": 342,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cr",
+        "w": 9,
+        "h": 8,
+        "x": 1289,
+        "y": 319,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/cs",
+        "w": 17,
+        "h": 17,
+        "x": 316,
+        "y": 964,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/d",
+        "w": 11,
+        "h": 14,
+        "x": 866,
+        "y": 989,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/e",
+        "w": 9,
+        "h": 3,
+        "x": 141,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/f",
+        "w": 15,
+        "h": 92,
+        "x": 641,
+        "y": 906,
+        "r": true,
+        "fx": -291,
+        "fy": -298,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/g",
+        "w": 140,
+        "h": 389,
+        "x": 515,
+        "y": 515,
+        "fx": 0,
+        "fy": -123,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/h",
+        "w": 64,
+        "h": 64,
+        "x": 228,
+        "y": 924,
+        "fx": -85,
+        "fy": -185,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/i",
+        "w": 300,
+        "h": 247,
+        "x": 841,
+        "y": 328,
+        "fx": -196,
+        "fy": -92,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/j",
+        "w": 206,
+        "h": 103,
+        "x": 658,
+        "y": 899,
+        "fx": -294,
+        "fy": -152,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/k",
+        "w": 231,
+        "h": 38,
+        "x": 316,
+        "y": 924,
+        "fx": -269,
+        "fy": -276,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/l",
+        "w": 20,
+        "h": 59,
+        "x": 294,
+        "y": 924,
+        "r": true,
+        "fx": -399,
+        "fy": -206,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/m",
+        "w": 101,
+        "h": 72,
+        "x": 39,
+        "y": 924,
+        "fx": -333,
+        "fy": -127,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/n",
+        "w": 140,
+        "h": 207,
+        "x": 1157,
+        "y": 1,
+        "r": true,
+        "fx": -277,
+        "fy": -127,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/o",
+        "w": 512,
+        "h": 407,
+        "x": 1,
+        "y": 515,
+        "r": true,
+        "fx": -93,
+        "fy": 0,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/p",
+        "w": 142,
+        "h": 512,
+        "x": 503,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/q",
+        "w": 500,
+        "h": 512,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/r",
+        "w": 325,
+        "h": 325,
+        "x": 830,
+        "y": 1,
+        "fx": -175,
+        "fy": -117,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/s",
+        "w": 320,
+        "h": 320,
+        "x": 657,
+        "y": 577
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/t",
+        "w": 320,
+        "h": 320,
+        "x": 979,
+        "y": 577
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/u",
+        "w": 10,
+        "h": 15,
+        "x": 1289,
+        "y": 261,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/v",
+        "w": 11,
+        "h": 15,
+        "x": 497,
+        "y": 980,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/w",
+        "w": 10,
+        "h": 16,
+        "x": 384,
+        "y": 964,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/x",
+        "w": 11,
+        "h": 15,
+        "x": 510,
+        "y": 980,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/y",
+        "w": 8,
+        "h": 16,
+        "x": 384,
+        "y": 982
+    },
+    {
+        "n": "story/character_story_quest/fox_scientist_001/.gen/movie/z",
+        "w": 8,
+        "h": 3,
+        "x": 152,
+        "y": 998
+    }
+]

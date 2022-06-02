@@ -1,0 +1,839 @@
+[
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 100,
+        "y": 604
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/aa",
+        "w": 14,
+        "h": 12,
+        "x": 90,
+        "y": 559,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ab",
+        "w": 6,
+        "h": 5,
+        "x": 21,
+        "y": 604,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ac",
+        "w": 6,
+        "h": 6,
+        "x": 106,
+        "y": 579,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ad",
+        "w": 16,
+        "h": 12,
+        "x": 176,
+        "y": 597,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ae",
+        "w": 14,
+        "h": 14,
+        "x": 90,
+        "y": 543,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/af",
+        "w": 14,
+        "h": 15,
+        "x": 90,
+        "y": 526,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ag",
+        "w": 12,
+        "h": 12,
+        "x": 14,
+        "y": 556,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ah",
+        "w": 12,
+        "h": 12,
+        "x": 26,
+        "y": 541,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ai",
+        "w": 12,
+        "h": 12,
+        "x": 14,
+        "y": 556,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/aj",
+        "w": 12,
+        "h": 12,
+        "x": 27,
+        "y": 526,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ak",
+        "w": 12,
+        "h": 9,
+        "x": 48,
+        "y": 568
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/al",
+        "w": 9,
+        "h": 5,
+        "x": 1,
+        "y": 604,
+        "fx": -2,
+        "fy": -7,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/am",
+        "w": 7,
+        "h": 11,
+        "x": 67,
+        "y": 554,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/an",
+        "w": 12,
+        "h": 12,
+        "x": 28,
+        "y": 555
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ao",
+        "w": 7,
+        "h": 5,
+        "x": 12,
+        "y": 604
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ap",
+        "w": 12,
+        "h": 7,
+        "x": 14,
+        "y": 570
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/aq",
+        "w": 8,
+        "h": 4,
+        "x": 70,
+        "y": 604
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ar",
+        "w": 12,
+        "h": 12,
+        "x": 40,
+        "y": 540,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/as",
+        "w": 5,
+        "h": 5,
+        "x": 29,
+        "y": 604,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/at",
+        "w": 11,
+        "h": 14,
+        "x": 240,
+        "y": 579,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/au",
+        "w": 7,
+        "h": 7,
+        "x": 74,
+        "y": 567,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/av",
+        "w": 9,
+        "h": 11,
+        "x": 56,
+        "y": 554,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/aw",
+        "w": 21,
+        "h": 23,
+        "x": 1,
+        "y": 579,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ax",
+        "w": 11,
+        "h": 14,
+        "x": 241,
+        "y": 595,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ay",
+        "w": 10,
+        "h": 16,
+        "x": 206,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/az",
+        "w": 12,
+        "h": 16,
+        "x": 178,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/b",
+        "w": 181,
+        "h": 327,
+        "x": 272,
+        "y": 275,
+        "fx": -9,
+        "fy": -4,
+        "fw": 200,
+        "fh": 340
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ba",
+        "w": 11,
+        "h": 14,
+        "x": 253,
+        "y": 579,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bb",
+        "w": 10,
+        "h": 10,
+        "x": 62,
+        "y": 567
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bc",
+        "w": 20,
+        "h": 20,
+        "x": 47,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bd",
+        "w": 10,
+        "h": 4,
+        "x": 36,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/be",
+        "w": 16,
+        "h": 16,
+        "x": 126,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bf",
+        "w": 12,
+        "h": 12,
+        "x": 41,
+        "y": 526,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bg",
+        "w": 11,
+        "h": 13,
+        "x": 1,
+        "y": 542,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bh",
+        "w": 10,
+        "h": 13,
+        "x": 14,
+        "y": 541,
+        "fx": -9,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bi",
+        "w": 11,
+        "h": 13,
+        "x": 1,
+        "y": 557,
+        "fx": -10,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bj",
+        "w": 11,
+        "h": 14,
+        "x": 254,
+        "y": 595,
+        "fx": -10,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bk",
+        "w": 11,
+        "h": 13,
+        "x": 14,
+        "y": 526,
+        "fx": -10,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bl",
+        "w": 11,
+        "h": 14,
+        "x": 254,
+        "y": 595,
+        "fx": -10,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bm",
+        "w": 7,
+        "h": 3,
+        "x": 153,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bn",
+        "w": 8,
+        "h": 3,
+        "x": 133,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bo",
+        "w": 8,
+        "h": 4,
+        "x": 80,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bp",
+        "w": 9,
+        "h": 4,
+        "x": 48,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bq",
+        "w": 8,
+        "h": 4,
+        "x": 80,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/br",
+        "w": 9,
+        "h": 4,
+        "x": 48,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bs",
+        "w": 8,
+        "h": 3,
+        "x": 143,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bt",
+        "w": 7,
+        "h": 3,
+        "x": 162,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bu",
+        "w": 9,
+        "h": 4,
+        "x": 59,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bv",
+        "w": 8,
+        "h": 4,
+        "x": 90,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bw",
+        "w": 9,
+        "h": 4,
+        "x": 59,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bx",
+        "w": 8,
+        "h": 4,
+        "x": 90,
+        "y": 604,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/by",
+        "w": 5,
+        "h": 5,
+        "x": 29,
+        "y": 604,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/bz",
+        "w": 7,
+        "h": 7,
+        "x": 74,
+        "y": 567,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/c",
+        "w": 880,
+        "h": 272,
+        "x": 455,
+        "y": 275,
+        "r": true,
+        "fx": -304,
+        "fy": 0,
+        "fw": 880,
+        "fh": 880
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ca",
+        "w": 3,
+        "h": 3,
+        "x": 171,
+        "y": 604,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/cb",
+        "w": 21,
+        "h": 23,
+        "x": 1,
+        "y": 579,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/cc",
+        "w": 3,
+        "h": 3,
+        "x": 171,
+        "y": 604,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/cd",
+        "w": 3,
+        "h": 3,
+        "x": 171,
+        "y": 604,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ce",
+        "w": 12,
+        "h": 12,
+        "x": 42,
+        "y": 554,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/cf",
+        "w": 12,
+        "h": 12,
+        "x": 54,
+        "y": 540,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/cg",
+        "w": 16,
+        "h": 15,
+        "x": 90,
+        "y": 587,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ch",
+        "w": 7,
+        "h": 8,
+        "x": 39,
+        "y": 569,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/ci",
+        "w": 21,
+        "h": 21,
+        "x": 24,
+        "y": 579,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/cj",
+        "w": 19,
+        "h": 19,
+        "x": 69,
+        "y": 579,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/d",
+        "w": 14,
+        "h": 12,
+        "x": 90,
+        "y": 573,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/e",
+        "w": 9,
+        "h": 3,
+        "x": 112,
+        "y": 604
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/f",
+        "w": 10,
+        "h": 16,
+        "x": 218,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/g",
+        "w": 8,
+        "h": 3,
+        "x": 123,
+        "y": 604
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/h",
+        "w": 12,
+        "h": 16,
+        "x": 192,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/i",
+        "w": 16,
+        "h": 15,
+        "x": 108,
+        "y": 587,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/j",
+        "w": 269,
+        "h": 523,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -588,
+        "fw": 272,
+        "fh": 1145
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/k",
+        "w": 239,
+        "h": 60,
+        "x": 455,
+        "y": 549,
+        "fx": -33,
+        "fy": -549,
+        "fw": 272,
+        "fh": 1145
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/l",
+        "w": 9,
+        "h": 8,
+        "x": 28,
+        "y": 569,
+        "fx": 0,
+        "fy": 0,
+        "fw": 9,
+        "fh": 9
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/m",
+        "w": 272,
+        "h": 53,
+        "x": 696,
+        "y": 549,
+        "fx": 0,
+        "fy": -535,
+        "fw": 272,
+        "fh": 1145
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/n",
+        "w": 13,
+        "h": 12,
+        "x": 226,
+        "y": 597,
+        "fx": -1,
+        "fy": -1,
+        "fw": 15,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/o",
+        "w": 12,
+        "h": 12,
+        "x": 55,
+        "y": 526,
+        "fx": -1,
+        "fy": -1,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/p",
+        "w": 267,
+        "h": 49,
+        "x": 970,
+        "y": 549,
+        "fx": -5,
+        "fy": -513,
+        "fw": 272,
+        "fh": 1145
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/q",
+        "w": 164,
+        "h": 51,
+        "x": 106,
+        "y": 526,
+        "fx": -55,
+        "fy": -484,
+        "fw": 272,
+        "fh": 1145
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/r",
+        "w": 64,
+        "h": 124,
+        "x": 1337,
+        "y": 275,
+        "r": true,
+        "fx": -74,
+        "fy": -445,
+        "fw": 272,
+        "fh": 1145
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/s",
+        "w": 1145,
+        "h": 272,
+        "x": 272,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/t",
+        "w": 4,
+        "h": 4,
+        "x": 106,
+        "y": 604
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/u",
+        "w": 15,
+        "h": 16,
+        "x": 144,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/v",
+        "w": 14,
+        "h": 12,
+        "x": 194,
+        "y": 597,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/w",
+        "w": 15,
+        "h": 16,
+        "x": 161,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/x",
+        "w": 14,
+        "h": 12,
+        "x": 210,
+        "y": 597,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/y",
+        "w": 8,
+        "h": 16,
+        "x": 230,
+        "y": 579
+    },
+    {
+        "n": "story/character_story_quest/walking_armor_001/.gen/movie/z",
+        "w": 11,
+        "h": 14,
+        "x": 1,
+        "y": 526,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    }
+]

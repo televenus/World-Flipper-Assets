@@ -1,0 +1,2470 @@
+[
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1352,
+        "y": 417
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/aa",
+        "w": 11,
+        "h": 12,
+        "x": 1304,
+        "y": 931,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ab",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 539,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ac",
+        "w": 11,
+        "h": 11,
+        "x": 1304,
+        "y": 945,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ad",
+        "w": 11,
+        "h": 13,
+        "x": 1283,
+        "y": 1000,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ae",
+        "w": 11,
+        "h": 13,
+        "x": 1296,
+        "y": 1000,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/af",
+        "w": 11,
+        "h": 13,
+        "x": 1283,
+        "y": 1000,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ag",
+        "w": 11,
+        "h": 13,
+        "x": 1309,
+        "y": 1000,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ah",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 552,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ai",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 565,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/aj",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 578,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ak",
+        "w": 71,
+        "h": 48,
+        "x": 1151,
+        "y": 774,
+        "fx": -2,
+        "fy": -13,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/al",
+        "w": 230,
+        "h": 647,
+        "x": 1085,
+        "y": 1,
+        "fx": -2,
+        "fy": -1,
+        "fw": 234,
+        "fh": 649
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/am",
+        "w": 260,
+        "h": 631,
+        "x": 823,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/an",
+        "w": 29,
+        "h": 25,
+        "x": 777,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ao",
+        "w": 67,
+        "h": 11,
+        "x": 433,
+        "y": 994,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ap",
+        "w": 41,
+        "h": 65,
+        "x": 1315,
+        "y": 650
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/aq",
+        "w": 272,
+        "h": 744,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ar",
+        "w": 11,
+        "h": 67,
+        "x": 1317,
+        "y": 110
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/as",
+        "w": 41,
+        "h": 65,
+        "x": 1315,
+        "y": 717
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/at",
+        "w": 25,
+        "h": 29,
+        "x": 1188,
+        "y": 904,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/au",
+        "w": 67,
+        "h": 11,
+        "x": 433,
+        "y": 1007,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/av",
+        "w": 41,
+        "h": 65,
+        "x": 1315,
+        "y": 784
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/aw",
+        "w": 67,
+        "h": 11,
+        "x": 502,
+        "y": 994,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ax",
+        "w": 65,
+        "h": 41,
+        "x": 1054,
+        "y": 910,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ay",
+        "w": 11,
+        "h": 67,
+        "x": 1317,
+        "y": 179
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/az",
+        "w": 65,
+        "h": 41,
+        "x": 1151,
+        "y": 824,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/b",
+        "w": 39,
+        "h": 38,
+        "x": 1317,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 41,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ba",
+        "w": 11,
+        "h": 67,
+        "x": 1330,
+        "y": 143
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bb",
+        "w": 65,
+        "h": 41,
+        "x": 1040,
+        "y": 953,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bc",
+        "w": 67,
+        "h": 11,
+        "x": 502,
+        "y": 1007,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bd",
+        "w": 65,
+        "h": 41,
+        "x": 1218,
+        "y": 838,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/be",
+        "w": 11,
+        "h": 67,
+        "x": 1317,
+        "y": 248
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bf",
+        "w": 65,
+        "h": 41,
+        "x": 1117,
+        "y": 867,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bg",
+        "w": 11,
+        "h": 67,
+        "x": 1330,
+        "y": 212
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bh",
+        "w": 65,
+        "h": 41,
+        "x": 1121,
+        "y": 910,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bi",
+        "w": 244,
+        "h": 76,
+        "x": 823,
+        "y": 634,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bj",
+        "w": 272,
+        "h": 741,
+        "x": 549,
+        "y": 1,
+        "fx": 0,
+        "fy": -3,
+        "fw": 272,
+        "fh": 744
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bk",
+        "w": 244,
+        "h": 76,
+        "x": 1069,
+        "y": 650,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bl",
+        "w": 244,
+        "h": 76,
+        "x": 823,
+        "y": 712,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bm",
+        "w": 244,
+        "h": 76,
+        "x": 808,
+        "y": 790,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bn",
+        "w": 244,
+        "h": 76,
+        "x": 808,
+        "y": 868,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bo",
+        "w": 244,
+        "h": 76,
+        "x": 808,
+        "y": 790,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bp",
+        "w": 244,
+        "h": 76,
+        "x": 823,
+        "y": 712,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bq",
+        "w": 244,
+        "h": 76,
+        "x": 1069,
+        "y": 650,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/br",
+        "w": 244,
+        "h": 76,
+        "x": 823,
+        "y": 634,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bs",
+        "w": 50,
+        "h": 26,
+        "x": 957,
+        "y": 997,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bt",
+        "w": 33,
+        "h": 40,
+        "x": 1221,
+        "y": 932,
+        "fx": -1,
+        "fy": 0,
+        "fw": 35,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bu",
+        "w": 26,
+        "h": 31,
+        "x": 1330,
+        "y": 110,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bv",
+        "w": 272,
+        "h": 744,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bw",
+        "w": 4,
+        "h": 4,
+        "x": 1352,
+        "y": 423
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bx",
+        "w": 14,
+        "h": 12,
+        "x": 1325,
+        "y": 901,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/by",
+        "w": 11,
+        "h": 15,
+        "x": 1134,
+        "y": 1008
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/bz",
+        "w": 15,
+        "h": 11,
+        "x": 1341,
+        "y": 885,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/c",
+        "w": 46,
+        "h": 74,
+        "x": 633,
+        "y": 949,
+        "fx": -13,
+        "fy": -11,
+        "fw": 68,
+        "fh": 97
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ca",
+        "w": 12,
+        "h": 14,
+        "x": 1317,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cb",
+        "w": 11,
+        "h": 14,
+        "x": 1283,
+        "y": 984,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cc",
+        "w": 15,
+        "h": 11,
+        "x": 1341,
+        "y": 898,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cd",
+        "w": 14,
+        "h": 11,
+        "x": 1299,
+        "y": 958,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ce",
+        "w": 5,
+        "h": 5,
+        "x": 801,
+        "y": 1016,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cf",
+        "w": 12,
+        "h": 14,
+        "x": 1269,
+        "y": 982
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cg",
+        "w": 10,
+        "h": 15,
+        "x": 1209,
+        "y": 935,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ch",
+        "w": 7,
+        "h": 7,
+        "x": 1298,
+        "y": 1015,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ci",
+        "w": 9,
+        "h": 11,
+        "x": 1330,
+        "y": 915,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cj",
+        "w": 21,
+        "h": 23,
+        "x": 1335,
+        "y": 340,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ck",
+        "w": 80,
+        "h": 79,
+        "x": 1069,
+        "y": 774,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cl",
+        "w": 6,
+        "h": 5,
+        "x": 1051,
+        "y": 1018,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cm",
+        "w": 11,
+        "h": 11,
+        "x": 1317,
+        "y": 945,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cn",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 591,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/co",
+        "w": 6,
+        "h": 6,
+        "x": 1307,
+        "y": 818,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cp",
+        "w": 12,
+        "h": 16,
+        "x": 1290,
+        "y": 924,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cq",
+        "w": 14,
+        "h": 14,
+        "x": 1069,
+        "y": 634,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cr",
+        "w": 14,
+        "h": 15,
+        "x": 1118,
+        "y": 1008,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cs",
+        "w": 12,
+        "h": 14,
+        "x": 1317,
+        "y": 541,
+        "fx": -13,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ct",
+        "w": 10,
+        "h": 17,
+        "x": 1235,
+        "y": 1006,
+        "fx": -12,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cu",
+        "w": 19,
+        "h": 28,
+        "x": 1304,
+        "y": 883,
+        "fx": -4,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cv",
+        "w": 19,
+        "h": 22,
+        "x": 1269,
+        "y": 924,
+        "fx": -4,
+        "fy": -7,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cw",
+        "w": 22,
+        "h": 16,
+        "x": 777,
+        "y": 1007,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cx",
+        "w": 11,
+        "h": 17,
+        "x": 1209,
+        "y": 1006,
+        "fx": -12,
+        "fy": -7,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cy",
+        "w": 12,
+        "h": 13,
+        "x": 808,
+        "y": 775,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/cz",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 171,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/d",
+        "w": 46,
+        "h": 74,
+        "x": 681,
+        "y": 949,
+        "fx": -13,
+        "fy": -11,
+        "fw": 68,
+        "fh": 97
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/da",
+        "w": 13,
+        "h": 12,
+        "x": 1054,
+        "y": 835,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/db",
+        "w": 13,
+        "h": 15,
+        "x": 808,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dc",
+        "w": 11,
+        "h": 14,
+        "x": 1296,
+        "y": 984,
+        "fx": -19,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dd",
+        "w": 19,
+        "h": 2,
+        "x": 1,
+        "y": 1021,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 2
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/de",
+        "w": 26,
+        "h": 18,
+        "x": 1279,
+        "y": 818,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/df",
+        "w": 26,
+        "h": 18,
+        "x": 1330,
+        "y": 281,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dg",
+        "w": 3,
+        "h": 6,
+        "x": 1353,
+        "y": 90,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dh",
+        "w": 53,
+        "h": 62,
+        "x": 1224,
+        "y": 774,
+        "r": true,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/di",
+        "w": 12,
+        "h": 12,
+        "x": 1344,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dj",
+        "w": 11,
+        "h": 17,
+        "x": 1222,
+        "y": 1006,
+        "fx": -20,
+        "fy": -8,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dk",
+        "w": 4,
+        "h": 4,
+        "x": 1331,
+        "y": 631
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dl",
+        "w": 4,
+        "h": 4,
+        "x": 1352,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dm",
+        "w": 15,
+        "h": 15,
+        "x": 1341,
+        "y": 851
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dn",
+        "w": 15,
+        "h": 15,
+        "x": 1341,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/do",
+        "w": 15,
+        "h": 15,
+        "x": 1101,
+        "y": 1008
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dp",
+        "w": 19,
+        "h": 19,
+        "x": 1317,
+        "y": 425,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dq",
+        "w": 11,
+        "h": 20,
+        "x": 1256,
+        "y": 962,
+        "fx": -20,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dr",
+        "w": 19,
+        "h": 11,
+        "x": 1147,
+        "y": 1008,
+        "r": true,
+        "fx": -20,
+        "fy": -4,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ds",
+        "w": 12,
+        "h": 14,
+        "x": 1317,
+        "y": 557,
+        "fx": -13,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dt",
+        "w": 12,
+        "h": 14,
+        "x": 1317,
+        "y": 573,
+        "fx": -13,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/du",
+        "w": 12,
+        "h": 14,
+        "x": 1317,
+        "y": 589,
+        "fx": -13,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dv",
+        "w": 11,
+        "h": 16,
+        "x": 1256,
+        "y": 984,
+        "fx": -20,
+        "fy": -10,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dw",
+        "w": 11,
+        "h": 16,
+        "x": 1304,
+        "y": 913
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dx",
+        "w": 30,
+        "h": 30,
+        "x": 1309,
+        "y": 851
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dy",
+        "w": 34,
+        "h": 67,
+        "x": 1279,
+        "y": 728,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/dz",
+        "w": 34,
+        "h": 67,
+        "x": 1317,
+        "y": 41,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/e",
+        "w": 46,
+        "h": 74,
+        "x": 729,
+        "y": 949,
+        "fx": -13,
+        "fy": -11,
+        "fw": 68,
+        "fh": 97
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ea",
+        "w": 29,
+        "h": 29,
+        "x": 777,
+        "y": 949,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/eb",
+        "w": 19,
+        "h": 19,
+        "x": 1317,
+        "y": 446,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ec",
+        "w": 19,
+        "h": 19,
+        "x": 1317,
+        "y": 467,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ed",
+        "w": 12,
+        "h": 11,
+        "x": 1290,
+        "y": 942,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ee",
+        "w": 13,
+        "h": 11,
+        "x": 1285,
+        "y": 971,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ef",
+        "w": 13,
+        "h": 10,
+        "x": 1328,
+        "y": 973,
+        "fx": -6,
+        "fy": -3,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/eg",
+        "w": 7,
+        "h": 13,
+        "x": 1339,
+        "y": 403,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/eh",
+        "w": 7,
+        "h": 13,
+        "x": 1339,
+        "y": 403,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ei",
+        "w": 59,
+        "h": 53,
+        "x": 1107,
+        "y": 953,
+        "fx": -16,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ej",
+        "w": 61,
+        "h": 53,
+        "x": 1054,
+        "y": 855,
+        "fx": -14,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ek",
+        "w": 31,
+        "h": 35,
+        "x": 1184,
+        "y": 867,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 45,
+        "fh": 39
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/el",
+        "w": 13,
+        "h": 15,
+        "x": 1054,
+        "y": 790,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/em",
+        "w": 51,
+        "h": 51,
+        "x": 1168,
+        "y": 953,
+        "fx": -3,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/en",
+        "w": 14,
+        "h": 14,
+        "x": 1317,
+        "y": 509,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/eo",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 185,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ep",
+        "w": 13,
+        "h": 11,
+        "x": 1300,
+        "y": 971,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/eq",
+        "w": 81,
+        "h": 49,
+        "x": 957,
+        "y": 946,
+        "fx": -1,
+        "fy": -1,
+        "fw": 84,
+        "fh": 53
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/er",
+        "w": 7,
+        "h": 18,
+        "x": 1349,
+        "y": 388,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/es",
+        "w": 10,
+        "h": 24,
+        "x": 1343,
+        "y": 255,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/et",
+        "w": 26,
+        "h": 11,
+        "x": 1330,
+        "y": 301,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/eu",
+        "w": 11,
+        "h": 28,
+        "x": 1256,
+        "y": 932,
+        "r": true,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ev",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 199,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ew",
+        "w": 11,
+        "h": 13,
+        "x": 1331,
+        "y": 541,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ex",
+        "w": 11,
+        "h": 14,
+        "x": 1309,
+        "y": 984,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ey",
+        "w": 11,
+        "h": 13,
+        "x": 1331,
+        "y": 556,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ez",
+        "w": 11,
+        "h": 13,
+        "x": 1331,
+        "y": 541,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/f",
+        "w": 52,
+        "h": 74,
+        "x": 579,
+        "y": 949,
+        "fx": -7,
+        "fy": -11,
+        "fw": 68,
+        "fh": 97
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fa",
+        "w": 11,
+        "h": 13,
+        "x": 1331,
+        "y": 571,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fb",
+        "w": 11,
+        "h": 14,
+        "x": 1333,
+        "y": 509,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fc",
+        "w": 11,
+        "h": 14,
+        "x": 1309,
+        "y": 984,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fd",
+        "w": 11,
+        "h": 14,
+        "x": 1331,
+        "y": 525,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fe",
+        "w": 4,
+        "h": 5,
+        "x": 1059,
+        "y": 1018,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ff",
+        "w": 7,
+        "h": 7,
+        "x": 1334,
+        "y": 1013,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fg",
+        "w": 5,
+        "h": 7,
+        "x": 801,
+        "y": 1007,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fh",
+        "w": 17,
+        "h": 17,
+        "x": 1190,
+        "y": 1006,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fi",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 213,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fj",
+        "w": 20,
+        "h": 17,
+        "x": 1168,
+        "y": 1006,
+        "fx": 0,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fk",
+        "w": 11,
+        "h": 13,
+        "x": 1331,
+        "y": 586,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fl",
+        "w": 50,
+        "h": 49,
+        "x": 1217,
+        "y": 881,
+        "fx": 0,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fm",
+        "w": 3,
+        "h": 7,
+        "x": 1353,
+        "y": 72
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fn",
+        "w": 3,
+        "h": 8,
+        "x": 1353,
+        "y": 52
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fo",
+        "w": 8,
+        "h": 4,
+        "x": 1258,
+        "y": 1019,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fp",
+        "w": 4,
+        "h": 9,
+        "x": 1218,
+        "y": 824
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fq",
+        "w": 8,
+        "h": 4,
+        "x": 1258,
+        "y": 1019,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fr",
+        "w": 4,
+        "h": 9,
+        "x": 1218,
+        "y": 824
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fs",
+        "w": 3,
+        "h": 8,
+        "x": 1353,
+        "y": 62
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ft",
+        "w": 3,
+        "h": 7,
+        "x": 1353,
+        "y": 81
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fu",
+        "w": 9,
+        "h": 4,
+        "x": 1054,
+        "y": 849,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fv",
+        "w": 4,
+        "h": 8,
+        "x": 1279,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fw",
+        "w": 9,
+        "h": 4,
+        "x": 1054,
+        "y": 849,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fx",
+        "w": 4,
+        "h": 8,
+        "x": 1279,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fy",
+        "w": 10,
+        "h": 13,
+        "x": 1330,
+        "y": 928,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/fz",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 227,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/g",
+        "w": 16,
+        "h": 32,
+        "x": 1317,
+        "y": 351,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 34,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ga",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 199,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gb",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 241,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gc",
+        "w": 7,
+        "h": 5,
+        "x": 1040,
+        "y": 946,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gd",
+        "w": 11,
+        "h": 7,
+        "x": 1285,
+        "y": 1015,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ge",
+        "w": 9,
+        "h": 15,
+        "x": 1247,
+        "y": 1006,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gf",
+        "w": 13,
+        "h": 11,
+        "x": 1343,
+        "y": 924,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gg",
+        "w": 12,
+        "h": 14,
+        "x": 1317,
+        "y": 605
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gh",
+        "w": 15,
+        "h": 11,
+        "x": 1341,
+        "y": 911,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gi",
+        "w": 12,
+        "h": 14,
+        "x": 1317,
+        "y": 621
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gj",
+        "w": 15,
+        "h": 11,
+        "x": 1317,
+        "y": 637,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gk",
+        "w": 6,
+        "h": 5,
+        "x": 1051,
+        "y": 1018,
+        "fx": -6,
+        "fy": -13,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gl",
+        "w": 6,
+        "h": 8,
+        "x": 571,
+        "y": 994,
+        "fx": -6,
+        "fy": -11,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gm",
+        "w": 10,
+        "h": 13,
+        "x": 1330,
+        "y": 943,
+        "fx": -4,
+        "fy": -6,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gn",
+        "w": 14,
+        "h": 16,
+        "x": 1325,
+        "y": 883,
+        "fx": -2,
+        "fy": -4,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/go",
+        "w": 19,
+        "h": 16,
+        "x": 1188,
+        "y": 935,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gp",
+        "w": 14,
+        "h": 16,
+        "x": 1269,
+        "y": 948,
+        "fx": -2,
+        "fy": -3,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gq",
+        "w": 208,
+        "h": 44,
+        "x": 1069,
+        "y": 728,
+        "r": true,
+        "fx": -67,
+        "fy": -104,
+        "fw": 272,
+        "fh": 430
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gr",
+        "w": 147,
+        "h": 77,
+        "x": 808,
+        "y": 946,
+        "fx": -62,
+        "fy": -108,
+        "fw": 272,
+        "fh": 430
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gs",
+        "w": 144,
+        "h": 245,
+        "x": 433,
+        "y": 747,
+        "fx": -51,
+        "fy": -47,
+        "fw": 272,
+        "fh": 430
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gt",
+        "w": 7,
+        "h": 8,
+        "x": 1270,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gu",
+        "w": 6,
+        "h": 6,
+        "x": 1285,
+        "y": 873
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gv",
+        "w": 227,
+        "h": 203,
+        "x": 579,
+        "y": 744,
+        "fx": -45,
+        "fy": -99,
+        "fw": 272,
+        "fh": 430
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gw",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 143,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gx",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 604,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gy",
+        "w": 13,
+        "h": 12,
+        "x": 808,
+        "y": 761,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/gz",
+        "w": 13,
+        "h": 12,
+        "x": 1054,
+        "y": 807,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/h",
+        "w": 22,
+        "h": 33,
+        "x": 1285,
+        "y": 838,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 35,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ha",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 157,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hb",
+        "w": 11,
+        "h": 13,
+        "x": 1331,
+        "y": 601,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hc",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 617,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hd",
+        "w": 13,
+        "h": 12,
+        "x": 1054,
+        "y": 821,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/he",
+        "w": 11,
+        "h": 13,
+        "x": 1331,
+        "y": 616,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hf",
+        "w": 33,
+        "h": 30,
+        "x": 1221,
+        "y": 974
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hg",
+        "w": 30,
+        "h": 10,
+        "x": 1117,
+        "y": 855,
+        "fx": -1,
+        "fy": 0,
+        "fw": 35,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hh",
+        "w": 430,
+        "h": 272,
+        "x": 1,
+        "y": 747,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hi",
+        "w": 2,
+        "h": 2,
+        "x": 1184,
+        "y": 904
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hj",
+        "w": 10,
+        "h": 15,
+        "x": 1258,
+        "y": 1002,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hk",
+        "w": 8,
+        "h": 7,
+        "x": 1348,
+        "y": 408,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hl",
+        "w": 21,
+        "h": 21,
+        "x": 1335,
+        "y": 365,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hm",
+        "w": 19,
+        "h": 19,
+        "x": 1317,
+        "y": 488,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hn",
+        "w": 5,
+        "h": 5,
+        "x": 801,
+        "y": 1016,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ho",
+        "w": 7,
+        "h": 7,
+        "x": 1298,
+        "y": 1015,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hp",
+        "w": 3,
+        "h": 3,
+        "x": 1049,
+        "y": 946,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hq",
+        "w": 21,
+        "h": 23,
+        "x": 1335,
+        "y": 340,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hr",
+        "w": 3,
+        "h": 3,
+        "x": 1049,
+        "y": 946,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hs",
+        "w": 3,
+        "h": 3,
+        "x": 1049,
+        "y": 946,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ht",
+        "w": 13,
+        "h": 10,
+        "x": 1343,
+        "y": 937,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hu",
+        "w": 6,
+        "h": 5,
+        "x": 1051,
+        "y": 1018,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hv",
+        "w": 6,
+        "h": 6,
+        "x": 1307,
+        "y": 818,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hw",
+        "w": 12,
+        "h": 13,
+        "x": 1335,
+        "y": 388,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hx",
+        "w": 14,
+        "h": 14,
+        "x": 1269,
+        "y": 966,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hy",
+        "w": 21,
+        "h": 24,
+        "x": 1335,
+        "y": 314,
+        "r": true,
+        "fx": -9,
+        "fy": -9,
+        "fw": 40,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/hz",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 630,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/i",
+        "w": 33,
+        "h": 41,
+        "x": 1269,
+        "y": 881,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 44,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ia",
+        "w": 12,
+        "h": 11,
+        "x": 1342,
+        "y": 949,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ib",
+        "w": 11,
+        "h": 12,
+        "x": 1322,
+        "y": 985,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ic",
+        "w": 12,
+        "h": 11,
+        "x": 1342,
+        "y": 949,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/id",
+        "w": 11,
+        "h": 12,
+        "x": 1322,
+        "y": 999,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ie",
+        "w": 11,
+        "h": 9,
+        "x": 1315,
+        "y": 973,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/if",
+        "w": 11,
+        "h": 12,
+        "x": 1335,
+        "y": 985,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ig",
+        "w": 10,
+        "h": 10,
+        "x": 1322,
+        "y": 1013
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ih",
+        "w": 20,
+        "h": 20,
+        "x": 1317,
+        "y": 403
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ii",
+        "w": 4,
+        "h": 10,
+        "x": 1101,
+        "y": 996
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ij",
+        "w": 16,
+        "h": 16,
+        "x": 1317,
+        "y": 385
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/ik",
+        "w": 11,
+        "h": 12,
+        "x": 1335,
+        "y": 999,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/il",
+        "w": 11,
+        "h": 12,
+        "x": 1335,
+        "y": 985,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/im",
+        "w": 11,
+        "h": 12,
+        "x": 1339,
+        "y": 418,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/j",
+        "w": 40,
+        "h": 26,
+        "x": 1009,
+        "y": 997,
+        "fx": -2,
+        "fy": -1,
+        "fw": 44,
+        "fh": 29
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/k",
+        "w": 48,
+        "h": 20,
+        "x": 1051,
+        "y": 996,
+        "fx": -2,
+        "fy": -1,
+        "fw": 51,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/l",
+        "w": 16,
+        "h": 32,
+        "x": 1317,
+        "y": 317,
+        "fx": -1,
+        "fy": -2,
+        "fw": 18,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/m",
+        "w": 34,
+        "h": 19,
+        "x": 1279,
+        "y": 797,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 21,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/n",
+        "w": 12,
+        "h": 14,
+        "x": 1285,
+        "y": 955
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/o",
+        "w": 3,
+        "h": 9,
+        "x": 1353,
+        "y": 41,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/p",
+        "w": 11,
+        "h": 15,
+        "x": 1270,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/q",
+        "w": 13,
+        "h": 12,
+        "x": 1343,
+        "y": 171,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/r",
+        "w": 11,
+        "h": 13,
+        "x": 1317,
+        "y": 915,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/s",
+        "w": 11,
+        "h": 13,
+        "x": 1317,
+        "y": 930,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/t",
+        "w": 12,
+        "h": 11,
+        "x": 1344,
+        "y": 565,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/u",
+        "w": 11,
+        "h": 12,
+        "x": 1304,
+        "y": 931,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/v",
+        "w": 11,
+        "h": 11,
+        "x": 1338,
+        "y": 446,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/w",
+        "w": 11,
+        "h": 13,
+        "x": 1315,
+        "y": 958,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/x",
+        "w": 11,
+        "h": 13,
+        "x": 1317,
+        "y": 930,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/y",
+        "w": 11,
+        "h": 13,
+        "x": 1328,
+        "y": 958,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/hero_girl_001/.gen/movie/z",
+        "w": 11,
+        "h": 12,
+        "x": 1338,
+        "y": 432,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    }
+]

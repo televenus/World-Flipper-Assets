@@ -1,0 +1,1647 @@
+[
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 288,
+        "y": 2002
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/aa",
+        "w": 15,
+        "h": 16,
+        "x": 275,
+        "y": 798
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ab",
+        "w": 11,
+        "h": 14,
+        "x": 275,
+        "y": 1635,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ac",
+        "w": 11,
+        "h": 14,
+        "x": 288,
+        "y": 1635,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ad",
+        "w": 11,
+        "h": 14,
+        "x": 275,
+        "y": 1666
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ae",
+        "w": 11,
+        "h": 14,
+        "x": 288,
+        "y": 1666
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/af",
+        "w": 13,
+        "h": 14,
+        "x": 275,
+        "y": 1197,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ag",
+        "w": 6,
+        "h": 5,
+        "x": 195,
+        "y": 1920,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ah",
+        "w": 6,
+        "h": 6,
+        "x": 293,
+        "y": 1,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ai",
+        "w": 16,
+        "h": 12,
+        "x": 1,
+        "y": 2035,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/aj",
+        "w": 14,
+        "h": 14,
+        "x": 275,
+        "y": 1096,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ak",
+        "w": 14,
+        "h": 15,
+        "x": 275,
+        "y": 977,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/al",
+        "w": 8,
+        "h": 7,
+        "x": 195,
+        "y": 1990,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/am",
+        "w": 21,
+        "h": 21,
+        "x": 265,
+        "y": 1985,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/an",
+        "w": 19,
+        "h": 19,
+        "x": 275,
+        "y": 696,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ao",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1344,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ap",
+        "w": 15,
+        "h": 12,
+        "x": 19,
+        "y": 2035,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/aq",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1344,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ar",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1359,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/as",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1374,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/at",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1389,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/au",
+        "w": 9,
+        "h": 9,
+        "x": 290,
+        "y": 1889,
+        "fx": 0,
+        "fy": 0,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/av",
+        "w": 16,
+        "h": 11,
+        "x": 177,
+        "y": 1990,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/aw",
+        "w": 14,
+        "h": 23,
+        "x": 275,
+        "y": 561,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ax",
+        "w": 24,
+        "h": 21,
+        "x": 275,
+        "y": 284,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ay",
+        "w": 16,
+        "h": 20,
+        "x": 275,
+        "y": 586,
+        "r": true,
+        "fx": -6,
+        "fy": -8,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/az",
+        "w": 16,
+        "h": 98,
+        "x": 275,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/b",
+        "w": 56,
+        "h": 74,
+        "x": 119,
+        "y": 1927,
+        "fx": -108,
+        "fy": -329,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ba",
+        "w": 116,
+        "h": 145,
+        "x": 1,
+        "y": 1847
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bb",
+        "w": 272,
+        "h": 368,
+        "x": 1,
+        "y": 1477
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bc",
+        "w": 13,
+        "h": 14,
+        "x": 275,
+        "y": 1213,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bd",
+        "w": 13,
+        "h": 14,
+        "x": 275,
+        "y": 1197,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/be",
+        "w": 13,
+        "h": 14,
+        "x": 275,
+        "y": 1229,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bf",
+        "w": 11,
+        "h": 14,
+        "x": 275,
+        "y": 1682,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bg",
+        "w": 11,
+        "h": 14,
+        "x": 288,
+        "y": 1682,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bh",
+        "w": 11,
+        "h": 15,
+        "x": 288,
+        "y": 1985,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bi",
+        "w": 4,
+        "h": 5,
+        "x": 295,
+        "y": 352,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bj",
+        "w": 7,
+        "h": 7,
+        "x": 292,
+        "y": 534,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bk",
+        "w": 9,
+        "h": 8,
+        "x": 108,
+        "y": 2039,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bl",
+        "w": 17,
+        "h": 17,
+        "x": 275,
+        "y": 758,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bm",
+        "w": 33,
+        "h": 27,
+        "x": 263,
+        "y": 1956
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bn",
+        "w": 4,
+        "h": 4,
+        "x": 295,
+        "y": 359
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bo",
+        "w": 4,
+        "h": 4,
+        "x": 295,
+        "y": 359
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bp",
+        "w": 4,
+        "h": 4,
+        "x": 295,
+        "y": 359
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bq",
+        "w": 31,
+        "h": 25,
+        "x": 205,
+        "y": 1981
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/br",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1404,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bs",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1359,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bt",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1419,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bu",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1434,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bv",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1279,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bw",
+        "w": 15,
+        "h": 15,
+        "x": 275,
+        "y": 906,
+        "fx": -121,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bx",
+        "w": 15,
+        "h": 16,
+        "x": 275,
+        "y": 816,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/by",
+        "w": 15,
+        "h": 16,
+        "x": 275,
+        "y": 816,
+        "fx": -121,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/bz",
+        "w": 15,
+        "h": 15,
+        "x": 275,
+        "y": 923,
+        "fx": -121,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/c",
+        "w": 15,
+        "h": 12,
+        "x": 36,
+        "y": 2035,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ca",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1295,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cb",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1279,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cc",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1311,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cd",
+        "w": 12,
+        "h": 15,
+        "x": 287,
+        "y": 456,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ce",
+        "w": 56,
+        "h": 74,
+        "x": 119,
+        "y": 1927,
+        "fx": -108,
+        "fy": -329,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cf",
+        "w": 13,
+        "h": 15,
+        "x": 275,
+        "y": 1112,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cg",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1419,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ch",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1434,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ci",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cj",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1449,
+        "fx": -122,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ck",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1389,
+        "fx": -122,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cl",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1464,
+        "fx": -122,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cm",
+        "w": 12,
+        "h": 15,
+        "x": 287,
+        "y": 473,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cn",
+        "w": 12,
+        "h": 15,
+        "x": 287,
+        "y": 490,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/co",
+        "w": 12,
+        "h": 15,
+        "x": 287,
+        "y": 456,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cp",
+        "w": 12,
+        "h": 15,
+        "x": 275,
+        "y": 1245,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cq",
+        "w": 40,
+        "h": 40,
+        "x": 259,
+        "y": 1847,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cr",
+        "w": 20,
+        "h": 20,
+        "x": 275,
+        "y": 608,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cs",
+        "w": 17,
+        "h": 18,
+        "x": 275,
+        "y": 738,
+        "fx": -37,
+        "fy": -34,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ct",
+        "w": 15,
+        "h": 16,
+        "x": 275,
+        "y": 888,
+        "r": true,
+        "fx": -38,
+        "fy": -37,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cu",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 739,
+        "fx": -232,
+        "fy": 0,
+        "fw": 736,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cv",
+        "w": 19,
+        "h": 19,
+        "x": 275,
+        "y": 717,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cw",
+        "w": 4,
+        "h": 20,
+        "x": 295,
+        "y": 330,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cx",
+        "w": 17,
+        "h": 33,
+        "x": 275,
+        "y": 371,
+        "fx": -36,
+        "fy": -19,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cy",
+        "w": 18,
+        "h": 47,
+        "x": 275,
+        "y": 235,
+        "fx": -36,
+        "fy": 0,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/cz",
+        "w": 44,
+        "h": 25,
+        "x": 62,
+        "y": 2022,
+        "r": true,
+        "fx": -31,
+        "fy": -3,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/d",
+        "w": 3,
+        "h": 9,
+        "x": 296,
+        "y": 696,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/da",
+        "w": 25,
+        "h": 17,
+        "x": 238,
+        "y": 1991,
+        "r": true,
+        "fx": -35,
+        "fy": -20,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/db",
+        "w": 15,
+        "h": 25,
+        "x": 275,
+        "y": 534,
+        "r": true,
+        "fx": -29,
+        "fy": -23,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dc",
+        "w": 24,
+        "h": 21,
+        "x": 275,
+        "y": 307,
+        "r": true,
+        "fx": -33,
+        "fy": -19,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dd",
+        "w": 27,
+        "h": 34,
+        "x": 263,
+        "y": 1920,
+        "r": true,
+        "fx": -28,
+        "fy": -24,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/de",
+        "w": 26,
+        "h": 51,
+        "x": 235,
+        "y": 1920,
+        "r": true,
+        "fx": -20,
+        "fy": -30,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/df",
+        "w": 55,
+        "h": 26,
+        "x": 62,
+        "y": 1994,
+        "fx": -18,
+        "fy": -32,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dg",
+        "w": 14,
+        "h": 15,
+        "x": 275,
+        "y": 994,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dh",
+        "w": 15,
+        "h": 16,
+        "x": 275,
+        "y": 834,
+        "fx": -41,
+        "fy": -30,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/di",
+        "w": 14,
+        "h": 19,
+        "x": 275,
+        "y": 777,
+        "fx": -41,
+        "fy": -30,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dj",
+        "w": 28,
+        "h": 59,
+        "x": 205,
+        "y": 1920,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dk",
+        "w": 20,
+        "h": 65,
+        "x": 275,
+        "y": 101,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dl",
+        "w": 18,
+        "h": 65,
+        "x": 275,
+        "y": 168,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dm",
+        "w": 26,
+        "h": 61,
+        "x": 177,
+        "y": 1927,
+        "fx": -2,
+        "fy": -1,
+        "fw": 29,
+        "fh": 65
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dn",
+        "w": 10,
+        "h": 28,
+        "x": 275,
+        "y": 474,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/do",
+        "w": 16,
+        "h": 25,
+        "x": 275,
+        "y": 507,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dp",
+        "w": 23,
+        "h": 16,
+        "x": 238,
+        "y": 1973
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dq",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1479,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dr",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1494,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ds",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1434,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dt",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1419,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/du",
+        "w": 32,
+        "h": 28,
+        "x": 234,
+        "y": 2010,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dv",
+        "w": 32,
+        "h": 30,
+        "x": 200,
+        "y": 2008,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 32,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dw",
+        "w": 16,
+        "h": 31,
+        "x": 275,
+        "y": 406
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dx",
+        "w": 33,
+        "h": 34,
+        "x": 165,
+        "y": 2003,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dy",
+        "w": 20,
+        "h": 20,
+        "x": 275,
+        "y": 630
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/dz",
+        "w": 29,
+        "h": 29,
+        "x": 259,
+        "y": 1889,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/e",
+        "w": 15,
+        "h": 12,
+        "x": 19,
+        "y": 2035,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ea",
+        "w": 13,
+        "h": 15,
+        "x": 275,
+        "y": 1180,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/eb",
+        "w": 20,
+        "h": 20,
+        "x": 275,
+        "y": 652
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ec",
+        "w": 10,
+        "h": 33,
+        "x": 275,
+        "y": 439,
+        "fx": 0,
+        "fy": 0,
+        "fw": 11,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ed",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1509,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ee",
+        "w": 20,
+        "h": 20,
+        "x": 275,
+        "y": 674
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ef",
+        "w": 14,
+        "h": 15,
+        "x": 275,
+        "y": 1011,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/eg",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1524,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/eh",
+        "w": 14,
+        "h": 15,
+        "x": 275,
+        "y": 1028,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ei",
+        "w": 30,
+        "h": 30,
+        "x": 268,
+        "y": 2008,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ej",
+        "w": 44,
+        "h": 44,
+        "x": 119,
+        "y": 2003,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ek",
+        "w": 11,
+        "h": 15,
+        "x": 288,
+        "y": 1327,
+        "r": true,
+        "fx": -25,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/el",
+        "w": 18,
+        "h": 39,
+        "x": 275,
+        "y": 330,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/em",
+        "w": 13,
+        "h": 17,
+        "x": 275,
+        "y": 940,
+        "fx": -26,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/en",
+        "w": 10,
+        "h": 14,
+        "x": 289,
+        "y": 1245,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/eo",
+        "w": 11,
+        "h": 15,
+        "x": 275,
+        "y": 1327,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ep",
+        "w": 13,
+        "h": 16,
+        "x": 275,
+        "y": 959,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/eq",
+        "w": 71,
+        "h": 71,
+        "x": 186,
+        "y": 1847
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/er",
+        "w": 65,
+        "h": 78,
+        "x": 119,
+        "y": 1847
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/es",
+        "w": 59,
+        "h": 39,
+        "x": 1,
+        "y": 1994,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/et",
+        "w": 10,
+        "h": 10,
+        "x": 289,
+        "y": 1261
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/eu",
+        "w": 10,
+        "h": 10,
+        "x": 289,
+        "y": 1273
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ev",
+        "w": 12,
+        "h": 15,
+        "x": 287,
+        "y": 439,
+        "fx": -29,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ew",
+        "w": 10,
+        "h": 10,
+        "x": 289,
+        "y": 1285
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ex",
+        "w": 10,
+        "h": 10,
+        "x": 289,
+        "y": 1297
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ey",
+        "w": 7,
+        "h": 5,
+        "x": 186,
+        "y": 1920,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ez",
+        "w": 7,
+        "h": 11,
+        "x": 53,
+        "y": 2035,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/f",
+        "w": 7,
+        "h": 5,
+        "x": 186,
+        "y": 1920,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/fa",
+        "w": 9,
+        "h": 15,
+        "x": 108,
+        "y": 2022,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/fb",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1539
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/fc",
+        "w": 15,
+        "h": 15,
+        "x": 275,
+        "y": 1045
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/fd",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1555
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/fe",
+        "w": 15,
+        "h": 15,
+        "x": 275,
+        "y": 1062
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/ff",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1571
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/fg",
+        "w": 15,
+        "h": 15,
+        "x": 275,
+        "y": 1079
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/g",
+        "w": 7,
+        "h": 11,
+        "x": 53,
+        "y": 2035,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/h",
+        "w": 9,
+        "h": 15,
+        "x": 108,
+        "y": 2022,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/i",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1404,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/j",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1651,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/k",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1344,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/l",
+        "w": 13,
+        "h": 13,
+        "x": 275,
+        "y": 1374,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/m",
+        "w": 12,
+        "h": 15,
+        "x": 287,
+        "y": 456,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/n",
+        "w": 12,
+        "h": 15,
+        "x": 275,
+        "y": 1262,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/o",
+        "w": 13,
+        "h": 15,
+        "x": 275,
+        "y": 1129,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/p",
+        "w": 3,
+        "h": 9,
+        "x": 296,
+        "y": 696,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/q",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1587
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/r",
+        "w": 15,
+        "h": 16,
+        "x": 275,
+        "y": 852
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/s",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/t",
+        "w": 4,
+        "h": 4,
+        "x": 294,
+        "y": 2002
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/u",
+        "w": 13,
+        "h": 15,
+        "x": 275,
+        "y": 1146,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/v",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1603
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/w",
+        "w": 15,
+        "h": 16,
+        "x": 275,
+        "y": 870
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/x",
+        "w": 13,
+        "h": 15,
+        "x": 275,
+        "y": 1129,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/y",
+        "w": 13,
+        "h": 15,
+        "x": 275,
+        "y": 1163,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_shaman_003/.gen/movie/z",
+        "w": 12,
+        "h": 14,
+        "x": 275,
+        "y": 1619
+    }
+]

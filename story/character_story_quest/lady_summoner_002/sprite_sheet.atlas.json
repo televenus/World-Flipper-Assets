@@ -1,0 +1,623 @@
+[
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 162,
+        "y": 335
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/aa",
+        "w": 9,
+        "h": 8,
+        "x": 148,
+        "y": 280,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ab",
+        "w": 17,
+        "h": 17,
+        "x": 54,
+        "y": 301,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ac",
+        "w": 5,
+        "h": 4,
+        "x": 148,
+        "y": 290,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ad",
+        "w": 7,
+        "h": 7,
+        "x": 160,
+        "y": 290,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ae",
+        "w": 7,
+        "h": 5,
+        "x": 69,
+        "y": 320,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/af",
+        "w": 17,
+        "h": 17,
+        "x": 54,
+        "y": 301,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ag",
+        "w": 13,
+        "h": 16,
+        "x": 75,
+        "y": 280,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ah",
+        "w": 15,
+        "h": 9,
+        "x": 92,
+        "y": 316,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ai",
+        "w": 15,
+        "h": 9,
+        "x": 109,
+        "y": 316,
+        "fx": -2,
+        "fy": 0,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/aj",
+        "w": 9,
+        "h": 15,
+        "x": 118,
+        "y": 297,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ak",
+        "w": 7,
+        "h": 8,
+        "x": 160,
+        "y": 280,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/al",
+        "w": 21,
+        "h": 21,
+        "x": 31,
+        "y": 305,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/am",
+        "w": 19,
+        "h": 19,
+        "x": 54,
+        "y": 280,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/an",
+        "w": 5,
+        "h": 5,
+        "x": 78,
+        "y": 320,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ao",
+        "w": 7,
+        "h": 7,
+        "x": 160,
+        "y": 299,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ap",
+        "w": 3,
+        "h": 3,
+        "x": 155,
+        "y": 290,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/aq",
+        "w": 21,
+        "h": 23,
+        "x": 31,
+        "y": 280,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ar",
+        "w": 3,
+        "h": 3,
+        "x": 155,
+        "y": 290,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/as",
+        "w": 3,
+        "h": 3,
+        "x": 155,
+        "y": 290,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/at",
+        "w": 5,
+        "h": 6,
+        "x": 62,
+        "y": 320,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/au",
+        "w": 6,
+        "h": 6,
+        "x": 54,
+        "y": 320,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/av",
+        "w": 16,
+        "h": 12,
+        "x": 82,
+        "y": 327,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/aw",
+        "w": 14,
+        "h": 14,
+        "x": 129,
+        "y": 297,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ax",
+        "w": 14,
+        "h": 15,
+        "x": 116,
+        "y": 280,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ay",
+        "w": 12,
+        "h": 12,
+        "x": 148,
+        "y": 327,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/az",
+        "w": 12,
+        "h": 12,
+        "x": 155,
+        "y": 311,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/b",
+        "w": 149,
+        "h": 83,
+        "x": 31,
+        "y": 195,
+        "fx": -10,
+        "fy": -15,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/ba",
+        "w": 12,
+        "h": 12,
+        "x": 169,
+        "y": 280,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/bb",
+        "w": 5,
+        "h": 5,
+        "x": 85,
+        "y": 320,
+        "fx": -11,
+        "fy": -18,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/bc",
+        "w": 7,
+        "h": 7,
+        "x": 160,
+        "y": 290,
+        "fx": -10,
+        "fy": -14,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/bd",
+        "w": 13,
+        "h": 13,
+        "x": 145,
+        "y": 296,
+        "fx": -7,
+        "fy": -8,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/be",
+        "w": 17,
+        "h": 17,
+        "x": 73,
+        "y": 301,
+        "fx": -5,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/bf",
+        "w": 12,
+        "h": 11,
+        "x": 126,
+        "y": 314,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/bg",
+        "w": 12,
+        "h": 11,
+        "x": 169,
+        "y": 294,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/bh",
+        "w": 12,
+        "h": 11,
+        "x": 169,
+        "y": 307,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/c",
+        "w": 28,
+        "h": 144,
+        "x": 1,
+        "y": 195,
+        "r": true,
+        "fx": -26,
+        "fy": -57,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/d",
+        "w": 12,
+        "h": 12,
+        "x": 155,
+        "y": 311,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/e",
+        "w": 9,
+        "h": 3,
+        "x": 169,
+        "y": 320
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/f",
+        "w": 15,
+        "h": 9,
+        "x": 109,
+        "y": 316,
+        "fx": -2,
+        "fy": 0,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/g",
+        "w": 10,
+        "h": 16,
+        "x": 104,
+        "y": 280
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/h",
+        "w": 3,
+        "h": 8,
+        "x": 162,
+        "y": 325,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/i",
+        "w": 180,
+        "h": 192,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/j",
+        "w": 4,
+        "h": 4,
+        "x": 167,
+        "y": 325
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/k",
+        "w": 12,
+        "h": 16,
+        "x": 90,
+        "y": 280
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/l",
+        "w": 5,
+        "h": 6,
+        "x": 62,
+        "y": 320,
+        "r": true,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/m",
+        "w": 6,
+        "h": 6,
+        "x": 54,
+        "y": 320,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/n",
+        "w": 13,
+        "h": 12,
+        "x": 140,
+        "y": 313,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/o",
+        "w": 14,
+        "h": 14,
+        "x": 132,
+        "y": 280,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/p",
+        "w": 10,
+        "h": 16,
+        "x": 106,
+        "y": 298
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/q",
+        "w": 12,
+        "h": 16,
+        "x": 92,
+        "y": 298
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/r",
+        "w": 12,
+        "h": 11,
+        "x": 169,
+        "y": 294,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/s",
+        "w": 15,
+        "h": 11,
+        "x": 31,
+        "y": 328,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/t",
+        "w": 14,
+        "h": 12,
+        "x": 100,
+        "y": 327,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/u",
+        "w": 15,
+        "h": 11,
+        "x": 48,
+        "y": 328,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/v",
+        "w": 14,
+        "h": 12,
+        "x": 116,
+        "y": 327,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/w",
+        "w": 14,
+        "h": 12,
+        "x": 132,
+        "y": 327,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/x",
+        "w": 15,
+        "h": 11,
+        "x": 65,
+        "y": 328,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/y",
+        "w": 5,
+        "h": 4,
+        "x": 148,
+        "y": 290,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lady_summoner_002/.gen/movie/z",
+        "w": 7,
+        "h": 7,
+        "x": 160,
+        "y": 290,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    }
+]

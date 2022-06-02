@@ -1,0 +1,706 @@
+[
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 250,
+        "y": 420
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/aa",
+        "w": 11,
+        "h": 13,
+        "x": 243,
+        "y": 222,
+        "fx": -171,
+        "fy": -163,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ab",
+        "w": 11,
+        "h": 11,
+        "x": 243,
+        "y": 237,
+        "fx": -171,
+        "fy": -166,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ac",
+        "w": 19,
+        "h": 13,
+        "x": 69,
+        "y": 506,
+        "fx": -173,
+        "fy": -165,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ad",
+        "w": 14,
+        "h": 19,
+        "x": 239,
+        "y": 443,
+        "r": true,
+        "fx": -173,
+        "fy": -164,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ae",
+        "w": 10,
+        "h": 16,
+        "x": 243,
+        "y": 270
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/af",
+        "w": 8,
+        "h": 3,
+        "x": 243,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ag",
+        "w": 12,
+        "h": 16,
+        "x": 243,
+        "y": 25
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ah",
+        "w": 12,
+        "h": 14,
+        "x": 243,
+        "y": 60
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ai",
+        "w": 12,
+        "h": 14,
+        "x": 243,
+        "y": 76
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/aj",
+        "w": 12,
+        "h": 14,
+        "x": 243,
+        "y": 92
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ak",
+        "w": 12,
+        "h": 11,
+        "x": 243,
+        "y": 122,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/al",
+        "w": 11,
+        "h": 14,
+        "x": 243,
+        "y": 206,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/am",
+        "w": 8,
+        "h": 7,
+        "x": 243,
+        "y": 366,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/an",
+        "w": 10,
+        "h": 16,
+        "x": 243,
+        "y": 288
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ao",
+        "w": 21,
+        "h": 21,
+        "x": 46,
+        "y": 494,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ap",
+        "w": 19,
+        "h": 19,
+        "x": 218,
+        "y": 443,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/aq",
+        "w": 12,
+        "h": 11,
+        "x": 243,
+        "y": 135,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ar",
+        "w": 10,
+        "h": 6,
+        "x": 243,
+        "y": 306,
+        "r": true,
+        "fx": -37,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/as",
+        "w": 3,
+        "h": 7,
+        "x": 252,
+        "y": 402
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/at",
+        "w": 8,
+        "h": 3,
+        "x": 243,
+        "y": 392,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/au",
+        "w": 8,
+        "h": 4,
+        "x": 243,
+        "y": 375,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/av",
+        "w": 9,
+        "h": 4,
+        "x": 243,
+        "y": 331,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/aw",
+        "w": 8,
+        "h": 4,
+        "x": 243,
+        "y": 375,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ax",
+        "w": 9,
+        "h": 4,
+        "x": 243,
+        "y": 331,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ay",
+        "w": 8,
+        "h": 3,
+        "x": 243,
+        "y": 397,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/az",
+        "w": 3,
+        "h": 7,
+        "x": 252,
+        "y": 411
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/b",
+        "w": 12,
+        "h": 11,
+        "x": 243,
+        "y": 148,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/ba",
+        "w": 9,
+        "h": 4,
+        "x": 243,
+        "y": 337,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bb",
+        "w": 8,
+        "h": 4,
+        "x": 243,
+        "y": 381,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bc",
+        "w": 9,
+        "h": 4,
+        "x": 243,
+        "y": 337,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bd",
+        "w": 8,
+        "h": 4,
+        "x": 243,
+        "y": 381,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/be",
+        "w": 5,
+        "h": 5,
+        "x": 243,
+        "y": 418,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bf",
+        "w": 7,
+        "h": 7,
+        "x": 243,
+        "y": 402,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bg",
+        "w": 3,
+        "h": 3,
+        "x": 249,
+        "y": 426,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bh",
+        "w": 21,
+        "h": 23,
+        "x": 23,
+        "y": 495,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bi",
+        "w": 3,
+        "h": 3,
+        "x": 249,
+        "y": 426,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bj",
+        "w": 3,
+        "h": 3,
+        "x": 249,
+        "y": 426,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bk",
+        "w": 8,
+        "h": 16,
+        "x": 243,
+        "y": 348
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bl",
+        "w": 5,
+        "h": 5,
+        "x": 243,
+        "y": 418,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bm",
+        "w": 7,
+        "h": 7,
+        "x": 243,
+        "y": 402,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bn",
+        "w": 11,
+        "h": 9,
+        "x": 243,
+        "y": 250,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bo",
+        "w": 21,
+        "h": 23,
+        "x": 23,
+        "y": 495,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bp",
+        "w": 7,
+        "h": 5,
+        "x": 243,
+        "y": 411,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/bq",
+        "w": 11,
+        "h": 7,
+        "x": 243,
+        "y": 261,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/br",
+        "w": 9,
+        "h": 15,
+        "x": 243,
+        "y": 314,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 243,
+        "y": 343
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/d",
+        "w": 240,
+        "h": 440,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/e",
+        "w": 4,
+        "h": 4,
+        "x": 243,
+        "y": 425
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/f",
+        "w": 13,
+        "h": 13,
+        "x": 145,
+        "y": 506,
+        "fx": -173,
+        "fy": -166,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/g",
+        "w": 13,
+        "h": 13,
+        "x": 160,
+        "y": 506,
+        "fx": -173,
+        "fy": -166,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/h",
+        "w": 12,
+        "h": 11,
+        "x": 243,
+        "y": 161,
+        "r": true,
+        "fx": -173,
+        "fy": -165,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/i",
+        "w": 12,
+        "h": 12,
+        "x": 243,
+        "y": 108,
+        "fx": -172,
+        "fy": -164,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/j",
+        "w": 176,
+        "h": 18,
+        "x": 69,
+        "y": 466,
+        "r": true,
+        "fx": -172,
+        "fy": 0,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/k",
+        "w": 176,
+        "h": 18,
+        "x": 69,
+        "y": 486,
+        "r": true,
+        "fx": -172,
+        "fy": 0,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/l",
+        "w": 176,
+        "h": 21,
+        "x": 40,
+        "y": 443,
+        "r": true,
+        "fx": -169,
+        "fy": 0,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/m",
+        "w": 14,
+        "h": 21,
+        "x": 53,
+        "y": 466,
+        "r": true,
+        "fx": -169,
+        "fy": -162,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/n",
+        "w": 13,
+        "h": 23,
+        "x": 38,
+        "y": 469,
+        "r": true,
+        "fx": -167,
+        "fy": -163,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/o",
+        "w": 18,
+        "h": 13,
+        "x": 90,
+        "y": 506,
+        "fx": -172,
+        "fy": -163,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/p",
+        "w": 16,
+        "h": 24,
+        "x": 20,
+        "y": 469,
+        "r": true,
+        "fx": -173,
+        "fy": -160,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/q",
+        "w": 17,
+        "h": 25,
+        "x": 1,
+        "y": 443,
+        "r": true,
+        "fx": -173,
+        "fy": -159,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/r",
+        "w": 17,
+        "h": 25,
+        "x": 1,
+        "y": 470,
+        "r": true,
+        "fx": -173,
+        "fy": -159,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/s",
+        "w": 20,
+        "h": 22,
+        "x": 1,
+        "y": 497,
+        "r": true,
+        "fx": -164,
+        "fy": -156,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/t",
+        "w": 18,
+        "h": 24,
+        "x": 20,
+        "y": 443,
+        "fx": -165,
+        "fy": -152,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/u",
+        "w": 12,
+        "h": 22,
+        "x": 243,
+        "y": 1,
+        "fx": -171,
+        "fy": -154,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/v",
+        "w": 17,
+        "h": 13,
+        "x": 110,
+        "y": 506,
+        "fx": -165,
+        "fy": -163,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/w",
+        "w": 14,
+        "h": 13,
+        "x": 129,
+        "y": 506,
+        "fx": -167,
+        "fy": -163,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/x",
+        "w": 12,
+        "h": 15,
+        "x": 243,
+        "y": 43,
+        "r": true,
+        "fx": -169,
+        "fy": -164,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/y",
+        "w": 11,
+        "h": 17,
+        "x": 243,
+        "y": 187,
+        "r": true,
+        "fx": -169,
+        "fy": -165,
+        "fw": 356,
+        "fh": 356
+    },
+    {
+        "n": "story/character_story_quest/swallow_knight_001/.gen/movie/z",
+        "w": 12,
+        "h": 11,
+        "x": 243,
+        "y": 174,
+        "r": true,
+        "fx": -170,
+        "fy": -164,
+        "fw": 356,
+        "fh": 356
+    }
+]

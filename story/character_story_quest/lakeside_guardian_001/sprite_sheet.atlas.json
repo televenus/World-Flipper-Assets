@@ -1,0 +1,1524 @@
+[
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 902,
+        "y": 150
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/aa",
+        "w": 16,
+        "h": 18,
+        "x": 883,
+        "y": 155,
+        "r": true,
+        "fx": -13,
+        "fy": -9,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ab",
+        "w": 16,
+        "h": 17,
+        "x": 883,
+        "y": 195,
+        "r": true,
+        "fx": -15,
+        "fy": -3,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ac",
+        "w": 15,
+        "h": 15,
+        "x": 883,
+        "y": 305,
+        "fx": -16,
+        "fy": -3,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ad",
+        "w": 10,
+        "h": 10,
+        "x": 873,
+        "y": 531,
+        "fx": -19,
+        "fy": -4,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ae",
+        "w": 14,
+        "h": 13,
+        "x": 874,
+        "y": 459,
+        "fx": -19,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/af",
+        "w": 3,
+        "h": 7,
+        "x": 903,
+        "y": 823
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ag",
+        "w": 3,
+        "h": 8,
+        "x": 604,
+        "y": 565
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ah",
+        "w": 4,
+        "h": 8,
+        "x": 873,
+        "y": 555
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ai",
+        "w": 9,
+        "h": 4,
+        "x": 127,
+        "y": 989,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/aj",
+        "w": 4,
+        "h": 8,
+        "x": 873,
+        "y": 555
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ak",
+        "w": 9,
+        "h": 4,
+        "x": 127,
+        "y": 989,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/al",
+        "w": 3,
+        "h": 8,
+        "x": 903,
+        "y": 813
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/am",
+        "w": 3,
+        "h": 7,
+        "x": 604,
+        "y": 585
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/an",
+        "w": 4,
+        "h": 9,
+        "x": 862,
+        "y": 943
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ao",
+        "w": 4,
+        "h": 8,
+        "x": 900,
+        "y": 19
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ap",
+        "w": 4,
+        "h": 9,
+        "x": 862,
+        "y": 943
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/aq",
+        "w": 4,
+        "h": 8,
+        "x": 900,
+        "y": 19
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ar",
+        "w": 15,
+        "h": 13,
+        "x": 852,
+        "y": 610,
+        "fx": -18,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/as",
+        "w": 16,
+        "h": 18,
+        "x": 883,
+        "y": 175,
+        "r": true,
+        "fx": -13,
+        "fy": -9,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/at",
+        "w": 13,
+        "h": 14,
+        "x": 751,
+        "y": 966,
+        "fx": -18,
+        "fy": -6,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/au",
+        "w": 5,
+        "h": 5,
+        "x": 138,
+        "y": 988,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/av",
+        "w": 7,
+        "h": 7,
+        "x": 899,
+        "y": 132,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/aw",
+        "w": 3,
+        "h": 3,
+        "x": 862,
+        "y": 605,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ax",
+        "w": 21,
+        "h": 23,
+        "x": 1,
+        "y": 970,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ay",
+        "w": 3,
+        "h": 3,
+        "x": 862,
+        "y": 605,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/az",
+        "w": 3,
+        "h": 3,
+        "x": 862,
+        "y": 605,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/b",
+        "w": 332,
+        "h": 550,
+        "x": 275,
+        "y": 1,
+        "fx": -40,
+        "fy": 0,
+        "fw": 397,
+        "fh": 550
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ba",
+        "w": 10,
+        "h": 10,
+        "x": 873,
+        "y": 543
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bb",
+        "w": 20,
+        "h": 20,
+        "x": 839,
+        "y": 966
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bc",
+        "w": 4,
+        "h": 10,
+        "x": 269,
+        "y": 978
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bd",
+        "w": 16,
+        "h": 16,
+        "x": 883,
+        "y": 233
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/be",
+        "w": 14,
+        "h": 13,
+        "x": 874,
+        "y": 474,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bf",
+        "w": 8,
+        "h": 15,
+        "x": 207,
+        "y": 978,
+        "r": true,
+        "fx": -4,
+        "fy": -10,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bg",
+        "w": 9,
+        "h": 13,
+        "x": 897,
+        "y": 428,
+        "r": true,
+        "fx": -5,
+        "fy": -10,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bh",
+        "w": 10,
+        "h": 17,
+        "x": 123,
+        "y": 970,
+        "r": true,
+        "fx": -2,
+        "fy": -9,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bi",
+        "w": 17,
+        "h": 10,
+        "x": 649,
+        "y": 982,
+        "fx": -2,
+        "fy": -9,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bj",
+        "w": 8,
+        "h": 19,
+        "x": 862,
+        "y": 584,
+        "r": true,
+        "fx": -1,
+        "fy": -11,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bk",
+        "w": 11,
+        "h": 15,
+        "x": 262,
+        "y": 833
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bl",
+        "w": 13,
+        "h": 14,
+        "x": 874,
+        "y": 489,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bm",
+        "w": 14,
+        "h": 13,
+        "x": 874,
+        "y": 474,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bn",
+        "w": 13,
+        "h": 14,
+        "x": 889,
+        "y": 489,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bo",
+        "w": 15,
+        "h": 10,
+        "x": 668,
+        "y": 982,
+        "fx": -3,
+        "fy": -9,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bp",
+        "w": 9,
+        "h": 17,
+        "x": 897,
+        "y": 409,
+        "r": true,
+        "fx": -3,
+        "fy": -10,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bq",
+        "w": 13,
+        "h": 14,
+        "x": 135,
+        "y": 972,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/br",
+        "w": 13,
+        "h": 14,
+        "x": 150,
+        "y": 972,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bs",
+        "w": 13,
+        "h": 14,
+        "x": 165,
+        "y": 972,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bt",
+        "w": 4,
+        "h": 5,
+        "x": 145,
+        "y": 988,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bu",
+        "w": 7,
+        "h": 7,
+        "x": 899,
+        "y": 141,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bv",
+        "w": 7,
+        "h": 5,
+        "x": 839,
+        "y": 988,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bw",
+        "w": 17,
+        "h": 17,
+        "x": 883,
+        "y": 214,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bx",
+        "w": 192,
+        "h": 180,
+        "x": 609,
+        "y": 443,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/by",
+        "w": 8,
+        "h": 7,
+        "x": 702,
+        "y": 982,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/bz",
+        "w": 21,
+        "h": 21,
+        "x": 839,
+        "y": 943,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/c",
+        "w": 272,
+        "h": 194,
+        "x": 1,
+        "y": 637,
+        "fx": 0,
+        "fy": -16,
+        "fw": 272,
+        "fh": 440
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ca",
+        "w": 19,
+        "h": 19,
+        "x": 712,
+        "y": 966,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cb",
+        "w": 11,
+        "h": 14,
+        "x": 262,
+        "y": 901
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cc",
+        "w": 22,
+        "h": 17,
+        "x": 99,
+        "y": 970,
+        "r": true,
+        "fx": -37,
+        "fy": -58,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cd",
+        "w": 14,
+        "h": 15,
+        "x": 883,
+        "y": 392,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ce",
+        "w": 8,
+        "h": 15,
+        "x": 217,
+        "y": 978,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cf",
+        "w": 12,
+        "h": 14,
+        "x": 883,
+        "y": 427
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cg",
+        "w": 15,
+        "h": 11,
+        "x": 549,
+        "y": 982,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ch",
+        "w": 180,
+        "h": 192,
+        "x": 549,
+        "y": 625
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ci",
+        "w": 6,
+        "h": 5,
+        "x": 848,
+        "y": 988,
+        "fx": -6,
+        "fy": -13,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cj",
+        "w": 6,
+        "h": 8,
+        "x": 900,
+        "y": 1,
+        "fx": -6,
+        "fy": -11,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ck",
+        "w": 13,
+        "h": 10,
+        "x": 751,
+        "y": 982,
+        "r": true,
+        "fx": -4,
+        "fy": -6,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cl",
+        "w": 14,
+        "h": 16,
+        "x": 883,
+        "y": 322,
+        "fx": -2,
+        "fy": -4,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cm",
+        "w": 16,
+        "h": 19,
+        "x": 733,
+        "y": 966,
+        "fx": -1,
+        "fy": -1,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cn",
+        "w": 14,
+        "h": 16,
+        "x": 883,
+        "y": 340,
+        "fx": -2,
+        "fy": -3,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/co",
+        "w": 10,
+        "h": 15,
+        "x": 262,
+        "y": 944
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cp",
+        "w": 10,
+        "h": 15,
+        "x": 262,
+        "y": 961,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cq",
+        "w": 16,
+        "h": 10,
+        "x": 890,
+        "y": 443,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cr",
+        "w": 15,
+        "h": 10,
+        "x": 685,
+        "y": 982,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cs",
+        "w": 16,
+        "h": 10,
+        "x": 890,
+        "y": 455,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ct",
+        "w": 10,
+        "h": 15,
+        "x": 195,
+        "y": 972,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cu",
+        "w": 11,
+        "h": 15,
+        "x": 262,
+        "y": 850
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cv",
+        "w": 15,
+        "h": 11,
+        "x": 566,
+        "y": 982,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cw",
+        "w": 12,
+        "h": 14,
+        "x": 227,
+        "y": 978
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cx",
+        "w": 12,
+        "h": 14,
+        "x": 241,
+        "y": 978
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cy",
+        "w": 5,
+        "h": 5,
+        "x": 138,
+        "y": 988,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/cz",
+        "w": 7,
+        "h": 7,
+        "x": 899,
+        "y": 132,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/d",
+        "w": 272,
+        "h": 440,
+        "x": 609,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/da",
+        "w": 11,
+        "h": 9,
+        "x": 262,
+        "y": 933,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/db",
+        "w": 21,
+        "h": 23,
+        "x": 1,
+        "y": 970,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dc",
+        "w": 14,
+        "h": 11,
+        "x": 617,
+        "y": 982,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dd",
+        "w": 272,
+        "h": 634,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/de",
+        "w": 272,
+        "h": 440,
+        "x": 275,
+        "y": 553
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/df",
+        "w": 69,
+        "h": 69,
+        "x": 803,
+        "y": 443,
+        "fx": 0,
+        "fy": -6,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dg",
+        "w": 52,
+        "h": 68,
+        "x": 208,
+        "y": 908,
+        "fx": -17,
+        "fy": -5,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dh",
+        "w": 53,
+        "h": 69,
+        "x": 766,
+        "y": 802,
+        "fx": -16,
+        "fy": -4,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/di",
+        "w": 53,
+        "h": 70,
+        "x": 549,
+        "y": 553,
+        "fx": -16,
+        "fy": -5,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dj",
+        "w": 52,
+        "h": 71,
+        "x": 712,
+        "y": 893,
+        "fx": -16,
+        "fy": -6,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dk",
+        "w": 51,
+        "h": 70,
+        "x": 766,
+        "y": 873,
+        "fx": -17,
+        "fy": -7,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dl",
+        "w": 50,
+        "h": 69,
+        "x": 821,
+        "y": 802,
+        "fx": -18,
+        "fy": -7,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dm",
+        "w": 69,
+        "h": 69,
+        "x": 803,
+        "y": 443,
+        "fx": 0,
+        "fy": -6,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dn",
+        "w": 49,
+        "h": 68,
+        "x": 819,
+        "y": 873,
+        "fx": -21,
+        "fy": -5,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/do",
+        "w": 52,
+        "h": 72,
+        "x": 712,
+        "y": 819,
+        "fx": -20,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dp",
+        "w": 52,
+        "h": 73,
+        "x": 208,
+        "y": 833,
+        "fx": -20,
+        "fy": 0,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dq",
+        "w": 52,
+        "h": 72,
+        "x": 712,
+        "y": 819,
+        "fx": -20,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dr",
+        "w": 52,
+        "h": 73,
+        "x": 208,
+        "y": 833,
+        "fx": -20,
+        "fy": 0,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ds",
+        "w": 52,
+        "h": 72,
+        "x": 712,
+        "y": 819,
+        "fx": -20,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dt",
+        "w": 52,
+        "h": 73,
+        "x": 208,
+        "y": 833,
+        "fx": -20,
+        "fy": 0,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/du",
+        "w": 52,
+        "h": 72,
+        "x": 712,
+        "y": 819,
+        "fx": -20,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dv",
+        "w": 52,
+        "h": 73,
+        "x": 208,
+        "y": 833,
+        "fx": -20,
+        "fy": 0,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dw",
+        "w": 49,
+        "h": 68,
+        "x": 819,
+        "y": 873,
+        "fx": -21,
+        "fy": -5,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dx",
+        "w": 15,
+        "h": 12,
+        "x": 891,
+        "y": 858,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dy",
+        "w": 11,
+        "h": 15,
+        "x": 262,
+        "y": 867,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/dz",
+        "w": 68,
+        "h": 67,
+        "x": 138,
+        "y": 903,
+        "fx": 0,
+        "fy": -1,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/e",
+        "w": 4,
+        "h": 4,
+        "x": 151,
+        "y": 988
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ea",
+        "w": 68,
+        "h": 68,
+        "x": 138,
+        "y": 833
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/eb",
+        "w": 68,
+        "h": 68,
+        "x": 803,
+        "y": 514
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ec",
+        "w": 57,
+        "h": 24,
+        "x": 803,
+        "y": 584,
+        "fx": 0,
+        "fy": -33,
+        "fw": 57,
+        "fh": 57
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ed",
+        "w": 14,
+        "h": 21,
+        "x": 883,
+        "y": 132,
+        "r": true,
+        "fx": -20,
+        "fy": -25,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ee",
+        "w": 4,
+        "h": 4,
+        "x": 862,
+        "y": 954
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ef",
+        "w": 21,
+        "h": 13,
+        "x": 829,
+        "y": 610,
+        "fx": -20,
+        "fy": -26,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/eg",
+        "w": 11,
+        "h": 14,
+        "x": 262,
+        "y": 917
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/eh",
+        "w": 14,
+        "h": 11,
+        "x": 633,
+        "y": 982,
+        "r": true,
+        "fx": -18,
+        "fy": -3,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ei",
+        "w": 15,
+        "h": 15,
+        "x": 883,
+        "y": 375
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ej",
+        "w": 28,
+        "h": 26,
+        "x": 873,
+        "y": 802,
+        "fx": -9,
+        "fy": 0,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ek",
+        "w": 28,
+        "h": 26,
+        "x": 873,
+        "y": 830,
+        "fx": -9,
+        "fy": 0,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/el",
+        "w": 33,
+        "h": 15,
+        "x": 731,
+        "y": 802,
+        "fx": -10,
+        "fy": -10,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/em",
+        "w": 21,
+        "h": 23,
+        "x": 24,
+        "y": 970,
+        "fx": -17,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/en",
+        "w": 14,
+        "h": 23,
+        "x": 47,
+        "y": 970,
+        "fx": -22,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/eo",
+        "w": 24,
+        "h": 13,
+        "x": 803,
+        "y": 610,
+        "r": true,
+        "fx": -23,
+        "fy": -1,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ep",
+        "w": 21,
+        "h": 48,
+        "x": 816,
+        "y": 945,
+        "r": true,
+        "fx": -5,
+        "fy": -7,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/eq",
+        "w": 34,
+        "h": 19,
+        "x": 63,
+        "y": 970,
+        "fx": -12,
+        "fy": -10,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/er",
+        "w": 33,
+        "h": 15,
+        "x": 731,
+        "y": 802,
+        "fx": -10,
+        "fy": -10,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/es",
+        "w": 3,
+        "h": 10,
+        "x": 604,
+        "y": 553,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/et",
+        "w": 135,
+        "h": 135,
+        "x": 1,
+        "y": 833
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/eu",
+        "w": 175,
+        "h": 175,
+        "x": 731,
+        "y": 625,
+        "fx": -1,
+        "fy": -1,
+        "fw": 177,
+        "fh": 177
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ev",
+        "w": 161,
+        "h": 161,
+        "x": 549,
+        "y": 819,
+        "fx": -1,
+        "fy": -1,
+        "fw": 164,
+        "fh": 164
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ew",
+        "w": 48,
+        "h": 48,
+        "x": 766,
+        "y": 945
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ex",
+        "w": 26,
+        "h": 4,
+        "x": 99,
+        "y": 989,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ey",
+        "w": 15,
+        "h": 129,
+        "x": 883,
+        "y": 1,
+        "fx": -82,
+        "fy": -73,
+        "fw": 180,
+        "fh": 320
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/ez",
+        "w": 13,
+        "h": 14,
+        "x": 180,
+        "y": 972,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/f",
+        "w": 15,
+        "h": 11,
+        "x": 583,
+        "y": 982,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/g",
+        "w": 3,
+        "h": 9,
+        "x": 903,
+        "y": 802,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/h",
+        "w": 15,
+        "h": 16,
+        "x": 883,
+        "y": 251
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/i",
+        "w": 16,
+        "h": 10,
+        "x": 890,
+        "y": 467,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/j",
+        "w": 3,
+        "h": 8,
+        "x": 604,
+        "y": 575,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/k",
+        "w": 16,
+        "h": 12,
+        "x": 873,
+        "y": 858,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/l",
+        "w": 12,
+        "h": 14,
+        "x": 255,
+        "y": 978
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/m",
+        "w": 15,
+        "h": 16,
+        "x": 883,
+        "y": 269
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/n",
+        "w": 14,
+        "h": 12,
+        "x": 892,
+        "y": 505,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/o",
+        "w": 11,
+        "h": 15,
+        "x": 262,
+        "y": 884
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/p",
+        "w": 12,
+        "h": 14,
+        "x": 873,
+        "y": 515
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/q",
+        "w": 15,
+        "h": 16,
+        "x": 883,
+        "y": 287
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/r",
+        "w": 15,
+        "h": 11,
+        "x": 600,
+        "y": 982,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/s",
+        "w": 16,
+        "h": 8,
+        "x": 890,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/t",
+        "w": 16,
+        "h": 8,
+        "x": 874,
+        "y": 505,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/u",
+        "w": 6,
+        "h": 5,
+        "x": 848,
+        "y": 988,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/v",
+        "w": 6,
+        "h": 6,
+        "x": 900,
+        "y": 11,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/w",
+        "w": 12,
+        "h": 16,
+        "x": 883,
+        "y": 409,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/x",
+        "w": 14,
+        "h": 14,
+        "x": 874,
+        "y": 443,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/y",
+        "w": 14,
+        "h": 15,
+        "x": 883,
+        "y": 358,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lakeside_guardian_001/.gen/movie/z",
+        "w": 13,
+        "h": 14,
+        "x": 150,
+        "y": 972,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    }
+]

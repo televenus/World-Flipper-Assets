@@ -1,0 +1,508 @@
+[
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 237,
+        "y": 1343
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/aa",
+        "w": 7,
+        "h": 7,
+        "x": 229,
+        "y": 1543,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ab",
+        "w": 3,
+        "h": 3,
+        "x": 238,
+        "y": 1543,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ac",
+        "w": 23,
+        "h": 21,
+        "x": 212,
+        "y": 1336,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ad",
+        "w": 3,
+        "h": 3,
+        "x": 238,
+        "y": 1543,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ae",
+        "w": 3,
+        "h": 3,
+        "x": 238,
+        "y": 1543,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/af",
+        "w": 4,
+        "h": 5,
+        "x": 237,
+        "y": 1336,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ag",
+        "w": 7,
+        "h": 7,
+        "x": 229,
+        "y": 1552,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ah",
+        "w": 17,
+        "h": 17,
+        "x": 212,
+        "y": 1403,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 19
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ai",
+        "w": 8,
+        "h": 7,
+        "x": 233,
+        "y": 1390,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/aj",
+        "w": 21,
+        "h": 21,
+        "x": 212,
+        "y": 1359,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ak",
+        "w": 19,
+        "h": 19,
+        "x": 212,
+        "y": 1382,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/al",
+        "w": 240,
+        "h": 339,
+        "x": 1,
+        "y": 995,
+        "fx": 0,
+        "fy": 0,
+        "fw": 240,
+        "fh": 550
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/am",
+        "w": 209,
+        "h": 296,
+        "x": 1,
+        "y": 1336,
+        "fx": -14,
+        "fy": -76,
+        "fw": 240,
+        "fh": 550
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/an",
+        "w": 240,
+        "h": 550,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ao",
+        "w": 10,
+        "h": 16,
+        "x": 231,
+        "y": 1404
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ap",
+        "w": 16,
+        "h": 12,
+        "x": 212,
+        "y": 1441,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/aq",
+        "w": 15,
+        "h": 14,
+        "x": 212,
+        "y": 1483,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/ar",
+        "w": 7,
+        "h": 5,
+        "x": 229,
+        "y": 1561,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/as",
+        "w": 11,
+        "h": 7,
+        "x": 229,
+        "y": 1517,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/at",
+        "w": 9,
+        "h": 15,
+        "x": 229,
+        "y": 1526,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/au",
+        "w": 15,
+        "h": 14,
+        "x": 212,
+        "y": 1499,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/av",
+        "w": 15,
+        "h": 14,
+        "x": 212,
+        "y": 1483,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/aw",
+        "w": 15,
+        "h": 14,
+        "x": 212,
+        "y": 1515,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/b",
+        "w": 11,
+        "h": 15,
+        "x": 230,
+        "y": 1457
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 237,
+        "y": 1355,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/d",
+        "w": 12,
+        "h": 14,
+        "x": 229,
+        "y": 1490
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/e",
+        "w": 10,
+        "h": 16,
+        "x": 231,
+        "y": 1422
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/f",
+        "w": 8,
+        "h": 3,
+        "x": 233,
+        "y": 1399
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/g",
+        "w": 16,
+        "h": 12,
+        "x": 212,
+        "y": 1455,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/h",
+        "w": 15,
+        "h": 14,
+        "x": 212,
+        "y": 1531,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/i",
+        "w": 240,
+        "h": 440,
+        "x": 1,
+        "y": 553,
+        "fx": -100,
+        "fy": 0,
+        "fw": 440,
+        "fh": 440
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/j",
+        "w": 4,
+        "h": 4,
+        "x": 237,
+        "y": 1349
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/k",
+        "w": 5,
+        "h": 5,
+        "x": 228,
+        "y": 1568,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/l",
+        "w": 7,
+        "h": 7,
+        "x": 229,
+        "y": 1543,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/m",
+        "w": 11,
+        "h": 9,
+        "x": 229,
+        "y": 1506,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/n",
+        "w": 23,
+        "h": 21,
+        "x": 212,
+        "y": 1336,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/o",
+        "w": 6,
+        "h": 5,
+        "x": 235,
+        "y": 1374,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/p",
+        "w": 6,
+        "h": 6,
+        "x": 235,
+        "y": 1366,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/q",
+        "w": 16,
+        "h": 12,
+        "x": 212,
+        "y": 1469,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/r",
+        "w": 14,
+        "h": 14,
+        "x": 212,
+        "y": 1563,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/s",
+        "w": 15,
+        "h": 14,
+        "x": 212,
+        "y": 1547,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/t",
+        "w": 10,
+        "h": 15,
+        "x": 231,
+        "y": 1440,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/u",
+        "w": 11,
+        "h": 14,
+        "x": 230,
+        "y": 1474,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/v",
+        "w": 4,
+        "h": 5,
+        "x": 237,
+        "y": 1336,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/w",
+        "w": 7,
+        "h": 7,
+        "x": 229,
+        "y": 1552,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/x",
+        "w": 5,
+        "h": 7,
+        "x": 235,
+        "y": 1381,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/y",
+        "w": 17,
+        "h": 17,
+        "x": 212,
+        "y": 1422,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/woman_knight_001/.gen/movie/z",
+        "w": 5,
+        "h": 5,
+        "x": 228,
+        "y": 1568,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    }
+]

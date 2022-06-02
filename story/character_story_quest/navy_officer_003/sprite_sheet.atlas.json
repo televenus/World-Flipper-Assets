@@ -1,0 +1,4659 @@
+[
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1419,
+        "y": 1260
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/aa",
+        "w": 11,
+        "h": 12,
+        "x": 1393,
+        "y": 1930,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ab",
+        "w": 15,
+        "h": 9,
+        "x": 1375,
+        "y": 1556,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ac",
+        "w": 11,
+        "h": 12,
+        "x": 1365,
+        "y": 2029,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ad",
+        "w": 12,
+        "h": 11,
+        "x": 1385,
+        "y": 1985,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ae",
+        "w": 12,
+        "h": 11,
+        "x": 1414,
+        "y": 1984,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/af",
+        "w": 13,
+        "h": 11,
+        "x": 831,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ag",
+        "w": 11,
+        "h": 12,
+        "x": 1389,
+        "y": 2013,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ah",
+        "w": 13,
+        "h": 11,
+        "x": 846,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ai",
+        "w": 11,
+        "h": 12,
+        "x": 1391,
+        "y": 2027,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/aj",
+        "w": 13,
+        "h": 11,
+        "x": 861,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ak",
+        "w": 13,
+        "h": 11,
+        "x": 876,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/al",
+        "w": 13,
+        "h": 11,
+        "x": 891,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/am",
+        "w": 11,
+        "h": 12,
+        "x": 1428,
+        "y": 1984,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/an",
+        "w": 13,
+        "h": 11,
+        "x": 906,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ao",
+        "w": 12,
+        "h": 11,
+        "x": 1432,
+        "y": 1971,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ap",
+        "w": 11,
+        "h": 12,
+        "x": 1441,
+        "y": 1984,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/aq",
+        "w": 11,
+        "h": 12,
+        "x": 1435,
+        "y": 1955,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ar",
+        "w": 11,
+        "h": 12,
+        "x": 1448,
+        "y": 1954,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/as",
+        "w": 11,
+        "h": 12,
+        "x": 1396,
+        "y": 1998,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/at",
+        "w": 13,
+        "h": 12,
+        "x": 1454,
+        "y": 1759,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/au",
+        "w": 13,
+        "h": 12,
+        "x": 1390,
+        "y": 1944,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/av",
+        "w": 13,
+        "h": 12,
+        "x": 1405,
+        "y": 1944,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/aw",
+        "w": 13,
+        "h": 11,
+        "x": 921,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ax",
+        "w": 13,
+        "h": 11,
+        "x": 936,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ay",
+        "w": 13,
+        "h": 11,
+        "x": 921,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/az",
+        "w": 13,
+        "h": 11,
+        "x": 951,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/b",
+        "w": 348,
+        "h": 272,
+        "x": 731,
+        "y": 1567,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 1000
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ba",
+        "w": 11,
+        "h": 12,
+        "x": 1409,
+        "y": 1997,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bb",
+        "w": 12,
+        "h": 11,
+        "x": 1422,
+        "y": 1998,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bc",
+        "w": 12,
+        "h": 11,
+        "x": 1436,
+        "y": 1998,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bd",
+        "w": 14,
+        "h": 11,
+        "x": 640,
+        "y": 2030,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/be",
+        "w": 14,
+        "h": 11,
+        "x": 656,
+        "y": 2030,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bf",
+        "w": 14,
+        "h": 11,
+        "x": 672,
+        "y": 2030,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bg",
+        "w": 11,
+        "h": 12,
+        "x": 1402,
+        "y": 2012,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bh",
+        "w": 11,
+        "h": 12,
+        "x": 1415,
+        "y": 2011,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bi",
+        "w": 11,
+        "h": 12,
+        "x": 1402,
+        "y": 2012,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bj",
+        "w": 11,
+        "h": 12,
+        "x": 1428,
+        "y": 2011,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bk",
+        "w": 21,
+        "h": 24,
+        "x": 577,
+        "y": 1996,
+        "r": true,
+        "fx": -3,
+        "fy": -5,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bl",
+        "w": 15,
+        "h": 21,
+        "x": 1338,
+        "y": 1984,
+        "fx": -8,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bm",
+        "w": 704,
+        "h": 688,
+        "x": 1,
+        "y": 1,
+        "fx": -8,
+        "fy": 0,
+        "fw": 720,
+        "fh": 688
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bn",
+        "w": 704,
+        "h": 688,
+        "x": 1,
+        "y": 691,
+        "fx": -8,
+        "fy": 0,
+        "fw": 720,
+        "fh": 688
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bo",
+        "w": 4,
+        "h": 4,
+        "x": 1157,
+        "y": 2037
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bp",
+        "w": 5,
+        "h": 5,
+        "x": 1416,
+        "y": 1329,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bq",
+        "w": 7,
+        "h": 7,
+        "x": 1447,
+        "y": 1934,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/br",
+        "w": 3,
+        "h": 3,
+        "x": 1416,
+        "y": 1431,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bs",
+        "w": 21,
+        "h": 23,
+        "x": 1417,
+        "y": 1286,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bt",
+        "w": 3,
+        "h": 3,
+        "x": 1416,
+        "y": 1431,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bu",
+        "w": 3,
+        "h": 3,
+        "x": 1416,
+        "y": 1431,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bv",
+        "w": 13,
+        "h": 11,
+        "x": 966,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bw",
+        "w": 14,
+        "h": 12,
+        "x": 1455,
+        "y": 1648,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bx",
+        "w": 15,
+        "h": 16,
+        "x": 1423,
+        "y": 1311
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/by",
+        "w": 13,
+        "h": 11,
+        "x": 981,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/bz",
+        "w": 13,
+        "h": 11,
+        "x": 966,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/c",
+        "w": 416,
+        "h": 544,
+        "x": 1,
+        "y": 1381,
+        "fx": -176,
+        "fy": 0,
+        "fw": 720,
+        "fh": 688
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ca",
+        "w": 13,
+        "h": 11,
+        "x": 996,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cb",
+        "w": 14,
+        "h": 12,
+        "x": 1455,
+        "y": 1662,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cc",
+        "w": 13,
+        "h": 11,
+        "x": 1011,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cd",
+        "w": 13,
+        "h": 11,
+        "x": 1026,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ce",
+        "w": 15,
+        "h": 16,
+        "x": 1423,
+        "y": 1329
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cf",
+        "w": 14,
+        "h": 12,
+        "x": 1455,
+        "y": 1676,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cg",
+        "w": 13,
+        "h": 11,
+        "x": 1041,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ch",
+        "w": 15,
+        "h": 16,
+        "x": 1423,
+        "y": 1347
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ci",
+        "w": 14,
+        "h": 12,
+        "x": 1439,
+        "y": 1685,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cj",
+        "w": 14,
+        "h": 12,
+        "x": 1455,
+        "y": 1690,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ck",
+        "w": 14,
+        "h": 12,
+        "x": 1455,
+        "y": 1704,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cl",
+        "w": 15,
+        "h": 11,
+        "x": 1423,
+        "y": 1470,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cm",
+        "w": 11,
+        "h": 15,
+        "x": 1442,
+        "y": 1651,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cn",
+        "w": 14,
+        "h": 11,
+        "x": 688,
+        "y": 2030,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/co",
+        "w": 15,
+        "h": 15,
+        "x": 1423,
+        "y": 1419
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cp",
+        "w": 13,
+        "h": 14,
+        "x": 1440,
+        "y": 1566,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cq",
+        "w": 13,
+        "h": 13,
+        "x": 1439,
+        "y": 1741,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cr",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1345,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cs",
+        "w": 13,
+        "h": 11,
+        "x": 1056,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ct",
+        "w": 12,
+        "h": 15,
+        "x": 1425,
+        "y": 1721,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 17
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cu",
+        "w": 13,
+        "h": 11,
+        "x": 1360,
+        "y": 1957,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cv",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1362,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cw",
+        "w": 15,
+        "h": 15,
+        "x": 1423,
+        "y": 1436
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cx",
+        "w": 10,
+        "h": 18,
+        "x": 1428,
+        "y": 1483,
+        "fx": -17,
+        "fy": -15,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cy",
+        "w": 17,
+        "h": 20,
+        "x": 1338,
+        "y": 1962,
+        "fx": -3,
+        "fy": -2,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/cz",
+        "w": 11,
+        "h": 11,
+        "x": 1450,
+        "y": 1998
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/d",
+        "w": 310,
+        "h": 436,
+        "x": 419,
+        "y": 1381,
+        "fx": -293,
+        "fy": -221,
+        "fw": 720,
+        "fh": 688
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/da",
+        "w": 10,
+        "h": 12,
+        "x": 1404,
+        "y": 2026
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/db",
+        "w": 9,
+        "h": 9,
+        "x": 1435,
+        "y": 1944,
+        "fx": -7,
+        "fy": -8,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dc",
+        "w": 272,
+        "h": 1000,
+        "x": 707,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dd",
+        "w": 272,
+        "h": 1000,
+        "x": 981,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/de",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1379,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/df",
+        "w": 13,
+        "h": 13,
+        "x": 1439,
+        "y": 1756,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dg",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1345,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dh",
+        "w": 13,
+        "h": 13,
+        "x": 1454,
+        "y": 1744,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/di",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1396,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dj",
+        "w": 13,
+        "h": 13,
+        "x": 1439,
+        "y": 1756,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dk",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1773,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dl",
+        "w": 13,
+        "h": 11,
+        "x": 1375,
+        "y": 1957,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dm",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1413,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dn",
+        "w": 13,
+        "h": 11,
+        "x": 1056,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/do",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1362,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dp",
+        "w": 13,
+        "h": 11,
+        "x": 1390,
+        "y": 1958,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dq",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1430,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dr",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1788,
+        "fx": -6,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ds",
+        "w": 13,
+        "h": 13,
+        "x": 1439,
+        "y": 1741,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dt",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1803,
+        "fx": -6,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/du",
+        "w": 14,
+        "h": 13,
+        "x": 1455,
+        "y": 1588,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dv",
+        "w": 13,
+        "h": 14,
+        "x": 1440,
+        "y": 1566,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dw",
+        "w": 13,
+        "h": 14,
+        "x": 1440,
+        "y": 1582,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dx",
+        "w": 16,
+        "h": 18,
+        "x": 545,
+        "y": 2015,
+        "fx": -4,
+        "fy": -3,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dy",
+        "w": 11,
+        "h": 12,
+        "x": 1416,
+        "y": 2025,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/dz",
+        "w": 11,
+        "h": 12,
+        "x": 1429,
+        "y": 2025,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/e",
+        "w": 14,
+        "h": 11,
+        "x": 704,
+        "y": 2030,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ea",
+        "w": 11,
+        "h": 12,
+        "x": 1416,
+        "y": 2025,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/eb",
+        "w": 11,
+        "h": 12,
+        "x": 1441,
+        "y": 2011,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ec",
+        "w": 14,
+        "h": 13,
+        "x": 1455,
+        "y": 1603,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ed",
+        "w": 7,
+        "h": 3,
+        "x": 414,
+        "y": 2025,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ee",
+        "w": 8,
+        "h": 3,
+        "x": 598,
+        "y": 2026,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ef",
+        "w": 4,
+        "h": 8,
+        "x": 1419,
+        "y": 1250
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/eg",
+        "w": 4,
+        "h": 9,
+        "x": 1465,
+        "y": 984
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/eh",
+        "w": 4,
+        "h": 8,
+        "x": 1419,
+        "y": 1250
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ei",
+        "w": 4,
+        "h": 9,
+        "x": 1465,
+        "y": 984
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ej",
+        "w": 8,
+        "h": 3,
+        "x": 1415,
+        "y": 1512,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ek",
+        "w": 7,
+        "h": 3,
+        "x": 423,
+        "y": 2025,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/el",
+        "w": 4,
+        "h": 9,
+        "x": 1465,
+        "y": 995
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/em",
+        "w": 4,
+        "h": 8,
+        "x": 1465,
+        "y": 1006
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/en",
+        "w": 4,
+        "h": 9,
+        "x": 1465,
+        "y": 995
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/eo",
+        "w": 4,
+        "h": 8,
+        "x": 1465,
+        "y": 1006
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ep",
+        "w": 33,
+        "h": 27,
+        "x": 1375,
+        "y": 1483
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/eq",
+        "w": 4,
+        "h": 4,
+        "x": 1163,
+        "y": 2037
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/er",
+        "w": 4,
+        "h": 4,
+        "x": 1163,
+        "y": 2037
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/es",
+        "w": 4,
+        "h": 4,
+        "x": 1163,
+        "y": 2037
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/et",
+        "w": 25,
+        "h": 31,
+        "x": 600,
+        "y": 1993,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/eu",
+        "w": 10,
+        "h": 10,
+        "x": 402,
+        "y": 2014
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ev",
+        "w": 11,
+        "h": 12,
+        "x": 1442,
+        "y": 2025,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ew",
+        "w": 20,
+        "h": 20,
+        "x": 652,
+        "y": 1819
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ex",
+        "w": 4,
+        "h": 10,
+        "x": 1465,
+        "y": 972
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ey",
+        "w": 16,
+        "h": 16,
+        "x": 1410,
+        "y": 1483
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ez",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1818,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/f",
+        "w": 3,
+        "h": 9,
+        "x": 1419,
+        "y": 1239,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fa",
+        "w": 14,
+        "h": 10,
+        "x": 579,
+        "y": 2031,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fb",
+        "w": 13,
+        "h": 11,
+        "x": 1405,
+        "y": 1958,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fc",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1833,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fd",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1848,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fe",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1833,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ff",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1863,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fg",
+        "w": 13,
+        "h": 11,
+        "x": 1420,
+        "y": 1958,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fh",
+        "w": 13,
+        "h": 11,
+        "x": 1360,
+        "y": 1957,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fi",
+        "w": 13,
+        "h": 11,
+        "x": 1370,
+        "y": 1985,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fj",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1447,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fk",
+        "w": 11,
+        "h": 16,
+        "x": 1425,
+        "y": 1703,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fl",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1878,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fm",
+        "w": 13,
+        "h": 11,
+        "x": 1387,
+        "y": 1971,
+        "r": true,
+        "fx": -17,
+        "fy": -9,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fn",
+        "w": 14,
+        "h": 17,
+        "x": 1455,
+        "y": 1351,
+        "fx": -14,
+        "fy": -6,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fo",
+        "w": 12,
+        "h": 19,
+        "x": 1361,
+        "y": 1147,
+        "fx": -16,
+        "fy": -5,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fp",
+        "w": 16,
+        "h": 16,
+        "x": 1425,
+        "y": 1615,
+        "fx": -13,
+        "fy": -8,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fq",
+        "w": 14,
+        "h": 18,
+        "x": 1455,
+        "y": 1331,
+        "r": true,
+        "fx": -12,
+        "fy": -10,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fr",
+        "w": 19,
+        "h": 12,
+        "x": 368,
+        "y": 2029,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fs",
+        "w": 11,
+        "h": 17,
+        "x": 1157,
+        "y": 2018,
+        "fx": -17,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ft",
+        "w": 27,
+        "h": 16,
+        "x": 1394,
+        "y": 1549,
+        "r": true,
+        "fx": -13,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fu",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1464
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fv",
+        "w": 38,
+        "h": 38,
+        "x": 1375,
+        "y": 1443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fw",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1893,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fx",
+        "w": 20,
+        "h": 20,
+        "x": 674,
+        "y": 1819
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fy",
+        "w": 20,
+        "h": 20,
+        "x": 696,
+        "y": 1819
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/fz",
+        "w": 145,
+        "h": 43,
+        "x": 256,
+        "y": 1927,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/g",
+        "w": 14,
+        "h": 11,
+        "x": 720,
+        "y": 2030,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ga",
+        "w": 253,
+        "h": 45,
+        "x": 1,
+        "y": 1927,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gb",
+        "w": 206,
+        "h": 62,
+        "x": 419,
+        "y": 1819,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gc",
+        "w": 111,
+        "h": 53,
+        "x": 1259,
+        "y": 1190,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gd",
+        "w": 15,
+        "h": 16,
+        "x": 1423,
+        "y": 1365,
+        "fx": -22,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ge",
+        "w": 14,
+        "h": 15,
+        "x": 1455,
+        "y": 1389,
+        "fx": -22,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gf",
+        "w": 3,
+        "h": 3,
+        "x": 1416,
+        "y": 1436
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gg",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1481
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gh",
+        "w": 4,
+        "h": 4,
+        "x": 438,
+        "y": 2014
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gi",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1908,
+        "fx": -17,
+        "fy": -9,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gj",
+        "w": 14,
+        "h": 15,
+        "x": 1455,
+        "y": 1508,
+        "r": true,
+        "fx": -20,
+        "fy": -2,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gk",
+        "w": 14,
+        "h": 14,
+        "x": 1455,
+        "y": 1525,
+        "fx": -17,
+        "fy": -8,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gl",
+        "w": 15,
+        "h": 15,
+        "x": 1423,
+        "y": 1453,
+        "fx": -23,
+        "fy": -14,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gm",
+        "w": 2,
+        "h": 3,
+        "x": 1255,
+        "y": 972,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gn",
+        "w": 3,
+        "h": 4,
+        "x": 1416,
+        "y": 1401
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/go",
+        "w": 13,
+        "h": 11,
+        "x": 1402,
+        "y": 1971,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gp",
+        "w": 12,
+        "h": 16,
+        "x": 563,
+        "y": 2015,
+        "fx": -11,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gq",
+        "w": 11,
+        "h": 17,
+        "x": 718,
+        "y": 1819,
+        "fx": -17,
+        "fy": -11,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gr",
+        "w": 17,
+        "h": 12,
+        "x": 389,
+        "y": 2029,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gs",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1772
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gt",
+        "w": 14,
+        "h": 11,
+        "x": 736,
+        "y": 2030,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gu",
+        "w": 4,
+        "h": 4,
+        "x": 438,
+        "y": 2020
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gv",
+        "w": 15,
+        "h": 34,
+        "x": 707,
+        "y": 1309,
+        "fx": -15,
+        "fy": -10,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gw",
+        "w": 15,
+        "h": 15,
+        "x": 1406,
+        "y": 1532,
+        "fx": -10,
+        "fy": -2,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gx",
+        "w": 11,
+        "h": 27,
+        "x": 1157,
+        "y": 1989,
+        "fx": -17,
+        "fy": -11,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gy",
+        "w": 4,
+        "h": 4,
+        "x": 1416,
+        "y": 1360
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/gz",
+        "w": 14,
+        "h": 11,
+        "x": 752,
+        "y": 2030,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/h",
+        "w": 13,
+        "h": 11,
+        "x": 1026,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ha",
+        "w": 4,
+        "h": 4,
+        "x": 438,
+        "y": 2020
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hb",
+        "w": 19,
+        "h": 15,
+        "x": 436,
+        "y": 2026,
+        "r": true,
+        "fx": -12,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hc",
+        "w": 15,
+        "h": 34,
+        "x": 707,
+        "y": 1309,
+        "fx": -15,
+        "fy": -10,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hd",
+        "w": 29,
+        "h": 24,
+        "x": 1440,
+        "y": 1266,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/he",
+        "w": 18,
+        "h": 17,
+        "x": 457,
+        "y": 2024,
+        "fx": -7,
+        "fy": -6,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hf",
+        "w": 48,
+        "h": 55,
+        "x": 1375,
+        "y": 1065,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hg",
+        "w": 4,
+        "h": 3,
+        "x": 1075,
+        "y": 1856
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hh",
+        "w": 14,
+        "h": 11,
+        "x": 768,
+        "y": 2030,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hi",
+        "w": 4,
+        "h": 4,
+        "x": 438,
+        "y": 2020
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hj",
+        "w": 11,
+        "h": 27,
+        "x": 1157,
+        "y": 1989,
+        "fx": -17,
+        "fy": -11,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hk",
+        "w": 12,
+        "h": 15,
+        "x": 1425,
+        "y": 1738,
+        "fx": -12,
+        "fy": -6,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hl",
+        "w": 15,
+        "h": 34,
+        "x": 707,
+        "y": 1309,
+        "fx": -15,
+        "fy": -10,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hm",
+        "w": 14,
+        "h": 12,
+        "x": 1439,
+        "y": 1699,
+        "r": true,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hn",
+        "w": 11,
+        "h": 15,
+        "x": 1442,
+        "y": 1668,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ho",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1777
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hp",
+        "w": 11,
+        "h": 15,
+        "x": 1425,
+        "y": 1772
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hq",
+        "w": 4,
+        "h": 3,
+        "x": 1415,
+        "y": 1527
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hr",
+        "w": 9,
+        "h": 13,
+        "x": 1361,
+        "y": 1168
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hs",
+        "w": 12,
+        "h": 13,
+        "x": 354,
+        "y": 2028,
+        "fx": -12,
+        "fy": -5,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ht",
+        "w": 11,
+        "h": 27,
+        "x": 1157,
+        "y": 1989,
+        "fx": -17,
+        "fy": -11,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hu",
+        "w": 14,
+        "h": 11,
+        "x": 784,
+        "y": 2030,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hv",
+        "w": 6,
+        "h": 4,
+        "x": 722,
+        "y": 1375,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hw",
+        "w": 8,
+        "h": 5,
+        "x": 1361,
+        "y": 1183,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hx",
+        "w": 3,
+        "h": 4,
+        "x": 1416,
+        "y": 1407
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hy",
+        "w": 13,
+        "h": 11,
+        "x": 816,
+        "y": 2030
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/hz",
+        "w": 4,
+        "h": 4,
+        "x": 453,
+        "y": 2016
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/i",
+        "w": 11,
+        "h": 12,
+        "x": 1454,
+        "y": 2011,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ia",
+        "w": 4,
+        "h": 5,
+        "x": 1465,
+        "y": 1037,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ib",
+        "w": 21,
+        "h": 27,
+        "x": 600,
+        "y": 1935
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ic",
+        "w": 33,
+        "h": 26,
+        "x": 1320,
+        "y": 2015,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/id",
+        "w": 44,
+        "h": 36,
+        "x": 1425,
+        "y": 1065,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ie",
+        "w": 11,
+        "h": 15,
+        "x": 1425,
+        "y": 1789,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/if",
+        "w": 14,
+        "h": 21,
+        "x": 1455,
+        "y": 1308,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ig",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1923
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ih",
+        "w": 19,
+        "h": 18,
+        "x": 1419,
+        "y": 1266
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ii",
+        "w": 21,
+        "h": 27,
+        "x": 600,
+        "y": 1964,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ij",
+        "w": 32,
+        "h": 23,
+        "x": 368,
+        "y": 2004,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ik",
+        "w": 3,
+        "h": 6,
+        "x": 411,
+        "y": 1927
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/il",
+        "w": 5,
+        "h": 6,
+        "x": 724,
+        "y": 1337
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/im",
+        "w": 4,
+        "h": 3,
+        "x": 1416,
+        "y": 1396
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/in",
+        "w": 14,
+        "h": 11,
+        "x": 624,
+        "y": 2030
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/io",
+        "w": 4,
+        "h": 4,
+        "x": 453,
+        "y": 2016
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ip",
+        "w": 4,
+        "h": 5,
+        "x": 1465,
+        "y": 1044,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/iq",
+        "w": 8,
+        "h": 9,
+        "x": 1446,
+        "y": 1943,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ir",
+        "w": 11,
+        "h": 10,
+        "x": 417,
+        "y": 2002
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/is",
+        "w": 16,
+        "h": 16,
+        "x": 1425,
+        "y": 1633
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/it",
+        "w": 23,
+        "h": 20,
+        "x": 627,
+        "y": 1819,
+        "fx": -4,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/iu",
+        "w": 4,
+        "h": 4,
+        "x": 1416,
+        "y": 1366
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/iv",
+        "w": 11,
+        "h": 12,
+        "x": 1455,
+        "y": 2025
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/iw",
+        "w": 7,
+        "h": 5,
+        "x": 1313,
+        "y": 1854
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ix",
+        "w": 4,
+        "h": 4,
+        "x": 459,
+        "y": 2016
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/iy",
+        "w": 4,
+        "h": 4,
+        "x": 1416,
+        "y": 1372
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/iz",
+        "w": 22,
+        "h": 17,
+        "x": 707,
+        "y": 1290,
+        "fx": -6,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/j",
+        "w": 14,
+        "h": 10,
+        "x": 595,
+        "y": 2031,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ja",
+        "w": 4,
+        "h": 4,
+        "x": 465,
+        "y": 2016
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jb",
+        "w": 10,
+        "h": 15,
+        "x": 1443,
+        "y": 1614
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jc",
+        "w": 4,
+        "h": 4,
+        "x": 438,
+        "y": 2020
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jd",
+        "w": 14,
+        "h": 15,
+        "x": 1455,
+        "y": 1406,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/je",
+        "w": 14,
+        "h": 15,
+        "x": 1455,
+        "y": 1423,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jf",
+        "w": 4,
+        "h": 4,
+        "x": 1416,
+        "y": 1378
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jg",
+        "w": 14,
+        "h": 11,
+        "x": 800,
+        "y": 2030,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jh",
+        "w": 4,
+        "h": 6,
+        "x": 1417,
+        "y": 1311
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ji",
+        "w": 4,
+        "h": 4,
+        "x": 471,
+        "y": 2016
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jj",
+        "w": 5,
+        "h": 5,
+        "x": 1416,
+        "y": 1336
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jk",
+        "w": 14,
+        "h": 15,
+        "x": 1455,
+        "y": 1440,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jl",
+        "w": 3,
+        "h": 4,
+        "x": 1416,
+        "y": 1413
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jm",
+        "w": 6,
+        "h": 3,
+        "x": 1415,
+        "y": 1517,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jn",
+        "w": 10,
+        "h": 15,
+        "x": 1443,
+        "y": 1631
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jo",
+        "w": 4,
+        "h": 4,
+        "x": 1416,
+        "y": 1384
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jp",
+        "w": 14,
+        "h": 15,
+        "x": 1455,
+        "y": 1457,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jq",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1782
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jr",
+        "w": 5,
+        "h": 3,
+        "x": 1416,
+        "y": 1350,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/js",
+        "w": 14,
+        "h": 10,
+        "x": 1455,
+        "y": 1732,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jt",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1787
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ju",
+        "w": 13,
+        "h": 16,
+        "x": 292,
+        "y": 1972,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jv",
+        "w": 31,
+        "h": 26,
+        "x": 512,
+        "y": 1996
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jw",
+        "w": 5,
+        "h": 5,
+        "x": 1416,
+        "y": 1343
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jx",
+        "w": 12,
+        "h": 15,
+        "x": 1425,
+        "y": 1755
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jy",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1787
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/jz",
+        "w": 4,
+        "h": 5,
+        "x": 1465,
+        "y": 1016
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/k",
+        "w": 10,
+        "h": 13,
+        "x": 1365,
+        "y": 2014,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ka",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1792
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kb",
+        "w": 13,
+        "h": 12,
+        "x": 1420,
+        "y": 1944,
+        "r": true,
+        "fx": -13,
+        "fy": -7,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kc",
+        "w": 32,
+        "h": 24,
+        "x": 444,
+        "y": 1990,
+        "fx": -3,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kd",
+        "w": 13,
+        "h": 16,
+        "x": 1440,
+        "y": 1327,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ke",
+        "w": 4,
+        "h": 5,
+        "x": 1465,
+        "y": 1023
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kf",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1498
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kg",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1787
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kh",
+        "w": 5,
+        "h": 3,
+        "x": 1416,
+        "y": 1355,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ki",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1792
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kj",
+        "w": 22,
+        "h": 23,
+        "x": 707,
+        "y": 1245,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kk",
+        "w": 8,
+        "h": 9,
+        "x": 1461,
+        "y": 1953,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kl",
+        "w": 4,
+        "h": 4,
+        "x": 1416,
+        "y": 1390
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/km",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1515
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kn",
+        "w": 3,
+        "h": 4,
+        "x": 1416,
+        "y": 1419
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ko",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1797
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kp",
+        "w": 3,
+        "h": 3,
+        "x": 1438,
+        "y": 1787
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kq",
+        "w": 22,
+        "h": 18,
+        "x": 707,
+        "y": 1270,
+        "fx": -12,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kr",
+        "w": 11,
+        "h": 15,
+        "x": 611,
+        "y": 2026,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ks",
+        "w": 17,
+        "h": 42,
+        "x": 1375,
+        "y": 1512,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kt",
+        "w": 30,
+        "h": 17,
+        "x": 545,
+        "y": 1996,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ku",
+        "w": 44,
+        "h": 14,
+        "x": 1425,
+        "y": 1103,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kv",
+        "w": 17,
+        "h": 42,
+        "x": 1375,
+        "y": 1512,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kw",
+        "w": 44,
+        "h": 14,
+        "x": 1401,
+        "y": 1913,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kx",
+        "w": 44,
+        "h": 14,
+        "x": 1425,
+        "y": 1250,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ky",
+        "w": 12,
+        "h": 17,
+        "x": 531,
+        "y": 2024
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/kz",
+        "w": 3,
+        "h": 4,
+        "x": 1416,
+        "y": 1425,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/l",
+        "w": 13,
+        "h": 11,
+        "x": 846,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/la",
+        "w": 12,
+        "h": 62,
+        "x": 1361,
+        "y": 1083
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lb",
+        "w": 10,
+        "h": 28,
+        "x": 707,
+        "y": 1345
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lc",
+        "w": 10,
+        "h": 28,
+        "x": 719,
+        "y": 1345
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ld",
+        "w": 17,
+        "h": 6,
+        "x": 1338,
+        "y": 2007,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/le",
+        "w": 26,
+        "h": 8,
+        "x": 1339,
+        "y": 1930,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lf",
+        "w": 8,
+        "h": 26,
+        "x": 1355,
+        "y": 2015
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lg",
+        "w": 14,
+        "h": 13,
+        "x": 1455,
+        "y": 1573
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lh",
+        "w": 4,
+        "h": 5,
+        "x": 1465,
+        "y": 1051,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/li",
+        "w": 19,
+        "h": 7,
+        "x": 577,
+        "y": 2022,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lj",
+        "w": 7,
+        "h": 19,
+        "x": 1447,
+        "y": 1913
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lk",
+        "w": 45,
+        "h": 12,
+        "x": 307,
+        "y": 2028,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ll",
+        "w": 3,
+        "h": 10,
+        "x": 1424,
+        "y": 1177
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lm",
+        "w": 6,
+        "h": 18,
+        "x": 1415,
+        "y": 1443
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ln",
+        "w": 6,
+        "h": 18,
+        "x": 1415,
+        "y": 1463
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lo",
+        "w": 14,
+        "h": 5,
+        "x": 1285,
+        "y": 1854,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lp",
+        "w": 5,
+        "h": 14,
+        "x": 724,
+        "y": 1309
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lq",
+        "w": 39,
+        "h": 10,
+        "x": 403,
+        "y": 1990,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lr",
+        "w": 15,
+        "h": 12,
+        "x": 1423,
+        "y": 1553
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ls",
+        "w": 6,
+        "h": 3,
+        "x": 1415,
+        "y": 1522,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lt",
+        "w": 4,
+        "h": 13,
+        "x": 1075,
+        "y": 1841
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lu",
+        "w": 13,
+        "h": 4,
+        "x": 707,
+        "y": 1375,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lv",
+        "w": 3,
+        "h": 9,
+        "x": 1419,
+        "y": 1228
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lw",
+        "w": 3,
+        "h": 9,
+        "x": 1424,
+        "y": 1189
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lx",
+        "w": 10,
+        "h": 35,
+        "x": 1394,
+        "y": 1512
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ly",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1549,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/lz",
+        "w": 4,
+        "h": 5,
+        "x": 1465,
+        "y": 1051,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/m",
+        "w": 10,
+        "h": 13,
+        "x": 1377,
+        "y": 2013,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ma",
+        "w": 10,
+        "h": 5,
+        "x": 1301,
+        "y": 1854,
+        "r": true,
+        "fx": -5,
+        "fy": -3,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mb",
+        "w": 13,
+        "h": 14,
+        "x": 1440,
+        "y": 1598,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mc",
+        "w": 14,
+        "h": 13,
+        "x": 1455,
+        "y": 1603,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/md",
+        "w": 14,
+        "h": 13,
+        "x": 1455,
+        "y": 1618,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/me",
+        "w": 9,
+        "h": 9,
+        "x": 414,
+        "y": 2014,
+        "fx": -4,
+        "fy": -4,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mf",
+        "w": 14,
+        "h": 17,
+        "x": 1455,
+        "y": 1370,
+        "r": true,
+        "fx": -21,
+        "fy": -15,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mg",
+        "w": 13,
+        "h": 9,
+        "x": 1410,
+        "y": 1501,
+        "fx": -4,
+        "fy": 0,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mh",
+        "w": 13,
+        "h": 13,
+        "x": 1360,
+        "y": 1942,
+        "fx": -42,
+        "fy": -35,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mi",
+        "w": 32,
+        "h": 26,
+        "x": 478,
+        "y": 1996,
+        "r": true,
+        "fx": -37,
+        "fy": -22,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mj",
+        "w": 53,
+        "h": 26,
+        "x": 1265,
+        "y": 2015,
+        "r": true,
+        "fx": -38,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mk",
+        "w": 73,
+        "h": 53,
+        "x": 403,
+        "y": 1935,
+        "fx": -13,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ml",
+        "w": 75,
+        "h": 67,
+        "x": 1,
+        "y": 1974,
+        "fx": -11,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mm",
+        "w": 39,
+        "h": 39,
+        "x": 1375,
+        "y": 1320,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mn",
+        "w": 39,
+        "h": 39,
+        "x": 1375,
+        "y": 1361,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mo",
+        "w": 39,
+        "h": 39,
+        "x": 1375,
+        "y": 1402,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mp",
+        "w": 75,
+        "h": 67,
+        "x": 78,
+        "y": 1974,
+        "fx": -11,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mq",
+        "w": 51,
+        "h": 51,
+        "x": 254,
+        "y": 1990,
+        "fx": -42,
+        "fy": -42,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mr",
+        "w": 59,
+        "h": 59,
+        "x": 478,
+        "y": 1935,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ms",
+        "w": 80,
+        "h": 80,
+        "x": 1075,
+        "y": 1959
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mt",
+        "w": 74,
+        "h": 77,
+        "x": 1263,
+        "y": 1861,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mu",
+        "w": 59,
+        "h": 59,
+        "x": 539,
+        "y": 1935,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mv",
+        "w": 71,
+        "h": 73,
+        "x": 1265,
+        "y": 1940,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mw",
+        "w": 45,
+        "h": 45,
+        "x": 1424,
+        "y": 1203,
+        "fx": -45,
+        "fy": -45,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mx",
+        "w": 60,
+        "h": 74,
+        "x": 1339,
+        "y": 1854,
+        "fx": -16,
+        "fy": 0,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/my",
+        "w": 52,
+        "h": 53,
+        "x": 1375,
+        "y": 1122,
+        "fx": -43,
+        "fy": -40,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/mz",
+        "w": 52,
+        "h": 58,
+        "x": 1401,
+        "y": 1853,
+        "fx": -25,
+        "fy": -5,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/n",
+        "w": 12,
+        "h": 11,
+        "x": 1432,
+        "y": 1971,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/na",
+        "w": 93,
+        "h": 96,
+        "x": 1075,
+        "y": 1861,
+        "fx": -23,
+        "fy": -23,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nb",
+        "w": 59,
+        "h": 54,
+        "x": 307,
+        "y": 1972,
+        "fx": -25,
+        "fy": -9,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nc",
+        "w": 100,
+        "h": 105,
+        "x": 1259,
+        "y": 1083,
+        "fx": -20,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nd",
+        "w": 61,
+        "h": 42,
+        "x": 1377,
+        "y": 1809,
+        "fx": -24,
+        "fy": -22,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ne",
+        "w": 102,
+        "h": 109,
+        "x": 1259,
+        "y": 972,
+        "fx": -16,
+        "fy": -16,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nf",
+        "w": 33,
+        "h": 30,
+        "x": 368,
+        "y": 1972,
+        "fx": -41,
+        "fy": -35,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ng",
+        "w": 100,
+        "h": 91,
+        "x": 1363,
+        "y": 972,
+        "fx": -11,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nh",
+        "w": 15,
+        "h": 15,
+        "x": 1423,
+        "y": 1453,
+        "fx": -43,
+        "fy": -34,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ni",
+        "w": 93,
+        "h": 87,
+        "x": 1170,
+        "y": 1954,
+        "r": true,
+        "fx": -25,
+        "fy": -18,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nj",
+        "w": 4,
+        "h": 5,
+        "x": 1465,
+        "y": 1058,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nk",
+        "w": 7,
+        "h": 7,
+        "x": 444,
+        "y": 2016,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nl",
+        "w": 5,
+        "h": 7,
+        "x": 1416,
+        "y": 1320,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nm",
+        "w": 17,
+        "h": 17,
+        "x": 477,
+        "y": 2024,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nn",
+        "w": 13,
+        "h": 13,
+        "x": 1375,
+        "y": 1942,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/no",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1878,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/np",
+        "w": 13,
+        "h": 13,
+        "x": 1406,
+        "y": 1929,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nq",
+        "w": 6,
+        "h": 5,
+        "x": 1331,
+        "y": 1854,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nr",
+        "w": 6,
+        "h": 6,
+        "x": 403,
+        "y": 1927,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ns",
+        "w": 13,
+        "h": 12,
+        "x": 1357,
+        "y": 1970,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nt",
+        "w": 14,
+        "h": 14,
+        "x": 1455,
+        "y": 1541,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nu",
+        "w": 2,
+        "h": 89,
+        "x": 623,
+        "y": 1883,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 90,
+        "fh": 2
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nv",
+        "w": 100,
+        "h": 50,
+        "x": 419,
+        "y": 1883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nw",
+        "w": 100,
+        "h": 50,
+        "x": 521,
+        "y": 1883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nx",
+        "w": 100,
+        "h": 50,
+        "x": 1081,
+        "y": 1809,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ny",
+        "w": 100,
+        "h": 50,
+        "x": 1183,
+        "y": 1809,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/nz",
+        "w": 20,
+        "h": 20,
+        "x": 1338,
+        "y": 1940
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/o",
+        "w": 12,
+        "h": 11,
+        "x": 1422,
+        "y": 1998,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oa",
+        "w": 10,
+        "h": 16,
+        "x": 1363,
+        "y": 1065,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ob",
+        "w": 13,
+        "h": 14,
+        "x": 1425,
+        "y": 1503,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oc",
+        "w": 15,
+        "h": 15,
+        "x": 1423,
+        "y": 1519,
+        "fx": -24,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/od",
+        "w": 13,
+        "h": 17,
+        "x": 1440,
+        "y": 1308,
+        "fx": -26,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oe",
+        "w": 34,
+        "h": 16,
+        "x": 256,
+        "y": 1972,
+        "r": true,
+        "fx": -23,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/of",
+        "w": 11,
+        "h": 8,
+        "x": 566,
+        "y": 2033,
+        "fx": -5,
+        "fy": -5,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/og",
+        "w": 7,
+        "h": 7,
+        "x": 1461,
+        "y": 1964,
+        "fx": -5,
+        "fy": -5,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oh",
+        "w": 28,
+        "h": 14,
+        "x": 1440,
+        "y": 1292,
+        "r": true,
+        "fx": -25,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oi",
+        "w": 4,
+        "h": 5,
+        "x": 1465,
+        "y": 1030,
+        "fx": -6,
+        "fy": -8,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oj",
+        "w": 34,
+        "h": 16,
+        "x": 256,
+        "y": 1972,
+        "r": true,
+        "fx": -23,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ok",
+        "w": 28,
+        "h": 14,
+        "x": 1440,
+        "y": 1292,
+        "r": true,
+        "fx": -25,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ol",
+        "w": 34,
+        "h": 16,
+        "x": 256,
+        "y": 1972,
+        "r": true,
+        "fx": -23,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/om",
+        "w": 28,
+        "h": 14,
+        "x": 1440,
+        "y": 1292,
+        "r": true,
+        "fx": -25,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/on",
+        "w": 34,
+        "h": 16,
+        "x": 256,
+        "y": 1972,
+        "r": true,
+        "fx": -23,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oo",
+        "w": 28,
+        "h": 14,
+        "x": 1440,
+        "y": 1292,
+        "r": true,
+        "fx": -25,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/op",
+        "w": 15,
+        "h": 15,
+        "x": 1423,
+        "y": 1519,
+        "fx": -24,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oq",
+        "w": 13,
+        "h": 14,
+        "x": 1425,
+        "y": 1503,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/or",
+        "w": 13,
+        "h": 13,
+        "x": 1421,
+        "y": 1929,
+        "fx": -22,
+        "fy": -7,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/os",
+        "w": 15,
+        "h": 17,
+        "x": 514,
+        "y": 2024,
+        "r": true,
+        "fx": -20,
+        "fy": -4,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ot",
+        "w": 14,
+        "h": 12,
+        "x": 1455,
+        "y": 1718,
+        "r": true,
+        "fx": -23,
+        "fy": -2,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ou",
+        "w": 14,
+        "h": 12,
+        "x": 1439,
+        "y": 1713,
+        "r": true,
+        "fx": -23,
+        "fy": -2,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ov",
+        "w": 15,
+        "h": 16,
+        "x": 1423,
+        "y": 1401,
+        "r": true,
+        "fx": -20,
+        "fy": -2,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ow",
+        "w": 16,
+        "h": 17,
+        "x": 496,
+        "y": 2024,
+        "r": true,
+        "fx": -20,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ox",
+        "w": 6,
+        "h": 5,
+        "x": 1331,
+        "y": 1854,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oy",
+        "w": 6,
+        "h": 6,
+        "x": 403,
+        "y": 1927,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/oz",
+        "w": 12,
+        "h": 16,
+        "x": 1425,
+        "y": 1685,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/p",
+        "w": 11,
+        "h": 10,
+        "x": 430,
+        "y": 2002,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pa",
+        "w": 14,
+        "h": 14,
+        "x": 1455,
+        "y": 1557,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pb",
+        "w": 14,
+        "h": 15,
+        "x": 1455,
+        "y": 1474,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pc",
+        "w": 13,
+        "h": 13,
+        "x": 1360,
+        "y": 1942,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pd",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1938,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pe",
+        "w": 14,
+        "h": 15,
+        "x": 1455,
+        "y": 1491,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pf",
+        "w": 13,
+        "h": 13,
+        "x": 1456,
+        "y": 1938,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pg",
+        "w": 42,
+        "h": 48,
+        "x": 1375,
+        "y": 1228,
+        "r": true,
+        "fx": -5,
+        "fy": -10,
+        "fw": 62,
+        "fh": 59
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ph",
+        "w": 97,
+        "h": 65,
+        "x": 155,
+        "y": 1974,
+        "fx": -11,
+        "fy": -10,
+        "fw": 119,
+        "fh": 85
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pi",
+        "w": 40,
+        "h": 40,
+        "x": 1429,
+        "y": 1119
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pj",
+        "w": 40,
+        "h": 40,
+        "x": 1429,
+        "y": 1161
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pk",
+        "w": 40,
+        "h": 40,
+        "x": 1375,
+        "y": 1278
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pl",
+        "w": 90,
+        "h": 43,
+        "x": 1285,
+        "y": 1809,
+        "r": true,
+        "fx": -15,
+        "fy": -10,
+        "fw": 70,
+        "fh": 116
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pm",
+        "w": 91,
+        "h": 91,
+        "x": 1170,
+        "y": 1861,
+        "fx": 0,
+        "fy": -9,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pn",
+        "w": 50,
+        "h": 49,
+        "x": 1372,
+        "y": 1177,
+        "fx": 0,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/po",
+        "w": 59,
+        "h": 59,
+        "x": 478,
+        "y": 1935,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pp",
+        "w": 80,
+        "h": 80,
+        "x": 1075,
+        "y": 1959
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pq",
+        "w": 74,
+        "h": 77,
+        "x": 1263,
+        "y": 1861,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pr",
+        "w": 59,
+        "h": 59,
+        "x": 539,
+        "y": 1935,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ps",
+        "w": 13,
+        "h": 13,
+        "x": 1355,
+        "y": 1984,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pt",
+        "w": 5,
+        "h": 5,
+        "x": 1416,
+        "y": 1329,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pu",
+        "w": 7,
+        "h": 7,
+        "x": 1447,
+        "y": 1934,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pv",
+        "w": 9,
+        "h": 11,
+        "x": 1436,
+        "y": 1929,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pw",
+        "w": 21,
+        "h": 23,
+        "x": 1417,
+        "y": 1286,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/px",
+        "w": 13,
+        "h": 11,
+        "x": 1417,
+        "y": 1971,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/py",
+        "w": 11,
+        "h": 13,
+        "x": 1357,
+        "y": 1999,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/pz",
+        "w": 11,
+        "h": 13,
+        "x": 1370,
+        "y": 1998,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/q",
+        "w": 12,
+        "h": 10,
+        "x": 403,
+        "y": 2002,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qa",
+        "w": 13,
+        "h": 11,
+        "x": 1417,
+        "y": 1971,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qb",
+        "w": 11,
+        "h": 13,
+        "x": 1378,
+        "y": 2028,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qc",
+        "w": 11,
+        "h": 13,
+        "x": 1383,
+        "y": 1998,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qd",
+        "w": 11,
+        "h": 13,
+        "x": 1357,
+        "y": 1999,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qe",
+        "w": 13,
+        "h": 11,
+        "x": 1399,
+        "y": 1984,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qf",
+        "w": 446,
+        "h": 187,
+        "x": 627,
+        "y": 1841,
+        "r": true,
+        "fx": -85,
+        "fy": -66,
+        "fw": 272,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qg",
+        "w": 212,
+        "h": 969,
+        "x": 1255,
+        "y": 1,
+        "fx": -30,
+        "fy": -31,
+        "fw": 272,
+        "fh": 1000
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qh",
+        "w": 320,
+        "h": 320,
+        "x": 731,
+        "y": 1245
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qi",
+        "w": 320,
+        "h": 320,
+        "x": 1053,
+        "y": 1245
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qj",
+        "w": 13,
+        "h": 13,
+        "x": 1360,
+        "y": 1942,
+        "fx": -22,
+        "fy": -15,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qk",
+        "w": 15,
+        "h": 15,
+        "x": 1423,
+        "y": 1536,
+        "fx": -20,
+        "fy": -2,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ql",
+        "w": 7,
+        "h": 18,
+        "x": 1406,
+        "y": 1512,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qm",
+        "w": 24,
+        "h": 10,
+        "x": 1367,
+        "y": 1930,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qn",
+        "w": 26,
+        "h": 11,
+        "x": 408,
+        "y": 2030,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qo",
+        "w": 11,
+        "h": 28,
+        "x": 1157,
+        "y": 1959,
+        "r": true,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qp",
+        "w": 13,
+        "h": 14,
+        "x": 1425,
+        "y": 1567
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qq",
+        "w": 15,
+        "h": 16,
+        "x": 1423,
+        "y": 1383
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qr",
+        "w": 19,
+        "h": 6,
+        "x": 545,
+        "y": 2035
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qs",
+        "w": 13,
+        "h": 15,
+        "x": 1440,
+        "y": 1532
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qt",
+        "w": 19,
+        "h": 6,
+        "x": 545,
+        "y": 2035
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qu",
+        "w": 15,
+        "h": 15,
+        "x": 1425,
+        "y": 1651
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qv",
+        "w": 15,
+        "h": 15,
+        "x": 1425,
+        "y": 1668
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qw",
+        "w": 14,
+        "h": 12,
+        "x": 1439,
+        "y": 1727,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qx",
+        "w": 342,
+        "h": 240,
+        "x": 1081,
+        "y": 1567,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 240,
+        "fh": 550
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qy",
+        "w": 5,
+        "h": 10,
+        "x": 724,
+        "y": 1325,
+        "fx": 0,
+        "fy": 0,
+        "fw": 5,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/qz",
+        "w": 13,
+        "h": 14,
+        "x": 1425,
+        "y": 1583,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/r",
+        "w": 11,
+        "h": 12,
+        "x": 1448,
+        "y": 1954,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/ra",
+        "w": 550,
+        "h": 240,
+        "x": 707,
+        "y": 1003,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/rb",
+        "w": 13,
+        "h": 14,
+        "x": 1425,
+        "y": 1599,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/rc",
+        "w": 14,
+        "h": 13,
+        "x": 1455,
+        "y": 1633,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/rd",
+        "w": 13,
+        "h": 14,
+        "x": 1425,
+        "y": 1599,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/re",
+        "w": 14,
+        "h": 13,
+        "x": 1455,
+        "y": 1633,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/s",
+        "w": 13,
+        "h": 12,
+        "x": 1390,
+        "y": 1944,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/t",
+        "w": 11,
+        "h": 12,
+        "x": 1365,
+        "y": 2029,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/u",
+        "w": 14,
+        "h": 11,
+        "x": 656,
+        "y": 2030,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/v",
+        "w": 13,
+        "h": 13,
+        "x": 1372,
+        "y": 1970,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/w",
+        "w": 13,
+        "h": 11,
+        "x": 891,
+        "y": 2030,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/x",
+        "w": 11,
+        "h": 12,
+        "x": 1389,
+        "y": 2013,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/y",
+        "w": 7,
+        "h": 5,
+        "x": 1322,
+        "y": 1854,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/navy_officer_003/.gen/movie/z",
+        "w": 11,
+        "h": 7,
+        "x": 425,
+        "y": 2014,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    }
+]

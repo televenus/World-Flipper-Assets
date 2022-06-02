@@ -1,0 +1,2434 @@
+[
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 762,
+        "y": 755
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/aa",
+        "w": 15,
+        "h": 11,
+        "x": 297,
+        "y": 777,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ab",
+        "w": 10,
+        "h": 10,
+        "x": 924,
+        "y": 757
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ac",
+        "w": 20,
+        "h": 20,
+        "x": 573,
+        "y": 761
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ad",
+        "w": 4,
+        "h": 10,
+        "x": 524,
+        "y": 740
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ae",
+        "w": 16,
+        "h": 16,
+        "x": 352,
+        "y": 772
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/af",
+        "w": 11,
+        "h": 13,
+        "x": 987,
+        "y": 285,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ag",
+        "w": 10,
+        "h": 11,
+        "x": 750,
+        "y": 744,
+        "fx": -3,
+        "fy": -2,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ah",
+        "w": 13,
+        "h": 10,
+        "x": 803,
+        "y": 747,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ai",
+        "w": 13,
+        "h": 10,
+        "x": 818,
+        "y": 747,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/aj",
+        "w": 10,
+        "h": 14,
+        "x": 1009,
+        "y": 392,
+        "fx": -10,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ak",
+        "w": 14,
+        "h": 10,
+        "x": 500,
+        "y": 778,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/al",
+        "w": 13,
+        "h": 10,
+        "x": 833,
+        "y": 747,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/am",
+        "w": 13,
+        "h": 10,
+        "x": 818,
+        "y": 747,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/an",
+        "w": 10,
+        "h": 14,
+        "x": 897,
+        "y": 729,
+        "fx": -10,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ao",
+        "w": 14,
+        "h": 10,
+        "x": 936,
+        "y": 737,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ap",
+        "w": 15,
+        "h": 10,
+        "x": 449,
+        "y": 778,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/aq",
+        "w": 15,
+        "h": 10,
+        "x": 466,
+        "y": 778,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ar",
+        "w": 16,
+        "h": 10,
+        "x": 217,
+        "y": 674,
+        "r": true,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/as",
+        "w": 16,
+        "h": 10,
+        "x": 395,
+        "y": 778,
+        "r": true,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/at",
+        "w": 15,
+        "h": 10,
+        "x": 483,
+        "y": 778,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/au",
+        "w": 16,
+        "h": 10,
+        "x": 413,
+        "y": 778,
+        "r": true,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/av",
+        "w": 16,
+        "h": 10,
+        "x": 431,
+        "y": 778,
+        "r": true,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/aw",
+        "w": 5,
+        "h": 5,
+        "x": 598,
+        "y": 783,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ax",
+        "w": 10,
+        "h": 13,
+        "x": 886,
+        "y": 746,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ay",
+        "w": 7,
+        "h": 7,
+        "x": 629,
+        "y": 781,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/az",
+        "w": 11,
+        "h": 9,
+        "x": 911,
+        "y": 759,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/b",
+        "w": 46,
+        "h": 17,
+        "x": 62,
+        "y": 663,
+        "fx": -4,
+        "fy": 0,
+        "fw": 50,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ba",
+        "w": 23,
+        "h": 21,
+        "x": 725,
+        "y": 734,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bb",
+        "w": 12,
+        "h": 14,
+        "x": 995,
+        "y": 392
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bc",
+        "w": 16,
+        "h": 15,
+        "x": 936,
+        "y": 391,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bd",
+        "w": 240,
+        "h": 550,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/be",
+        "w": 4,
+        "h": 5,
+        "x": 605,
+        "y": 783,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bf",
+        "w": 7,
+        "h": 7,
+        "x": 374,
+        "y": 762,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bg",
+        "w": 7,
+        "h": 5,
+        "x": 581,
+        "y": 783,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bh",
+        "w": 17,
+        "h": 17,
+        "x": 741,
+        "y": 757,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bi",
+        "w": 11,
+        "h": 13,
+        "x": 1000,
+        "y": 285,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bj",
+        "w": 13,
+        "h": 12,
+        "x": 369,
+        "y": 736,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bk",
+        "w": 14,
+        "h": 12,
+        "x": 723,
+        "y": 776,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bl",
+        "w": 13,
+        "h": 12,
+        "x": 369,
+        "y": 736,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bm",
+        "w": 7,
+        "h": 5,
+        "x": 370,
+        "y": 772,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bn",
+        "w": 11,
+        "h": 7,
+        "x": 616,
+        "y": 781,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bo",
+        "w": 15,
+        "h": 9,
+        "x": 516,
+        "y": 779,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bp",
+        "w": 4,
+        "h": 4,
+        "x": 968,
+        "y": 737
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bq",
+        "w": 3,
+        "h": 7,
+        "x": 1016,
+        "y": 337
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/br",
+        "w": 3,
+        "h": 8,
+        "x": 1016,
+        "y": 195
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bs",
+        "w": 8,
+        "h": 4,
+        "x": 374,
+        "y": 750,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bt",
+        "w": 4,
+        "h": 9,
+        "x": 762,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bu",
+        "w": 8,
+        "h": 4,
+        "x": 374,
+        "y": 750,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bv",
+        "w": 4,
+        "h": 9,
+        "x": 762,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bw",
+        "w": 8,
+        "h": 3,
+        "x": 270,
+        "y": 785,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bx",
+        "w": 7,
+        "h": 3,
+        "x": 177,
+        "y": 785,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/by",
+        "w": 9,
+        "h": 4,
+        "x": 561,
+        "y": 780,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/bz",
+        "w": 8,
+        "h": 4,
+        "x": 374,
+        "y": 756,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/c",
+        "w": 140,
+        "h": 33,
+        "x": 106,
+        "y": 721,
+        "fx": -29,
+        "fy": -65,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ca",
+        "w": 9,
+        "h": 4,
+        "x": 561,
+        "y": 780,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cb",
+        "w": 8,
+        "h": 4,
+        "x": 374,
+        "y": 756,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cc",
+        "w": 11,
+        "h": 13,
+        "x": 680,
+        "y": 775,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cd",
+        "w": 11,
+        "h": 13,
+        "x": 693,
+        "y": 775,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ce",
+        "w": 11,
+        "h": 13,
+        "x": 760,
+        "y": 761,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cf",
+        "w": 276,
+        "h": 33,
+        "x": 106,
+        "y": 686
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cg",
+        "w": 386,
+        "h": 276,
+        "x": 243,
+        "y": 408,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ch",
+        "w": 386,
+        "h": 276,
+        "x": 631,
+        "y": 408,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ci",
+        "w": 25,
+        "h": 20,
+        "x": 671,
+        "y": 734,
+        "fx": -33,
+        "fy": -37,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cj",
+        "w": 33,
+        "h": 37,
+        "x": 110,
+        "y": 647,
+        "fx": -31,
+        "fy": -27,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ck",
+        "w": 44,
+        "h": 41,
+        "x": 936,
+        "y": 348,
+        "fx": -24,
+        "fy": -24,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cl",
+        "w": 52,
+        "h": 46,
+        "x": 644,
+        "y": 686,
+        "r": true,
+        "fx": -26,
+        "fy": -18,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cm",
+        "w": 47,
+        "h": 46,
+        "x": 938,
+        "y": 252,
+        "fx": -26,
+        "fy": -19,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cn",
+        "w": 49,
+        "h": 42,
+        "x": 752,
+        "y": 686,
+        "r": true,
+        "fx": -25,
+        "fy": -16,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/co",
+        "w": 55,
+        "h": 46,
+        "x": 530,
+        "y": 686,
+        "r": true,
+        "fx": -23,
+        "fy": -13,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cp",
+        "w": 11,
+        "h": 13,
+        "x": 773,
+        "y": 761,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cq",
+        "w": 11,
+        "h": 13,
+        "x": 787,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cr",
+        "w": 11,
+        "h": 13,
+        "x": 800,
+        "y": 775,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cs",
+        "w": 11,
+        "h": 13,
+        "x": 813,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ct",
+        "w": 11,
+        "h": 13,
+        "x": 800,
+        "y": 775,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cu",
+        "w": 11,
+        "h": 13,
+        "x": 826,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cv",
+        "w": 11,
+        "h": 13,
+        "x": 839,
+        "y": 775,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cw",
+        "w": 11,
+        "h": 13,
+        "x": 852,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cx",
+        "w": 11,
+        "h": 13,
+        "x": 839,
+        "y": 775,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cy",
+        "w": 11,
+        "h": 13,
+        "x": 865,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/cz",
+        "w": 11,
+        "h": 13,
+        "x": 867,
+        "y": 759,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/d",
+        "w": 15,
+        "h": 11,
+        "x": 314,
+        "y": 777,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/da",
+        "w": 11,
+        "h": 13,
+        "x": 773,
+        "y": 761,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/db",
+        "w": 11,
+        "h": 13,
+        "x": 898,
+        "y": 745,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dc",
+        "w": 11,
+        "h": 13,
+        "x": 760,
+        "y": 761,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dd",
+        "w": 22,
+        "h": 17,
+        "x": 693,
+        "y": 756,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/de",
+        "w": 22,
+        "h": 17,
+        "x": 717,
+        "y": 757,
+        "r": true,
+        "fx": -15,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/df",
+        "w": 22,
+        "h": 17,
+        "x": 693,
+        "y": 756,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dg",
+        "w": 22,
+        "h": 17,
+        "x": 549,
+        "y": 761,
+        "r": true,
+        "fx": -15,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dh",
+        "w": 11,
+        "h": 14,
+        "x": 923,
+        "y": 728,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/di",
+        "w": 14,
+        "h": 11,
+        "x": 870,
+        "y": 746,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dj",
+        "w": 11,
+        "h": 14,
+        "x": 923,
+        "y": 728,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dk",
+        "w": 11,
+        "h": 14,
+        "x": 802,
+        "y": 759,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dl",
+        "w": 11,
+        "h": 13,
+        "x": 911,
+        "y": 744,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dm",
+        "w": 13,
+        "h": 11,
+        "x": 880,
+        "y": 761,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dn",
+        "w": 11,
+        "h": 6,
+        "x": 548,
+        "y": 780,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/do",
+        "w": 25,
+        "h": 20,
+        "x": 698,
+        "y": 734,
+        "fx": -33,
+        "fy": -37,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dp",
+        "w": 33,
+        "h": 37,
+        "x": 145,
+        "y": 647,
+        "fx": -31,
+        "fy": -27,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dq",
+        "w": 44,
+        "h": 41,
+        "x": 854,
+        "y": 686,
+        "fx": -24,
+        "fy": -24,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dr",
+        "w": 52,
+        "h": 46,
+        "x": 698,
+        "y": 686,
+        "r": true,
+        "fx": -26,
+        "fy": -18,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ds",
+        "w": 13,
+        "h": 11,
+        "x": 936,
+        "y": 749,
+        "fx": -17,
+        "fy": -7,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dt",
+        "w": 47,
+        "h": 46,
+        "x": 936,
+        "y": 300,
+        "fx": -26,
+        "fy": -19,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/du",
+        "w": 14,
+        "h": 11,
+        "x": 952,
+        "y": 737,
+        "fx": -17,
+        "fy": -5,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dv",
+        "w": 49,
+        "h": 42,
+        "x": 803,
+        "y": 686,
+        "r": true,
+        "fx": -25,
+        "fy": -16,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dw",
+        "w": 55,
+        "h": 46,
+        "x": 587,
+        "y": 686,
+        "r": true,
+        "fx": -23,
+        "fy": -13,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dx",
+        "w": 20,
+        "h": 12,
+        "x": 658,
+        "y": 776,
+        "fx": -13,
+        "fy": -5,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dy",
+        "w": 25,
+        "h": 13,
+        "x": 867,
+        "y": 393,
+        "fx": -11,
+        "fy": -7,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/dz",
+        "w": 26,
+        "h": 13,
+        "x": 839,
+        "y": 393,
+        "fx": -11,
+        "fy": -10,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/e",
+        "w": 9,
+        "h": 3,
+        "x": 166,
+        "y": 785
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ea",
+        "w": 27,
+        "h": 14,
+        "x": 988,
+        "y": 237,
+        "fx": -10,
+        "fy": -14,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/eb",
+        "w": 25,
+        "h": 12,
+        "x": 642,
+        "y": 755,
+        "fx": -11,
+        "fy": -17,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ec",
+        "w": 23,
+        "h": 9,
+        "x": 370,
+        "y": 779,
+        "fx": -13,
+        "fy": -20,
+        "fw": 47,
+        "fh": 47
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ed",
+        "w": 13,
+        "h": 13,
+        "x": 369,
+        "y": 721,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ee",
+        "w": 29,
+        "h": 29,
+        "x": 985,
+        "y": 337,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ef",
+        "w": 40,
+        "h": 20,
+        "x": 332,
+        "y": 750,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/eg",
+        "w": 15,
+        "h": 15,
+        "x": 803,
+        "y": 730,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/eh",
+        "w": 20,
+        "h": 18,
+        "x": 616,
+        "y": 761
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ei",
+        "w": 29,
+        "h": 30,
+        "x": 987,
+        "y": 253,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ej",
+        "w": 27,
+        "h": 22,
+        "x": 982,
+        "y": 368
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ek",
+        "w": 25,
+        "h": 33,
+        "x": 270,
+        "y": 750,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/el",
+        "w": 35,
+        "h": 27,
+        "x": 332,
+        "y": 721
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/em",
+        "w": 36,
+        "h": 27,
+        "x": 210,
+        "y": 756
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/en",
+        "w": 3,
+        "h": 3,
+        "x": 936,
+        "y": 728
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/eo",
+        "w": 15,
+        "h": 13,
+        "x": 894,
+        "y": 393,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ep",
+        "w": 4,
+        "h": 4,
+        "x": 968,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/eq",
+        "w": 3,
+        "h": 2,
+        "x": 936,
+        "y": 733
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/er",
+        "w": 3,
+        "h": 4,
+        "x": 1016,
+        "y": 346
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/es",
+        "w": 11,
+        "h": 13,
+        "x": 878,
+        "y": 774
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/et",
+        "w": 3,
+        "h": 3,
+        "x": 611,
+        "y": 783
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/eu",
+        "w": 11,
+        "h": 14,
+        "x": 815,
+        "y": 759
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ev",
+        "w": 4,
+        "h": 4,
+        "x": 974,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ew",
+        "w": 4,
+        "h": 4,
+        "x": 980,
+        "y": 759
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ex",
+        "w": 11,
+        "h": 14,
+        "x": 828,
+        "y": 759
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ey",
+        "w": 4,
+        "h": 4,
+        "x": 974,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ez",
+        "w": 4,
+        "h": 3,
+        "x": 524,
+        "y": 752
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/f",
+        "w": 11,
+        "h": 13,
+        "x": 898,
+        "y": 760,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fa",
+        "w": 11,
+        "h": 14,
+        "x": 841,
+        "y": 759
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fb",
+        "w": 4,
+        "h": 4,
+        "x": 974,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fc",
+        "w": 3,
+        "h": 3,
+        "x": 911,
+        "y": 770
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fd",
+        "w": 11,
+        "h": 15,
+        "x": 871,
+        "y": 729
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fe",
+        "w": 4,
+        "h": 3,
+        "x": 280,
+        "y": 785
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ff",
+        "w": 13,
+        "h": 9,
+        "x": 533,
+        "y": 779,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fg",
+        "w": 24,
+        "h": 29,
+        "x": 217,
+        "y": 643,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fh",
+        "w": 4,
+        "h": 6,
+        "x": 848,
+        "y": 747
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fi",
+        "w": 8,
+        "h": 5,
+        "x": 658,
+        "y": 769,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fj",
+        "w": 3,
+        "h": 4,
+        "x": 1016,
+        "y": 213
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fk",
+        "w": 13,
+        "h": 11,
+        "x": 951,
+        "y": 750
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fl",
+        "w": 4,
+        "h": 4,
+        "x": 1004,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fm",
+        "w": 5,
+        "h": 4,
+        "x": 924,
+        "y": 769
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fn",
+        "w": 27,
+        "h": 21,
+        "x": 530,
+        "y": 734,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fo",
+        "w": 33,
+        "h": 26,
+        "x": 297,
+        "y": 749,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fp",
+        "w": 44,
+        "h": 36,
+        "x": 478,
+        "y": 740,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fq",
+        "w": 48,
+        "h": 55,
+        "x": 938,
+        "y": 195,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fr",
+        "w": 13,
+        "h": 13,
+        "x": 911,
+        "y": 393
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fs",
+        "w": 18,
+        "h": 19,
+        "x": 638,
+        "y": 769,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ft",
+        "w": 27,
+        "h": 21,
+        "x": 33,
+        "y": 663
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fu",
+        "w": 21,
+        "h": 14,
+        "x": 972,
+        "y": 392,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fv",
+        "w": 3,
+        "h": 6,
+        "x": 1016,
+        "y": 205
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fw",
+        "w": 6,
+        "h": 5,
+        "x": 590,
+        "y": 783,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fx",
+        "w": 4,
+        "h": 3,
+        "x": 186,
+        "y": 785
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fy",
+        "w": 14,
+        "h": 11,
+        "x": 854,
+        "y": 746
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/fz",
+        "w": 4,
+        "h": 4,
+        "x": 1004,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/g",
+        "w": 9,
+        "h": 9,
+        "x": 962,
+        "y": 763,
+        "fx": -4,
+        "fy": -4,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ga",
+        "w": 5,
+        "h": 4,
+        "x": 973,
+        "y": 763
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gb",
+        "w": 8,
+        "h": 9,
+        "x": 926,
+        "y": 393,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gc",
+        "w": 10,
+        "h": 11,
+        "x": 924,
+        "y": 744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gd",
+        "w": 16,
+        "h": 16,
+        "x": 768,
+        "y": 730
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ge",
+        "w": 23,
+        "h": 32,
+        "x": 141,
+        "y": 756,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gf",
+        "w": 4,
+        "h": 4,
+        "x": 986,
+        "y": 759
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gg",
+        "w": 12,
+        "h": 11,
+        "x": 966,
+        "y": 750,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gh",
+        "w": 7,
+        "h": 5,
+        "x": 572,
+        "y": 783
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gi",
+        "w": 4,
+        "h": 4,
+        "x": 1010,
+        "y": 744
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gj",
+        "w": 4,
+        "h": 4,
+        "x": 1011,
+        "y": 368
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gk",
+        "w": 23,
+        "h": 20,
+        "x": 524,
+        "y": 757,
+        "fx": -4,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gl",
+        "w": 22,
+        "h": 17,
+        "x": 669,
+        "y": 756,
+        "fx": -6,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gm",
+        "w": 15,
+        "h": 12,
+        "x": 706,
+        "y": 776,
+        "r": true,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gn",
+        "w": 14,
+        "h": 12,
+        "x": 739,
+        "y": 776,
+        "r": true,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/go",
+        "w": 11,
+        "h": 15,
+        "x": 884,
+        "y": 729
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gp",
+        "w": 15,
+        "h": 11,
+        "x": 768,
+        "y": 748,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gq",
+        "w": 11,
+        "h": 13,
+        "x": 891,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gr",
+        "w": 11,
+        "h": 13,
+        "x": 987,
+        "y": 285,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gs",
+        "w": 11,
+        "h": 13,
+        "x": 904,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gt",
+        "w": 14,
+        "h": 12,
+        "x": 755,
+        "y": 776,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gu",
+        "w": 16,
+        "h": 15,
+        "x": 954,
+        "y": 391,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gv",
+        "w": 27,
+        "h": 25,
+        "x": 559,
+        "y": 734,
+        "fx": -24,
+        "fy": -16,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gw",
+        "w": 27,
+        "h": 25,
+        "x": 588,
+        "y": 734,
+        "fx": -24,
+        "fy": -16,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gx",
+        "w": 27,
+        "h": 27,
+        "x": 213,
+        "y": 614,
+        "fx": -24,
+        "fy": -16,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gy",
+        "w": 38,
+        "h": 26,
+        "x": 292,
+        "y": 721,
+        "fx": -20,
+        "fy": -16,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/gz",
+        "w": 42,
+        "h": 27,
+        "x": 248,
+        "y": 721,
+        "fx": -16,
+        "fy": -15,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/h",
+        "w": 13,
+        "h": 11,
+        "x": 936,
+        "y": 762,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ha",
+        "w": 14,
+        "h": 12,
+        "x": 752,
+        "y": 730,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hb",
+        "w": 15,
+        "h": 16,
+        "x": 786,
+        "y": 730
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hc",
+        "w": 41,
+        "h": 27,
+        "x": 978,
+        "y": 686,
+        "fx": -17,
+        "fy": -14,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hd",
+        "w": 41,
+        "h": 27,
+        "x": 978,
+        "y": 715,
+        "fx": -17,
+        "fy": -14,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/he",
+        "w": 42,
+        "h": 27,
+        "x": 166,
+        "y": 756,
+        "fx": -17,
+        "fy": -14,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hf",
+        "w": 26,
+        "h": 40,
+        "x": 988,
+        "y": 195,
+        "r": true,
+        "fx": -19,
+        "fy": -14,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hg",
+        "w": 30,
+        "h": 21,
+        "x": 1,
+        "y": 663,
+        "fx": -22,
+        "fy": -15,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hh",
+        "w": 27,
+        "h": 19,
+        "x": 642,
+        "y": 734,
+        "fx": -25,
+        "fy": -17,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hi",
+        "w": 18,
+        "h": 16,
+        "x": 332,
+        "y": 772,
+        "fx": -32,
+        "fy": -21,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hj",
+        "w": 23,
+        "h": 25,
+        "x": 617,
+        "y": 734,
+        "fx": -21,
+        "fy": -11,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hk",
+        "w": 35,
+        "h": 35,
+        "x": 180,
+        "y": 647,
+        "fx": -15,
+        "fy": -1,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hl",
+        "w": 35,
+        "h": 36,
+        "x": 941,
+        "y": 686,
+        "fx": -15,
+        "fy": 0,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hm",
+        "w": 34,
+        "h": 35,
+        "x": 985,
+        "y": 300,
+        "fx": -16,
+        "fy": -1,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hn",
+        "w": 33,
+        "h": 32,
+        "x": 106,
+        "y": 756,
+        "fx": -17,
+        "fy": -4,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ho",
+        "w": 28,
+        "h": 28,
+        "x": 213,
+        "y": 584,
+        "fx": -87,
+        "fy": -87,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hp",
+        "w": 28,
+        "h": 29,
+        "x": 213,
+        "y": 553,
+        "fx": -21,
+        "fy": -7,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hq",
+        "w": 39,
+        "h": 40,
+        "x": 900,
+        "y": 686,
+        "fx": -81,
+        "fy": -81,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hr",
+        "w": 50,
+        "h": 52,
+        "x": 478,
+        "y": 686,
+        "fx": -73,
+        "fy": -73,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hs",
+        "w": 11,
+        "h": 13,
+        "x": 917,
+        "y": 775,
+        "fx": -32,
+        "fy": -24,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ht",
+        "w": 92,
+        "h": 90,
+        "x": 384,
+        "y": 686,
+        "fx": -54,
+        "fy": -56,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hu",
+        "w": 11,
+        "h": 13,
+        "x": 1000,
+        "y": 285,
+        "fx": -32,
+        "fy": -24,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hv",
+        "w": 95,
+        "h": 91,
+        "x": 839,
+        "y": 300,
+        "fx": -52,
+        "fy": -56,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hw",
+        "w": 103,
+        "h": 102,
+        "x": 1,
+        "y": 686,
+        "fx": -50,
+        "fy": -52,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hx",
+        "w": 19,
+        "h": 20,
+        "x": 595,
+        "y": 761,
+        "fx": -12,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hy",
+        "w": 107,
+        "h": 108,
+        "x": 1,
+        "y": 553,
+        "fx": -48,
+        "fy": -48,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/hz",
+        "w": 97,
+        "h": 103,
+        "x": 839,
+        "y": 195,
+        "fx": -55,
+        "fy": -48,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/i",
+        "w": 11,
+        "h": 13,
+        "x": 898,
+        "y": 760,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ia",
+        "w": 101,
+        "h": 92,
+        "x": 110,
+        "y": 553,
+        "fx": -50,
+        "fy": -58,
+        "fw": 208,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ib",
+        "w": 11,
+        "h": 13,
+        "x": 693,
+        "y": 775,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ic",
+        "w": 11,
+        "h": 13,
+        "x": 930,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/id",
+        "w": 11,
+        "h": 13,
+        "x": 943,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ie",
+        "w": 11,
+        "h": 13,
+        "x": 680,
+        "y": 775,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/if",
+        "w": 11,
+        "h": 13,
+        "x": 956,
+        "y": 775,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ig",
+        "w": 296,
+        "h": 405,
+        "x": 243,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ih",
+        "w": 296,
+        "h": 405,
+        "x": 541,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ii",
+        "w": 15,
+        "h": 11,
+        "x": 785,
+        "y": 748,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ij",
+        "w": 11,
+        "h": 14,
+        "x": 854,
+        "y": 759,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ik",
+        "w": 15,
+        "h": 15,
+        "x": 820,
+        "y": 730
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/il",
+        "w": 14,
+        "h": 12,
+        "x": 771,
+        "y": 776,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/im",
+        "w": 15,
+        "h": 15,
+        "x": 837,
+        "y": 730
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/in",
+        "w": 15,
+        "h": 15,
+        "x": 854,
+        "y": 729
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/io",
+        "w": 14,
+        "h": 12,
+        "x": 786,
+        "y": 761,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/ip",
+        "w": 12,
+        "h": 14,
+        "x": 909,
+        "y": 728
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/j",
+        "w": 6,
+        "h": 8,
+        "x": 235,
+        "y": 674,
+        "fx": -5,
+        "fy": -4,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/k",
+        "w": 11,
+        "h": 13,
+        "x": 980,
+        "y": 744,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/l",
+        "w": 9,
+        "h": 10,
+        "x": 951,
+        "y": 763,
+        "fx": -3,
+        "fy": -3,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/m",
+        "w": 9,
+        "h": 9,
+        "x": 993,
+        "y": 744,
+        "fx": -4,
+        "fy": -3,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/n",
+        "w": 6,
+        "h": 13,
+        "x": 1013,
+        "y": 285
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/o",
+        "w": 180,
+        "h": 192,
+        "x": 839,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/p",
+        "w": 4,
+        "h": 4,
+        "x": 1011,
+        "y": 374
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/q",
+        "w": 5,
+        "h": 5,
+        "x": 598,
+        "y": 783,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/r",
+        "w": 7,
+        "h": 7,
+        "x": 629,
+        "y": 781,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/s",
+        "w": 3,
+        "h": 3,
+        "x": 286,
+        "y": 785,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/t",
+        "w": 23,
+        "h": 21,
+        "x": 725,
+        "y": 734,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/u",
+        "w": 3,
+        "h": 3,
+        "x": 286,
+        "y": 785,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/v",
+        "w": 3,
+        "h": 3,
+        "x": 286,
+        "y": 785,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/w",
+        "w": 15,
+        "h": 11,
+        "x": 941,
+        "y": 724,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/x",
+        "w": 4,
+        "h": 4,
+        "x": 1011,
+        "y": 380
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/y",
+        "w": 20,
+        "h": 38,
+        "x": 248,
+        "y": 750,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/crazy_doctor_003/.gen/movie/z",
+        "w": 15,
+        "h": 11,
+        "x": 958,
+        "y": 724,
+        "r": true
+    }
+]

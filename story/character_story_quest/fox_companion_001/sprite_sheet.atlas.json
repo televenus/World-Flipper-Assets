@@ -1,0 +1,780 @@
+[
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 212,
+        "y": 410
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/aa",
+        "w": 15,
+        "h": 11,
+        "x": 241,
+        "y": 432,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ab",
+        "w": 15,
+        "h": 11,
+        "x": 279,
+        "y": 448,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ac",
+        "w": 5,
+        "h": 6,
+        "x": 226,
+        "y": 439,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ad",
+        "w": 15,
+        "h": 14,
+        "x": 100,
+        "y": 415,
+        "fx": -24,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ae",
+        "w": 14,
+        "h": 12,
+        "x": 185,
+        "y": 447,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/af",
+        "w": 6,
+        "h": 6,
+        "x": 218,
+        "y": 439,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ag",
+        "w": 16,
+        "h": 12,
+        "x": 167,
+        "y": 447,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ah",
+        "w": 15,
+        "h": 14,
+        "x": 117,
+        "y": 415,
+        "fx": -24,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ai",
+        "w": 14,
+        "h": 14,
+        "x": 151,
+        "y": 415,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/aj",
+        "w": 15,
+        "h": 14,
+        "x": 100,
+        "y": 415,
+        "fx": -24,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ak",
+        "w": 15,
+        "h": 14,
+        "x": 313,
+        "y": 431,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/al",
+        "w": 15,
+        "h": 14,
+        "x": 134,
+        "y": 415,
+        "fx": -24,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/am",
+        "w": 14,
+        "h": 12,
+        "x": 201,
+        "y": 447,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/an",
+        "w": 14,
+        "h": 12,
+        "x": 217,
+        "y": 447,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ao",
+        "w": 15,
+        "h": 14,
+        "x": 233,
+        "y": 445,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ap",
+        "w": 15,
+        "h": 14,
+        "x": 250,
+        "y": 445,
+        "fx": -26,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/aq",
+        "w": 15,
+        "h": 14,
+        "x": 233,
+        "y": 445,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ar",
+        "w": 15,
+        "h": 14,
+        "x": 296,
+        "y": 431,
+        "fx": -26,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/as",
+        "w": 7,
+        "h": 3,
+        "x": 420,
+        "y": 440,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/at",
+        "w": 3,
+        "h": 8,
+        "x": 39,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/au",
+        "w": 4,
+        "h": 8,
+        "x": 27,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/av",
+        "w": 4,
+        "h": 9,
+        "x": 258,
+        "y": 414
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/aw",
+        "w": 4,
+        "h": 8,
+        "x": 27,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ax",
+        "w": 4,
+        "h": 9,
+        "x": 258,
+        "y": 414
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ay",
+        "w": 3,
+        "h": 8,
+        "x": 44,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/az",
+        "w": 3,
+        "h": 7,
+        "x": 429,
+        "y": 442
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/b",
+        "w": 157,
+        "h": 281,
+        "x": 275,
+        "y": 1,
+        "fx": -58,
+        "fy": -31,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ba",
+        "w": 4,
+        "h": 9,
+        "x": 258,
+        "y": 425
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bb",
+        "w": 4,
+        "h": 8,
+        "x": 33,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bc",
+        "w": 4,
+        "h": 9,
+        "x": 258,
+        "y": 425
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bd",
+        "w": 4,
+        "h": 8,
+        "x": 33,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/be",
+        "w": 5,
+        "h": 5,
+        "x": 212,
+        "y": 403,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bf",
+        "w": 7,
+        "h": 7,
+        "x": 258,
+        "y": 436,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bg",
+        "w": 3,
+        "h": 3,
+        "x": 267,
+        "y": 453,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bh",
+        "w": 21,
+        "h": 23,
+        "x": 218,
+        "y": 414,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bi",
+        "w": 3,
+        "h": 3,
+        "x": 267,
+        "y": 453,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bj",
+        "w": 3,
+        "h": 3,
+        "x": 267,
+        "y": 453,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bk",
+        "w": 11,
+        "h": 15,
+        "x": 344,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bl",
+        "w": 10,
+        "h": 16,
+        "x": 267,
+        "y": 435
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bm",
+        "w": 3,
+        "h": 8,
+        "x": 49,
+        "y": 421,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bn",
+        "w": 11,
+        "h": 11,
+        "x": 407,
+        "y": 431,
+        "fx": -3,
+        "fy": -3,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bo",
+        "w": 9,
+        "h": 8,
+        "x": 16,
+        "y": 421,
+        "r": true,
+        "fx": -4,
+        "fy": -4,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bp",
+        "w": 13,
+        "h": 8,
+        "x": 1,
+        "y": 421,
+        "fx": -2,
+        "fy": -4,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bq",
+        "w": 15,
+        "h": 15,
+        "x": 279,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/br",
+        "w": 14,
+        "h": 11,
+        "x": 361,
+        "y": 448,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bs",
+        "w": 5,
+        "h": 4,
+        "x": 233,
+        "y": 439,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bt",
+        "w": 7,
+        "h": 7,
+        "x": 420,
+        "y": 431,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bu",
+        "w": 5,
+        "h": 7,
+        "x": 212,
+        "y": 385,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bv",
+        "w": 17,
+        "h": 17,
+        "x": 199,
+        "y": 428,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bw",
+        "w": 15,
+        "h": 16,
+        "x": 241,
+        "y": 414
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bx",
+        "w": 14,
+        "h": 12,
+        "x": 296,
+        "y": 447,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/by",
+        "w": 5,
+        "h": 7,
+        "x": 212,
+        "y": 394,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/bz",
+        "w": 11,
+        "h": 7,
+        "x": 407,
+        "y": 444,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/c",
+        "w": 156,
+        "h": 145,
+        "x": 275,
+        "y": 284,
+        "fx": -58,
+        "fy": -74,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/ca",
+        "w": 9,
+        "h": 15,
+        "x": 370,
+        "y": 431,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/d",
+        "w": 14,
+        "h": 12,
+        "x": 312,
+        "y": 447,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/e",
+        "w": 3,
+        "h": 9,
+        "x": 429,
+        "y": 431,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/f",
+        "w": 12,
+        "h": 12,
+        "x": 393,
+        "y": 447,
+        "fx": -9,
+        "fy": -11,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/g",
+        "w": 64,
+        "h": 9,
+        "x": 100,
+        "y": 404,
+        "fx": -16,
+        "fy": -42,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/h",
+        "w": 97,
+        "h": 48,
+        "x": 1,
+        "y": 371,
+        "fx": -1,
+        "fy": -7,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/i",
+        "w": 164,
+        "h": 28,
+        "x": 1,
+        "y": 431,
+        "fx": -54,
+        "fy": -324,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/j",
+        "w": 65,
+        "h": 17,
+        "x": 100,
+        "y": 385,
+        "fx": -17,
+        "fy": -1,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/k",
+        "w": 9,
+        "h": 30,
+        "x": 264,
+        "y": 371,
+        "r": true,
+        "fx": -7,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/l",
+        "w": 9,
+        "h": 30,
+        "x": 264,
+        "y": 403,
+        "r": true,
+        "fx": -4,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/m",
+        "w": 43,
+        "h": 41,
+        "x": 167,
+        "y": 385,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/n",
+        "w": 43,
+        "h": 41,
+        "x": 219,
+        "y": 371,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/o",
+        "w": 30,
+        "h": 17,
+        "x": 167,
+        "y": 428,
+        "fx": -4,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/p",
+        "w": 30,
+        "h": 17,
+        "x": 167,
+        "y": 428,
+        "fx": -7,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/q",
+        "w": 117,
+        "h": 12,
+        "x": 100,
+        "y": 371,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/r",
+        "w": 272,
+        "h": 368,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/s",
+        "w": 4,
+        "h": 4,
+        "x": 212,
+        "y": 416
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/t",
+        "w": 14,
+        "h": 12,
+        "x": 328,
+        "y": 447,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/u",
+        "w": 12,
+        "h": 14,
+        "x": 330,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/v",
+        "w": 14,
+        "h": 11,
+        "x": 377,
+        "y": 448,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/w",
+        "w": 11,
+        "h": 14,
+        "x": 381,
+        "y": 431,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/x",
+        "w": 15,
+        "h": 11,
+        "x": 344,
+        "y": 448,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/y",
+        "w": 11,
+        "h": 15,
+        "x": 357,
+        "y": 431,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/fox_companion_001/.gen/movie/z",
+        "w": 11,
+        "h": 14,
+        "x": 394,
+        "y": 431,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    }
+]

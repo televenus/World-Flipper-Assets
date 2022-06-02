@@ -1,0 +1,974 @@
+[
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 257,
+        "y": 831
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/aa",
+        "w": 12,
+        "h": 16,
+        "x": 158,
+        "y": 798,
+        "fx": -66,
+        "fy": -56,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ab",
+        "w": 19,
+        "h": 21,
+        "x": 49,
+        "y": 842,
+        "r": true,
+        "fx": -60,
+        "fy": -61,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ac",
+        "w": 14,
+        "h": 60,
+        "x": 1,
+        "y": 780,
+        "fx": -67,
+        "fy": -61,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ad",
+        "w": 84,
+        "h": 14,
+        "x": 179,
+        "y": 780,
+        "r": true,
+        "fx": -67,
+        "fy": -61,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ae",
+        "w": 10,
+        "h": 10,
+        "x": 240,
+        "y": 839
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/af",
+        "w": 15,
+        "h": 15,
+        "x": 201,
+        "y": 815,
+        "fx": 0,
+        "fy": 0,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ag",
+        "w": 6,
+        "h": 3,
+        "x": 233,
+        "y": 831,
+        "fx": -6,
+        "fy": -11,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ah",
+        "w": 24,
+        "h": 24,
+        "x": 92,
+        "y": 823,
+        "fx": -1,
+        "fy": -1,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ai",
+        "w": 50,
+        "h": 50,
+        "x": 17,
+        "y": 780
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/aj",
+        "w": 10,
+        "h": 10,
+        "x": 252,
+        "y": 839
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ak",
+        "w": 20,
+        "h": 20,
+        "x": 70,
+        "y": 842
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/al",
+        "w": 10,
+        "h": 4,
+        "x": 118,
+        "y": 843,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/am",
+        "w": 16,
+        "h": 16,
+        "x": 110,
+        "y": 805
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/an",
+        "w": 7,
+        "h": 3,
+        "x": 233,
+        "y": 813,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ao",
+        "w": 8,
+        "h": 3,
+        "x": 265,
+        "y": 797,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ap",
+        "w": 8,
+        "h": 4,
+        "x": 265,
+        "y": 780,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/aq",
+        "w": 4,
+        "h": 9,
+        "x": 158,
+        "y": 838
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ar",
+        "w": 8,
+        "h": 4,
+        "x": 265,
+        "y": 780,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/as",
+        "w": 4,
+        "h": 9,
+        "x": 158,
+        "y": 838
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/at",
+        "w": 3,
+        "h": 8,
+        "x": 228,
+        "y": 841
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/au",
+        "w": 7,
+        "h": 3,
+        "x": 233,
+        "y": 818,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/av",
+        "w": 9,
+        "h": 4,
+        "x": 264,
+        "y": 831,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/aw",
+        "w": 8,
+        "h": 4,
+        "x": 265,
+        "y": 786,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ax",
+        "w": 9,
+        "h": 4,
+        "x": 264,
+        "y": 831,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ay",
+        "w": 8,
+        "h": 4,
+        "x": 265,
+        "y": 786,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/az",
+        "w": 12,
+        "h": 17,
+        "x": 144,
+        "y": 801
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/b",
+        "w": 10,
+        "h": 16,
+        "x": 189,
+        "y": 815
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ba",
+        "w": 6,
+        "h": 18,
+        "x": 118,
+        "y": 823,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bb",
+        "w": 12,
+        "h": 16,
+        "x": 161,
+        "y": 816
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bc",
+        "w": 85,
+        "h": 14,
+        "x": 92,
+        "y": 849,
+        "r": true,
+        "fx": -67,
+        "fy": -61,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bd",
+        "w": 14,
+        "h": 60,
+        "x": 1,
+        "y": 780,
+        "fx": -67,
+        "fy": -61,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/be",
+        "w": 14,
+        "h": 41,
+        "x": 69,
+        "y": 780,
+        "fx": -67,
+        "fy": -61,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bf",
+        "w": 22,
+        "h": 32,
+        "x": 85,
+        "y": 780,
+        "r": true,
+        "fx": -64,
+        "fy": -50,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bg",
+        "w": 16,
+        "h": 23,
+        "x": 109,
+        "y": 780,
+        "fx": -66,
+        "fy": -51,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bh",
+        "w": 14,
+        "h": 16,
+        "x": 148,
+        "y": 780,
+        "fx": -64,
+        "fy": -58,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bi",
+        "w": 14,
+        "h": 16,
+        "x": 145,
+        "y": 820,
+        "fx": -65,
+        "fy": -58,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bj",
+        "w": 14,
+        "h": 12,
+        "x": 242,
+        "y": 811,
+        "r": true,
+        "fx": -67,
+        "fy": -60,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bk",
+        "w": 13,
+        "h": 15,
+        "x": 164,
+        "y": 780,
+        "fx": -67,
+        "fy": -59,
+        "fw": 146,
+        "fh": 146
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bl",
+        "w": 5,
+        "h": 5,
+        "x": 138,
+        "y": 842,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bm",
+        "w": 7,
+        "h": 7,
+        "x": 85,
+        "y": 814,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bn",
+        "w": 11,
+        "h": 9,
+        "x": 145,
+        "y": 838,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bo",
+        "w": 23,
+        "h": 21,
+        "x": 1,
+        "y": 842,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bp",
+        "w": 16,
+        "h": 8,
+        "x": 17,
+        "y": 832,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bq",
+        "w": 14,
+        "h": 14,
+        "x": 181,
+        "y": 833,
+        "fx": -61,
+        "fy": -53,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/br",
+        "w": 15,
+        "h": 13,
+        "x": 164,
+        "y": 834,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bs",
+        "w": 13,
+        "h": 15,
+        "x": 213,
+        "y": 832,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bt",
+        "w": 15,
+        "h": 13,
+        "x": 164,
+        "y": 834,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bu",
+        "w": 13,
+        "h": 15,
+        "x": 212,
+        "y": 797,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bv",
+        "w": 5,
+        "h": 4,
+        "x": 258,
+        "y": 796,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bw",
+        "w": 7,
+        "h": 7,
+        "x": 94,
+        "y": 814,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bx",
+        "w": 17,
+        "h": 17,
+        "x": 73,
+        "y": 823,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 19
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/by",
+        "w": 6,
+        "h": 5,
+        "x": 130,
+        "y": 842,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/bz",
+        "w": 6,
+        "h": 6,
+        "x": 233,
+        "y": 823,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/c",
+        "w": 8,
+        "h": 3,
+        "x": 265,
+        "y": 792
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ca",
+        "w": 13,
+        "h": 12,
+        "x": 244,
+        "y": 851,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cb",
+        "w": 14,
+        "h": 14,
+        "x": 196,
+        "y": 849,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cc",
+        "w": 5,
+        "h": 4,
+        "x": 233,
+        "y": 836,
+        "r": true,
+        "fx": -7,
+        "fy": -4,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cd",
+        "w": 5,
+        "h": 5,
+        "x": 138,
+        "y": 842,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ce",
+        "w": 7,
+        "h": 7,
+        "x": 85,
+        "y": 814,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cf",
+        "w": 3,
+        "h": 3,
+        "x": 264,
+        "y": 837,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cg",
+        "w": 23,
+        "h": 21,
+        "x": 1,
+        "y": 842,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ch",
+        "w": 3,
+        "h": 3,
+        "x": 264,
+        "y": 837,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ci",
+        "w": 3,
+        "h": 3,
+        "x": 264,
+        "y": 837,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cj",
+        "w": 5,
+        "h": 4,
+        "x": 258,
+        "y": 796,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ck",
+        "w": 7,
+        "h": 7,
+        "x": 94,
+        "y": 814,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cl",
+        "w": 5,
+        "h": 7,
+        "x": 103,
+        "y": 814,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cm",
+        "w": 17,
+        "h": 17,
+        "x": 126,
+        "y": 823,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cn",
+        "w": 7,
+        "h": 8,
+        "x": 64,
+        "y": 832,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/co",
+        "w": 21,
+        "h": 21,
+        "x": 26,
+        "y": 842,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cp",
+        "w": 19,
+        "h": 19,
+        "x": 127,
+        "y": 780,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cq",
+        "w": 16,
+        "h": 8,
+        "x": 35,
+        "y": 832,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cr",
+        "w": 13,
+        "h": 14,
+        "x": 218,
+        "y": 814,
+        "fx": -11,
+        "fy": -3,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/cs",
+        "w": 14,
+        "h": 14,
+        "x": 197,
+        "y": 833,
+        "fx": -10,
+        "fy": -3,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/ct",
+        "w": 14,
+        "h": 17,
+        "x": 128,
+        "y": 801,
+        "fx": -10,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/d",
+        "w": 12,
+        "h": 16,
+        "x": 172,
+        "y": 797
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/e",
+        "w": 14,
+        "h": 12,
+        "x": 258,
+        "y": 817,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/f",
+        "w": 3,
+        "h": 9,
+        "x": 228,
+        "y": 830,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/g",
+        "w": 14,
+        "h": 12,
+        "x": 241,
+        "y": 825,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/h",
+        "w": 14,
+        "h": 12,
+        "x": 228,
+        "y": 851,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/i",
+        "w": 272,
+        "h": 777,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/j",
+        "w": 4,
+        "h": 4,
+        "x": 233,
+        "y": 842
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/k",
+        "w": 10,
+        "h": 16,
+        "x": 200,
+        "y": 797
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/l",
+        "w": 12,
+        "h": 16,
+        "x": 175,
+        "y": 815
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/m",
+        "w": 5,
+        "h": 4,
+        "x": 258,
+        "y": 796,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/n",
+        "w": 7,
+        "h": 7,
+        "x": 94,
+        "y": 814,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/o",
+        "w": 9,
+        "h": 8,
+        "x": 53,
+        "y": 832,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/p",
+        "w": 17,
+        "h": 17,
+        "x": 126,
+        "y": 823,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/q",
+        "w": 13,
+        "h": 14,
+        "x": 227,
+        "y": 797,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/r",
+        "w": 14,
+        "h": 13,
+        "x": 242,
+        "y": 796,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/s",
+        "w": 13,
+        "h": 14,
+        "x": 227,
+        "y": 797,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/t",
+        "w": 14,
+        "h": 13,
+        "x": 258,
+        "y": 802,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/u",
+        "w": 6,
+        "h": 5,
+        "x": 130,
+        "y": 842,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/v",
+        "w": 6,
+        "h": 6,
+        "x": 233,
+        "y": 823,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/w",
+        "w": 12,
+        "h": 16,
+        "x": 186,
+        "y": 797,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/x",
+        "w": 14,
+        "h": 14,
+        "x": 212,
+        "y": 849,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/y",
+        "w": 15,
+        "h": 14,
+        "x": 179,
+        "y": 849,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unyielding_adventurer_001/.gen/movie/z",
+        "w": 13,
+        "h": 14,
+        "x": 218,
+        "y": 814,
+        "fx": -67,
+        "fy": -59,
+        "fw": 146,
+        "fh": 146
+    }
+]

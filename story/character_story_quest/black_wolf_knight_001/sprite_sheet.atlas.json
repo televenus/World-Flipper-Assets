@@ -1,0 +1,2205 @@
+[
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 682,
+        "y": 731
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/aa",
+        "w": 14,
+        "h": 15,
+        "x": 981,
+        "y": 670,
+        "r": true,
+        "fx": -12,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ab",
+        "w": 16,
+        "h": 19,
+        "x": 978,
+        "y": 258,
+        "fx": -11,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ac",
+        "w": 14,
+        "h": 14,
+        "x": 293,
+        "y": 1063,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ad",
+        "w": 269,
+        "h": 667,
+        "x": 707,
+        "y": 1,
+        "fx": 0,
+        "fy": -3,
+        "fw": 272,
+        "fh": 704
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ae",
+        "w": 290,
+        "h": 207,
+        "x": 275,
+        "y": 515,
+        "r": true,
+        "fx": -17,
+        "fy": -37,
+        "fw": 272,
+        "fh": 704
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/af",
+        "w": 704,
+        "h": 272,
+        "x": 1,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ag",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 687,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ah",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 704,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ai",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 687,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/aj",
+        "w": 16,
+        "h": 13,
+        "x": 504,
+        "y": 724,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ak",
+        "w": 16,
+        "h": 13,
+        "x": 522,
+        "y": 724,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/al",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 721,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/am",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 738,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/an",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 755,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ao",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 721,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ap",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 772,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/aq",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 789,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ar",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 755,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/as",
+        "w": 5,
+        "h": 4,
+        "x": 699,
+        "y": 174,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/at",
+        "w": 7,
+        "h": 7,
+        "x": 567,
+        "y": 680,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/au",
+        "w": 5,
+        "h": 7,
+        "x": 699,
+        "y": 126,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/av",
+        "w": 17,
+        "h": 17,
+        "x": 978,
+        "y": 341,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/aw",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 806,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ax",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 823,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ay",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 806,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/az",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 840,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/b",
+        "w": 14,
+        "h": 14,
+        "x": 309,
+        "y": 1077,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ba",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 857,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bb",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 874,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bc",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 857,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bd",
+        "w": 16,
+        "h": 13,
+        "x": 540,
+        "y": 724,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/be",
+        "w": 14,
+        "h": 14,
+        "x": 325,
+        "y": 1077,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bf",
+        "w": 14,
+        "h": 14,
+        "x": 293,
+        "y": 1063,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bg",
+        "w": 14,
+        "h": 14,
+        "x": 341,
+        "y": 1077,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bh",
+        "w": 15,
+        "h": 16,
+        "x": 978,
+        "y": 415
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bi",
+        "w": 272,
+        "h": 512,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bj",
+        "w": 7,
+        "h": 8,
+        "x": 567,
+        "y": 670,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bk",
+        "w": 21,
+        "h": 21,
+        "x": 849,
+        "y": 1056,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bl",
+        "w": 19,
+        "h": 19,
+        "x": 917,
+        "y": 1056,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bm",
+        "w": 15,
+        "h": 16,
+        "x": 978,
+        "y": 433
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bn",
+        "w": 15,
+        "h": 16,
+        "x": 978,
+        "y": 451
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bo",
+        "w": 15,
+        "h": 16,
+        "x": 978,
+        "y": 469,
+        "r": true,
+        "fx": -35,
+        "fy": -30,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bp",
+        "w": 16,
+        "h": 14,
+        "x": 689,
+        "y": 653,
+        "r": true,
+        "fx": -36,
+        "fy": -29,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bq",
+        "w": 21,
+        "h": 11,
+        "x": 422,
+        "y": 724,
+        "r": true,
+        "fx": -39,
+        "fy": -23,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/br",
+        "w": 20,
+        "h": 18,
+        "x": 895,
+        "y": 1056,
+        "r": true,
+        "fx": -34,
+        "fy": -24,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bs",
+        "w": 15,
+        "h": 27,
+        "x": 978,
+        "y": 159,
+        "fx": -36,
+        "fy": -31,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bt",
+        "w": 17,
+        "h": 23,
+        "x": 978,
+        "y": 188,
+        "fx": -36,
+        "fy": -31,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bu",
+        "w": 49,
+        "h": 21,
+        "x": 64,
+        "y": 1067,
+        "fx": -26,
+        "fy": -24,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bv",
+        "w": 4,
+        "h": 4,
+        "x": 688,
+        "y": 731
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bw",
+        "w": 14,
+        "h": 11,
+        "x": 593,
+        "y": 726,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bx",
+        "w": 4,
+        "h": 6,
+        "x": 699,
+        "y": 151
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/by",
+        "w": 4,
+        "h": 4,
+        "x": 694,
+        "y": 731
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/bz",
+        "w": 5,
+        "h": 5,
+        "x": 699,
+        "y": 167
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 699,
+        "y": 106,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ca",
+        "w": 46,
+        "h": 19,
+        "x": 632,
+        "y": 354,
+        "fx": -24,
+        "fy": -23,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cb",
+        "w": 20,
+        "h": 31,
+        "x": 596,
+        "y": 1051,
+        "r": true,
+        "fx": -37,
+        "fy": -21,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cc",
+        "w": 14,
+        "h": 21,
+        "x": 690,
+        "y": 630,
+        "fx": -37,
+        "fy": -21,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cd",
+        "w": 20,
+        "h": 12,
+        "x": 445,
+        "y": 724,
+        "r": true,
+        "fx": -37,
+        "fy": -22,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ce",
+        "w": 36,
+        "h": 40,
+        "x": 525,
+        "y": 1039,
+        "r": true,
+        "fx": -23,
+        "fy": -16,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cf",
+        "w": 14,
+        "h": 14,
+        "x": 618,
+        "y": 1075
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cg",
+        "w": 5,
+        "h": 5,
+        "x": 567,
+        "y": 698
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ch",
+        "w": 15,
+        "h": 8,
+        "x": 655,
+        "y": 446
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ci",
+        "w": 8,
+        "h": 12,
+        "x": 696,
+        "y": 538,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cj",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 993,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ck",
+        "w": 5,
+        "h": 5,
+        "x": 567,
+        "y": 705
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cl",
+        "w": 2,
+        "h": 3,
+        "x": 703,
+        "y": 180
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cm",
+        "w": 26,
+        "h": 18,
+        "x": 796,
+        "y": 1056
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cn",
+        "w": 24,
+        "h": 34,
+        "x": 656,
+        "y": 1013,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/co",
+        "w": 39,
+        "h": 28,
+        "x": 367,
+        "y": 1054
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cp",
+        "w": 36,
+        "h": 33,
+        "x": 476,
+        "y": 1045,
+        "r": true,
+        "fx": -23,
+        "fy": -10,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cq",
+        "w": 9,
+        "h": 12,
+        "x": 696,
+        "y": 524,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cr",
+        "w": 14,
+        "h": 19,
+        "x": 978,
+        "y": 300,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cs",
+        "w": 16,
+        "h": 22,
+        "x": 978,
+        "y": 213,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ct",
+        "w": 4,
+        "h": 4,
+        "x": 688,
+        "y": 731
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cu",
+        "w": 13,
+        "h": 9,
+        "x": 625,
+        "y": 584
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cv",
+        "w": 5,
+        "h": 4,
+        "x": 696,
+        "y": 578
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cw",
+        "w": 4,
+        "h": 4,
+        "x": 699,
+        "y": 669
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cx",
+        "w": 2,
+        "h": 2,
+        "x": 703,
+        "y": 185
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cy",
+        "w": 31,
+        "h": 29,
+        "x": 563,
+        "y": 1051,
+        "fx": -22,
+        "fy": -15,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/cz",
+        "w": 13,
+        "h": 10,
+        "x": 688,
+        "y": 446
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/d",
+        "w": 66,
+        "h": 86,
+        "x": 631,
+        "y": 92,
+        "fx": -103,
+        "fy": -317,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/da",
+        "w": 5,
+        "h": 12,
+        "x": 699,
+        "y": 92,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/db",
+        "w": 3,
+        "h": 3,
+        "x": 653,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dc",
+        "w": 4,
+        "h": 4,
+        "x": 699,
+        "y": 675
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dd",
+        "w": 17,
+        "h": 18,
+        "x": 978,
+        "y": 321,
+        "fx": -33,
+        "fy": -15,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/de",
+        "w": 3,
+        "h": 3,
+        "x": 658,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/df",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 891
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dg",
+        "w": 4,
+        "h": 4,
+        "x": 699,
+        "y": 681
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dh",
+        "w": 38,
+        "h": 20,
+        "x": 253,
+        "y": 1063,
+        "fx": -31,
+        "fy": -35,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/di",
+        "w": 3,
+        "h": 2,
+        "x": 626,
+        "y": 92
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dj",
+        "w": 4,
+        "h": 3,
+        "x": 635,
+        "y": 509,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dk",
+        "w": 11,
+        "h": 13,
+        "x": 354,
+        "y": 1055
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dl",
+        "w": 50,
+        "h": 33,
+        "x": 130,
+        "y": 1056,
+        "fx": -26,
+        "fy": -24,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dm",
+        "w": 45,
+        "h": 24,
+        "x": 525,
+        "y": 1013,
+        "fx": -36,
+        "fy": -32,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dn",
+        "w": 4,
+        "h": 3,
+        "x": 641,
+        "y": 509,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/do",
+        "w": 3,
+        "h": 6,
+        "x": 699,
+        "y": 159
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dp",
+        "w": 15,
+        "h": 10,
+        "x": 638,
+        "y": 446,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dq",
+        "w": 4,
+        "h": 4,
+        "x": 699,
+        "y": 687
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dr",
+        "w": 22,
+        "h": 28,
+        "x": 682,
+        "y": 1013,
+        "r": true,
+        "fx": -53,
+        "fy": -32,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ds",
+        "w": 31,
+        "h": 26,
+        "x": 646,
+        "y": 1049
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dt",
+        "w": 5,
+        "h": 5,
+        "x": 567,
+        "y": 712
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/du",
+        "w": 12,
+        "h": 15,
+        "x": 981,
+        "y": 1010
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dv",
+        "w": 3,
+        "h": 3,
+        "x": 663,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dw",
+        "w": 5,
+        "h": 4,
+        "x": 668,
+        "y": 731,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dx",
+        "w": 3,
+        "h": 3,
+        "x": 668,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dy",
+        "w": 36,
+        "h": 25,
+        "x": 618,
+        "y": 1013,
+        "r": true,
+        "fx": -52,
+        "fy": -21,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/dz",
+        "w": 16,
+        "h": 13,
+        "x": 486,
+        "y": 724
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/e",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ea",
+        "w": 5,
+        "h": 4,
+        "x": 675,
+        "y": 731,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/eb",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 908
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ec",
+        "w": 3,
+        "h": 3,
+        "x": 663,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ed",
+        "w": 5,
+        "h": 3,
+        "x": 567,
+        "y": 719,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ee",
+        "w": 3,
+        "h": 3,
+        "x": 668,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ef",
+        "w": 9,
+        "h": 13,
+        "x": 696,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/eg",
+        "w": 61,
+        "h": 36,
+        "x": 1,
+        "y": 1053,
+        "r": true,
+        "fx": -39,
+        "fy": -17,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/eh",
+        "w": 9,
+        "h": 8,
+        "x": 978,
+        "y": 660
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ei",
+        "w": 4,
+        "h": 4,
+        "x": 699,
+        "y": 693
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ej",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 925
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ek",
+        "w": 4,
+        "h": 3,
+        "x": 647,
+        "y": 509,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/el",
+        "w": 3,
+        "h": 3,
+        "x": 673,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/em",
+        "w": 3,
+        "h": 3,
+        "x": 663,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/en",
+        "w": 4,
+        "h": 4,
+        "x": 699,
+        "y": 699
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/eo",
+        "w": 17,
+        "h": 42,
+        "x": 978,
+        "y": 47,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ep",
+        "w": 17,
+        "h": 30,
+        "x": 978,
+        "y": 127
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/eq",
+        "w": 27,
+        "h": 21,
+        "x": 767,
+        "y": 1056,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/er",
+        "w": 26,
+        "h": 33,
+        "x": 618,
+        "y": 1040
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/es",
+        "w": 44,
+        "h": 36,
+        "x": 572,
+        "y": 1013,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/et",
+        "w": 44,
+        "h": 14,
+        "x": 643,
+        "y": 653,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/eu",
+        "w": 17,
+        "h": 42,
+        "x": 978,
+        "y": 47,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ev",
+        "w": 14,
+        "h": 44,
+        "x": 690,
+        "y": 584
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ew",
+        "w": 14,
+        "h": 44,
+        "x": 978,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ex",
+        "w": 17,
+        "h": 12,
+        "x": 467,
+        "y": 724,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ey",
+        "w": 4,
+        "h": 3,
+        "x": 629,
+        "y": 509
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ez",
+        "w": 62,
+        "h": 12,
+        "x": 275,
+        "y": 724,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/f",
+        "w": 4,
+        "h": 4,
+        "x": 699,
+        "y": 705
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fa",
+        "w": 28,
+        "h": 10,
+        "x": 339,
+        "y": 724,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fb",
+        "w": 28,
+        "h": 10,
+        "x": 369,
+        "y": 724,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fc",
+        "w": 61,
+        "h": 52,
+        "x": 67,
+        "y": 1013,
+        "r": true,
+        "fx": -31,
+        "fy": -17,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fd",
+        "w": 13,
+        "h": 13,
+        "x": 115,
+        "y": 1067
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fe",
+        "w": 19,
+        "h": 18,
+        "x": 938,
+        "y": 1056
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ff",
+        "w": 27,
+        "h": 21,
+        "x": 738,
+        "y": 1056
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fg",
+        "w": 14,
+        "h": 10,
+        "x": 672,
+        "y": 446,
+        "r": true,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fh",
+        "w": 62,
+        "h": 69,
+        "x": 638,
+        "y": 375,
+        "r": true,
+        "fx": -22,
+        "fy": -18,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fi",
+        "w": 47,
+        "h": 30,
+        "x": 476,
+        "y": 1013,
+        "fx": -2,
+        "fy": 0,
+        "fw": 50,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fj",
+        "w": 9,
+        "h": 8,
+        "x": 115,
+        "y": 1082
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fk",
+        "w": 11,
+        "h": 10,
+        "x": 641,
+        "y": 726
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fl",
+        "w": 16,
+        "h": 16,
+        "x": 978,
+        "y": 379
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fm",
+        "w": 70,
+        "h": 85,
+        "x": 631,
+        "y": 180,
+        "r": true,
+        "fx": -13,
+        "fy": -11,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fn",
+        "w": 15,
+        "h": 11,
+        "x": 576,
+        "y": 726,
+        "r": true,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fo",
+        "w": 70,
+        "h": 85,
+        "x": 632,
+        "y": 267,
+        "r": true,
+        "fx": -13,
+        "fy": -11,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fp",
+        "w": 80,
+        "h": 92,
+        "x": 549,
+        "y": 96,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fq",
+        "w": 16,
+        "h": 13,
+        "x": 558,
+        "y": 724,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fr",
+        "w": 80,
+        "h": 92,
+        "x": 549,
+        "y": 190,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fs",
+        "w": 81,
+        "h": 90,
+        "x": 549,
+        "y": 284,
+        "r": true,
+        "fx": -13,
+        "fy": 0,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ft",
+        "w": 12,
+        "h": 15,
+        "x": 981,
+        "y": 1027,
+        "fx": -29,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fu",
+        "w": 75,
+        "h": 93,
+        "x": 549,
+        "y": 1,
+        "r": true,
+        "fx": -13,
+        "fy": -6,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fv",
+        "w": 87,
+        "h": 80,
+        "x": 549,
+        "y": 376,
+        "fx": -15,
+        "fy": -1,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fw",
+        "w": 77,
+        "h": 89,
+        "x": 626,
+        "y": 1,
+        "r": true,
+        "fx": -14,
+        "fy": -4,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fx",
+        "w": 74,
+        "h": 73,
+        "x": 567,
+        "y": 595,
+        "fx": -20,
+        "fy": -5,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fy",
+        "w": 69,
+        "h": 68,
+        "x": 625,
+        "y": 514,
+        "fx": -23,
+        "fy": -9,
+        "fw": 118,
+        "fh": 118
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/fz",
+        "w": 1,
+        "h": 1,
+        "x": 339,
+        "y": 736,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/g",
+        "w": 14,
+        "h": 14,
+        "x": 634,
+        "y": 1077,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ga",
+        "w": 21,
+        "h": 12,
+        "x": 399,
+        "y": 724,
+        "r": true,
+        "fx": -106,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gb",
+        "w": 14,
+        "h": 21,
+        "x": 690,
+        "y": 630,
+        "fx": -37,
+        "fy": -21,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gc",
+        "w": 26,
+        "h": 29,
+        "x": 679,
+        "y": 1049,
+        "fx": -94,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gd",
+        "w": 20,
+        "h": 12,
+        "x": 445,
+        "y": 724,
+        "r": true,
+        "fx": -37,
+        "fy": -22,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ge",
+        "w": 75,
+        "h": 49,
+        "x": 629,
+        "y": 458,
+        "fx": -83,
+        "fy": -91,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gf",
+        "w": 77,
+        "h": 54,
+        "x": 576,
+        "y": 670,
+        "fx": -84,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gg",
+        "w": 6,
+        "h": 7,
+        "x": 699,
+        "y": 117,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gh",
+        "w": 9,
+        "h": 11,
+        "x": 696,
+        "y": 552,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gi",
+        "w": 9,
+        "h": 11,
+        "x": 696,
+        "y": 565,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gj",
+        "w": 78,
+        "h": 54,
+        "x": 549,
+        "y": 458,
+        "fx": -81,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gk",
+        "w": 56,
+        "h": 79,
+        "x": 567,
+        "y": 514,
+        "r": true,
+        "fx": -83,
+        "fy": -85,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gl",
+        "w": 18,
+        "h": 28,
+        "x": 233,
+        "y": 1056,
+        "r": true,
+        "fx": -22,
+        "fy": -27,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gm",
+        "w": 45,
+        "h": 67,
+        "x": 643,
+        "y": 584,
+        "r": true,
+        "fx": -92,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gn",
+        "w": 13,
+        "h": 16,
+        "x": 978,
+        "y": 487
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/go",
+        "w": 5,
+        "h": 5,
+        "x": 654,
+        "y": 731
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gp",
+        "w": 17,
+        "h": 34,
+        "x": 978,
+        "y": 91,
+        "r": true,
+        "fx": -14,
+        "fy": -27,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gq",
+        "w": 55,
+        "h": 40,
+        "x": 310,
+        "y": 1013,
+        "fx": -105,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gr",
+        "w": 54,
+        "h": 39,
+        "x": 367,
+        "y": 1013,
+        "fx": -96,
+        "fy": -100,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gs",
+        "w": 42,
+        "h": 29,
+        "x": 423,
+        "y": 1051,
+        "fx": -29,
+        "fy": -20,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gt",
+        "w": 23,
+        "h": 17,
+        "x": 680,
+        "y": 354,
+        "fx": -27,
+        "fy": -25,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gu",
+        "w": 58,
+        "h": 41,
+        "x": 193,
+        "y": 1013,
+        "fx": -95,
+        "fy": -101,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gv",
+        "w": 21,
+        "h": 19,
+        "x": 872,
+        "y": 1056,
+        "fx": -29,
+        "fy": -25,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gw",
+        "w": 58,
+        "h": 41,
+        "x": 193,
+        "y": 1013,
+        "fx": -95,
+        "fy": -101,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gx",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 942,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gy",
+        "w": 64,
+        "h": 38,
+        "x": 1,
+        "y": 1013,
+        "fx": -93,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/gz",
+        "w": 14,
+        "h": 11,
+        "x": 609,
+        "y": 726,
+        "r": true,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/h",
+        "w": 14,
+        "h": 14,
+        "x": 309,
+        "y": 1077,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ha",
+        "w": 42,
+        "h": 20,
+        "x": 310,
+        "y": 1055,
+        "fx": -103,
+        "fy": -118,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hb",
+        "w": 16,
+        "h": 17,
+        "x": 978,
+        "y": 360,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hc",
+        "w": 16,
+        "h": 16,
+        "x": 978,
+        "y": 397,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hd",
+        "w": 14,
+        "h": 11,
+        "x": 625,
+        "y": 726,
+        "r": true,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/he",
+        "w": 49,
+        "h": 29,
+        "x": 182,
+        "y": 1056,
+        "fx": -98,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hf",
+        "w": 51,
+        "h": 36,
+        "x": 423,
+        "y": 1013,
+        "fx": -100,
+        "fy": -104,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hg",
+        "w": 42,
+        "h": 60,
+        "x": 655,
+        "y": 669,
+        "r": true,
+        "fx": -93,
+        "fy": -100,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hh",
+        "w": 42,
+        "h": 60,
+        "x": 655,
+        "y": 669,
+        "r": true,
+        "fx": -93,
+        "fy": -100,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hi",
+        "w": 61,
+        "h": 41,
+        "x": 130,
+        "y": 1013,
+        "fx": -91,
+        "fy": -100,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hj",
+        "w": 17,
+        "h": 19,
+        "x": 978,
+        "y": 237,
+        "r": true,
+        "fx": -38,
+        "fy": -16,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hk",
+        "w": 16,
+        "h": 19,
+        "x": 978,
+        "y": 279,
+        "r": true,
+        "fx": -37,
+        "fy": -16,
+        "fw": 86,
+        "fh": 86
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hl",
+        "w": 29,
+        "h": 24,
+        "x": 707,
+        "y": 1056,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hm",
+        "w": 15,
+        "h": 15,
+        "x": 978,
+        "y": 541,
+        "fx": -31,
+        "fy": -28,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hn",
+        "w": 55,
+        "h": 48,
+        "x": 253,
+        "y": 1013,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ho",
+        "w": 14,
+        "h": 15,
+        "x": 978,
+        "y": 626,
+        "fx": -33,
+        "fy": -28,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hp",
+        "w": 15,
+        "h": 15,
+        "x": 978,
+        "y": 558,
+        "fx": -33,
+        "fy": -28,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hq",
+        "w": 12,
+        "h": 15,
+        "x": 981,
+        "y": 1044,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hr",
+        "w": 15,
+        "h": 15,
+        "x": 978,
+        "y": 575
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/hs",
+        "w": 15,
+        "h": 15,
+        "x": 978,
+        "y": 592
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/ht",
+        "w": 15,
+        "h": 15,
+        "x": 978,
+        "y": 609
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/i",
+        "w": 14,
+        "h": 14,
+        "x": 650,
+        "y": 1077,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/j",
+        "w": 5,
+        "h": 5,
+        "x": 661,
+        "y": 731,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/k",
+        "w": 7,
+        "h": 7,
+        "x": 567,
+        "y": 689,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/l",
+        "w": 3,
+        "h": 3,
+        "x": 678,
+        "y": 509,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/m",
+        "w": 23,
+        "h": 21,
+        "x": 824,
+        "y": 1056,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/n",
+        "w": 3,
+        "h": 3,
+        "x": 678,
+        "y": 509,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/o",
+        "w": 3,
+        "h": 3,
+        "x": 678,
+        "y": 509,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/p",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 959,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/q",
+        "w": 272,
+        "h": 384,
+        "x": 707,
+        "y": 670
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/r",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 976,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/s",
+        "w": 13,
+        "h": 15,
+        "x": 981,
+        "y": 959,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/t",
+        "w": 13,
+        "h": 16,
+        "x": 978,
+        "y": 505,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/u",
+        "w": 5,
+        "h": 6,
+        "x": 699,
+        "y": 143,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/v",
+        "w": 6,
+        "h": 6,
+        "x": 699,
+        "y": 135,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/w",
+        "w": 12,
+        "h": 16,
+        "x": 978,
+        "y": 523,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/x",
+        "w": 14,
+        "h": 14,
+        "x": 796,
+        "y": 1076,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/y",
+        "w": 14,
+        "h": 15,
+        "x": 978,
+        "y": 643,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/black_wolf_knight_001/.gen/movie/z",
+        "w": 14,
+        "h": 14,
+        "x": 895,
+        "y": 1076,
+        "fx": -13,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    }
+]

@@ -1,0 +1,2880 @@
+[
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1017,
+        "y": 978
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/aa",
+        "w": 21,
+        "h": 12,
+        "x": 1026,
+        "y": 793,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ab",
+        "w": 26,
+        "h": 26,
+        "x": 915,
+        "y": 891,
+        "fx": -13,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ac",
+        "w": 22,
+        "h": 12,
+        "x": 1026,
+        "y": 779,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ad",
+        "w": 13,
+        "h": 13,
+        "x": 971,
+        "y": 893,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ae",
+        "w": 24,
+        "h": 26,
+        "x": 960,
+        "y": 775,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/af",
+        "w": 20,
+        "h": 12,
+        "x": 1071,
+        "y": 821,
+        "r": true,
+        "fx": -15,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ag",
+        "w": 22,
+        "h": 17,
+        "x": 864,
+        "y": 822,
+        "r": true,
+        "fx": -16,
+        "fy": -4,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ah",
+        "w": 13,
+        "h": 13,
+        "x": 971,
+        "y": 908,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ai",
+        "w": 20,
+        "h": 22,
+        "x": 1004,
+        "y": 775,
+        "r": true,
+        "fx": -15,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/aj",
+        "w": 19,
+        "h": 36,
+        "x": 885,
+        "y": 739,
+        "fx": -16,
+        "fy": -8,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ak",
+        "w": 7,
+        "h": 18,
+        "x": 899,
+        "y": 841,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/al",
+        "w": 23,
+        "h": 32,
+        "x": 772,
+        "y": 861,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/am",
+        "w": 59,
+        "h": 59,
+        "x": 160,
+        "y": 937,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/an",
+        "w": 59,
+        "h": 59,
+        "x": 772,
+        "y": 739,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ao",
+        "w": 24,
+        "h": 10,
+        "x": 1052,
+        "y": 754,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ap",
+        "w": 11,
+        "h": 26,
+        "x": 978,
+        "y": 731,
+        "r": true,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/aq",
+        "w": 23,
+        "h": 22,
+        "x": 1026,
+        "y": 755,
+        "fx": -4,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ar",
+        "w": 14,
+        "h": 11,
+        "x": 1036,
+        "y": 905,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/as",
+        "w": 11,
+        "h": 28,
+        "x": 965,
+        "y": 739,
+        "r": true,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/at",
+        "w": 23,
+        "h": 24,
+        "x": 1001,
+        "y": 731,
+        "fx": -6,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/au",
+        "w": 15,
+        "h": 13,
+        "x": 1071,
+        "y": 835,
+        "fx": -25,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/av",
+        "w": 22,
+        "h": 13,
+        "x": 783,
+        "y": 846,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/aw",
+        "w": 15,
+        "h": 11,
+        "x": 954,
+        "y": 892,
+        "fx": -25,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ax",
+        "w": 21,
+        "h": 12,
+        "x": 1026,
+        "y": 793,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ay",
+        "w": 15,
+        "h": 15,
+        "x": 1022,
+        "y": 842
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/az",
+        "w": 19,
+        "h": 28,
+        "x": 944,
+        "y": 739,
+        "fx": -16,
+        "fy": -8,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/b",
+        "w": 13,
+        "h": 13,
+        "x": 971,
+        "y": 908,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ba",
+        "w": 21,
+        "h": 21,
+        "x": 123,
+        "y": 982,
+        "fx": -15,
+        "fy": -5,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bb",
+        "w": 4,
+        "h": 5,
+        "x": 1015,
+        "y": 954,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bc",
+        "w": 7,
+        "h": 7,
+        "x": 1088,
+        "y": 860,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bd",
+        "w": 17,
+        "h": 17,
+        "x": 916,
+        "y": 841,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 19
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/be",
+        "w": 14,
+        "h": 11,
+        "x": 1070,
+        "y": 895
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bf",
+        "w": 3,
+        "h": 3,
+        "x": 1029,
+        "y": 972
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bg",
+        "w": 24,
+        "h": 29,
+        "x": 934,
+        "y": 775,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bh",
+        "w": 25,
+        "h": 30,
+        "x": 856,
+        "y": 861,
+        "fx": -19,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bi",
+        "w": 55,
+        "h": 48,
+        "x": 1,
+        "y": 955,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bj",
+        "w": 3,
+        "h": 4,
+        "x": 1026,
+        "y": 984
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bk",
+        "w": 15,
+        "h": 11,
+        "x": 1071,
+        "y": 850,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bl",
+        "w": 4,
+        "h": 2,
+        "x": 107,
+        "y": 1001
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bm",
+        "w": 9,
+        "h": 4,
+        "x": 943,
+        "y": 962
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bn",
+        "w": 3,
+        "h": 4,
+        "x": 1026,
+        "y": 990
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bo",
+        "w": 14,
+        "h": 11,
+        "x": 1052,
+        "y": 916,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bp",
+        "w": 4,
+        "h": 4,
+        "x": 1021,
+        "y": 961
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bq",
+        "w": 8,
+        "h": 9,
+        "x": 1061,
+        "y": 841,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/br",
+        "w": 14,
+        "h": 11,
+        "x": 1053,
+        "y": 903
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bs",
+        "w": 3,
+        "h": 2,
+        "x": 113,
+        "y": 1001
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bt",
+        "w": 3,
+        "h": 2,
+        "x": 118,
+        "y": 1001,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bu",
+        "w": 12,
+        "h": 12,
+        "x": 969,
+        "y": 966
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bv",
+        "w": 14,
+        "h": 11,
+        "x": 1069,
+        "y": 908
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bw",
+        "w": 14,
+        "h": 14,
+        "x": 1072,
+        "y": 879
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bx",
+        "w": 5,
+        "h": 5,
+        "x": 1064,
+        "y": 827
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/by",
+        "w": 8,
+        "h": 15,
+        "x": 976,
+        "y": 803,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/bz",
+        "w": 8,
+        "h": 12,
+        "x": 976,
+        "y": 820,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 1012,
+        "y": 973,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ca",
+        "w": 15,
+        "h": 13,
+        "x": 1039,
+        "y": 851
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cb",
+        "w": 5,
+        "h": 5,
+        "x": 1064,
+        "y": 834
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cc",
+        "w": 3,
+        "h": 2,
+        "x": 146,
+        "y": 1001,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cd",
+        "w": 26,
+        "h": 18,
+        "x": 849,
+        "y": 841
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ce",
+        "w": 24,
+        "h": 34,
+        "x": 918,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cf",
+        "w": 28,
+        "h": 39,
+        "x": 834,
+        "y": 800,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cg",
+        "w": 9,
+        "h": 12,
+        "x": 975,
+        "y": 845,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ch",
+        "w": 19,
+        "h": 14,
+        "x": 1004,
+        "y": 821
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ci",
+        "w": 22,
+        "h": 16,
+        "x": 122,
+        "y": 937
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cj",
+        "w": 13,
+        "h": 11,
+        "x": 927,
+        "y": 963,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ck",
+        "w": 4,
+        "h": 4,
+        "x": 1026,
+        "y": 954
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cl",
+        "w": 7,
+        "h": 6,
+        "x": 953,
+        "y": 731
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cm",
+        "w": 9,
+        "h": 11,
+        "x": 943,
+        "y": 901,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cn",
+        "w": 9,
+        "h": 11,
+        "x": 943,
+        "y": 914,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/co",
+        "w": 4,
+        "h": 4,
+        "x": 1031,
+        "y": 946
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cp",
+        "w": 13,
+        "h": 9,
+        "x": 961,
+        "y": 803
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cq",
+        "w": 5,
+        "h": 4,
+        "x": 1025,
+        "y": 999
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cr",
+        "w": 4,
+        "h": 4,
+        "x": 1023,
+        "y": 967
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cs",
+        "w": 2,
+        "h": 2,
+        "x": 151,
+        "y": 1001
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ct",
+        "w": 13,
+        "h": 10,
+        "x": 984,
+        "y": 958
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cu",
+        "w": 12,
+        "h": 5,
+        "x": 192,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cv",
+        "w": 3,
+        "h": 3,
+        "x": 1029,
+        "y": 977
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cw",
+        "w": 4,
+        "h": 4,
+        "x": 1027,
+        "y": 960
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cx",
+        "w": 3,
+        "h": 4,
+        "x": 1029,
+        "y": 966
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cy",
+        "w": 6,
+        "h": 3,
+        "x": 1088,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/cz",
+        "w": 15,
+        "h": 10,
+        "x": 954,
+        "y": 905,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/d",
+        "w": 16,
+        "h": 15,
+        "x": 831,
+        "y": 844,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/da",
+        "w": 4,
+        "h": 4,
+        "x": 1032,
+        "y": 952
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/db",
+        "w": 3,
+        "h": 3,
+        "x": 1031,
+        "y": 982
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dc",
+        "w": 3,
+        "h": 5,
+        "x": 1021,
+        "y": 984
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dd",
+        "w": 10,
+        "h": 14,
+        "x": 1085,
+        "y": 911
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/de",
+        "w": 3,
+        "h": 3,
+        "x": 1031,
+        "y": 987
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/df",
+        "w": 26,
+        "h": 31,
+        "x": 797,
+        "y": 861,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dg",
+        "w": 5,
+        "h": 5,
+        "x": 1088,
+        "y": 893
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dh",
+        "w": 12,
+        "h": 15,
+        "x": 972,
+        "y": 859
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/di",
+        "w": 3,
+        "h": 3,
+        "x": 1031,
+        "y": 987
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dj",
+        "w": 4,
+        "h": 5,
+        "x": 989,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dk",
+        "w": 3,
+        "h": 3,
+        "x": 1031,
+        "y": 992
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dl",
+        "w": 16,
+        "h": 13,
+        "x": 986,
+        "y": 801
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dm",
+        "w": 4,
+        "h": 5,
+        "x": 995,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dn",
+        "w": 15,
+        "h": 13,
+        "x": 1003,
+        "y": 866,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/do",
+        "w": 3,
+        "h": 3,
+        "x": 1031,
+        "y": 987
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dp",
+        "w": 3,
+        "h": 5,
+        "x": 1021,
+        "y": 954
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dq",
+        "w": 3,
+        "h": 3,
+        "x": 1031,
+        "y": 992
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dr",
+        "w": 8,
+        "h": 9,
+        "x": 1061,
+        "y": 852,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ds",
+        "w": 4,
+        "h": 4,
+        "x": 1037,
+        "y": 946
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dt",
+        "w": 15,
+        "h": 13,
+        "x": 986,
+        "y": 873,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/du",
+        "w": 3,
+        "h": 4,
+        "x": 1033,
+        "y": 958
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dv",
+        "w": 3,
+        "h": 3,
+        "x": 1032,
+        "y": 997
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dw",
+        "w": 3,
+        "h": 3,
+        "x": 1031,
+        "y": 987
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dx",
+        "w": 17,
+        "h": 42,
+        "x": 815,
+        "y": 800,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dy",
+        "w": 17,
+        "h": 30,
+        "x": 206,
+        "y": 895
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/dz",
+        "w": 14,
+        "h": 44,
+        "x": 107,
+        "y": 955
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/e",
+        "w": 22,
+        "h": 13,
+        "x": 807,
+        "y": 846,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ea",
+        "w": 17,
+        "h": 42,
+        "x": 815,
+        "y": 800,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/eb",
+        "w": 14,
+        "h": 44,
+        "x": 783,
+        "y": 800
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ec",
+        "w": 14,
+        "h": 44,
+        "x": 799,
+        "y": 800
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ed",
+        "w": 17,
+        "h": 12,
+        "x": 1078,
+        "y": 750,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ee",
+        "w": 4,
+        "h": 3,
+        "x": 1023,
+        "y": 979
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ef",
+        "w": 12,
+        "h": 62,
+        "x": 146,
+        "y": 937
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/eg",
+        "w": 10,
+        "h": 28,
+        "x": 903,
+        "y": 892
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/eh",
+        "w": 10,
+        "h": 28,
+        "x": 914,
+        "y": 861
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ei",
+        "w": 17,
+        "h": 6,
+        "x": 904,
+        "y": 731,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ej",
+        "w": 26,
+        "h": 8,
+        "x": 978,
+        "y": 759,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ek",
+        "w": 8,
+        "h": 26,
+        "x": 991,
+        "y": 731
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/el",
+        "w": 13,
+        "h": 14,
+        "x": 1073,
+        "y": 863,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/em",
+        "w": 4,
+        "h": 5,
+        "x": 1017,
+        "y": 971,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/en",
+        "w": 19,
+        "h": 7,
+        "x": 954,
+        "y": 841,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/eo",
+        "w": 19,
+        "h": 7,
+        "x": 1025,
+        "y": 821,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ep",
+        "w": 12,
+        "h": 45,
+        "x": 93,
+        "y": 955
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/eq",
+        "w": 21,
+        "h": 13,
+        "x": 1073,
+        "y": 806,
+        "r": true,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/er",
+        "w": 3,
+        "h": 10,
+        "x": 1056,
+        "y": 851
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/es",
+        "w": 18,
+        "h": 6,
+        "x": 884,
+        "y": 731,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/et",
+        "w": 6,
+        "h": 18,
+        "x": 908,
+        "y": 841
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/eu",
+        "w": 14,
+        "h": 5,
+        "x": 160,
+        "y": 998,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ev",
+        "w": 14,
+        "h": 5,
+        "x": 176,
+        "y": 998,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ew",
+        "w": 10,
+        "h": 39,
+        "x": 864,
+        "y": 781
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ex",
+        "w": 15,
+        "h": 12,
+        "x": 954,
+        "y": 878
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ey",
+        "w": 6,
+        "h": 3,
+        "x": 1088,
+        "y": 888,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ez",
+        "w": 13,
+        "h": 4,
+        "x": 944,
+        "y": 769,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/f",
+        "w": 24,
+        "h": 21,
+        "x": 1052,
+        "y": 731,
+        "fx": -10,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fa",
+        "w": 13,
+        "h": 4,
+        "x": 959,
+        "y": 769,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fb",
+        "w": 3,
+        "h": 9,
+        "x": 1007,
+        "y": 976
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fc",
+        "w": 3,
+        "h": 9,
+        "x": 1011,
+        "y": 962
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fd",
+        "w": 10,
+        "h": 35,
+        "x": 906,
+        "y": 739
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fe",
+        "w": 15,
+        "h": 13,
+        "x": 1021,
+        "y": 859
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ff",
+        "w": 4,
+        "h": 5,
+        "x": 1017,
+        "y": 971,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fg",
+        "w": 29,
+        "h": 29,
+        "x": 883,
+        "y": 861,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fh",
+        "w": 20,
+        "h": 40,
+        "x": 863,
+        "y": 739,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fi",
+        "w": 15,
+        "h": 15,
+        "x": 1004,
+        "y": 849,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fj",
+        "w": 15,
+        "h": 15,
+        "x": 986,
+        "y": 856
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fk",
+        "w": 20,
+        "h": 18,
+        "x": 877,
+        "y": 841
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fl",
+        "w": 29,
+        "h": 30,
+        "x": 825,
+        "y": 861,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fm",
+        "w": 22,
+        "h": 27,
+        "x": 903,
+        "y": 922,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fn",
+        "w": 21,
+        "h": 12,
+        "x": 1026,
+        "y": 807,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fo",
+        "w": 33,
+        "h": 25,
+        "x": 914,
+        "y": 814
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fp",
+        "w": 27,
+        "h": 35,
+        "x": 905,
+        "y": 777,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fq",
+        "w": 27,
+        "h": 36,
+        "x": 876,
+        "y": 781,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fr",
+        "w": 14,
+        "h": 12,
+        "x": 1002,
+        "y": 906,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fs",
+        "w": 16,
+        "h": 10,
+        "x": 1046,
+        "y": 827,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ft",
+        "w": 16,
+        "h": 12,
+        "x": 986,
+        "y": 816,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fu",
+        "w": 8,
+        "h": 3,
+        "x": 1016,
+        "y": 994
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fv",
+        "w": 7,
+        "h": 8,
+        "x": 1088,
+        "y": 850,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fw",
+        "w": 21,
+        "h": 21,
+        "x": 1050,
+        "y": 789,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fx",
+        "w": 19,
+        "h": 19,
+        "x": 1076,
+        "y": 785,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fy",
+        "w": 14,
+        "h": 11,
+        "x": 1068,
+        "y": 921,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/fz",
+        "w": 11,
+        "h": 14,
+        "x": 1084,
+        "y": 927,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/g",
+        "w": 29,
+        "h": 17,
+        "x": 833,
+        "y": 781
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ga",
+        "w": 13,
+        "h": 13,
+        "x": 1002,
+        "y": 920,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gb",
+        "w": 4,
+        "h": 5,
+        "x": 1015,
+        "y": 954,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gc",
+        "w": 7,
+        "h": 7,
+        "x": 1088,
+        "y": 860,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gd",
+        "w": 7,
+        "h": 5,
+        "x": 216,
+        "y": 998,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ge",
+        "w": 17,
+        "h": 17,
+        "x": 935,
+        "y": 841,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gf",
+        "w": 291,
+        "h": 154,
+        "x": 206,
+        "y": 739,
+        "r": true,
+        "fx": -59,
+        "fy": -8,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gg",
+        "w": 28,
+        "h": 40,
+        "x": 833,
+        "y": 739,
+        "r": true,
+        "fx": -116,
+        "fy": -200,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gh",
+        "w": 119,
+        "h": 214,
+        "x": 1,
+        "y": 739,
+        "fx": -79,
+        "fy": -99,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gi",
+        "w": 59,
+        "h": 6,
+        "x": 823,
+        "y": 731,
+        "fx": -107,
+        "fy": -87,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gj",
+        "w": 8,
+        "h": 5,
+        "x": 206,
+        "y": 998,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gk",
+        "w": 6,
+        "h": 6,
+        "x": 962,
+        "y": 731,
+        "fx": -1,
+        "fy": -2,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gl",
+        "w": 9,
+        "h": 10,
+        "x": 943,
+        "y": 927,
+        "fx": 0,
+        "fy": 0,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gm",
+        "w": 8,
+        "h": 6,
+        "x": 923,
+        "y": 731,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gn",
+        "w": 8,
+        "h": 6,
+        "x": 933,
+        "y": 731,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/go",
+        "w": 10,
+        "h": 12,
+        "x": 992,
+        "y": 987,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gp",
+        "w": 10,
+        "h": 12,
+        "x": 999,
+        "y": 962,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gq",
+        "w": 271,
+        "h": 154,
+        "x": 499,
+        "y": 739,
+        "r": true,
+        "fx": -59,
+        "fy": -58,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gr",
+        "w": 13,
+        "h": 13,
+        "x": 986,
+        "y": 929,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gs",
+        "w": 9,
+        "h": 59,
+        "x": 772,
+        "y": 800,
+        "r": true,
+        "fx": -107,
+        "fy": -49,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gt",
+        "w": 272,
+        "h": 342,
+        "x": 823,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gu",
+        "w": 13,
+        "h": 13,
+        "x": 970,
+        "y": 937,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gv",
+        "w": 13,
+        "h": 13,
+        "x": 986,
+        "y": 929,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gw",
+        "w": 13,
+        "h": 13,
+        "x": 954,
+        "y": 945,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gx",
+        "w": 9,
+        "h": 4,
+        "x": 942,
+        "y": 983,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gy",
+        "w": 13,
+        "h": 13,
+        "x": 1034,
+        "y": 918,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/gz",
+        "w": 5,
+        "h": 5,
+        "x": 968,
+        "y": 980,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/h",
+        "w": 272,
+        "h": 384,
+        "x": 823,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ha",
+        "w": 7,
+        "h": 7,
+        "x": 1088,
+        "y": 869,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hb",
+        "w": 3,
+        "h": 3,
+        "x": 1034,
+        "y": 964,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hc",
+        "w": 23,
+        "h": 21,
+        "x": 1051,
+        "y": 766,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hd",
+        "w": 3,
+        "h": 3,
+        "x": 1034,
+        "y": 964,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/he",
+        "w": 3,
+        "h": 3,
+        "x": 1034,
+        "y": 964,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hf",
+        "w": 4,
+        "h": 5,
+        "x": 1015,
+        "y": 954,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hg",
+        "w": 7,
+        "h": 7,
+        "x": 1088,
+        "y": 860,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hh",
+        "w": 8,
+        "h": 9,
+        "x": 976,
+        "y": 834,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hi",
+        "w": 17,
+        "h": 17,
+        "x": 935,
+        "y": 841,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hj",
+        "w": 5,
+        "h": 5,
+        "x": 975,
+        "y": 980,
+        "fx": -1,
+        "fy": -1,
+        "fw": 6,
+        "fh": 6
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hk",
+        "w": 7,
+        "h": 13,
+        "x": 1088,
+        "y": 835,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hl",
+        "w": 9,
+        "h": 10,
+        "x": 943,
+        "y": 939,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hm",
+        "w": 8,
+        "h": 8,
+        "x": 983,
+        "y": 970
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hn",
+        "w": 13,
+        "h": 15,
+        "x": 971,
+        "y": 876,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ho",
+        "w": 9,
+        "h": 9,
+        "x": 1086,
+        "y": 900,
+        "fx": -1,
+        "fy": 0,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hp",
+        "w": 7,
+        "h": 3,
+        "x": 905,
+        "y": 814,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hq",
+        "w": 3,
+        "h": 8,
+        "x": 1016,
+        "y": 961
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hr",
+        "w": 4,
+        "h": 8,
+        "x": 993,
+        "y": 970
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hs",
+        "w": 4,
+        "h": 9,
+        "x": 1001,
+        "y": 976
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ht",
+        "w": 4,
+        "h": 8,
+        "x": 993,
+        "y": 970
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hu",
+        "w": 4,
+        "h": 9,
+        "x": 1001,
+        "y": 976
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hv",
+        "w": 3,
+        "h": 8,
+        "x": 1016,
+        "y": 984
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hw",
+        "w": 7,
+        "h": 3,
+        "x": 1088,
+        "y": 878,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hx",
+        "w": 9,
+        "h": 4,
+        "x": 1004,
+        "y": 999,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hy",
+        "w": 8,
+        "h": 4,
+        "x": 1015,
+        "y": 999,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/hz",
+        "w": 9,
+        "h": 4,
+        "x": 1004,
+        "y": 999,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/i",
+        "w": 4,
+        "h": 4,
+        "x": 1023,
+        "y": 973
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ia",
+        "w": 8,
+        "h": 4,
+        "x": 1015,
+        "y": 999,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ib",
+        "w": 9,
+        "h": 9,
+        "x": 943,
+        "y": 951,
+        "fx": -1,
+        "fy": -1,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ic",
+        "w": 5,
+        "h": 6,
+        "x": 954,
+        "y": 806,
+        "r": true,
+        "fx": -6,
+        "fy": -13,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/id",
+        "w": 8,
+        "h": 6,
+        "x": 943,
+        "y": 731,
+        "r": true,
+        "fx": -6,
+        "fy": -11,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ie",
+        "w": 10,
+        "h": 13,
+        "x": 942,
+        "y": 968,
+        "fx": -4,
+        "fy": -6,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/if",
+        "w": 16,
+        "h": 14,
+        "x": 986,
+        "y": 769,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ig",
+        "w": 16,
+        "h": 19,
+        "x": 1078,
+        "y": 764,
+        "fx": -1,
+        "fy": -1,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ih",
+        "w": 16,
+        "h": 14,
+        "x": 986,
+        "y": 785,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 18,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ii",
+        "w": 15,
+        "h": 11,
+        "x": 1056,
+        "y": 863,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ij",
+        "w": 15,
+        "h": 11,
+        "x": 1038,
+        "y": 866,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ik",
+        "w": 15,
+        "h": 11,
+        "x": 1055,
+        "y": 876,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/il",
+        "w": 5,
+        "h": 5,
+        "x": 968,
+        "y": 980,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/im",
+        "w": 7,
+        "h": 7,
+        "x": 1088,
+        "y": 869,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/in",
+        "w": 9,
+        "h": 11,
+        "x": 943,
+        "y": 888,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/io",
+        "w": 23,
+        "h": 21,
+        "x": 1051,
+        "y": 766,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ip",
+        "w": 16,
+        "h": 10,
+        "x": 1025,
+        "y": 830,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/iq",
+        "w": 16,
+        "h": 10,
+        "x": 1043,
+        "y": 839,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ir",
+        "w": 15,
+        "h": 10,
+        "x": 1037,
+        "y": 879,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/is",
+        "w": 16,
+        "h": 10,
+        "x": 1004,
+        "y": 837,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/it",
+        "w": 16,
+        "h": 10,
+        "x": 986,
+        "y": 844,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/iu",
+        "w": 15,
+        "h": 10,
+        "x": 1020,
+        "y": 887,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/iv",
+        "w": 15,
+        "h": 10,
+        "x": 1003,
+        "y": 894,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/iw",
+        "w": 15,
+        "h": 11,
+        "x": 1020,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ix",
+        "w": 20,
+        "h": 13,
+        "x": 1049,
+        "y": 812,
+        "r": true,
+        "fx": -130,
+        "fy": -49,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/iy",
+        "w": 15,
+        "h": 11,
+        "x": 1003,
+        "y": 881,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/iz",
+        "w": 5,
+        "h": 5,
+        "x": 982,
+        "y": 980,
+        "fx": -11,
+        "fy": -18,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/j",
+        "w": 22,
+        "h": 24,
+        "x": 903,
+        "y": 951,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ja",
+        "w": 7,
+        "h": 7,
+        "x": 1088,
+        "y": 860,
+        "fx": -10,
+        "fy": -14,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jb",
+        "w": 13,
+        "h": 13,
+        "x": 1017,
+        "y": 926,
+        "fx": -7,
+        "fy": -8,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jc",
+        "w": 17,
+        "h": 17,
+        "x": 1078,
+        "y": 731,
+        "fx": -5,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jd",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/je",
+        "w": 82,
+        "h": 196,
+        "x": 122,
+        "y": 739,
+        "r": true,
+        "fx": -38,
+        "fy": -493,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jf",
+        "w": 14,
+        "h": 12,
+        "x": 986,
+        "y": 901,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jg",
+        "w": 13,
+        "h": 12,
+        "x": 1001,
+        "y": 935,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jh",
+        "w": 13,
+        "h": 12,
+        "x": 985,
+        "y": 944,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ji",
+        "w": 13,
+        "h": 12,
+        "x": 969,
+        "y": 952,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jj",
+        "w": 13,
+        "h": 12,
+        "x": 985,
+        "y": 944,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jk",
+        "w": 14,
+        "h": 12,
+        "x": 954,
+        "y": 917,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jl",
+        "w": 14,
+        "h": 12,
+        "x": 986,
+        "y": 901,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jm",
+        "w": 14,
+        "h": 12,
+        "x": 927,
+        "y": 935,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jn",
+        "w": 12,
+        "h": 11,
+        "x": 954,
+        "y": 974,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jo",
+        "w": 13,
+        "h": 11,
+        "x": 927,
+        "y": 976,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jp",
+        "w": 11,
+        "h": 13,
+        "x": 927,
+        "y": 989,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jq",
+        "w": 13,
+        "h": 12,
+        "x": 954,
+        "y": 960,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jr",
+        "w": 11,
+        "h": 12,
+        "x": 953,
+        "y": 987,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/js",
+        "w": 14,
+        "h": 12,
+        "x": 1054,
+        "y": 889,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jt",
+        "w": 11,
+        "h": 12,
+        "x": 966,
+        "y": 987,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ju",
+        "w": 11,
+        "h": 12,
+        "x": 953,
+        "y": 987,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jv",
+        "w": 11,
+        "h": 12,
+        "x": 979,
+        "y": 987,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jw",
+        "w": 14,
+        "h": 12,
+        "x": 1037,
+        "y": 891,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jx",
+        "w": 14,
+        "h": 12,
+        "x": 1054,
+        "y": 889,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jy",
+        "w": 14,
+        "h": 12,
+        "x": 1020,
+        "y": 899,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/jz",
+        "w": 676,
+        "h": 108,
+        "x": 225,
+        "y": 895,
+        "r": true,
+        "fx": -82,
+        "fy": -24,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/k",
+        "w": 24,
+        "h": 21,
+        "x": 1052,
+        "y": 731,
+        "fx": -10,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ka",
+        "w": 272,
+        "h": 736,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kb",
+        "w": 11,
+        "h": 13,
+        "x": 940,
+        "y": 989,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kc",
+        "w": 8,
+        "h": 6,
+        "x": 934,
+        "y": 806,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kd",
+        "w": 8,
+        "h": 6,
+        "x": 944,
+        "y": 806,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ke",
+        "w": 33,
+        "h": 46,
+        "x": 58,
+        "y": 955,
+        "r": true,
+        "fx": 0,
+        "fy": -9,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kf",
+        "w": 272,
+        "h": 736,
+        "x": 549,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kg",
+        "w": 13,
+        "h": 11,
+        "x": 1049,
+        "y": 929,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kh",
+        "w": 14,
+        "h": 12,
+        "x": 986,
+        "y": 915,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ki",
+        "w": 15,
+        "h": 11,
+        "x": 986,
+        "y": 888,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kj",
+        "w": 11,
+        "h": 13,
+        "x": 927,
+        "y": 989,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kk",
+        "w": 13,
+        "h": 11,
+        "x": 1032,
+        "y": 933,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kl",
+        "w": 14,
+        "h": 12,
+        "x": 970,
+        "y": 923,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/km",
+        "w": 14,
+        "h": 11,
+        "x": 1018,
+        "y": 913,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kn",
+        "w": 13,
+        "h": 11,
+        "x": 1016,
+        "y": 941,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ko",
+        "w": 13,
+        "h": 11,
+        "x": 1000,
+        "y": 949,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kp",
+        "w": 14,
+        "h": 12,
+        "x": 954,
+        "y": 931,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kq",
+        "w": 16,
+        "h": 8,
+        "x": 206,
+        "y": 927,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/kr",
+        "w": 14,
+        "h": 12,
+        "x": 927,
+        "y": 949,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/ks",
+        "w": 16,
+        "h": 10,
+        "x": 954,
+        "y": 850,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/l",
+        "w": 22,
+        "h": 24,
+        "x": 903,
+        "y": 977,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/m",
+        "w": 10,
+        "h": 10,
+        "x": 1004,
+        "y": 987
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/n",
+        "w": 20,
+        "h": 20,
+        "x": 1004,
+        "y": 799
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/o",
+        "w": 10,
+        "h": 4,
+        "x": 974,
+        "y": 769,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/p",
+        "w": 16,
+        "h": 16,
+        "x": 1006,
+        "y": 757
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/q",
+        "w": 5,
+        "h": 6,
+        "x": 954,
+        "y": 806,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/r",
+        "w": 6,
+        "h": 6,
+        "x": 970,
+        "y": 731,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/s",
+        "w": 16,
+        "h": 12,
+        "x": 986,
+        "y": 830,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/t",
+        "w": 14,
+        "h": 14,
+        "x": 927,
+        "y": 919,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/u",
+        "w": 15,
+        "h": 14,
+        "x": 954,
+        "y": 862,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/v",
+        "w": 21,
+        "h": 25,
+        "x": 123,
+        "y": 955,
+        "fx": -15,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/w",
+        "w": 24,
+        "h": 20,
+        "x": 888,
+        "y": 819,
+        "r": true,
+        "fx": -15,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/x",
+        "w": 24,
+        "h": 22,
+        "x": 1026,
+        "y": 731,
+        "fx": -16,
+        "fy": -4,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/y",
+        "w": 25,
+        "h": 25,
+        "x": 949,
+        "y": 814,
+        "fx": -14,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/delusion_girl_002/.gen/movie/z",
+        "w": 26,
+        "h": 26,
+        "x": 926,
+        "y": 860,
+        "fx": -13,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    }
+]

@@ -1,0 +1,2770 @@
+[
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1150,
+        "y": 434
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/aa",
+        "w": 15,
+        "h": 15,
+        "x": 1059,
+        "y": 275,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ab",
+        "w": 7,
+        "h": 3,
+        "x": 1008,
+        "y": 422,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ac",
+        "w": 8,
+        "h": 3,
+        "x": 988,
+        "y": 422,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ad",
+        "w": 8,
+        "h": 4,
+        "x": 1131,
+        "y": 436,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ae",
+        "w": 9,
+        "h": 4,
+        "x": 1078,
+        "y": 437,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/af",
+        "w": 8,
+        "h": 4,
+        "x": 1131,
+        "y": 436,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ag",
+        "w": 9,
+        "h": 4,
+        "x": 1078,
+        "y": 437,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ah",
+        "w": 8,
+        "h": 3,
+        "x": 998,
+        "y": 422,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ai",
+        "w": 7,
+        "h": 3,
+        "x": 1017,
+        "y": 422,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/aj",
+        "w": 9,
+        "h": 4,
+        "x": 1089,
+        "y": 437,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ak",
+        "w": 4,
+        "h": 8,
+        "x": 1128,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/al",
+        "w": 9,
+        "h": 4,
+        "x": 1089,
+        "y": 437,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/am",
+        "w": 4,
+        "h": 8,
+        "x": 1128,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/an",
+        "w": 14,
+        "h": 12,
+        "x": 881,
+        "y": 429,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ao",
+        "w": 5,
+        "h": 5,
+        "x": 1100,
+        "y": 436,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ap",
+        "w": 7,
+        "h": 7,
+        "x": 1134,
+        "y": 408,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/aq",
+        "w": 11,
+        "h": 9,
+        "x": 1106,
+        "y": 408,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ar",
+        "w": 21,
+        "h": 23,
+        "x": 985,
+        "y": 368,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/as",
+        "w": 5,
+        "h": 5,
+        "x": 1100,
+        "y": 436,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/at",
+        "w": 7,
+        "h": 7,
+        "x": 1134,
+        "y": 408,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/au",
+        "w": 3,
+        "h": 3,
+        "x": 1068,
+        "y": 438,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/av",
+        "w": 21,
+        "h": 23,
+        "x": 985,
+        "y": 368,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/aw",
+        "w": 3,
+        "h": 3,
+        "x": 1068,
+        "y": 438,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ax",
+        "w": 3,
+        "h": 3,
+        "x": 1068,
+        "y": 438,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ay",
+        "w": 15,
+        "h": 15,
+        "x": 1034,
+        "y": 344,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/az",
+        "w": 15,
+        "h": 15,
+        "x": 1059,
+        "y": 275,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/b",
+        "w": 14,
+        "h": 12,
+        "x": 897,
+        "y": 429,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ba",
+        "w": 15,
+        "h": 15,
+        "x": 1050,
+        "y": 326,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bb",
+        "w": 7,
+        "h": 8,
+        "x": 1025,
+        "y": 358,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bc",
+        "w": 21,
+        "h": 21,
+        "x": 275,
+        "y": 364,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bd",
+        "w": 19,
+        "h": 19,
+        "x": 136,
+        "y": 422,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/be",
+        "w": 10,
+        "h": 10,
+        "x": 644,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bf",
+        "w": 20,
+        "h": 20,
+        "x": 1034,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bg",
+        "w": 4,
+        "h": 10,
+        "x": 656,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bh",
+        "w": 16,
+        "h": 16,
+        "x": 1049,
+        "y": 390
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bi",
+        "w": 4,
+        "h": 5,
+        "x": 1107,
+        "y": 436,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bj",
+        "w": 7,
+        "h": 7,
+        "x": 1141,
+        "y": 434,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 21
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bk",
+        "w": 17,
+        "h": 17,
+        "x": 98,
+        "y": 424,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 19
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bl",
+        "w": 272,
+        "h": 152,
+        "x": 661,
+        "y": 275,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 718
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bm",
+        "w": 15,
+        "h": 16,
+        "x": 1010,
+        "y": 294
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bn",
+        "w": 16,
+        "h": 10,
+        "x": 490,
+        "y": 431,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bo",
+        "w": 8,
+        "h": 3,
+        "x": 996,
+        "y": 393
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bp",
+        "w": 16,
+        "h": 12,
+        "x": 776,
+        "y": 429,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bq",
+        "w": 718,
+        "h": 272,
+        "x": 275,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/br",
+        "w": 15,
+        "h": 15,
+        "x": 1050,
+        "y": 361,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bs",
+        "w": 15,
+        "h": 15,
+        "x": 1051,
+        "y": 343,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bt",
+        "w": 16,
+        "h": 8,
+        "x": 1,
+        "y": 433,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bu",
+        "w": 16,
+        "h": 10,
+        "x": 508,
+        "y": 431,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bv",
+        "w": 16,
+        "h": 12,
+        "x": 794,
+        "y": 429,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bw",
+        "w": 11,
+        "h": 14,
+        "x": 1116,
+        "y": 359,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bx",
+        "w": 15,
+        "h": 15,
+        "x": 1060,
+        "y": 292
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/by",
+        "w": 15,
+        "h": 16,
+        "x": 1025,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/bz",
+        "w": 11,
+        "h": 14,
+        "x": 1117,
+        "y": 342,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 985,
+        "y": 393
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ca",
+        "w": 15,
+        "h": 15,
+        "x": 1076,
+        "y": 275,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cb",
+        "w": 15,
+        "h": 16,
+        "x": 1027,
+        "y": 293
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cc",
+        "w": 11,
+        "h": 15,
+        "x": 1094,
+        "y": 309,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cd",
+        "w": 11,
+        "h": 15,
+        "x": 1100,
+        "y": 326,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ce",
+        "w": 11,
+        "h": 14,
+        "x": 1129,
+        "y": 325,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cf",
+        "w": 7,
+        "h": 5,
+        "x": 981,
+        "y": 361,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cg",
+        "w": 11,
+        "h": 7,
+        "x": 1021,
+        "y": 326,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ch",
+        "w": 15,
+        "h": 9,
+        "x": 1050,
+        "y": 378,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ci",
+        "w": 13,
+        "h": 22,
+        "x": 988,
+        "y": 398,
+        "fx": -16,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cj",
+        "w": 15,
+        "h": 12,
+        "x": 864,
+        "y": 429,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ck",
+        "w": 14,
+        "h": 15,
+        "x": 1084,
+        "y": 360,
+        "r": true,
+        "fx": -12,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cl",
+        "w": 14,
+        "h": 15,
+        "x": 1099,
+        "y": 377,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cm",
+        "w": 15,
+        "h": 8,
+        "x": 19,
+        "y": 433,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cn",
+        "w": 13,
+        "h": 10,
+        "x": 526,
+        "y": 431,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/co",
+        "w": 13,
+        "h": 13,
+        "x": 1142,
+        "y": 357,
+        "fx": -13,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cp",
+        "w": 272,
+        "h": 384,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cq",
+        "w": 13,
+        "h": 14,
+        "x": 1120,
+        "y": 309,
+        "fx": -14,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cr",
+        "w": 13,
+        "h": 15,
+        "x": 1092,
+        "y": 419,
+        "fx": -13,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cs",
+        "w": 14,
+        "h": 12,
+        "x": 913,
+        "y": 429,
+        "r": true,
+        "fx": -14,
+        "fy": -7,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ct",
+        "w": 13,
+        "h": 15,
+        "x": 1115,
+        "y": 377,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cu",
+        "w": 14,
+        "h": 12,
+        "x": 929,
+        "y": 429,
+        "r": true,
+        "fx": -14,
+        "fy": -8,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cv",
+        "w": 14,
+        "h": 15,
+        "x": 1085,
+        "y": 343,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cw",
+        "w": 11,
+        "h": 14,
+        "x": 1135,
+        "y": 307,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cx",
+        "w": 11,
+        "h": 15,
+        "x": 1107,
+        "y": 309,
+        "fx": -15,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cy",
+        "w": 13,
+        "h": 15,
+        "x": 1122,
+        "y": 419,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/cz",
+        "w": 4,
+        "h": 4,
+        "x": 1143,
+        "y": 405
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/d",
+        "w": 15,
+        "h": 15,
+        "x": 1051,
+        "y": 343,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/da",
+        "w": 28,
+        "h": 28,
+        "x": 935,
+        "y": 399,
+        "fx": 0,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/db",
+        "w": 4,
+        "h": 4,
+        "x": 1143,
+        "y": 411
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dc",
+        "w": 16,
+        "h": 17,
+        "x": 1007,
+        "y": 275,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dd",
+        "w": 11,
+        "h": 14,
+        "x": 1137,
+        "y": 291,
+        "fx": -15,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/de",
+        "w": 16,
+        "h": 16,
+        "x": 1056,
+        "y": 420,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/df",
+        "w": 17,
+        "h": 14,
+        "x": 997,
+        "y": 427,
+        "r": true,
+        "fx": -12,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dg",
+        "w": 11,
+        "h": 14,
+        "x": 1141,
+        "y": 275,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dh",
+        "w": 20,
+        "h": 21,
+        "x": 982,
+        "y": 335,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/di",
+        "w": 22,
+        "h": 15,
+        "x": 275,
+        "y": 347,
+        "fx": -6,
+        "fy": -7,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dj",
+        "w": 15,
+        "h": 16,
+        "x": 1042,
+        "y": 275,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dk",
+        "w": 13,
+        "h": 22,
+        "x": 1003,
+        "y": 398,
+        "fx": -16,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dl",
+        "w": 18,
+        "h": 14,
+        "x": 977,
+        "y": 427,
+        "fx": -10,
+        "fy": -7,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dm",
+        "w": 20,
+        "h": 12,
+        "x": 732,
+        "y": 429,
+        "r": true,
+        "fx": -16,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dn",
+        "w": 29,
+        "h": 29,
+        "x": 935,
+        "y": 275,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/do",
+        "w": 20,
+        "h": 40,
+        "x": 39,
+        "y": 387,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dp",
+        "w": 15,
+        "h": 15,
+        "x": 1060,
+        "y": 309,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dq",
+        "w": 18,
+        "h": 20,
+        "x": 1030,
+        "y": 368,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dr",
+        "w": 4,
+        "h": 4,
+        "x": 1149,
+        "y": 405
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ds",
+        "w": 28,
+        "h": 28,
+        "x": 955,
+        "y": 368,
+        "fx": 0,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dt",
+        "w": 4,
+        "h": 4,
+        "x": 1149,
+        "y": 411
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/du",
+        "w": 28,
+        "h": 32,
+        "x": 203,
+        "y": 387,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dv",
+        "w": 13,
+        "h": 15,
+        "x": 1137,
+        "y": 417,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dw",
+        "w": 4,
+        "h": 4,
+        "x": 1156,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dx",
+        "w": 13,
+        "h": 9,
+        "x": 1076,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dy",
+        "w": 4,
+        "h": 5,
+        "x": 1113,
+        "y": 436,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/dz",
+        "w": 4,
+        "h": 4,
+        "x": 1162,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/e",
+        "w": 13,
+        "h": 10,
+        "x": 541,
+        "y": 431,
+        "fx": -25,
+        "fy": -34,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ea",
+        "w": 2,
+        "h": 2,
+        "x": 44,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/eb",
+        "w": 29,
+        "h": 30,
+        "x": 258,
+        "y": 387,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ec",
+        "w": 24,
+        "h": 26,
+        "x": 966,
+        "y": 275,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ed",
+        "w": 27,
+        "h": 22,
+        "x": 270,
+        "y": 419
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ee",
+        "w": 13,
+        "h": 10,
+        "x": 556,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ef",
+        "w": 12,
+        "h": 5,
+        "x": 957,
+        "y": 361
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/eg",
+        "w": 3,
+        "h": 3,
+        "x": 1073,
+        "y": 438
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/eh",
+        "w": 4,
+        "h": 4,
+        "x": 1165,
+        "y": 417
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ei",
+        "w": 25,
+        "h": 33,
+        "x": 176,
+        "y": 387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ej",
+        "w": 22,
+        "h": 23,
+        "x": 275,
+        "y": 275,
+        "r": true,
+        "fx": -14,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ek",
+        "w": 15,
+        "h": 8,
+        "x": 19,
+        "y": 433,
+        "fx": -14,
+        "fy": -13,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/el",
+        "w": 27,
+        "h": 35,
+        "x": 90,
+        "y": 387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/em",
+        "w": 27,
+        "h": 36,
+        "x": 61,
+        "y": 387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/en",
+        "w": 22,
+        "h": 12,
+        "x": 53,
+        "y": 429,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/eo",
+        "w": 3,
+        "h": 3,
+        "x": 1156,
+        "y": 438
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ep",
+        "w": 13,
+        "h": 15,
+        "x": 1107,
+        "y": 419
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/eq",
+        "w": 4,
+        "h": 4,
+        "x": 1165,
+        "y": 423
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/er",
+        "w": 17,
+        "h": 7,
+        "x": 1002,
+        "y": 326,
+        "fx": -13,
+        "fy": -15,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/es",
+        "w": 3,
+        "h": 2,
+        "x": 39,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/et",
+        "w": 4,
+        "h": 3,
+        "x": 1056,
+        "y": 438,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/eu",
+        "w": 11,
+        "h": 13,
+        "x": 1167,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ev",
+        "w": 17,
+        "h": 7,
+        "x": 1002,
+        "y": 326,
+        "fx": -13,
+        "fy": -15,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ew",
+        "w": 15,
+        "h": 8,
+        "x": 19,
+        "y": 433,
+        "fx": -14,
+        "fy": -13,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ex",
+        "w": 3,
+        "h": 3,
+        "x": 1161,
+        "y": 438
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ey",
+        "w": 11,
+        "h": 14,
+        "x": 1129,
+        "y": 358
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ez",
+        "w": 4,
+        "h": 4,
+        "x": 1168,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/f",
+        "w": 11,
+        "h": 12,
+        "x": 1112,
+        "y": 394,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fa",
+        "w": 14,
+        "h": 15,
+        "x": 1084,
+        "y": 326,
+        "fx": -14,
+        "fy": -6,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fb",
+        "w": 4,
+        "h": 4,
+        "x": 1171,
+        "y": 435
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fc",
+        "w": 11,
+        "h": 14,
+        "x": 1130,
+        "y": 341
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fd",
+        "w": 4,
+        "h": 4,
+        "x": 1168,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fe",
+        "w": 13,
+        "h": 14,
+        "x": 1122,
+        "y": 291,
+        "fx": -14,
+        "fy": -4,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ff",
+        "w": 4,
+        "h": 3,
+        "x": 992,
+        "y": 298
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fg",
+        "w": 11,
+        "h": 14,
+        "x": 1142,
+        "y": 323
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fh",
+        "w": 4,
+        "h": 4,
+        "x": 1168,
+        "y": 429
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fi",
+        "w": 15,
+        "h": 12,
+        "x": 830,
+        "y": 429,
+        "fx": -13,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fj",
+        "w": 3,
+        "h": 3,
+        "x": 1166,
+        "y": 438
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fk",
+        "w": 11,
+        "h": 15,
+        "x": 1109,
+        "y": 292
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fl",
+        "w": 4,
+        "h": 3,
+        "x": 998,
+        "y": 298
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fm",
+        "w": 13,
+        "h": 9,
+        "x": 1091,
+        "y": 408,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fn",
+        "w": 16,
+        "h": 9,
+        "x": 1040,
+        "y": 409,
+        "fx": -13,
+        "fy": -5,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fo",
+        "w": 6,
+        "h": 4,
+        "x": 1026,
+        "y": 421,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fp",
+        "w": 8,
+        "h": 5,
+        "x": 971,
+        "y": 361,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fq",
+        "w": 4,
+        "h": 3,
+        "x": 1062,
+        "y": 438,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fr",
+        "w": 11,
+        "h": 13,
+        "x": 1152,
+        "y": 417,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fs",
+        "w": 4,
+        "h": 4,
+        "x": 1168,
+        "y": 402
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ft",
+        "w": 4,
+        "h": 5,
+        "x": 1119,
+        "y": 436,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fu",
+        "w": 21,
+        "h": 27,
+        "x": 965,
+        "y": 398
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fv",
+        "w": 26,
+        "h": 33,
+        "x": 148,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fw",
+        "w": 36,
+        "h": 44,
+        "x": 1,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fx",
+        "w": 13,
+        "h": 10,
+        "x": 571,
+        "y": 431,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fy",
+        "w": 13,
+        "h": 13,
+        "x": 1143,
+        "y": 339
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/fz",
+        "w": 18,
+        "h": 19,
+        "x": 157,
+        "y": 422,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/g",
+        "w": 7,
+        "h": 9,
+        "x": 1119,
+        "y": 408,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ga",
+        "w": 21,
+        "h": 27,
+        "x": 957,
+        "y": 306,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gb",
+        "w": 6,
+        "h": 3,
+        "x": 1006,
+        "y": 393,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gc",
+        "w": 6,
+        "h": 5,
+        "x": 1042,
+        "y": 361,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gd",
+        "w": 4,
+        "h": 3,
+        "x": 1004,
+        "y": 298
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ge",
+        "w": 11,
+        "h": 14,
+        "x": 1130,
+        "y": 374,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gf",
+        "w": 4,
+        "h": 4,
+        "x": 1168,
+        "y": 402
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gg",
+        "w": 4,
+        "h": 5,
+        "x": 1125,
+        "y": 436,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gh",
+        "w": 9,
+        "h": 8,
+        "x": 1003,
+        "y": 358
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gi",
+        "w": 11,
+        "h": 10,
+        "x": 631,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gj",
+        "w": 16,
+        "h": 16,
+        "x": 1074,
+        "y": 419
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gk",
+        "w": 4,
+        "h": 4,
+        "x": 1168,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gl",
+        "w": 11,
+        "h": 12,
+        "x": 1125,
+        "y": 394
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gm",
+        "w": 7,
+        "h": 5,
+        "x": 1014,
+        "y": 391
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gn",
+        "w": 4,
+        "h": 4,
+        "x": 1171,
+        "y": 414
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/go",
+        "w": 4,
+        "h": 4,
+        "x": 1171,
+        "y": 420
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gp",
+        "w": 11,
+        "h": 14,
+        "x": 1148,
+        "y": 307,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gq",
+        "w": 13,
+        "h": 12,
+        "x": 1067,
+        "y": 394,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gr",
+        "w": 15,
+        "h": 16,
+        "x": 1042,
+        "y": 275,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gs",
+        "w": 21,
+        "h": 12,
+        "x": 686,
+        "y": 429,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gt",
+        "w": 16,
+        "h": 14,
+        "x": 1016,
+        "y": 427,
+        "r": true,
+        "fx": -41,
+        "fy": -32,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gu",
+        "w": 15,
+        "h": 15,
+        "x": 1067,
+        "y": 326,
+        "fx": -40,
+        "fy": -32,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gv",
+        "w": 14,
+        "h": 16,
+        "x": 1034,
+        "y": 326,
+        "fx": -9,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gw",
+        "w": 14,
+        "h": 15,
+        "x": 1100,
+        "y": 360,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gx",
+        "w": 15,
+        "h": 8,
+        "x": 36,
+        "y": 433,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gy",
+        "w": 13,
+        "h": 10,
+        "x": 586,
+        "y": 431,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/gz",
+        "w": 13,
+        "h": 13,
+        "x": 1155,
+        "y": 323,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/h",
+        "w": 27,
+        "h": 33,
+        "x": 119,
+        "y": 387,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 36,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ha",
+        "w": 22,
+        "h": 12,
+        "x": 662,
+        "y": 429,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hb",
+        "w": 20,
+        "h": 12,
+        "x": 754,
+        "y": 429,
+        "r": true,
+        "fx": -15,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hc",
+        "w": 14,
+        "h": 16,
+        "x": 1044,
+        "y": 293,
+        "fx": -9,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hd",
+        "w": 22,
+        "h": 20,
+        "x": 275,
+        "y": 325,
+        "fx": -15,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/he",
+        "w": 14,
+        "h": 16,
+        "x": 1034,
+        "y": 326,
+        "fx": -9,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hf",
+        "w": 23,
+        "h": 32,
+        "x": 233,
+        "y": 387,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hg",
+        "w": 16,
+        "h": 13,
+        "x": 1042,
+        "y": 311,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hh",
+        "w": 22,
+        "h": 23,
+        "x": 275,
+        "y": 300,
+        "r": true,
+        "fx": -4,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hi",
+        "w": 8,
+        "h": 15,
+        "x": 289,
+        "y": 387,
+        "r": true,
+        "fx": -14,
+        "fy": -13,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hj",
+        "w": 23,
+        "h": 24,
+        "x": 957,
+        "y": 335,
+        "fx": -6,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hk",
+        "w": 7,
+        "h": 17,
+        "x": 1040,
+        "y": 390,
+        "r": true,
+        "fx": -13,
+        "fy": -15,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hl",
+        "w": 13,
+        "h": 22,
+        "x": 980,
+        "y": 303,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hm",
+        "w": 20,
+        "h": 6,
+        "x": 980,
+        "y": 327,
+        "fx": -11,
+        "fy": -16,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hn",
+        "w": 15,
+        "h": 16,
+        "x": 1042,
+        "y": 275,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ho",
+        "w": 7,
+        "h": 17,
+        "x": 1040,
+        "y": 390,
+        "r": true,
+        "fx": -13,
+        "fy": -15,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hp",
+        "w": 8,
+        "h": 15,
+        "x": 289,
+        "y": 387,
+        "r": true,
+        "fx": -14,
+        "fy": -13,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hq",
+        "w": 14,
+        "h": 15,
+        "x": 1067,
+        "y": 377,
+        "fx": -14,
+        "fy": -6,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hr",
+        "w": 13,
+        "h": 14,
+        "x": 1126,
+        "y": 275,
+        "fx": -14,
+        "fy": -4,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hs",
+        "w": 15,
+        "h": 12,
+        "x": 847,
+        "y": 429,
+        "fx": -13,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ht",
+        "w": 16,
+        "h": 9,
+        "x": 1058,
+        "y": 408,
+        "fx": -13,
+        "fy": -5,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hu",
+        "w": 13,
+        "h": 10,
+        "x": 601,
+        "y": 431,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hv",
+        "w": 13,
+        "h": 13,
+        "x": 1161,
+        "y": 307,
+        "fx": -12,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hw",
+        "w": 13,
+        "h": 12,
+        "x": 1082,
+        "y": 394,
+        "r": true,
+        "fx": -12,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hx",
+        "w": 11,
+        "h": 13,
+        "x": 1151,
+        "y": 387,
+        "r": true,
+        "fx": -13,
+        "fy": -8,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hy",
+        "w": 15,
+        "h": 15,
+        "x": 1077,
+        "y": 292,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/hz",
+        "w": 13,
+        "h": 13,
+        "x": 1163,
+        "y": 291,
+        "fx": -13,
+        "fy": -8,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/i",
+        "w": 19,
+        "h": 16,
+        "x": 77,
+        "y": 425,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ia",
+        "w": 11,
+        "h": 13,
+        "x": 1151,
+        "y": 387,
+        "r": true,
+        "fx": -13,
+        "fy": -8,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ib",
+        "w": 11,
+        "h": 13,
+        "x": 1138,
+        "y": 390,
+        "fx": -14,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ic",
+        "w": 11,
+        "h": 13,
+        "x": 1143,
+        "y": 372,
+        "fx": -14,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/id",
+        "w": 29,
+        "h": 18,
+        "x": 177,
+        "y": 422,
+        "fx": -5,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ie",
+        "w": 29,
+        "h": 20,
+        "x": 208,
+        "y": 421,
+        "fx": -5,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/if",
+        "w": 20,
+        "h": 21,
+        "x": 1008,
+        "y": 368,
+        "r": true,
+        "fx": -9,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ig",
+        "w": 29,
+        "h": 20,
+        "x": 239,
+        "y": 421,
+        "fx": -5,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ih",
+        "w": 20,
+        "h": 29,
+        "x": 935,
+        "y": 306,
+        "r": true,
+        "fx": -5,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ii",
+        "w": 20,
+        "h": 21,
+        "x": 1018,
+        "y": 398,
+        "r": true,
+        "fx": -9,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ij",
+        "w": 20,
+        "h": 29,
+        "x": 935,
+        "y": 337,
+        "r": true,
+        "fx": -5,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ik",
+        "w": 18,
+        "h": 29,
+        "x": 935,
+        "y": 368,
+        "r": true,
+        "fx": -5,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/il",
+        "w": 13,
+        "h": 10,
+        "x": 616,
+        "y": 431,
+        "fx": -13,
+        "fy": -3,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/im",
+        "w": 11,
+        "h": 13,
+        "x": 1156,
+        "y": 372,
+        "r": true,
+        "fx": -13,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/in",
+        "w": 13,
+        "h": 15,
+        "x": 1094,
+        "y": 292,
+        "r": true,
+        "fx": -12,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/io",
+        "w": 11,
+        "h": 13,
+        "x": 1155,
+        "y": 402,
+        "r": true,
+        "fx": -13,
+        "fy": -9,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ip",
+        "w": 13,
+        "h": 13,
+        "x": 1142,
+        "y": 357,
+        "fx": -13,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/iq",
+        "w": 21,
+        "h": 12,
+        "x": 709,
+        "y": 429,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ir",
+        "w": 15,
+        "h": 15,
+        "x": 1093,
+        "y": 275,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/is",
+        "w": 13,
+        "h": 21,
+        "x": 992,
+        "y": 275,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/it",
+        "w": 15,
+        "h": 15,
+        "x": 1077,
+        "y": 292,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/iu",
+        "w": 21,
+        "h": 12,
+        "x": 709,
+        "y": 429,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/iv",
+        "w": 15,
+        "h": 15,
+        "x": 1077,
+        "y": 309,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/iw",
+        "w": 11,
+        "h": 13,
+        "x": 1164,
+        "y": 387,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ix",
+        "w": 13,
+        "h": 21,
+        "x": 995,
+        "y": 303,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/iy",
+        "w": 13,
+        "h": 21,
+        "x": 1004,
+        "y": 335,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/iz",
+        "w": 21,
+        "h": 12,
+        "x": 686,
+        "y": 429,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/j",
+        "w": 169,
+        "h": 154,
+        "x": 490,
+        "y": 275,
+        "r": true,
+        "fx": -59,
+        "fy": -40,
+        "fw": 272,
+        "fh": 268
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ja",
+        "w": 13,
+        "h": 21,
+        "x": 1019,
+        "y": 335,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jb",
+        "w": 15,
+        "h": 15,
+        "x": 1067,
+        "y": 360
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jc",
+        "w": 15,
+        "h": 15,
+        "x": 1068,
+        "y": 343
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jd",
+        "w": 4,
+        "h": 5,
+        "x": 1107,
+        "y": 436,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/je",
+        "w": 7,
+        "h": 7,
+        "x": 1141,
+        "y": 434,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jf",
+        "w": 9,
+        "h": 8,
+        "x": 1014,
+        "y": 358,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jg",
+        "w": 17,
+        "h": 17,
+        "x": 117,
+        "y": 424,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jh",
+        "w": 14,
+        "h": 12,
+        "x": 945,
+        "y": 429,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/ji",
+        "w": 14,
+        "h": 12,
+        "x": 961,
+        "y": 429,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jj",
+        "w": 8,
+        "h": 11,
+        "x": 289,
+        "y": 404,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 15,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jk",
+        "w": 6,
+        "h": 5,
+        "x": 1034,
+        "y": 361,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jl",
+        "w": 6,
+        "h": 6,
+        "x": 1032,
+        "y": 390,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jm",
+        "w": 13,
+        "h": 12,
+        "x": 1097,
+        "y": 394,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jn",
+        "w": 14,
+        "h": 14,
+        "x": 1110,
+        "y": 275,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jo",
+        "w": 11,
+        "h": 12,
+        "x": 1157,
+        "y": 354,
+        "r": true,
+        "fx": -11,
+        "fy": -10,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jp",
+        "w": 4,
+        "h": 5,
+        "x": 1107,
+        "y": 436,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jq",
+        "w": 7,
+        "h": 7,
+        "x": 1141,
+        "y": 434,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jr",
+        "w": 11,
+        "h": 8,
+        "x": 990,
+        "y": 358,
+        "fx": -4,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/js",
+        "w": 17,
+        "h": 17,
+        "x": 117,
+        "y": 424,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/jt",
+        "w": 14,
+        "h": 14,
+        "x": 1101,
+        "y": 343,
+        "fx": -41,
+        "fy": -33,
+        "fw": 94,
+        "fh": 94
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/k",
+        "w": 189,
+        "h": 166,
+        "x": 299,
+        "y": 275,
+        "r": true,
+        "fx": -53,
+        "fy": -30,
+        "fw": 272,
+        "fh": 268
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/l",
+        "w": 268,
+        "h": 272,
+        "x": 995,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/m",
+        "w": 4,
+        "h": 4,
+        "x": 1174,
+        "y": 426
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/n",
+        "w": 14,
+        "h": 12,
+        "x": 1010,
+        "y": 312,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/o",
+        "w": 14,
+        "h": 12,
+        "x": 1026,
+        "y": 312,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/p",
+        "w": 11,
+        "h": 14,
+        "x": 1150,
+        "y": 291,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/q",
+        "w": 11,
+        "h": 14,
+        "x": 1154,
+        "y": 275,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/r",
+        "w": 4,
+        "h": 5,
+        "x": 1107,
+        "y": 436,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/s",
+        "w": 7,
+        "h": 7,
+        "x": 1141,
+        "y": 434,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/t",
+        "w": 7,
+        "h": 5,
+        "x": 1023,
+        "y": 391,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/u",
+        "w": 17,
+        "h": 17,
+        "x": 117,
+        "y": 424,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/v",
+        "w": 6,
+        "h": 5,
+        "x": 1034,
+        "y": 361,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/w",
+        "w": 6,
+        "h": 6,
+        "x": 1032,
+        "y": 390,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/x",
+        "w": 16,
+        "h": 12,
+        "x": 812,
+        "y": 429,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/y",
+        "w": 14,
+        "h": 14,
+        "x": 1113,
+        "y": 326,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sorceress_teacher_003/.gen/movie/z",
+        "w": 14,
+        "h": 15,
+        "x": 1083,
+        "y": 377,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    }
+]

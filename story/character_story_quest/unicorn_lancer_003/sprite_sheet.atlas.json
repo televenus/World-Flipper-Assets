@@ -1,0 +1,834 @@
+[
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 258,
+        "y": 958
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/aa",
+        "w": 8,
+        "h": 3,
+        "x": 266,
+        "y": 933,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ab",
+        "w": 7,
+        "h": 3,
+        "x": 294,
+        "y": 973,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ac",
+        "w": 9,
+        "h": 4,
+        "x": 232,
+        "y": 959,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ad",
+        "w": 8,
+        "h": 4,
+        "x": 238,
+        "y": 935,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ae",
+        "w": 9,
+        "h": 4,
+        "x": 232,
+        "y": 959,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/af",
+        "w": 8,
+        "h": 4,
+        "x": 238,
+        "y": 935,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ag",
+        "w": 5,
+        "h": 5,
+        "x": 251,
+        "y": 958,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ah",
+        "w": 7,
+        "h": 7,
+        "x": 294,
+        "y": 964,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ai",
+        "w": 11,
+        "h": 9,
+        "x": 270,
+        "y": 953,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/aj",
+        "w": 21,
+        "h": 23,
+        "x": 153,
+        "y": 943,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ak",
+        "w": 271,
+        "h": 736,
+        "x": 549,
+        "y": 243,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 880
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/al",
+        "w": 272,
+        "h": 880,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/am",
+        "w": 272,
+        "h": 880,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/an",
+        "w": 13,
+        "h": 15,
+        "x": 237,
+        "y": 941,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ao",
+        "w": 13,
+        "h": 15,
+        "x": 227,
+        "y": 901,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ap",
+        "w": 13,
+        "h": 15,
+        "x": 235,
+        "y": 883,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/aq",
+        "w": 15,
+        "h": 15,
+        "x": 220,
+        "y": 942,
+        "fx": -31,
+        "fy": -25,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ar",
+        "w": 16,
+        "h": 15,
+        "x": 176,
+        "y": 908,
+        "r": true,
+        "fx": -30,
+        "fy": -24,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/as",
+        "w": 12,
+        "h": 14,
+        "x": 238,
+        "y": 965
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/at",
+        "w": 12,
+        "h": 14,
+        "x": 252,
+        "y": 965
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/au",
+        "w": 13,
+        "h": 15,
+        "x": 238,
+        "y": 918
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/av",
+        "w": 6,
+        "h": 5,
+        "x": 243,
+        "y": 958,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/aw",
+        "w": 6,
+        "h": 6,
+        "x": 258,
+        "y": 933,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ax",
+        "w": 12,
+        "h": 16,
+        "x": 181,
+        "y": 925,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ay",
+        "w": 14,
+        "h": 14,
+        "x": 222,
+        "y": 965,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/az",
+        "w": 15,
+        "h": 14,
+        "x": 205,
+        "y": 965,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/b",
+        "w": 13,
+        "h": 15,
+        "x": 227,
+        "y": 901,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ba",
+        "w": 10,
+        "h": 10,
+        "x": 283,
+        "y": 952
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bb",
+        "w": 10,
+        "h": 16,
+        "x": 209,
+        "y": 924
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bc",
+        "w": 8,
+        "h": 3,
+        "x": 72,
+        "y": 976
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bd",
+        "w": 12,
+        "h": 16,
+        "x": 194,
+        "y": 907
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/be",
+        "w": 12,
+        "h": 14,
+        "x": 253,
+        "y": 917
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bf",
+        "w": 20,
+        "h": 20,
+        "x": 176,
+        "y": 943
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bg",
+        "w": 10,
+        "h": 4,
+        "x": 220,
+        "y": 959,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bh",
+        "w": 16,
+        "h": 16,
+        "x": 163,
+        "y": 925
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bi",
+        "w": 20,
+        "h": 20,
+        "x": 198,
+        "y": 943,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bj",
+        "w": 20,
+        "h": 20,
+        "x": 201,
+        "y": 883,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bk",
+        "w": 37,
+        "h": 25,
+        "x": 1,
+        "y": 951,
+        "r": true,
+        "fx": -26,
+        "fy": -4,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bl",
+        "w": 14,
+        "h": 32,
+        "x": 137,
+        "y": 943,
+        "fx": -30,
+        "fy": -6,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bm",
+        "w": 20,
+        "h": 14,
+        "x": 183,
+        "y": 965,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bn",
+        "w": 12,
+        "h": 23,
+        "x": 171,
+        "y": 883,
+        "fx": -32,
+        "fy": -13,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bo",
+        "w": 17,
+        "h": 17,
+        "x": 208,
+        "y": 905,
+        "fx": -28,
+        "fy": -18,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bp",
+        "w": 17,
+        "h": 24,
+        "x": 61,
+        "y": 950,
+        "r": true,
+        "fx": -23,
+        "fy": -19,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bq",
+        "w": 24,
+        "h": 16,
+        "x": 113,
+        "y": 925,
+        "fx": -25,
+        "fy": -23,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/br",
+        "w": 22,
+        "h": 16,
+        "x": 139,
+        "y": 925,
+        "fx": -25,
+        "fy": -23,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bs",
+        "w": 23,
+        "h": 15,
+        "x": 151,
+        "y": 908,
+        "fx": -24,
+        "fy": -25,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bt",
+        "w": 14,
+        "h": 22,
+        "x": 185,
+        "y": 883,
+        "r": true,
+        "fx": -24,
+        "fy": -26,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bu",
+        "w": 32,
+        "h": 58,
+        "x": 79,
+        "y": 883,
+        "r": true,
+        "fx": -7,
+        "fy": -5,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bv",
+        "w": 37,
+        "h": 66,
+        "x": 1,
+        "y": 883,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bw",
+        "w": 37,
+        "h": 65,
+        "x": 40,
+        "y": 883,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bx",
+        "w": 53,
+        "h": 36,
+        "x": 82,
+        "y": 943,
+        "fx": -6,
+        "fy": -1,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/by",
+        "w": 36,
+        "h": 40,
+        "x": 113,
+        "y": 883,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/bz",
+        "w": 19,
+        "h": 29,
+        "x": 40,
+        "y": 950,
+        "fx": -27,
+        "fy": -8,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 61,
+        "y": 976
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ca",
+        "w": 18,
+        "h": 23,
+        "x": 151,
+        "y": 883,
+        "fx": -28,
+        "fy": -14,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/cb",
+        "w": 13,
+        "h": 15,
+        "x": 252,
+        "y": 941,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/cc",
+        "w": 10,
+        "h": 16,
+        "x": 223,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/cd",
+        "w": 12,
+        "h": 16,
+        "x": 195,
+        "y": 925
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ce",
+        "w": 13,
+        "h": 15,
+        "x": 266,
+        "y": 964,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/cf",
+        "w": 12,
+        "h": 14,
+        "x": 257,
+        "y": 900
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/cg",
+        "w": 13,
+        "h": 15,
+        "x": 252,
+        "y": 941,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ch",
+        "w": 13,
+        "h": 15,
+        "x": 266,
+        "y": 964,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/ci",
+        "w": 12,
+        "h": 14,
+        "x": 264,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/d",
+        "w": 180,
+        "h": 192,
+        "x": 822,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/e",
+        "w": 4,
+        "h": 4,
+        "x": 264,
+        "y": 958
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/f",
+        "w": 13,
+        "h": 15,
+        "x": 242,
+        "y": 900,
+        "fx": -10,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/g",
+        "w": 13,
+        "h": 11,
+        "x": 153,
+        "y": 968,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/h",
+        "w": 13,
+        "h": 11,
+        "x": 168,
+        "y": 968,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/i",
+        "w": 13,
+        "h": 11,
+        "x": 153,
+        "y": 968,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/j",
+        "w": 11,
+        "h": 13,
+        "x": 278,
+        "y": 883,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/k",
+        "w": 15,
+        "h": 15,
+        "x": 221,
+        "y": 924,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/l",
+        "w": 440,
+        "h": 240,
+        "x": 549,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/m",
+        "w": 11,
+        "h": 13,
+        "x": 267,
+        "y": 938,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/n",
+        "w": 12,
+        "h": 14,
+        "x": 238,
+        "y": 965
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/o",
+        "w": 11,
+        "h": 13,
+        "x": 280,
+        "y": 937,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/p",
+        "w": 12,
+        "h": 14,
+        "x": 267,
+        "y": 916
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/q",
+        "w": 11,
+        "h": 13,
+        "x": 267,
+        "y": 938,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/r",
+        "w": 11,
+        "h": 13,
+        "x": 281,
+        "y": 964,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/s",
+        "w": 12,
+        "h": 14,
+        "x": 271,
+        "y": 899
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/t",
+        "w": 12,
+        "h": 15,
+        "x": 250,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/u",
+        "w": 3,
+        "h": 7,
+        "x": 281,
+        "y": 915
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/v",
+        "w": 8,
+        "h": 3,
+        "x": 276,
+        "y": 932,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/w",
+        "w": 8,
+        "h": 4,
+        "x": 248,
+        "y": 935,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/x",
+        "w": 9,
+        "h": 4,
+        "x": 227,
+        "y": 918,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/y",
+        "w": 8,
+        "h": 4,
+        "x": 248,
+        "y": 935,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/unicorn_lancer_003/.gen/movie/z",
+        "w": 9,
+        "h": 4,
+        "x": 227,
+        "y": 918,
+        "r": true
+    }
+]

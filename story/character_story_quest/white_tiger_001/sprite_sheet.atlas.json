@@ -1,0 +1,832 @@
+[
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 409,
+        "y": 413
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/aa",
+        "w": 15,
+        "h": 10,
+        "x": 402,
+        "y": 936,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ab",
+        "w": 15,
+        "h": 11,
+        "x": 402,
+        "y": 871,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ac",
+        "w": 5,
+        "h": 5,
+        "x": 409,
+        "y": 388,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ad",
+        "w": 7,
+        "h": 7,
+        "x": 409,
+        "y": 302,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ae",
+        "w": 3,
+        "h": 3,
+        "x": 415,
+        "y": 401,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/af",
+        "w": 23,
+        "h": 21,
+        "x": 371,
+        "y": 252,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ag",
+        "w": 3,
+        "h": 3,
+        "x": 415,
+        "y": 401,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ah",
+        "w": 3,
+        "h": 3,
+        "x": 415,
+        "y": 401,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ai",
+        "w": 15,
+        "h": 11,
+        "x": 402,
+        "y": 871,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/aj",
+        "w": 7,
+        "h": 7,
+        "x": 409,
+        "y": 311,
+        "fx": -8,
+        "fy": -8,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ak",
+        "w": 16,
+        "h": 15,
+        "x": 390,
+        "y": 220,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/al",
+        "w": 7,
+        "h": 7,
+        "x": 409,
+        "y": 320,
+        "fx": -8,
+        "fy": -8,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/am",
+        "w": 240,
+        "h": 1200,
+        "x": 1,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/an",
+        "w": 15,
+        "h": 15,
+        "x": 402,
+        "y": 753
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ao",
+        "w": 15,
+        "h": 15,
+        "x": 402,
+        "y": 770
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ap",
+        "w": 15,
+        "h": 15,
+        "x": 402,
+        "y": 787
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/aq",
+        "w": 15,
+        "h": 11,
+        "x": 402,
+        "y": 884,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ar",
+        "w": 15,
+        "h": 11,
+        "x": 402,
+        "y": 897,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/as",
+        "w": 6,
+        "h": 5,
+        "x": 409,
+        "y": 381,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/at",
+        "w": 6,
+        "h": 6,
+        "x": 409,
+        "y": 373,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/au",
+        "w": 16,
+        "h": 12,
+        "x": 402,
+        "y": 687,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/av",
+        "w": 14,
+        "h": 14,
+        "x": 402,
+        "y": 948,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/aw",
+        "w": 15,
+        "h": 14,
+        "x": 402,
+        "y": 855,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ax",
+        "w": 10,
+        "h": 10,
+        "x": 401,
+        "y": 1165
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ay",
+        "w": 20,
+        "h": 20,
+        "x": 346,
+        "y": 1301
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/az",
+        "w": 4,
+        "h": 10,
+        "x": 409,
+        "y": 401
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/b",
+        "w": 157,
+        "h": 281,
+        "x": 243,
+        "y": 670,
+        "fx": -58,
+        "fy": -31,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ba",
+        "w": 16,
+        "h": 16,
+        "x": 390,
+        "y": 202
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bb",
+        "w": 15,
+        "h": 13,
+        "x": 390,
+        "y": 237
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bc",
+        "w": 15,
+        "h": 15,
+        "x": 402,
+        "y": 804
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bd",
+        "w": 6,
+        "h": 19,
+        "x": 409,
+        "y": 352,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/be",
+        "w": 16,
+        "h": 15,
+        "x": 402,
+        "y": 670,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bf",
+        "w": 15,
+        "h": 15,
+        "x": 402,
+        "y": 821
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bg",
+        "w": 5,
+        "h": 5,
+        "x": 409,
+        "y": 388,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bh",
+        "w": 7,
+        "h": 7,
+        "x": 409,
+        "y": 302,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bi",
+        "w": 9,
+        "h": 11,
+        "x": 409,
+        "y": 234,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bj",
+        "w": 23,
+        "h": 21,
+        "x": 371,
+        "y": 252,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bk",
+        "w": 15,
+        "h": 11,
+        "x": 402,
+        "y": 910,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bl",
+        "w": 7,
+        "h": 5,
+        "x": 409,
+        "y": 338,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bm",
+        "w": 7,
+        "h": 11,
+        "x": 409,
+        "y": 289,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bn",
+        "w": 9,
+        "h": 15,
+        "x": 409,
+        "y": 217,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bo",
+        "w": 8,
+        "h": 7,
+        "x": 409,
+        "y": 275,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bp",
+        "w": 21,
+        "h": 21,
+        "x": 396,
+        "y": 252,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bq",
+        "w": 19,
+        "h": 19,
+        "x": 346,
+        "y": 1323,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/br",
+        "w": 5,
+        "h": 4,
+        "x": 409,
+        "y": 395,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bs",
+        "w": 7,
+        "h": 7,
+        "x": 409,
+        "y": 329,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bt",
+        "w": 7,
+        "h": 5,
+        "x": 409,
+        "y": 345,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bu",
+        "w": 17,
+        "h": 17,
+        "x": 390,
+        "y": 183,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bv",
+        "w": 164,
+        "h": 28,
+        "x": 243,
+        "y": 610,
+        "fx": 0,
+        "fy": -305,
+        "fw": 164,
+        "fh": 333
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bw",
+        "w": 101,
+        "h": 87,
+        "x": 243,
+        "y": 1301,
+        "fx": -20,
+        "fy": -195,
+        "fw": 164,
+        "fh": 333
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bx",
+        "w": 67,
+        "h": 93,
+        "x": 346,
+        "y": 1346,
+        "r": true,
+        "fx": -24,
+        "fy": -223,
+        "fw": 164,
+        "fh": 333
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/by",
+        "w": 93,
+        "h": 62,
+        "x": 243,
+        "y": 1390,
+        "fx": -24,
+        "fy": -190,
+        "fw": 164,
+        "fh": 333
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/bz",
+        "w": 125,
+        "h": 52,
+        "x": 243,
+        "y": 1247,
+        "fx": -25,
+        "fy": -121,
+        "fw": 164,
+        "fh": 333
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/c",
+        "w": 9,
+        "h": 30,
+        "x": 409,
+        "y": 153,
+        "r": true,
+        "fx": -4,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ca",
+        "w": 156,
+        "h": 145,
+        "x": 243,
+        "y": 953,
+        "fx": -4,
+        "fy": -55,
+        "fw": 164,
+        "fh": 333
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/cb",
+        "w": 30,
+        "h": 75,
+        "x": 371,
+        "y": 87,
+        "r": true,
+        "fx": -79,
+        "fy": -28,
+        "fw": 164,
+        "fh": 333
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/cc",
+        "w": 164,
+        "h": 333,
+        "x": 243,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/cd",
+        "w": 10,
+        "h": 10,
+        "x": 401,
+        "y": 1177
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ce",
+        "w": 16,
+        "h": 12,
+        "x": 402,
+        "y": 701,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/cf",
+        "w": 15,
+        "h": 15,
+        "x": 402,
+        "y": 838
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/cg",
+        "w": 16,
+        "h": 10,
+        "x": 402,
+        "y": 729,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/ch",
+        "w": 16,
+        "h": 12,
+        "x": 402,
+        "y": 715,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/d",
+        "w": 16,
+        "h": 10,
+        "x": 402,
+        "y": 741,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/e",
+        "w": 8,
+        "h": 3,
+        "x": 409,
+        "y": 284
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/f",
+        "w": 14,
+        "h": 12,
+        "x": 401,
+        "y": 964,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/g",
+        "w": 9,
+        "h": 3,
+        "x": 409,
+        "y": 247
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/h",
+        "w": 43,
+        "h": 41,
+        "x": 371,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/i",
+        "w": 156,
+        "h": 145,
+        "x": 243,
+        "y": 1100,
+        "fx": -58,
+        "fy": -74,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/j",
+        "w": 15,
+        "h": 11,
+        "x": 402,
+        "y": 923,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/k",
+        "w": 30,
+        "h": 17,
+        "x": 371,
+        "y": 164,
+        "fx": -4,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/l",
+        "w": 164,
+        "h": 28,
+        "x": 243,
+        "y": 640,
+        "fx": -54,
+        "fy": -324,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/m",
+        "w": 9,
+        "h": 64,
+        "x": 409,
+        "y": 87,
+        "r": true,
+        "fx": -16,
+        "fy": -42,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/n",
+        "w": 48,
+        "h": 97,
+        "x": 370,
+        "y": 1247,
+        "r": true,
+        "fx": -1,
+        "fy": -7,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/o",
+        "w": 17,
+        "h": 65,
+        "x": 371,
+        "y": 183,
+        "r": true,
+        "fx": -17,
+        "fy": -1,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/p",
+        "w": 9,
+        "h": 30,
+        "x": 409,
+        "y": 185,
+        "r": true,
+        "fx": -7,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/q",
+        "w": 43,
+        "h": 41,
+        "x": 371,
+        "y": 44,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/r",
+        "w": 30,
+        "h": 17,
+        "x": 371,
+        "y": 164,
+        "fx": -7,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/s",
+        "w": 12,
+        "h": 117,
+        "x": 401,
+        "y": 1032
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/t",
+        "w": 368,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/u",
+        "w": 4,
+        "h": 4,
+        "x": 409,
+        "y": 419
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/v",
+        "w": 14,
+        "h": 12,
+        "x": 401,
+        "y": 978,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/w",
+        "w": 14,
+        "h": 12,
+        "x": 401,
+        "y": 992,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/x",
+        "w": 14,
+        "h": 11,
+        "x": 401,
+        "y": 1006,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/y",
+        "w": 14,
+        "h": 11,
+        "x": 401,
+        "y": 1019,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/white_tiger_001/.gen/movie/z",
+        "w": 12,
+        "h": 12,
+        "x": 401,
+        "y": 1151,
+        "fx": -9,
+        "fy": -11,
+        "fw": 32,
+        "fh": 32
+    }
+]

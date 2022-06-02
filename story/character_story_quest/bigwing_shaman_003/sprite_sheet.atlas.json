@@ -1,0 +1,3516 @@
+[
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 489,
+        "y": 1134
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/aa",
+        "w": 14,
+        "h": 14,
+        "x": 385,
+        "y": 1743,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ab",
+        "w": 14,
+        "h": 15,
+        "x": 372,
+        "y": 1717,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ac",
+        "w": 16,
+        "h": 10,
+        "x": 401,
+        "y": 1716,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ad",
+        "w": 16,
+        "h": 12,
+        "x": 477,
+        "y": 742,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ae",
+        "w": 15,
+        "h": 15,
+        "x": 401,
+        "y": 1761
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/af",
+        "w": 15,
+        "h": 15,
+        "x": 418,
+        "y": 1764
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ag",
+        "w": 15,
+        "h": 10,
+        "x": 475,
+        "y": 1700,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 17
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ah",
+        "w": 10,
+        "h": 15,
+        "x": 259,
+        "y": 1747,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 17
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ai",
+        "w": 11,
+        "h": 15,
+        "x": 451,
+        "y": 1476,
+        "fx": -1,
+        "fy": -1,
+        "fw": 13,
+        "fh": 17
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/aj",
+        "w": 11,
+        "h": 15,
+        "x": 388,
+        "y": 1710,
+        "fx": -1,
+        "fy": -1,
+        "fw": 13,
+        "fh": 17
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ak",
+        "w": 10,
+        "h": 10,
+        "x": 460,
+        "y": 1782
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/al",
+        "w": 10,
+        "h": 5,
+        "x": 404,
+        "y": 949
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/am",
+        "w": 16,
+        "h": 15,
+        "x": 349,
+        "y": 1734,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/an",
+        "w": 16,
+        "h": 10,
+        "x": 419,
+        "y": 1735,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ao",
+        "w": 16,
+        "h": 12,
+        "x": 419,
+        "y": 1721,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ap",
+        "w": 37,
+        "h": 71,
+        "x": 456,
+        "y": 546,
+        "r": true,
+        "fx": -93,
+        "fy": -85,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/aq",
+        "w": 68,
+        "h": 67,
+        "x": 425,
+        "y": 141,
+        "fx": 0,
+        "fy": -1,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ar",
+        "w": 68,
+        "h": 68,
+        "x": 425,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/as",
+        "w": 68,
+        "h": 68,
+        "x": 425,
+        "y": 71
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/at",
+        "w": 57,
+        "h": 24,
+        "x": 434,
+        "y": 1364,
+        "fx": 0,
+        "fy": -33,
+        "fw": 57,
+        "fh": 57
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/au",
+        "w": 16,
+        "h": 15,
+        "x": 419,
+        "y": 1704,
+        "fx": -48,
+        "fy": -10,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/av",
+        "w": 37,
+        "h": 14,
+        "x": 456,
+        "y": 1649,
+        "fx": -4,
+        "fy": 0,
+        "fw": 43,
+        "fh": 90
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/aw",
+        "w": 17,
+        "h": 33,
+        "x": 447,
+        "y": 1529,
+        "r": true,
+        "fx": -4,
+        "fy": -4,
+        "fw": 43,
+        "fh": 90
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ax",
+        "w": 19,
+        "h": 36,
+        "x": 471,
+        "y": 911,
+        "fx": -1,
+        "fy": -7,
+        "fw": 43,
+        "fh": 90
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ay",
+        "w": 10,
+        "h": 10,
+        "x": 460,
+        "y": 1794
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/az",
+        "w": 65,
+        "h": 98,
+        "x": 404,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/b",
+        "w": 8,
+        "h": 16,
+        "x": 485,
+        "y": 1175
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ba",
+        "w": 100,
+        "h": 100,
+        "x": 272,
+        "y": 654
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bb",
+        "w": 65,
+        "h": 98,
+        "x": 357,
+        "y": 956
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bc",
+        "w": 100,
+        "h": 100,
+        "x": 250,
+        "y": 854
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bd",
+        "w": 109,
+        "h": 110,
+        "x": 139,
+        "y": 911,
+        "fx": -33,
+        "fy": -17,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/be",
+        "w": 27,
+        "h": 29,
+        "x": 184,
+        "y": 1548,
+        "r": true,
+        "fx": -1,
+        "fy": -5,
+        "fw": 43,
+        "fh": 90
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bf",
+        "w": 121,
+        "h": 110,
+        "x": 1,
+        "y": 1018,
+        "fx": -20,
+        "fy": -18,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bg",
+        "w": 36,
+        "h": 34,
+        "x": 234,
+        "y": 715,
+        "r": true,
+        "fx": -133,
+        "fy": -59,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bh",
+        "w": 20,
+        "h": 20,
+        "x": 466,
+        "y": 1597
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bi",
+        "w": 4,
+        "h": 10,
+        "x": 489,
+        "y": 1122
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bj",
+        "w": 116,
+        "h": 107,
+        "x": 124,
+        "y": 1023,
+        "fx": -22,
+        "fy": -20,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bk",
+        "w": 16,
+        "h": 16,
+        "x": 439,
+        "y": 1685
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bl",
+        "w": 34,
+        "h": 36,
+        "x": 191,
+        "y": 1443,
+        "fx": -133,
+        "fy": -60,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bm",
+        "w": 110,
+        "h": 109,
+        "x": 376,
+        "y": 210,
+        "fx": -24,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bn",
+        "w": 98,
+        "h": 105,
+        "x": 363,
+        "y": 431,
+        "fx": -30,
+        "fy": -17,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bo",
+        "w": 101,
+        "h": 108,
+        "x": 374,
+        "y": 646,
+        "r": true,
+        "fx": -36,
+        "fy": -19,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bp",
+        "w": 9,
+        "h": 18,
+        "x": 484,
+        "y": 362,
+        "r": true,
+        "fx": -119,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bq",
+        "w": 105,
+        "h": 95,
+        "x": 250,
+        "y": 956,
+        "fx": -38,
+        "fy": -23,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/br",
+        "w": 14,
+        "h": 17,
+        "x": 398,
+        "y": 1666,
+        "r": true,
+        "fx": -119,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bs",
+        "w": 112,
+        "h": 91,
+        "x": 361,
+        "y": 756,
+        "fx": -29,
+        "fy": -24,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bt",
+        "w": 75,
+        "h": 50,
+        "x": 117,
+        "y": 1386,
+        "fx": 0,
+        "fy": 0,
+        "fw": 75,
+        "fh": 52
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bu",
+        "w": 21,
+        "h": 20,
+        "x": 349,
+        "y": 1694,
+        "fx": -118,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bv",
+        "w": 80,
+        "h": 106,
+        "x": 374,
+        "y": 538,
+        "r": true,
+        "fx": -32,
+        "fy": -32,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bw",
+        "w": 17,
+        "h": 15,
+        "x": 475,
+        "y": 1683,
+        "fx": -46,
+        "fy": -11,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bx",
+        "w": 33,
+        "h": 37,
+        "x": 258,
+        "y": 1350,
+        "fx": -133,
+        "fy": -58,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/by",
+        "w": 33,
+        "h": 37,
+        "x": 358,
+        "y": 1565,
+        "fx": -47,
+        "fy": -14,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/bz",
+        "w": 129,
+        "h": 107,
+        "x": 243,
+        "y": 317,
+        "fx": -6,
+        "fy": -18,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/c",
+        "w": 8,
+        "h": 3,
+        "x": 124,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ca",
+        "w": 103,
+        "h": 121,
+        "x": 1,
+        "y": 1586,
+        "r": true,
+        "fx": -8,
+        "fy": -20,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cb",
+        "w": 100,
+        "h": 114,
+        "x": 272,
+        "y": 538,
+        "r": true,
+        "fx": -11,
+        "fy": -21,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cc",
+        "w": 115,
+        "h": 112,
+        "x": 1,
+        "y": 1130,
+        "fx": -14,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cd",
+        "w": 34,
+        "h": 36,
+        "x": 227,
+        "y": 1443,
+        "fx": -46,
+        "fy": -15,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ce",
+        "w": 115,
+        "h": 112,
+        "x": 1,
+        "y": 1244,
+        "fx": -14,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cf",
+        "w": 114,
+        "h": 112,
+        "x": 1,
+        "y": 1358,
+        "fx": -15,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cg",
+        "w": 112,
+        "h": 112,
+        "x": 118,
+        "y": 1132,
+        "fx": -16,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ch",
+        "w": 34,
+        "h": 36,
+        "x": 393,
+        "y": 1566,
+        "fx": -133,
+        "fy": -60,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ci",
+        "w": 34,
+        "h": 36,
+        "x": 349,
+        "y": 1630,
+        "fx": -46,
+        "fy": -16,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cj",
+        "w": 118,
+        "h": 110,
+        "x": 243,
+        "y": 426,
+        "fx": -18,
+        "fy": -17,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ck",
+        "w": 113,
+        "h": 108,
+        "x": 118,
+        "y": 1246,
+        "fx": -21,
+        "fy": -18,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cl",
+        "w": 112,
+        "h": 102,
+        "x": 1,
+        "y": 1709,
+        "fx": -24,
+        "fy": -20,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cm",
+        "w": 109,
+        "h": 96,
+        "x": 250,
+        "y": 756,
+        "fx": -26,
+        "fy": -24,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cn",
+        "w": 114,
+        "h": 112,
+        "x": 1,
+        "y": 1472,
+        "fx": -29,
+        "fy": -16,
+        "fw": 144,
+        "fh": 144
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/co",
+        "w": 5,
+        "h": 5,
+        "x": 357,
+        "y": 1447,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cp",
+        "w": 7,
+        "h": 7,
+        "x": 349,
+        "y": 1621,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cq",
+        "w": 9,
+        "h": 11,
+        "x": 484,
+        "y": 418,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cr",
+        "w": 23,
+        "h": 21,
+        "x": 233,
+        "y": 1350,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cs",
+        "w": 40,
+        "h": 27,
+        "x": 404,
+        "y": 1511,
+        "fx": -58,
+        "fy": -33,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ct",
+        "w": 12,
+        "h": 15,
+        "x": 451,
+        "y": 1494,
+        "fx": -48,
+        "fy": -7,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cu",
+        "w": 28,
+        "h": 33,
+        "x": 465,
+        "y": 1494,
+        "r": true,
+        "fx": -129,
+        "fy": -64,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cv",
+        "w": 33,
+        "h": 48,
+        "x": 258,
+        "y": 1638,
+        "r": true,
+        "fx": -62,
+        "fy": -29,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cw",
+        "w": 50,
+        "h": 34,
+        "x": 158,
+        "y": 1652,
+        "fx": -62,
+        "fy": -28,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cx",
+        "w": 35,
+        "h": 49,
+        "x": 320,
+        "y": 1447,
+        "r": true,
+        "fx": -63,
+        "fy": -28,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cy",
+        "w": 66,
+        "h": 56,
+        "x": 427,
+        "y": 1022,
+        "fx": -52,
+        "fy": -20,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/cz",
+        "w": 80,
+        "h": 78,
+        "x": 351,
+        "y": 1225,
+        "fx": -43,
+        "fy": -12,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/d",
+        "w": 14,
+        "h": 15,
+        "x": 257,
+        "y": 1767,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/da",
+        "w": 28,
+        "h": 113,
+        "x": 220,
+        "y": 777,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/db",
+        "w": 14,
+        "h": 56,
+        "x": 348,
+        "y": 1389,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dc",
+        "w": 30,
+        "h": 113,
+        "x": 463,
+        "y": 431,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dd",
+        "w": 49,
+        "h": 111,
+        "x": 299,
+        "y": 1245,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/de",
+        "w": 24,
+        "h": 55,
+        "x": 194,
+        "y": 1386,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/df",
+        "w": 15,
+        "h": 56,
+        "x": 332,
+        "y": 1621,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dg",
+        "w": 15,
+        "h": 12,
+        "x": 257,
+        "y": 1801,
+        "r": true,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dh",
+        "w": 15,
+        "h": 12,
+        "x": 288,
+        "y": 1772,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/di",
+        "w": 80,
+        "h": 82,
+        "x": 351,
+        "y": 1141,
+        "fx": -43,
+        "fy": -8,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dj",
+        "w": 82,
+        "h": 83,
+        "x": 343,
+        "y": 1056,
+        "fx": -43,
+        "fy": -7,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dk",
+        "w": 82,
+        "h": 75,
+        "x": 350,
+        "y": 1305,
+        "fx": -44,
+        "fy": -8,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dl",
+        "w": 3,
+        "h": 7,
+        "x": 258,
+        "y": 1481
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dm",
+        "w": 8,
+        "h": 3,
+        "x": 361,
+        "y": 849,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dn",
+        "w": 4,
+        "h": 8,
+        "x": 242,
+        "y": 1043
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/do",
+        "w": 9,
+        "h": 4,
+        "x": 225,
+        "y": 1809,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dp",
+        "w": 4,
+        "h": 8,
+        "x": 242,
+        "y": 1043
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dq",
+        "w": 9,
+        "h": 4,
+        "x": 225,
+        "y": 1809,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dr",
+        "w": 8,
+        "h": 3,
+        "x": 243,
+        "y": 1638,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ds",
+        "w": 7,
+        "h": 3,
+        "x": 250,
+        "y": 751,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dt",
+        "w": 9,
+        "h": 4,
+        "x": 272,
+        "y": 1794,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/du",
+        "w": 4,
+        "h": 8,
+        "x": 288,
+        "y": 1746
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dv",
+        "w": 9,
+        "h": 4,
+        "x": 272,
+        "y": 1794,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dw",
+        "w": 4,
+        "h": 8,
+        "x": 288,
+        "y": 1746
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dx",
+        "w": 16,
+        "h": 24,
+        "x": 331,
+        "y": 1682,
+        "r": true,
+        "fx": -52,
+        "fy": -56,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dy",
+        "w": 26,
+        "h": 20,
+        "x": 466,
+        "y": 1552,
+        "fx": -52,
+        "fy": -52,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/dz",
+        "w": 45,
+        "h": 32,
+        "x": 213,
+        "y": 1545,
+        "fx": -42,
+        "fy": -47,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/e",
+        "w": 16,
+        "h": 72,
+        "x": 477,
+        "y": 619,
+        "fx": -1,
+        "fy": -1,
+        "fw": 18,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ea",
+        "w": 48,
+        "h": 39,
+        "x": 415,
+        "y": 1390,
+        "fx": -40,
+        "fy": -42,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/eb",
+        "w": 40,
+        "h": 57,
+        "x": 243,
+        "y": 1579,
+        "r": true,
+        "fx": -36,
+        "fy": -41,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ec",
+        "w": 46,
+        "h": 63,
+        "x": 167,
+        "y": 1688,
+        "r": true,
+        "fx": -33,
+        "fy": -39,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ed",
+        "w": 45,
+        "h": 58,
+        "x": 167,
+        "y": 1753,
+        "r": true,
+        "fx": -37,
+        "fy": -39,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ee",
+        "w": 44,
+        "h": 57,
+        "x": 215,
+        "y": 1688,
+        "r": true,
+        "fx": -38,
+        "fy": -38,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ef",
+        "w": 44,
+        "h": 62,
+        "x": 212,
+        "y": 1481,
+        "r": true,
+        "fx": -32,
+        "fy": -38,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/eg",
+        "w": 65,
+        "h": 47,
+        "x": 117,
+        "y": 1481,
+        "fx": -31,
+        "fy": -36,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/eh",
+        "w": 65,
+        "h": 47,
+        "x": 117,
+        "y": 1530,
+        "fx": -31,
+        "fy": -36,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ei",
+        "w": 33,
+        "h": 50,
+        "x": 296,
+        "y": 1682,
+        "r": true,
+        "fx": -40,
+        "fy": -35,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ej",
+        "w": 46,
+        "h": 21,
+        "x": 309,
+        "y": 1550,
+        "fx": -66,
+        "fy": -42,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ek",
+        "w": 14,
+        "h": 19,
+        "x": 234,
+        "y": 751,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 21,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/el",
+        "w": 9,
+        "h": 17,
+        "x": 484,
+        "y": 382,
+        "r": true,
+        "fx": -41,
+        "fy": -44,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/em",
+        "w": 27,
+        "h": 24,
+        "x": 437,
+        "y": 1604,
+        "r": true,
+        "fx": -37,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/en",
+        "w": 27,
+        "h": 21,
+        "x": 466,
+        "y": 1529,
+        "fx": -37,
+        "fy": -38,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/eo",
+        "w": 22,
+        "h": 31,
+        "x": 471,
+        "y": 849,
+        "r": true,
+        "fx": -34,
+        "fy": -36,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ep",
+        "w": 18,
+        "h": 29,
+        "x": 475,
+        "y": 788,
+        "r": true,
+        "fx": -35,
+        "fy": -38,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/eq",
+        "w": 34,
+        "h": 36,
+        "x": 227,
+        "y": 1443,
+        "fx": -46,
+        "fy": -15,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/er",
+        "w": 19,
+        "h": 25,
+        "x": 456,
+        "y": 619,
+        "r": true,
+        "fx": -37,
+        "fy": -38,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/es",
+        "w": 12,
+        "h": 17,
+        "x": 219,
+        "y": 1356
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/et",
+        "w": 6,
+        "h": 18,
+        "x": 242,
+        "y": 1023,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/eu",
+        "w": 34,
+        "h": 36,
+        "x": 349,
+        "y": 1630,
+        "fx": -46,
+        "fy": -16,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ev",
+        "w": 17,
+        "h": 16,
+        "x": 446,
+        "y": 1511,
+        "r": true,
+        "fx": -42,
+        "fy": -40,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ew",
+        "w": 13,
+        "h": 15,
+        "x": 257,
+        "y": 1784,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ex",
+        "w": 16,
+        "h": 12,
+        "x": 329,
+        "y": 1749,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ey",
+        "w": 11,
+        "h": 14,
+        "x": 388,
+        "y": 1727,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ez",
+        "w": 16,
+        "h": 16,
+        "x": 457,
+        "y": 1685,
+        "fx": -42,
+        "fy": -41,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/f",
+        "w": 9,
+        "h": 12,
+        "x": 407,
+        "y": 1778,
+        "fx": -1,
+        "fy": -1,
+        "fw": 11,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fa",
+        "w": 14,
+        "h": 12,
+        "x": 305,
+        "y": 1786,
+        "r": true,
+        "fx": -17,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fb",
+        "w": 14,
+        "h": 14,
+        "x": 288,
+        "y": 1756
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fc",
+        "w": 5,
+        "h": 5,
+        "x": 488,
+        "y": 210
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fd",
+        "w": 8,
+        "h": 15,
+        "x": 485,
+        "y": 1193,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fe",
+        "w": 8,
+        "h": 12,
+        "x": 485,
+        "y": 1227,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ff",
+        "w": 13,
+        "h": 12,
+        "x": 477,
+        "y": 1750,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fg",
+        "w": 12,
+        "h": 10,
+        "x": 437,
+        "y": 1752,
+        "fx": -17,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fh",
+        "w": 17,
+        "h": 17,
+        "x": 401,
+        "y": 1685,
+        "fx": -41,
+        "fy": -40,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fi",
+        "w": 8,
+        "h": 15,
+        "x": 485,
+        "y": 1210,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fj",
+        "w": 11,
+        "h": 14,
+        "x": 394,
+        "y": 1786,
+        "fx": -18,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fk",
+        "w": 15,
+        "h": 13,
+        "x": 304,
+        "y": 1756
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fl",
+        "w": 5,
+        "h": 5,
+        "x": 416,
+        "y": 949
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fm",
+        "w": 2,
+        "h": 3,
+        "x": 254,
+        "y": 1373
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fn",
+        "w": 18,
+        "h": 26,
+        "x": 475,
+        "y": 819,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fo",
+        "w": 34,
+        "h": 24,
+        "x": 401,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fp",
+        "w": 28,
+        "h": 39,
+        "x": 465,
+        "y": 1390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fq",
+        "w": 12,
+        "h": 9,
+        "x": 481,
+        "y": 1619
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fr",
+        "w": 19,
+        "h": 14,
+        "x": 233,
+        "y": 1373
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fs",
+        "w": 16,
+        "h": 22,
+        "x": 331,
+        "y": 1708,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ft",
+        "w": 18,
+        "h": 17,
+        "x": 220,
+        "y": 892,
+        "r": true,
+        "fx": -41,
+        "fy": -39,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fu",
+        "w": 11,
+        "h": 12,
+        "x": 220,
+        "y": 1375,
+        "r": true,
+        "fx": -18,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fv",
+        "w": 14,
+        "h": 11,
+        "x": 400,
+        "y": 1802,
+        "r": true,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fw",
+        "w": 14,
+        "h": 11,
+        "x": 416,
+        "y": 1802,
+        "r": true,
+        "fx": -17,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fx",
+        "w": 19,
+        "h": 18,
+        "x": 236,
+        "y": 1788,
+        "r": true,
+        "fx": -41,
+        "fy": -38,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fy",
+        "w": 15,
+        "h": 12,
+        "x": 288,
+        "y": 1786,
+        "r": true,
+        "fx": -18,
+        "fy": -4,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/fz",
+        "w": 12,
+        "h": 9,
+        "x": 463,
+        "y": 1771
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/g",
+        "w": 7,
+        "h": 15,
+        "x": 106,
+        "y": 1688,
+        "fx": -1,
+        "fy": -1,
+        "fw": 9,
+        "fh": 17
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ga",
+        "w": 10,
+        "h": 4,
+        "x": 404,
+        "y": 204
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gb",
+        "w": 17,
+        "h": 18,
+        "x": 456,
+        "y": 1665,
+        "fx": -42,
+        "fy": -39,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gc",
+        "w": 16,
+        "h": 15,
+        "x": 367,
+        "y": 1734,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gd",
+        "w": 14,
+        "h": 13,
+        "x": 305,
+        "y": 1771,
+        "fx": -17,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ge",
+        "w": 19,
+        "h": 18,
+        "x": 238,
+        "y": 1747,
+        "fx": -41,
+        "fy": -39,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gf",
+        "w": 14,
+        "h": 13,
+        "x": 321,
+        "y": 1779,
+        "r": true,
+        "fx": -16,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gg",
+        "w": 17,
+        "h": 17,
+        "x": 420,
+        "y": 1685,
+        "fx": -41,
+        "fy": -40,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gh",
+        "w": 33,
+        "h": 48,
+        "x": 258,
+        "y": 1638,
+        "r": true,
+        "fx": -62,
+        "fy": -29,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gi",
+        "w": 50,
+        "h": 34,
+        "x": 158,
+        "y": 1652,
+        "fx": -62,
+        "fy": -28,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gj",
+        "w": 35,
+        "h": 49,
+        "x": 320,
+        "y": 1447,
+        "r": true,
+        "fx": -63,
+        "fy": -28,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gk",
+        "w": 8,
+        "h": 33,
+        "x": 485,
+        "y": 1140,
+        "r": true,
+        "fx": -3,
+        "fy": -6,
+        "fw": 38,
+        "fh": 19
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gl",
+        "w": 217,
+        "h": 132,
+        "x": 1,
+        "y": 777,
+        "fx": -16,
+        "fy": -5,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gm",
+        "w": 85,
+        "h": 89,
+        "x": 232,
+        "y": 1154
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gn",
+        "w": 12,
+        "h": 14,
+        "x": 435,
+        "y": 1764
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/go",
+        "w": 15,
+        "h": 19,
+        "x": 381,
+        "y": 1668,
+        "r": true,
+        "fx": -45,
+        "fy": -11,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gp",
+        "w": 231,
+        "h": 222,
+        "x": 1,
+        "y": 553,
+        "fx": -11,
+        "fy": -28,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gq",
+        "w": 19,
+        "h": 15,
+        "x": 414,
+        "y": 1668,
+        "fx": -45,
+        "fy": -11,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gr",
+        "w": 12,
+        "h": 14,
+        "x": 433,
+        "y": 1781
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gs",
+        "w": 46,
+        "h": 43,
+        "x": 210,
+        "y": 1643,
+        "r": true,
+        "fx": -29,
+        "fy": -13,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gt",
+        "w": 13,
+        "h": 11,
+        "x": 451,
+        "y": 1751
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gu",
+        "w": 45,
+        "h": 50,
+        "x": 311,
+        "y": 1498,
+        "fx": -28,
+        "fy": -9,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gv",
+        "w": 15,
+        "h": 19,
+        "x": 381,
+        "y": 1668,
+        "r": true,
+        "fx": -45,
+        "fy": -11,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gw",
+        "w": 15,
+        "h": 13,
+        "x": 274,
+        "y": 1800
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gx",
+        "w": 51,
+        "h": 46,
+        "x": 258,
+        "y": 1497,
+        "fx": -25,
+        "fy": -14,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gy",
+        "w": 15,
+        "h": 19,
+        "x": 384,
+        "y": 1689,
+        "r": true,
+        "fx": -45,
+        "fy": -11,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/gz",
+        "w": 34,
+        "h": 36,
+        "x": 429,
+        "y": 1566,
+        "fx": -133,
+        "fy": -59,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/h",
+        "w": 15,
+        "h": 7,
+        "x": 349,
+        "y": 1785,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 9,
+        "fh": 17
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ha",
+        "w": 44,
+        "h": 62,
+        "x": 197,
+        "y": 1579,
+        "r": true,
+        "fx": -20,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hb",
+        "w": 33,
+        "h": 56,
+        "x": 261,
+        "y": 1688,
+        "r": true,
+        "fx": -23,
+        "fy": -25,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hc",
+        "w": 12,
+        "h": 14,
+        "x": 437,
+        "y": 1704
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hd",
+        "w": 55,
+        "h": 29,
+        "x": 293,
+        "y": 1358,
+        "fx": -24,
+        "fy": -25,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/he",
+        "w": 50,
+        "h": 23,
+        "x": 115,
+        "y": 1790,
+        "fx": -25,
+        "fy": -26,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hf",
+        "w": 3,
+        "h": 4,
+        "x": 283,
+        "y": 1794
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hg",
+        "w": 6,
+        "h": 3,
+        "x": 234,
+        "y": 772,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hh",
+        "w": 10,
+        "h": 15,
+        "x": 337,
+        "y": 1775
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hi",
+        "w": 4,
+        "h": 4,
+        "x": 343,
+        "y": 1141
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hj",
+        "w": 4,
+        "h": 3,
+        "x": 371,
+        "y": 849,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hk",
+        "w": 11,
+        "h": 15,
+        "x": 324,
+        "y": 1794
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hl",
+        "w": 4,
+        "h": 2,
+        "x": 309,
+        "y": 1573
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hm",
+        "w": 9,
+        "h": 4,
+        "x": 214,
+        "y": 1809
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hn",
+        "w": 16,
+        "h": 15,
+        "x": 401,
+        "y": 1744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ho",
+        "w": 11,
+        "h": 14,
+        "x": 447,
+        "y": 1780,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hp",
+        "w": 14,
+        "h": 13,
+        "x": 308,
+        "y": 1800,
+        "fx": -17,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hq",
+        "w": 29,
+        "h": 24,
+        "x": 464,
+        "y": 1468,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hr",
+        "w": 4,
+        "h": 4,
+        "x": 415,
+        "y": 1382
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hs",
+        "w": 11,
+        "h": 14,
+        "x": 447,
+        "y": 1796
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ht",
+        "w": 4,
+        "h": 6,
+        "x": 293,
+        "y": 1350
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hu",
+        "w": 4,
+        "h": 4,
+        "x": 488,
+        "y": 1574
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hv",
+        "w": 5,
+        "h": 5,
+        "x": 236,
+        "y": 1808
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hw",
+        "w": 55,
+        "h": 48,
+        "x": 263,
+        "y": 1447,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hx",
+        "w": 10,
+        "h": 17,
+        "x": 404,
+        "y": 1455
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hy",
+        "w": 4,
+        "h": 4,
+        "x": 415,
+        "y": 1382
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/hz",
+        "w": 13,
+        "h": 9,
+        "x": 466,
+        "y": 1619
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/i",
+        "w": 9,
+        "h": 9,
+        "x": 466,
+        "y": 1760,
+        "fx": -1,
+        "fy": -1,
+        "fw": 11,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ia",
+        "w": 5,
+        "h": 4,
+        "x": 416,
+        "y": 204
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ib",
+        "w": 4,
+        "h": 4,
+        "x": 127,
+        "y": 1579
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ic",
+        "w": 2,
+        "h": 2,
+        "x": 263,
+        "y": 1443
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/id",
+        "w": 7,
+        "h": 7,
+        "x": 470,
+        "y": 1806,
+        "fx": -83,
+        "fy": -40,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ie",
+        "w": 16,
+        "h": 16,
+        "x": 347,
+        "y": 1751,
+        "fx": -46,
+        "fy": -32,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/if",
+        "w": 13,
+        "h": 10,
+        "x": 479,
+        "y": 1725
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ig",
+        "w": 12,
+        "h": 5,
+        "x": 350,
+        "y": 1382
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ih",
+        "w": 3,
+        "h": 3,
+        "x": 134,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ii",
+        "w": 4,
+        "h": 4,
+        "x": 488,
+        "y": 217
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ij",
+        "w": 3,
+        "h": 3,
+        "x": 253,
+        "y": 1638
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ik",
+        "w": 13,
+        "h": 15,
+        "x": 273,
+        "y": 1763
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/il",
+        "w": 4,
+        "h": 4,
+        "x": 243,
+        "y": 1808
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/im",
+        "w": 3,
+        "h": 2,
+        "x": 106,
+        "y": 1705
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/in",
+        "w": 3,
+        "h": 4,
+        "x": 258,
+        "y": 1490
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/io",
+        "w": 11,
+        "h": 13,
+        "x": 466,
+        "y": 1731
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ip",
+        "w": 46,
+        "h": 21,
+        "x": 416,
+        "y": 1431,
+        "fx": -66,
+        "fy": -41,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/iq",
+        "w": 19,
+        "h": 36,
+        "x": 414,
+        "y": 1630,
+        "r": true,
+        "fx": -107,
+        "fy": -72,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ir",
+        "w": 13,
+        "h": 14,
+        "x": 349,
+        "y": 1769
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/is",
+        "w": 37,
+        "h": 71,
+        "x": 158,
+        "y": 1579,
+        "r": true,
+        "fx": -93,
+        "fy": -85,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/it",
+        "w": 50,
+        "h": 100,
+        "x": 352,
+        "y": 854
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/iu",
+        "w": 50,
+        "h": 100,
+        "x": 106,
+        "y": 1586
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/iv",
+        "w": 50,
+        "h": 100,
+        "x": 115,
+        "y": 1688
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/iw",
+        "w": 14,
+        "h": 14,
+        "x": 321,
+        "y": 1763,
+        "fx": -49,
+        "fy": -41,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ix",
+        "w": 45,
+        "h": 33,
+        "x": 404,
+        "y": 1476,
+        "fx": 0,
+        "fy": -52,
+        "fw": 121,
+        "fh": 121
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/iy",
+        "w": 50,
+        "h": 100,
+        "x": 433,
+        "y": 1140
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/iz",
+        "w": 15,
+        "h": 11,
+        "x": 379,
+        "y": 1773
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/j",
+        "w": 45,
+        "h": 52,
+        "x": 220,
+        "y": 1389,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 54
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ja",
+        "w": 7,
+        "h": 7,
+        "x": 472,
+        "y": 1794,
+        "fx": -81,
+        "fy": -41,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jb",
+        "w": 13,
+        "h": 14,
+        "x": 364,
+        "y": 1769,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jc",
+        "w": 15,
+        "h": 15,
+        "x": 271,
+        "y": 1746,
+        "fx": -47,
+        "fy": -33,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jd",
+        "w": 42,
+        "h": 51,
+        "x": 285,
+        "y": 1577,
+        "r": true,
+        "fx": 0,
+        "fy": -31,
+        "fw": 125,
+        "fh": 125
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/je",
+        "w": 13,
+        "h": 11,
+        "x": 479,
+        "y": 1737,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jf",
+        "w": 10,
+        "h": 14,
+        "x": 337,
+        "y": 1792,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jg",
+        "w": 26,
+        "h": 65,
+        "x": 184,
+        "y": 1481,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jh",
+        "w": 11,
+        "h": 15,
+        "x": 366,
+        "y": 1785,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ji",
+        "w": 16,
+        "h": 13,
+        "x": 243,
+        "y": 538,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jj",
+        "w": 20,
+        "h": 20,
+        "x": 214,
+        "y": 1765
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jk",
+        "w": 49,
+        "h": 49,
+        "x": 364,
+        "y": 1382,
+        "fx": -2,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jl",
+        "w": 56,
+        "h": 56,
+        "x": 267,
+        "y": 1389,
+        "fx": -3,
+        "fy": -5,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jm",
+        "w": 20,
+        "h": 20,
+        "x": 214,
+        "y": 1787
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jn",
+        "w": 12,
+        "h": 12,
+        "x": 477,
+        "y": 1764
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jo",
+        "w": 16,
+        "h": 10,
+        "x": 401,
+        "y": 1704
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jp",
+        "w": 15,
+        "h": 12,
+        "x": 349,
+        "y": 1794,
+        "r": true,
+        "fx": -29,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jq",
+        "w": 46,
+        "h": 20,
+        "x": 416,
+        "y": 1454,
+        "fx": -61,
+        "fy": -59,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jr",
+        "w": 50,
+        "h": 20,
+        "x": 364,
+        "y": 1433,
+        "fx": -58,
+        "fy": -62,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/js",
+        "w": 37,
+        "h": 17,
+        "x": 456,
+        "y": 1630,
+        "fx": -66,
+        "fy": -74,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jt",
+        "w": 16,
+        "h": 15,
+        "x": 367,
+        "y": 1734,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ju",
+        "w": 19,
+        "h": 35,
+        "x": 435,
+        "y": 1630,
+        "r": true,
+        "fx": -67,
+        "fy": -72,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jv",
+        "w": 47,
+        "h": 30,
+        "x": 260,
+        "y": 1545,
+        "fx": -2,
+        "fy": 0,
+        "fw": 50,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jw",
+        "w": 31,
+        "h": 20,
+        "x": 296,
+        "y": 1734,
+        "fx": -69,
+        "fy": -71,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jx",
+        "w": 22,
+        "h": 27,
+        "x": 471,
+        "y": 882,
+        "r": true,
+        "fx": -71,
+        "fy": -69,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jy",
+        "w": 30,
+        "h": 24,
+        "x": 349,
+        "y": 1668,
+        "fx": -69,
+        "fy": -67,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/jz",
+        "w": 16,
+        "h": 47,
+        "x": 477,
+        "y": 693,
+        "fx": -77,
+        "fy": -27,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/k",
+        "w": 10,
+        "h": 21,
+        "x": 372,
+        "y": 1694,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 22,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ka",
+        "w": 27,
+        "h": 34,
+        "x": 385,
+        "y": 1630,
+        "fx": -71,
+        "fy": -30,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kb",
+        "w": 29,
+        "h": 35,
+        "x": 464,
+        "y": 1431,
+        "r": true,
+        "fx": -67,
+        "fy": -32,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kc",
+        "w": 41,
+        "h": 24,
+        "x": 404,
+        "y": 1540,
+        "fx": -64,
+        "fy": -33,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kd",
+        "w": 44,
+        "h": 23,
+        "x": 358,
+        "y": 1540,
+        "fx": -64,
+        "fy": -30,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ke",
+        "w": 27,
+        "h": 46,
+        "x": 329,
+        "y": 1573,
+        "r": true,
+        "fx": -64,
+        "fy": -30,
+        "fw": 168,
+        "fh": 168
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kf",
+        "w": 8,
+        "h": 16,
+        "x": 240,
+        "y": 892
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kg",
+        "w": 16,
+        "h": 14,
+        "x": 401,
+        "y": 1728,
+        "r": true,
+        "fx": -48,
+        "fy": -34,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kh",
+        "w": 21,
+        "h": 16,
+        "x": 349,
+        "y": 1716,
+        "fx": -44,
+        "fy": -33,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ki",
+        "w": 21,
+        "h": 16,
+        "x": 215,
+        "y": 1747,
+        "fx": -44,
+        "fy": -33,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kj",
+        "w": 60,
+        "h": 58,
+        "x": 427,
+        "y": 1080
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kk",
+        "w": 64,
+        "h": 103,
+        "x": 233,
+        "y": 1245,
+        "r": true,
+        "fx": -4,
+        "fy": -47,
+        "fw": 122,
+        "fh": 116
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kl",
+        "w": 69,
+        "h": 71,
+        "x": 424,
+        "y": 949,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 79,
+        "fh": 77
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/km",
+        "w": 108,
+        "h": 108,
+        "x": 374,
+        "y": 321,
+        "fx": -3,
+        "fy": -2,
+        "fw": 119,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kn",
+        "w": 99,
+        "h": 99,
+        "x": 242,
+        "y": 1053,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ko",
+        "w": 44,
+        "h": 43,
+        "x": 358,
+        "y": 1495,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kp",
+        "w": 4,
+        "h": 40,
+        "x": 489,
+        "y": 1080,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kq",
+        "w": 21,
+        "h": 16,
+        "x": 349,
+        "y": 1716,
+        "fx": -44,
+        "fy": -33,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kr",
+        "w": 19,
+        "h": 16,
+        "x": 435,
+        "y": 1667,
+        "fx": -45,
+        "fy": -33,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ks",
+        "w": 4,
+        "h": 4,
+        "x": 321,
+        "y": 1756
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kt",
+        "w": 13,
+        "h": 12,
+        "x": 273,
+        "y": 1780,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ku",
+        "w": 9,
+        "h": 8,
+        "x": 407,
+        "y": 1792
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kv",
+        "w": 18,
+        "h": 16,
+        "x": 475,
+        "y": 1665,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kw",
+        "w": 8,
+        "h": 20,
+        "x": 232,
+        "y": 1132
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kx",
+        "w": 45,
+        "h": 38,
+        "x": 357,
+        "y": 1455
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ky",
+        "w": 41,
+        "h": 24,
+        "x": 358,
+        "y": 1604
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/kz",
+        "w": 16,
+        "h": 16,
+        "x": 365,
+        "y": 1751,
+        "fx": -47,
+        "fy": -32,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/l",
+        "w": 7,
+        "h": 10,
+        "x": 466,
+        "y": 1703,
+        "fx": -1,
+        "fy": -1,
+        "fw": 9,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/la",
+        "w": 59,
+        "h": 59,
+        "x": 433,
+        "y": 1242,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lb",
+        "w": 59,
+        "h": 59,
+        "x": 434,
+        "y": 1303,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lc",
+        "w": 15,
+        "h": 11,
+        "x": 366,
+        "y": 1802,
+        "r": true,
+        "fx": -49,
+        "fy": -7,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ld",
+        "w": 16,
+        "h": 15,
+        "x": 331,
+        "y": 1732,
+        "fx": -47,
+        "fy": -34,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/le",
+        "w": 5,
+        "h": 7,
+        "x": 418,
+        "y": 195,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lf",
+        "w": 11,
+        "h": 7,
+        "x": 197,
+        "y": 1643,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lg",
+        "w": 9,
+        "h": 15,
+        "x": 484,
+        "y": 401,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lh",
+        "w": 36,
+        "h": 160,
+        "x": 234,
+        "y": 553,
+        "r": true,
+        "fx": -10,
+        "fy": -26,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/li",
+        "w": 131,
+        "h": 120,
+        "x": 243,
+        "y": 195,
+        "fx": -33,
+        "fy": -13,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lj",
+        "w": 9,
+        "h": 13,
+        "x": 261,
+        "y": 538,
+        "fx": -2,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lk",
+        "w": 26,
+        "h": 4,
+        "x": 376,
+        "y": 204,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 8,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ll",
+        "w": 9,
+        "h": 19,
+        "x": 484,
+        "y": 321,
+        "fx": -1,
+        "fy": 0,
+        "fw": 10,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lm",
+        "w": 15,
+        "h": 13,
+        "x": 291,
+        "y": 1800,
+        "r": true,
+        "fx": -49,
+        "fy": -40,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ln",
+        "w": 30,
+        "h": 87,
+        "x": 319,
+        "y": 1154,
+        "r": true,
+        "fx": -10,
+        "fy": -59,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lo",
+        "w": 40,
+        "h": 7,
+        "x": 376,
+        "y": 195,
+        "fx": -36,
+        "fy": -126,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lp",
+        "w": 72,
+        "h": 41,
+        "x": 117,
+        "y": 1438,
+        "fx": -98,
+        "fy": -48,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lq",
+        "w": 21,
+        "h": 56,
+        "x": 325,
+        "y": 1389,
+        "r": true,
+        "fx": -97,
+        "fy": -50,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lr",
+        "w": 18,
+        "h": 30,
+        "x": 475,
+        "y": 756,
+        "fx": -150,
+        "fy": -32,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ls",
+        "w": 136,
+        "h": 105,
+        "x": 1,
+        "y": 911,
+        "fx": -10,
+        "fy": -28,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lt",
+        "w": 99,
+        "h": 28,
+        "x": 118,
+        "y": 1356,
+        "fx": -13,
+        "fy": -24,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lu",
+        "w": 180,
+        "h": 192,
+        "x": 243,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lv",
+        "w": 9,
+        "h": 18,
+        "x": 484,
+        "y": 342,
+        "fx": -1,
+        "fy": -1,
+        "fw": 10,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lw",
+        "w": 13,
+        "h": 14,
+        "x": 379,
+        "y": 1786,
+        "fx": -48,
+        "fy": -40,
+        "fw": 108,
+        "fh": 108
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lx",
+        "w": 5,
+        "h": 5,
+        "x": 357,
+        "y": 1447,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ly",
+        "w": 7,
+        "h": 7,
+        "x": 349,
+        "y": 1621,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/lz",
+        "w": 3,
+        "h": 3,
+        "x": 259,
+        "y": 751,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/m",
+        "w": 8,
+        "h": 5,
+        "x": 117,
+        "y": 1579,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 7,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ma",
+        "w": 23,
+        "h": 21,
+        "x": 233,
+        "y": 1350,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mb",
+        "w": 3,
+        "h": 3,
+        "x": 259,
+        "y": 751,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mc",
+        "w": 3,
+        "h": 3,
+        "x": 259,
+        "y": 751,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/md",
+        "w": 8,
+        "h": 7,
+        "x": 460,
+        "y": 1806,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/me",
+        "w": 12,
+        "h": 14,
+        "x": 437,
+        "y": 1720
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mf",
+        "w": 21,
+        "h": 21,
+        "x": 465,
+        "y": 1574,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mg",
+        "w": 19,
+        "h": 19,
+        "x": 236,
+        "y": 1767,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mh",
+        "w": 13,
+        "h": 14,
+        "x": 418,
+        "y": 1781,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mi",
+        "w": 13,
+        "h": 14,
+        "x": 432,
+        "y": 1797,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mj",
+        "w": 11,
+        "h": 14,
+        "x": 466,
+        "y": 1715,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mk",
+        "w": 13,
+        "h": 14,
+        "x": 432,
+        "y": 1797,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/ml",
+        "w": 15,
+        "h": 11,
+        "x": 383,
+        "y": 1802,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mm",
+        "w": 13,
+        "h": 14,
+        "x": 451,
+        "y": 1703,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mn",
+        "w": 16,
+        "h": 15,
+        "x": 419,
+        "y": 1747,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mo",
+        "w": 13,
+        "h": 14,
+        "x": 451,
+        "y": 1719,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/mp",
+        "w": 14,
+        "h": 11,
+        "x": 479,
+        "y": 1712,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/n",
+        "w": 37,
+        "h": 50,
+        "x": 293,
+        "y": 1630,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 39
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/o",
+        "w": 9,
+        "h": 12,
+        "x": 466,
+        "y": 1746,
+        "fx": -1,
+        "fy": -1,
+        "fw": 11,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/p",
+        "w": 8,
+        "h": 10,
+        "x": 337,
+        "y": 1763,
+        "fx": -1,
+        "fy": -9,
+        "fw": 11,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/q",
+        "w": 8,
+        "h": 10,
+        "x": 472,
+        "y": 1782,
+        "fx": -1,
+        "fy": -9,
+        "fw": 11,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/r",
+        "w": 240,
+        "h": 550,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/s",
+        "w": 4,
+        "h": 4,
+        "x": 343,
+        "y": 1147
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/t",
+        "w": 12,
+        "h": 14,
+        "x": 437,
+        "y": 1736
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/u",
+        "w": 9,
+        "h": 3,
+        "x": 363,
+        "y": 426
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/v",
+        "w": 12,
+        "h": 14,
+        "x": 451,
+        "y": 1735
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/w",
+        "w": 12,
+        "h": 14,
+        "x": 449,
+        "y": 1764
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/x",
+        "w": 5,
+        "h": 6,
+        "x": 456,
+        "y": 538,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/y",
+        "w": 6,
+        "h": 6,
+        "x": 285,
+        "y": 1630,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/bigwing_shaman_003/.gen/movie/z",
+        "w": 16,
+        "h": 12,
+        "x": 383,
+        "y": 1759,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    }
+]

@@ -1,0 +1,714 @@
+[
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 8,
+        "y": 444
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/aa",
+        "w": 124,
+        "h": 34,
+        "x": 1,
+        "y": 408,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ab",
+        "w": 124,
+        "h": 34,
+        "x": 127,
+        "y": 408,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ac",
+        "w": 124,
+        "h": 34,
+        "x": 253,
+        "y": 408,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ad",
+        "w": 124,
+        "h": 34,
+        "x": 551,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ae",
+        "w": 124,
+        "h": 34,
+        "x": 677,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/af",
+        "w": 34,
+        "h": 124,
+        "x": 755,
+        "y": 311
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ag",
+        "w": 34,
+        "h": 124,
+        "x": 1191,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ah",
+        "w": 124,
+        "h": 34,
+        "x": 1191,
+        "y": 369,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ai",
+        "w": 34,
+        "h": 124,
+        "x": 1227,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/aj",
+        "w": 34,
+        "h": 124,
+        "x": 1263,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ak",
+        "w": 34,
+        "h": 124,
+        "x": 1299,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/al",
+        "w": 90,
+        "h": 201,
+        "x": 1099,
+        "y": 243,
+        "r": true,
+        "fx": -34,
+        "fy": -86,
+        "fw": 274,
+        "fh": 405
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/am",
+        "w": 202,
+        "h": 67,
+        "x": 277,
+        "y": 339,
+        "fx": -37,
+        "fy": -87,
+        "fw": 274,
+        "fh": 405
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/an",
+        "w": 274,
+        "h": 405,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ao",
+        "w": 4,
+        "h": 4,
+        "x": 14,
+        "y": 444
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ap",
+        "w": 14,
+        "h": 9,
+        "x": 434,
+        "y": 440,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/aq",
+        "w": 5,
+        "h": 5,
+        "x": 1,
+        "y": 444,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ar",
+        "w": 7,
+        "h": 7,
+        "x": 423,
+        "y": 442,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/as",
+        "w": 3,
+        "h": 3,
+        "x": 41,
+        "y": 444,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/at",
+        "w": 21,
+        "h": 23,
+        "x": 379,
+        "y": 408,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/au",
+        "w": 3,
+        "h": 3,
+        "x": 41,
+        "y": 444,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/av",
+        "w": 3,
+        "h": 3,
+        "x": 41,
+        "y": 444,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/aw",
+        "w": 15,
+        "h": 16,
+        "x": 379,
+        "y": 433
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ax",
+        "w": 10,
+        "h": 16,
+        "x": 402,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ay",
+        "w": 8,
+        "h": 3,
+        "x": 31,
+        "y": 444
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/az",
+        "w": 12,
+        "h": 16,
+        "x": 396,
+        "y": 433
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/b",
+        "w": 11,
+        "h": 14,
+        "x": 448,
+        "y": 424,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ba",
+        "w": 11,
+        "h": 15,
+        "x": 410,
+        "y": 426
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bb",
+        "w": 12,
+        "h": 14,
+        "x": 425,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bc",
+        "w": 11,
+        "h": 14,
+        "x": 453,
+        "y": 408,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bd",
+        "w": 1200,
+        "h": 240,
+        "x": 825,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/be",
+        "w": 11,
+        "h": 14,
+        "x": 461,
+        "y": 424,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bf",
+        "w": 11,
+        "h": 14,
+        "x": 448,
+        "y": 424,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bg",
+        "w": 11,
+        "h": 14,
+        "x": 466,
+        "y": 408,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bh",
+        "w": 5,
+        "h": 5,
+        "x": 1,
+        "y": 444,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bi",
+        "w": 7,
+        "h": 7,
+        "x": 423,
+        "y": 442,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bj",
+        "w": 11,
+        "h": 9,
+        "x": 466,
+        "y": 440,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bk",
+        "w": 21,
+        "h": 23,
+        "x": 379,
+        "y": 408,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bl",
+        "w": 11,
+        "h": 14,
+        "x": 551,
+        "y": 311,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bm",
+        "w": 11,
+        "h": 14,
+        "x": 564,
+        "y": 311,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bn",
+        "w": 11,
+        "h": 14,
+        "x": 551,
+        "y": 311,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bo",
+        "w": 11,
+        "h": 14,
+        "x": 577,
+        "y": 311,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bp",
+        "w": 272,
+        "h": 104,
+        "x": 481,
+        "y": 339,
+        "fx": 0,
+        "fy": -232,
+        "fw": 272,
+        "fh": 336
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bq",
+        "w": 272,
+        "h": 206,
+        "x": 825,
+        "y": 243,
+        "fx": 0,
+        "fy": -130,
+        "fw": 272,
+        "fh": 336
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/br",
+        "w": 272,
+        "h": 272,
+        "x": 551,
+        "y": 1,
+        "fx": 0,
+        "fy": -64,
+        "fw": 272,
+        "fh": 336
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bs",
+        "w": 272,
+        "h": 336,
+        "x": 277,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bt",
+        "w": 12,
+        "h": 14,
+        "x": 434,
+        "y": 424
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bu",
+        "w": 14,
+        "h": 9,
+        "x": 450,
+        "y": 440,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bv",
+        "w": 9,
+        "h": 15,
+        "x": 414,
+        "y": 408,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bw",
+        "w": 11,
+        "h": 14,
+        "x": 590,
+        "y": 311,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bx",
+        "w": 9,
+        "h": 15,
+        "x": 423,
+        "y": 425,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/by",
+        "w": 14,
+        "h": 9,
+        "x": 551,
+        "y": 327,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/bz",
+        "w": 12,
+        "h": 14,
+        "x": 439,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 20,
+        "y": 444
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/ca",
+        "w": 11,
+        "h": 14,
+        "x": 603,
+        "y": 311,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/cb",
+        "w": 11,
+        "h": 14,
+        "x": 616,
+        "y": 311,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/d",
+        "w": 11,
+        "h": 14,
+        "x": 629,
+        "y": 311,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/e",
+        "w": 124,
+        "h": 34,
+        "x": 1191,
+        "y": 405,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/f",
+        "w": 124,
+        "h": 34,
+        "x": 1317,
+        "y": 369,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/g",
+        "w": 34,
+        "h": 124,
+        "x": 1335,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/h",
+        "w": 34,
+        "h": 124,
+        "x": 1371,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/i",
+        "w": 34,
+        "h": 124,
+        "x": 1407,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/j",
+        "w": 124,
+        "h": 34,
+        "x": 1317,
+        "y": 405,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/k",
+        "w": 34,
+        "h": 124,
+        "x": 1443,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/l",
+        "w": 124,
+        "h": 34,
+        "x": 1443,
+        "y": 369,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/m",
+        "w": 34,
+        "h": 124,
+        "x": 1479,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/n",
+        "w": 34,
+        "h": 124,
+        "x": 1515,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/o",
+        "w": 34,
+        "h": 124,
+        "x": 1551,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/p",
+        "w": 124,
+        "h": 34,
+        "x": 1443,
+        "y": 405,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/q",
+        "w": 124,
+        "h": 34,
+        "x": 1569,
+        "y": 369,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/r",
+        "w": 34,
+        "h": 124,
+        "x": 1587,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/s",
+        "w": 34,
+        "h": 124,
+        "x": 1623,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/t",
+        "w": 34,
+        "h": 124,
+        "x": 1659,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/u",
+        "w": 124,
+        "h": 34,
+        "x": 1569,
+        "y": 405,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/v",
+        "w": 34,
+        "h": 124,
+        "x": 1695,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/w",
+        "w": 124,
+        "h": 34,
+        "x": 1695,
+        "y": 369,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/x",
+        "w": 34,
+        "h": 124,
+        "x": 1731,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/y",
+        "w": 34,
+        "h": 124,
+        "x": 1767,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/rec_android_003/.gen/movie/z",
+        "w": 34,
+        "h": 124,
+        "x": 1803,
+        "y": 243
+    }
+]

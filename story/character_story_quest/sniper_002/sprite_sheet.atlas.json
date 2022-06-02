@@ -1,0 +1,621 @@
+[
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 297,
+        "y": 1986
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/aa",
+        "w": 7,
+        "h": 8,
+        "x": 237,
+        "y": 2015,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ab",
+        "w": 21,
+        "h": 21,
+        "x": 175,
+        "y": 1995,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ac",
+        "w": 19,
+        "h": 19,
+        "x": 220,
+        "y": 1994,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ad",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1203
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ae",
+        "w": 272,
+        "h": 736,
+        "x": 243,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/af",
+        "w": 17,
+        "h": 18,
+        "x": 120,
+        "y": 1978,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ag",
+        "w": 16,
+        "h": 16,
+        "x": 139,
+        "y": 1978
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ah",
+        "w": 20,
+        "h": 21,
+        "x": 198,
+        "y": 1994,
+        "fx": -1,
+        "fy": -1,
+        "fw": 22,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ai",
+        "w": 18,
+        "h": 15,
+        "x": 51,
+        "y": 1981,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 17,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/aj",
+        "w": 12,
+        "h": 13,
+        "x": 264,
+        "y": 1941,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 13,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ak",
+        "w": 14,
+        "h": 15,
+        "x": 241,
+        "y": 1993
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/al",
+        "w": 12,
+        "h": 12,
+        "x": 284,
+        "y": 1972,
+        "fx": -9,
+        "fy": -17,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/am",
+        "w": 272,
+        "h": 736,
+        "x": 396,
+        "y": 1013
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/an",
+        "w": 5,
+        "h": 5,
+        "x": 301,
+        "y": 2016,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ao",
+        "w": 7,
+        "h": 7,
+        "x": 292,
+        "y": 2016,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ap",
+        "w": 9,
+        "h": 11,
+        "x": 292,
+        "y": 2003,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/aq",
+        "w": 21,
+        "h": 23,
+        "x": 152,
+        "y": 1996,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ar",
+        "w": 7,
+        "h": 5,
+        "x": 188,
+        "y": 2018,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/as",
+        "w": 11,
+        "h": 7,
+        "x": 224,
+        "y": 2015,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/at",
+        "w": 9,
+        "h": 15,
+        "x": 286,
+        "y": 1986,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/au",
+        "w": 11,
+        "h": 5,
+        "x": 175,
+        "y": 2018,
+        "r": true,
+        "fx": -47,
+        "fy": -43,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/av",
+        "w": 27,
+        "h": 23,
+        "x": 92,
+        "y": 1998,
+        "r": true,
+        "fx": -13,
+        "fy": -17,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/aw",
+        "w": 29,
+        "h": 17,
+        "x": 89,
+        "y": 1979
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ax",
+        "w": 29,
+        "h": 24,
+        "x": 31,
+        "y": 1998,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ay",
+        "w": 48,
+        "h": 55,
+        "x": 1,
+        "y": 1941,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/az",
+        "w": 28,
+        "h": 23,
+        "x": 62,
+        "y": 1998,
+        "r": true,
+        "fx": -13,
+        "fy": -14,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/b",
+        "w": 11,
+        "h": 13,
+        "x": 279,
+        "y": 2006,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/ba",
+        "w": 28,
+        "h": 23,
+        "x": 62,
+        "y": 1998,
+        "r": true,
+        "fx": -13,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bb",
+        "w": 28,
+        "h": 23,
+        "x": 62,
+        "y": 1998,
+        "r": true,
+        "fx": -13,
+        "fy": -15,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bc",
+        "w": 29,
+        "h": 21,
+        "x": 121,
+        "y": 1998,
+        "r": true,
+        "fx": -14,
+        "fy": -17,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bd",
+        "w": 28,
+        "h": 25,
+        "x": 1,
+        "y": 1998,
+        "r": true,
+        "fx": -12,
+        "fy": -20,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/be",
+        "w": 368,
+        "h": 272,
+        "x": 243,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bf",
+        "w": 31,
+        "h": 34,
+        "x": 150,
+        "y": 1941
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bg",
+        "w": 31,
+        "h": 33,
+        "x": 216,
+        "y": 1941
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bh",
+        "w": 31,
+        "h": 35,
+        "x": 117,
+        "y": 1941
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bi",
+        "w": 31,
+        "h": 38,
+        "x": 51,
+        "y": 1941
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bj",
+        "w": 31,
+        "h": 34,
+        "x": 183,
+        "y": 1941
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bk",
+        "w": 31,
+        "h": 36,
+        "x": 84,
+        "y": 1941
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/bl",
+        "w": 368,
+        "h": 272,
+        "x": 308,
+        "y": 1751,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 213,
+        "y": 2017
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/d",
+        "w": 151,
+        "h": 184,
+        "x": 243,
+        "y": 1013,
+        "fx": -44,
+        "fy": -1016,
+        "fw": 240,
+        "fh": 1200
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/e",
+        "w": 103,
+        "h": 125,
+        "x": 275,
+        "y": 1199,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/f",
+        "w": 240,
+        "h": 1200,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/g",
+        "w": 4,
+        "h": 4,
+        "x": 297,
+        "y": 1992
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/h",
+        "w": 6,
+        "h": 5,
+        "x": 197,
+        "y": 2018,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/i",
+        "w": 13,
+        "h": 14,
+        "x": 264,
+        "y": 2009,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/j",
+        "w": 6,
+        "h": 6,
+        "x": 205,
+        "y": 2017,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/k",
+        "w": 16,
+        "h": 12,
+        "x": 246,
+        "y": 2010,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/l",
+        "w": 14,
+        "h": 14,
+        "x": 257,
+        "y": 1993,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/m",
+        "w": 14,
+        "h": 15,
+        "x": 242,
+        "y": 1976,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/n",
+        "w": 16,
+        "h": 15,
+        "x": 71,
+        "y": 1981,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/o",
+        "w": 15,
+        "h": 16,
+        "x": 157,
+        "y": 1977
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/p",
+        "w": 15,
+        "h": 16,
+        "x": 174,
+        "y": 1977
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/q",
+        "w": 11,
+        "h": 14,
+        "x": 271,
+        "y": 1974,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/r",
+        "w": 11,
+        "h": 14,
+        "x": 275,
+        "y": 1956,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/s",
+        "w": 11,
+        "h": 15,
+        "x": 249,
+        "y": 1957,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/t",
+        "w": 11,
+        "h": 15,
+        "x": 258,
+        "y": 1974,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/u",
+        "w": 11,
+        "h": 14,
+        "x": 273,
+        "y": 1990,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/v",
+        "w": 11,
+        "h": 15,
+        "x": 262,
+        "y": 1957,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/w",
+        "w": 13,
+        "h": 14,
+        "x": 249,
+        "y": 1941,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/x",
+        "w": 15,
+        "h": 15,
+        "x": 191,
+        "y": 1977
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/y",
+        "w": 15,
+        "h": 15,
+        "x": 208,
+        "y": 1977
+    },
+    {
+        "n": "story/character_story_quest/sniper_002/.gen/movie/z",
+        "w": 15,
+        "h": 15,
+        "x": 225,
+        "y": 1976
+    }
+]

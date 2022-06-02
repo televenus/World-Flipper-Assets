@@ -1,0 +1,2645 @@
+[
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 455,
+        "y": 410
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/aa",
+        "w": 9,
+        "h": 18,
+        "x": 739,
+        "y": 318,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ab",
+        "w": 13,
+        "h": 14,
+        "x": 699,
+        "y": 381,
+        "r": true,
+        "fx": -6,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ac",
+        "w": 16,
+        "h": 15,
+        "x": 611,
+        "y": 407,
+        "fx": -3,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ad",
+        "w": 13,
+        "h": 14,
+        "x": 699,
+        "y": 381,
+        "r": true,
+        "fx": -6,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ae",
+        "w": 16,
+        "h": 11,
+        "x": 331,
+        "y": 427,
+        "fx": -7,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/af",
+        "w": 9,
+        "h": 18,
+        "x": 739,
+        "y": 318,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ag",
+        "w": 16,
+        "h": 11,
+        "x": 331,
+        "y": 427,
+        "fx": -7,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ah",
+        "w": 15,
+        "h": 16,
+        "x": 629,
+        "y": 386
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ai",
+        "w": 15,
+        "h": 16,
+        "x": 629,
+        "y": 404
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/aj",
+        "w": 11,
+        "h": 14,
+        "x": 392,
+        "y": 411,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ak",
+        "w": 12,
+        "h": 14,
+        "x": 424,
+        "y": 427
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/al",
+        "w": 11,
+        "h": 14,
+        "x": 435,
+        "y": 443,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/am",
+        "w": 11,
+        "h": 14,
+        "x": 454,
+        "y": 426,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/an",
+        "w": 12,
+        "h": 14,
+        "x": 512,
+        "y": 405
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ao",
+        "w": 15,
+        "h": 16,
+        "x": 693,
+        "y": 363,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ap",
+        "w": 15,
+        "h": 13,
+        "x": 407,
+        "y": 427,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/aq",
+        "w": 11,
+        "h": 14,
+        "x": 483,
+        "y": 416,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ar",
+        "w": 16,
+        "h": 17,
+        "x": 611,
+        "y": 388,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/as",
+        "w": 29,
+        "h": 24,
+        "x": 343,
+        "y": 387,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/at",
+        "w": 14,
+        "h": 14,
+        "x": 438,
+        "y": 426,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/au",
+        "w": 15,
+        "h": 16,
+        "x": 664,
+        "y": 403,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/av",
+        "w": 48,
+        "h": 55,
+        "x": 1,
+        "y": 395,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/aw",
+        "w": 16,
+        "h": 16,
+        "x": 646,
+        "y": 385,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ax",
+        "w": 11,
+        "h": 14,
+        "x": 513,
+        "y": 421,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ay",
+        "w": 16,
+        "h": 14,
+        "x": 681,
+        "y": 381,
+        "fx": -22,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/az",
+        "w": 16,
+        "h": 13,
+        "x": 681,
+        "y": 414,
+        "fx": -22,
+        "fy": -17,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/b",
+        "w": 15,
+        "h": 16,
+        "x": 664,
+        "y": 385
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ba",
+        "w": 15,
+        "h": 13,
+        "x": 699,
+        "y": 414,
+        "fx": -23,
+        "fy": -17,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bb",
+        "w": 11,
+        "h": 15,
+        "x": 461,
+        "y": 442,
+        "r": true,
+        "fx": -23,
+        "fy": -19,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bc",
+        "w": 18,
+        "h": 7,
+        "x": 591,
+        "y": 411,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bd",
+        "w": 10,
+        "h": 24,
+        "x": 579,
+        "y": 390,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/be",
+        "w": 14,
+        "h": 14,
+        "x": 419,
+        "y": 443,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bf",
+        "w": 26,
+        "h": 11,
+        "x": 303,
+        "y": 427,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bg",
+        "w": 14,
+        "h": 14,
+        "x": 438,
+        "y": 426,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bh",
+        "w": 28,
+        "h": 11,
+        "x": 549,
+        "y": 390,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bi",
+        "w": 14,
+        "h": 14,
+        "x": 467,
+        "y": 416,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bj",
+        "w": 15,
+        "h": 15,
+        "x": 681,
+        "y": 397
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bk",
+        "w": 15,
+        "h": 15,
+        "x": 698,
+        "y": 397
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bl",
+        "w": 14,
+        "h": 11,
+        "x": 526,
+        "y": 424
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bm",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 425
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bn",
+        "w": 9,
+        "h": 8,
+        "x": 455,
+        "y": 416
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bo",
+        "w": 14,
+        "h": 11,
+        "x": 629,
+        "y": 422
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bp",
+        "w": 3,
+        "h": 2,
+        "x": 676,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bq",
+        "w": 2,
+        "h": 3,
+        "x": 301,
+        "y": 466
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/br",
+        "w": 12,
+        "h": 12,
+        "x": 565,
+        "y": 415
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bs",
+        "w": 14,
+        "h": 11,
+        "x": 549,
+        "y": 415
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bt",
+        "w": 14,
+        "h": 14,
+        "x": 496,
+        "y": 405
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bu",
+        "w": 5,
+        "h": 5,
+        "x": 633,
+        "y": 464
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bv",
+        "w": 15,
+        "h": 8,
+        "x": 333,
+        "y": 463
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bw",
+        "w": 12,
+        "h": 8,
+        "x": 609,
+        "y": 378
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bx",
+        "w": 15,
+        "h": 13,
+        "x": 373,
+        "y": 426
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/by",
+        "w": 5,
+        "h": 5,
+        "x": 640,
+        "y": 464
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/bz",
+        "w": 3,
+        "h": 2,
+        "x": 675,
+        "y": 381,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 676,
+        "y": 421,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ca",
+        "w": 26,
+        "h": 18,
+        "x": 275,
+        "y": 399
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cb",
+        "w": 34,
+        "h": 24,
+        "x": 549,
+        "y": 364
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cc",
+        "w": 39,
+        "h": 28,
+        "x": 623,
+        "y": 318
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cd",
+        "w": 9,
+        "h": 12,
+        "x": 669,
+        "y": 451,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ce",
+        "w": 19,
+        "h": 14,
+        "x": 350,
+        "y": 457
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cf",
+        "w": 16,
+        "h": 22,
+        "x": 287,
+        "y": 442,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cg",
+        "w": 13,
+        "h": 11,
+        "x": 654,
+        "y": 451,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ch",
+        "w": 4,
+        "h": 4,
+        "x": 729,
+        "y": 419
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ci",
+        "w": 7,
+        "h": 6,
+        "x": 161,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cj",
+        "w": 11,
+        "h": 9,
+        "x": 716,
+        "y": 414
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ck",
+        "w": 9,
+        "h": 11,
+        "x": 728,
+        "y": 387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cl",
+        "w": 4,
+        "h": 4,
+        "x": 741,
+        "y": 400
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cm",
+        "w": 13,
+        "h": 9,
+        "x": 591,
+        "y": 462
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cn",
+        "w": 4,
+        "h": 5,
+        "x": 543,
+        "y": 433,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/co",
+        "w": 4,
+        "h": 4,
+        "x": 741,
+        "y": 406
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cp",
+        "w": 2,
+        "h": 2,
+        "x": 198,
+        "y": 469
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cq",
+        "w": 10,
+        "h": 13,
+        "x": 579,
+        "y": 416,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cr",
+        "w": 12,
+        "h": 5,
+        "x": 499,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cs",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 430
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ct",
+        "w": 4,
+        "h": 4,
+        "x": 737,
+        "y": 412
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cu",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 435
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cv",
+        "w": 13,
+        "h": 15,
+        "x": 404,
+        "y": 442
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cw",
+        "w": 4,
+        "h": 4,
+        "x": 668,
+        "y": 465
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cx",
+        "w": 3,
+        "h": 2,
+        "x": 295,
+        "y": 438
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cy",
+        "w": 3,
+        "h": 4,
+        "x": 710,
+        "y": 375
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/cz",
+        "w": 13,
+        "h": 11,
+        "x": 681,
+        "y": 429,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/d",
+        "w": 14,
+        "h": 12,
+        "x": 607,
+        "y": 449,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/da",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 440
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/db",
+        "w": 11,
+        "h": 14,
+        "x": 501,
+        "y": 439
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dc",
+        "w": 4,
+        "h": 4,
+        "x": 674,
+        "y": 465
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dd",
+        "w": 4,
+        "h": 4,
+        "x": 737,
+        "y": 418
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/de",
+        "w": 11,
+        "h": 14,
+        "x": 501,
+        "y": 455
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/df",
+        "w": 4,
+        "h": 4,
+        "x": 674,
+        "y": 465
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dg",
+        "w": 4,
+        "h": 3,
+        "x": 743,
+        "y": 422
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dh",
+        "w": 11,
+        "h": 14,
+        "x": 530,
+        "y": 437
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/di",
+        "w": 4,
+        "h": 4,
+        "x": 674,
+        "y": 465
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dj",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 445
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dk",
+        "w": 11,
+        "h": 15,
+        "x": 448,
+        "y": 442
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dl",
+        "w": 4,
+        "h": 3,
+        "x": 722,
+        "y": 437
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dm",
+        "w": 9,
+        "h": 13,
+        "x": 669,
+        "y": 436
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dn",
+        "w": 4,
+        "h": 6,
+        "x": 45,
+        "y": 464
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/do",
+        "w": 5,
+        "h": 8,
+        "x": 489,
+        "y": 406
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dp",
+        "w": 3,
+        "h": 4,
+        "x": 723,
+        "y": 442
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dq",
+        "w": 13,
+        "h": 11,
+        "x": 639,
+        "y": 451
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dr",
+        "w": 4,
+        "h": 4,
+        "x": 722,
+        "y": 425
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ds",
+        "w": 4,
+        "h": 5,
+        "x": 744,
+        "y": 374,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dt",
+        "w": 27,
+        "h": 21,
+        "x": 432,
+        "y": 387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/du",
+        "w": 33,
+        "h": 26,
+        "x": 93,
+        "y": 409,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dv",
+        "w": 36,
+        "h": 44,
+        "x": 549,
+        "y": 318
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dw",
+        "w": 13,
+        "h": 13,
+        "x": 661,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dx",
+        "w": 18,
+        "h": 19,
+        "x": 591,
+        "y": 390,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dy",
+        "w": 27,
+        "h": 21,
+        "x": 403,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/dz",
+        "w": 3,
+        "h": 6,
+        "x": 739,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/e",
+        "w": 11,
+        "h": 14,
+        "x": 435,
+        "y": 443,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ea",
+        "w": 5,
+        "h": 6,
+        "x": 626,
+        "y": 464
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/eb",
+        "w": 3,
+        "h": 4,
+        "x": 723,
+        "y": 460,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ec",
+        "w": 14,
+        "h": 11,
+        "x": 591,
+        "y": 420
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ed",
+        "w": 4,
+        "h": 4,
+        "x": 722,
+        "y": 425
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ee",
+        "w": 4,
+        "h": 5,
+        "x": 744,
+        "y": 381,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ef",
+        "w": 9,
+        "h": 8,
+        "x": 467,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/eg",
+        "w": 10,
+        "h": 11,
+        "x": 579,
+        "y": 431,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/eh",
+        "w": 16,
+        "h": 16,
+        "x": 646,
+        "y": 403
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ei",
+        "w": 4,
+        "h": 4,
+        "x": 722,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ej",
+        "w": 11,
+        "h": 12,
+        "x": 710,
+        "y": 457
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ek",
+        "w": 5,
+        "h": 7,
+        "x": 542,
+        "y": 424,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/el",
+        "w": 4,
+        "h": 4,
+        "x": 729,
+        "y": 419
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/em",
+        "w": 4,
+        "h": 4,
+        "x": 728,
+        "y": 425
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/en",
+        "w": 4,
+        "h": 4,
+        "x": 728,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/eo",
+        "w": 15,
+        "h": 10,
+        "x": 333,
+        "y": 415,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ep",
+        "w": 4,
+        "h": 4,
+        "x": 674,
+        "y": 465
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/eq",
+        "w": 4,
+        "h": 4,
+        "x": 741,
+        "y": 400
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/er",
+        "w": 11,
+        "h": 14,
+        "x": 530,
+        "y": 453
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/es",
+        "w": 4,
+        "h": 6,
+        "x": 543,
+        "y": 409
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/et",
+        "w": 4,
+        "h": 4,
+        "x": 728,
+        "y": 437
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/eu",
+        "w": 5,
+        "h": 5,
+        "x": 647,
+        "y": 464
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ev",
+        "w": 3,
+        "h": 4,
+        "x": 723,
+        "y": 448
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ew",
+        "w": 6,
+        "h": 3,
+        "x": 739,
+        "y": 395,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ex",
+        "w": 10,
+        "h": 15,
+        "x": 474,
+        "y": 442
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ey",
+        "w": 4,
+        "h": 4,
+        "x": 728,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ez",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 450
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/f",
+        "w": 14,
+        "h": 14,
+        "x": 514,
+        "y": 437,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fa",
+        "w": 5,
+        "h": 3,
+        "x": 743,
+        "y": 412,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fb",
+        "w": 14,
+        "h": 10,
+        "x": 607,
+        "y": 424,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fc",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 455
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fd",
+        "w": 31,
+        "h": 26,
+        "x": 310,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fe",
+        "w": 5,
+        "h": 5,
+        "x": 654,
+        "y": 464
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ff",
+        "w": 12,
+        "h": 15,
+        "x": 609,
+        "y": 361
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fg",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 455
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fh",
+        "w": 4,
+        "h": 5,
+        "x": 543,
+        "y": 417
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fi",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 460
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fj",
+        "w": 16,
+        "h": 13,
+        "x": 374,
+        "y": 411
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fk",
+        "w": 4,
+        "h": 5,
+        "x": 623,
+        "y": 424
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fl",
+        "w": 13,
+        "h": 15,
+        "x": 486,
+        "y": 442
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fm",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 455
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fn",
+        "w": 5,
+        "h": 3,
+        "x": 743,
+        "y": 417,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fo",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 460
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fp",
+        "w": 9,
+        "h": 8,
+        "x": 478,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fq",
+        "w": 4,
+        "h": 4,
+        "x": 728,
+        "y": 449
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fr",
+        "w": 15,
+        "h": 13,
+        "x": 526,
+        "y": 409,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fs",
+        "w": 3,
+        "h": 4,
+        "x": 723,
+        "y": 454
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ft",
+        "w": 3,
+        "h": 3,
+        "x": 735,
+        "y": 465
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fu",
+        "w": 3,
+        "h": 3,
+        "x": 734,
+        "y": 455
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fv",
+        "w": 4,
+        "h": 4,
+        "x": 728,
+        "y": 455
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fw",
+        "w": 42,
+        "h": 17,
+        "x": 204,
+        "y": 411
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fx",
+        "w": 30,
+        "h": 17,
+        "x": 461,
+        "y": 387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fy",
+        "w": 14,
+        "h": 12,
+        "x": 405,
+        "y": 459,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/fz",
+        "w": 44,
+        "h": 14,
+        "x": 204,
+        "y": 395,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/g",
+        "w": 14,
+        "h": 14,
+        "x": 514,
+        "y": 453,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ga",
+        "w": 42,
+        "h": 17,
+        "x": 204,
+        "y": 411
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gb",
+        "w": 44,
+        "h": 14,
+        "x": 623,
+        "y": 348,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gc",
+        "w": 44,
+        "h": 14,
+        "x": 669,
+        "y": 347,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gd",
+        "w": 17,
+        "h": 12,
+        "x": 161,
+        "y": 459,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ge",
+        "w": 4,
+        "h": 3,
+        "x": 728,
+        "y": 461
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gf",
+        "w": 62,
+        "h": 12,
+        "x": 93,
+        "y": 395,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gg",
+        "w": 28,
+        "h": 10,
+        "x": 549,
+        "y": 403,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gh",
+        "w": 28,
+        "h": 10,
+        "x": 303,
+        "y": 415,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gi",
+        "w": 6,
+        "h": 17,
+        "x": 295,
+        "y": 419
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gj",
+        "w": 26,
+        "h": 8,
+        "x": 461,
+        "y": 406,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gk",
+        "w": 26,
+        "h": 8,
+        "x": 305,
+        "y": 463,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gl",
+        "w": 14,
+        "h": 13,
+        "x": 549,
+        "y": 428
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gm",
+        "w": 4,
+        "h": 5,
+        "x": 744,
+        "y": 388,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gn",
+        "w": 19,
+        "h": 7,
+        "x": 585,
+        "y": 381,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/go",
+        "w": 7,
+        "h": 19,
+        "x": 666,
+        "y": 364
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gp",
+        "w": 45,
+        "h": 12,
+        "x": 157,
+        "y": 395,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gq",
+        "w": 3,
+        "h": 10,
+        "x": 710,
+        "y": 363
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gr",
+        "w": 18,
+        "h": 6,
+        "x": 129,
+        "y": 465,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gs",
+        "w": 18,
+        "h": 6,
+        "x": 265,
+        "y": 465,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gt",
+        "w": 5,
+        "h": 14,
+        "x": 303,
+        "y": 399
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gu",
+        "w": 14,
+        "h": 5,
+        "x": 285,
+        "y": 466,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gv",
+        "w": 39,
+        "h": 10,
+        "x": 204,
+        "y": 430,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gw",
+        "w": 15,
+        "h": 12,
+        "x": 388,
+        "y": 459
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gx",
+        "w": 15,
+        "h": 13,
+        "x": 390,
+        "y": 427
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gy",
+        "w": 4,
+        "h": 5,
+        "x": 744,
+        "y": 388,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/gz",
+        "w": 29,
+        "h": 29,
+        "x": 234,
+        "y": 442,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/h",
+        "w": 14,
+        "h": 14,
+        "x": 514,
+        "y": 437,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ha",
+        "w": 40,
+        "h": 20,
+        "x": 128,
+        "y": 409,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hb",
+        "w": 15,
+        "h": 15,
+        "x": 405,
+        "y": 410,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hc",
+        "w": 20,
+        "h": 18,
+        "x": 587,
+        "y": 361
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hd",
+        "w": 30,
+        "h": 29,
+        "x": 202,
+        "y": 442,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/he",
+        "w": 27,
+        "h": 22,
+        "x": 374,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hf",
+        "w": 33,
+        "h": 25,
+        "x": 715,
+        "y": 347
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hg",
+        "w": 35,
+        "h": 27,
+        "x": 702,
+        "y": 318
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hh",
+        "w": 36,
+        "h": 27,
+        "x": 664,
+        "y": 318
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hi",
+        "w": 199,
+        "h": 315,
+        "x": 549,
+        "y": 1,
+        "fx": -54,
+        "fy": -9,
+        "fw": 324,
+        "fh": 324
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hj",
+        "w": 14,
+        "h": 11,
+        "x": 591,
+        "y": 433,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hk",
+        "w": 8,
+        "h": 8,
+        "x": 489,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hl",
+        "w": 14,
+        "h": 11,
+        "x": 607,
+        "y": 436,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hm",
+        "w": 12,
+        "h": 11,
+        "x": 730,
+        "y": 374,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hn",
+        "w": 13,
+        "h": 11,
+        "x": 696,
+        "y": 429,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ho",
+        "w": 13,
+        "h": 13,
+        "x": 654,
+        "y": 436,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hp",
+        "w": 13,
+        "h": 12,
+        "x": 646,
+        "y": 421,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hq",
+        "w": 14,
+        "h": 12,
+        "x": 421,
+        "y": 459,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hr",
+        "w": 14,
+        "h": 12,
+        "x": 437,
+        "y": 459,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hs",
+        "w": 272,
+        "h": 392,
+        "x": 1,
+        "y": 1,
+        "fx": -60,
+        "fy": 0,
+        "fw": 392,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ht",
+        "w": 13,
+        "h": 13,
+        "x": 680,
+        "y": 442,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hu",
+        "w": 13,
+        "h": 13,
+        "x": 654,
+        "y": 436,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hv",
+        "w": 13,
+        "h": 13,
+        "x": 695,
+        "y": 442,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hw",
+        "w": 14,
+        "h": 12,
+        "x": 453,
+        "y": 459,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hx",
+        "w": 14,
+        "h": 12,
+        "x": 421,
+        "y": 459,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hy",
+        "w": 14,
+        "h": 12,
+        "x": 469,
+        "y": 459,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/hz",
+        "w": 11,
+        "h": 12,
+        "x": 715,
+        "y": 387,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/i",
+        "w": 272,
+        "h": 384,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ia",
+        "w": 12,
+        "h": 11,
+        "x": 730,
+        "y": 374,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ib",
+        "w": 12,
+        "h": 11,
+        "x": 715,
+        "y": 401,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ic",
+        "w": 14,
+        "h": 12,
+        "x": 485,
+        "y": 459,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/id",
+        "w": 14,
+        "h": 12,
+        "x": 437,
+        "y": 459,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ie",
+        "w": 14,
+        "h": 12,
+        "x": 543,
+        "y": 459,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/if",
+        "w": 13,
+        "h": 12,
+        "x": 680,
+        "y": 457,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ig",
+        "w": 13,
+        "h": 12,
+        "x": 646,
+        "y": 421,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ih",
+        "w": 13,
+        "h": 12,
+        "x": 695,
+        "y": 457,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ii",
+        "w": 11,
+        "h": 13,
+        "x": 710,
+        "y": 442,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ij",
+        "w": 13,
+        "h": 11,
+        "x": 696,
+        "y": 429,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ik",
+        "w": 13,
+        "h": 11,
+        "x": 715,
+        "y": 374,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/il",
+        "w": 14,
+        "h": 11,
+        "x": 559,
+        "y": 460,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/im",
+        "w": 14,
+        "h": 11,
+        "x": 575,
+        "y": 460,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/in",
+        "w": 5,
+        "h": 7,
+        "x": 619,
+        "y": 464,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/io",
+        "w": 11,
+        "h": 7,
+        "x": 606,
+        "y": 464,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ip",
+        "w": 15,
+        "h": 9,
+        "x": 496,
+        "y": 421,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/iq",
+        "w": 5,
+        "h": 5,
+        "x": 661,
+        "y": 464,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ir",
+        "w": 7,
+        "h": 7,
+        "x": 739,
+        "y": 338,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/is",
+        "w": 9,
+        "h": 11,
+        "x": 711,
+        "y": 429,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/it",
+        "w": 23,
+        "h": 21,
+        "x": 250,
+        "y": 395,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/iu",
+        "w": 6,
+        "h": 5,
+        "x": 729,
+        "y": 412,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/iv",
+        "w": 6,
+        "h": 6,
+        "x": 149,
+        "y": 465,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/iw",
+        "w": 16,
+        "h": 12,
+        "x": 180,
+        "y": 459,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ix",
+        "w": 14,
+        "h": 14,
+        "x": 543,
+        "y": 443,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/iy",
+        "w": 14,
+        "h": 15,
+        "x": 422,
+        "y": 410,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/iz",
+        "w": 10,
+        "h": 10,
+        "x": 729,
+        "y": 400
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/j",
+        "w": 4,
+        "h": 4,
+        "x": 723,
+        "y": 466
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ja",
+        "w": 20,
+        "h": 20,
+        "x": 349,
+        "y": 435
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jb",
+        "w": 4,
+        "h": 10,
+        "x": 45,
+        "y": 452
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jc",
+        "w": 16,
+        "h": 16,
+        "x": 675,
+        "y": 363
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jd",
+        "w": 6,
+        "h": 5,
+        "x": 729,
+        "y": 412,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/je",
+        "w": 6,
+        "h": 6,
+        "x": 149,
+        "y": 465,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jf",
+        "w": 12,
+        "h": 13,
+        "x": 565,
+        "y": 429,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jg",
+        "w": 14,
+        "h": 14,
+        "x": 559,
+        "y": 444,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jh",
+        "w": 20,
+        "h": 21,
+        "x": 265,
+        "y": 442,
+        "fx": -12,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ji",
+        "w": 15,
+        "h": 14,
+        "x": 438,
+        "y": 410,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jj",
+        "w": 20,
+        "h": 21,
+        "x": 305,
+        "y": 440,
+        "fx": -12,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jk",
+        "w": 15,
+        "h": 14,
+        "x": 371,
+        "y": 441,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jl",
+        "w": 20,
+        "h": 21,
+        "x": 265,
+        "y": 442,
+        "fx": -12,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jm",
+        "w": 15,
+        "h": 14,
+        "x": 438,
+        "y": 410,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jn",
+        "w": 20,
+        "h": 21,
+        "x": 327,
+        "y": 440,
+        "fx": -12,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jo",
+        "w": 15,
+        "h": 14,
+        "x": 371,
+        "y": 457,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jp",
+        "w": 21,
+        "h": 20,
+        "x": 350,
+        "y": 413,
+        "r": true,
+        "fx": -23,
+        "fy": -11,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jq",
+        "w": 40,
+        "h": 40,
+        "x": 51,
+        "y": 395,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jr",
+        "w": 21,
+        "h": 22,
+        "x": 248,
+        "y": 418,
+        "fx": -21,
+        "fy": -11,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/js",
+        "w": 22,
+        "h": 21,
+        "x": 271,
+        "y": 419,
+        "r": true,
+        "fx": -21,
+        "fy": -12,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jt",
+        "w": 14,
+        "h": 11,
+        "x": 623,
+        "y": 451,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ju",
+        "w": 21,
+        "h": 20,
+        "x": 526,
+        "y": 387,
+        "fx": -20,
+        "fy": -14,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jv",
+        "w": 19,
+        "h": 19,
+        "x": 24,
+        "y": 452,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jw",
+        "w": 4,
+        "h": 4,
+        "x": 728,
+        "y": 455
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jx",
+        "w": 39,
+        "h": 18,
+        "x": 161,
+        "y": 439
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jy",
+        "w": 19,
+        "h": 19,
+        "x": 645,
+        "y": 364,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/jz",
+        "w": 4,
+        "h": 4,
+        "x": 729,
+        "y": 466
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/k",
+        "w": 14,
+        "h": 14,
+        "x": 575,
+        "y": 444,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ka",
+        "w": 2,
+        "h": 8,
+        "x": 198,
+        "y": 459,
+        "fx": 0,
+        "fy": -2,
+        "fw": 2,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/kb",
+        "w": 20,
+        "h": 20,
+        "x": 623,
+        "y": 364
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/kc",
+        "w": 41,
+        "h": 34,
+        "x": 51,
+        "y": 437,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 36,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/kd",
+        "w": 34,
+        "h": 41,
+        "x": 587,
+        "y": 318,
+        "fx": -2,
+        "fy": -2,
+        "fw": 36,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ke",
+        "w": 21,
+        "h": 19,
+        "x": 1,
+        "y": 452,
+        "fx": -20,
+        "fy": -14,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/kf",
+        "w": 31,
+        "h": 16,
+        "x": 493,
+        "y": 387,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/kg",
+        "w": 33,
+        "h": 34,
+        "x": 94,
+        "y": 437,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/kh",
+        "w": 33,
+        "h": 10,
+        "x": 275,
+        "y": 387,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 11,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/ki",
+        "w": 30,
+        "h": 32,
+        "x": 129,
+        "y": 431,
+        "fx": 0,
+        "fy": 0,
+        "fw": 32,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/kj",
+        "w": 32,
+        "h": 28,
+        "x": 170,
+        "y": 409,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/l",
+        "w": 14,
+        "h": 15,
+        "x": 388,
+        "y": 442,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/m",
+        "w": 14,
+        "h": 14,
+        "x": 591,
+        "y": 446,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/n",
+        "w": 14,
+        "h": 14,
+        "x": 514,
+        "y": 453,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/o",
+        "w": 14,
+        "h": 14,
+        "x": 623,
+        "y": 435,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/p",
+        "w": 14,
+        "h": 14,
+        "x": 575,
+        "y": 444,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/q",
+        "w": 9,
+        "h": 18,
+        "x": 739,
+        "y": 318,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/r",
+        "w": 13,
+        "h": 14,
+        "x": 699,
+        "y": 381,
+        "r": true,
+        "fx": -6,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/s",
+        "w": 16,
+        "h": 15,
+        "x": 611,
+        "y": 407,
+        "fx": -3,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/t",
+        "w": 13,
+        "h": 14,
+        "x": 699,
+        "y": 381,
+        "r": true,
+        "fx": -6,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/u",
+        "w": 16,
+        "h": 11,
+        "x": 331,
+        "y": 427,
+        "fx": -7,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/v",
+        "w": 9,
+        "h": 18,
+        "x": 739,
+        "y": 318,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/w",
+        "w": 16,
+        "h": 11,
+        "x": 331,
+        "y": 427,
+        "fx": -7,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/x",
+        "w": 13,
+        "h": 14,
+        "x": 639,
+        "y": 435,
+        "r": true,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/y",
+        "w": 13,
+        "h": 14,
+        "x": 639,
+        "y": 435,
+        "r": true,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lightning_fighter_002/.gen/movie/z",
+        "w": 16,
+        "h": 11,
+        "x": 331,
+        "y": 427,
+        "fx": -7,
+        "fy": -4,
+        "fw": 30,
+        "fh": 30
+    }
+]

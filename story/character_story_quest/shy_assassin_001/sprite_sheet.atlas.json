@@ -1,0 +1,1956 @@
+[
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1486,
+        "y": 1012
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/aa",
+        "w": 14,
+        "h": 15,
+        "x": 1848,
+        "y": 885,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ab",
+        "w": 20,
+        "h": 40,
+        "x": 1494,
+        "y": 945,
+        "fx": -20,
+        "fy": -12,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ac",
+        "w": 36,
+        "h": 36,
+        "x": 823,
+        "y": 701,
+        "fx": -16,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ad",
+        "w": 11,
+        "h": 13,
+        "x": 1596,
+        "y": 988,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ae",
+        "w": 49,
+        "h": 49,
+        "x": 1802,
+        "y": 147,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/af",
+        "w": 38,
+        "h": 38,
+        "x": 1808,
+        "y": 866,
+        "fx": 0,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ag",
+        "w": 38,
+        "h": 38,
+        "x": 1808,
+        "y": 906,
+        "fx": 0,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ah",
+        "w": 49,
+        "h": 49,
+        "x": 1802,
+        "y": 198,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ai",
+        "w": 49,
+        "h": 49,
+        "x": 1105,
+        "y": 679,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/aj",
+        "w": 49,
+        "h": 49,
+        "x": 1156,
+        "y": 679,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ak",
+        "w": 71,
+        "h": 71,
+        "x": 1291,
+        "y": 945
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/al",
+        "w": 78,
+        "h": 65,
+        "x": 1364,
+        "y": 945,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/am",
+        "w": 59,
+        "h": 39,
+        "x": 1730,
+        "y": 930,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/an",
+        "w": 19,
+        "h": 4,
+        "x": 1364,
+        "y": 1012,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 4
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ao",
+        "w": 15,
+        "h": 4,
+        "x": 1385,
+        "y": 1012,
+        "fx": -5,
+        "fy": 0,
+        "fw": 20,
+        "fh": 4
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ap",
+        "w": 29,
+        "h": 30,
+        "x": 1105,
+        "y": 730,
+        "fx": -1,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/aq",
+        "w": 38,
+        "h": 38,
+        "x": 1542,
+        "y": 963,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ar",
+        "w": 13,
+        "h": 13,
+        "x": 1576,
+        "y": 1003,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/as",
+        "w": 20,
+        "h": 20,
+        "x": 1628,
+        "y": 963
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/at",
+        "w": 20,
+        "h": 20,
+        "x": 1212,
+        "y": 989
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/au",
+        "w": 15,
+        "h": 13,
+        "x": 1542,
+        "y": 1003,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/av",
+        "w": 43,
+        "h": 145,
+        "x": 1755,
+        "y": 256,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/aw",
+        "w": 45,
+        "h": 253,
+        "x": 1755,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ax",
+        "w": 206,
+        "h": 62,
+        "x": 1600,
+        "y": 866,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ay",
+        "w": 53,
+        "h": 111,
+        "x": 1802,
+        "y": 1,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/az",
+        "w": 5,
+        "h": 5,
+        "x": 1857,
+        "y": 10,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/b",
+        "w": 272,
+        "h": 698,
+        "x": 823,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ba",
+        "w": 7,
+        "h": 7,
+        "x": 1785,
+        "y": 482,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bb",
+        "w": 3,
+        "h": 3,
+        "x": 1650,
+        "y": 980,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bc",
+        "w": 21,
+        "h": 23,
+        "x": 1582,
+        "y": 963,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bd",
+        "w": 3,
+        "h": 3,
+        "x": 1650,
+        "y": 980,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/be",
+        "w": 3,
+        "h": 3,
+        "x": 1650,
+        "y": 980,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bf",
+        "w": 11,
+        "h": 13,
+        "x": 1830,
+        "y": 289,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bg",
+        "w": 11,
+        "h": 13,
+        "x": 1596,
+        "y": 988,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bh",
+        "w": 9,
+        "h": 18,
+        "x": 1853,
+        "y": 147,
+        "r": true,
+        "fx": -119,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bi",
+        "w": 13,
+        "h": 11,
+        "x": 1813,
+        "y": 317,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bj",
+        "w": 25,
+        "h": 26,
+        "x": 1136,
+        "y": 730,
+        "fx": -116,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bk",
+        "w": 46,
+        "h": 29,
+        "x": 1494,
+        "y": 987,
+        "r": true,
+        "fx": -114,
+        "fy": -82,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bl",
+        "w": 60,
+        "h": 31,
+        "x": 1802,
+        "y": 114,
+        "r": true,
+        "fx": -113,
+        "fy": -67,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bm",
+        "w": 63,
+        "h": 31,
+        "x": 1600,
+        "y": 930,
+        "r": true,
+        "fx": -113,
+        "fy": -63,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bn",
+        "w": 31,
+        "h": 16,
+        "x": 1828,
+        "y": 848,
+        "fx": -113,
+        "fy": -105,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bo",
+        "w": 29,
+        "h": 24,
+        "x": 1147,
+        "y": 989,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bp",
+        "w": 13,
+        "h": 11,
+        "x": 1276,
+        "y": 1005,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bq",
+        "w": 48,
+        "h": 55,
+        "x": 1444,
+        "y": 945,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/br",
+        "w": 18,
+        "h": 7,
+        "x": 1755,
+        "y": 482,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bs",
+        "w": 24,
+        "h": 10,
+        "x": 1516,
+        "y": 963,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bt",
+        "w": 26,
+        "h": 11,
+        "x": 1444,
+        "y": 1002,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bu",
+        "w": 11,
+        "h": 28,
+        "x": 1791,
+        "y": 930,
+        "r": true,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bv",
+        "w": 11,
+        "h": 13,
+        "x": 1800,
+        "y": 349,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bw",
+        "w": 11,
+        "h": 13,
+        "x": 1813,
+        "y": 330,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bx",
+        "w": 82,
+        "h": 196,
+        "x": 1516,
+        "y": 765,
+        "r": true,
+        "fx": -38,
+        "fy": -493,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/by",
+        "w": 12,
+        "h": 14,
+        "x": 1472,
+        "y": 1002
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/bz",
+        "w": 11,
+        "h": 15,
+        "x": 1650,
+        "y": 963
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/c",
+        "w": 11,
+        "h": 12,
+        "x": 1830,
+        "y": 304,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ca",
+        "w": 16,
+        "h": 10,
+        "x": 1516,
+        "y": 975,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cb",
+        "w": 8,
+        "h": 3,
+        "x": 12,
+        "y": 1013
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cc",
+        "w": 16,
+        "h": 12,
+        "x": 1186,
+        "y": 751,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cd",
+        "w": 12,
+        "h": 13,
+        "x": 1582,
+        "y": 988,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ce",
+        "w": 12,
+        "h": 13,
+        "x": 1591,
+        "y": 1003,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cf",
+        "w": 12,
+        "h": 13,
+        "x": 1641,
+        "y": 1003,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cg",
+        "w": 12,
+        "h": 13,
+        "x": 1655,
+        "y": 1003,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ch",
+        "w": 12,
+        "h": 13,
+        "x": 1641,
+        "y": 1003,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ci",
+        "w": 13,
+        "h": 12,
+        "x": 1800,
+        "y": 275,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cj",
+        "w": 13,
+        "h": 12,
+        "x": 1816,
+        "y": 261,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ck",
+        "w": 12,
+        "h": 13,
+        "x": 1591,
+        "y": 1003,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cl",
+        "w": 13,
+        "h": 12,
+        "x": 1800,
+        "y": 289,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cm",
+        "w": 11,
+        "h": 13,
+        "x": 1800,
+        "y": 364,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cn",
+        "w": 10,
+        "h": 13,
+        "x": 1836,
+        "y": 946,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/co",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cp",
+        "w": 108,
+        "h": 676,
+        "x": 1097,
+        "y": 1,
+        "fx": -82,
+        "fy": -24,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cq",
+        "w": 272,
+        "h": 736,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cr",
+        "w": 272,
+        "h": 736,
+        "x": 549,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cs",
+        "w": 12,
+        "h": 14,
+        "x": 1663,
+        "y": 964
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ct",
+        "w": 15,
+        "h": 11,
+        "x": 1677,
+        "y": 964,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cu",
+        "w": 13,
+        "h": 12,
+        "x": 1815,
+        "y": 275,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cv",
+        "w": 12,
+        "h": 13,
+        "x": 1582,
+        "y": 988,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cw",
+        "w": 14,
+        "h": 12,
+        "x": 1820,
+        "y": 946,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cx",
+        "w": 15,
+        "h": 11,
+        "x": 1694,
+        "y": 964,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cy",
+        "w": 13,
+        "h": 12,
+        "x": 1831,
+        "y": 261,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/cz",
+        "w": 13,
+        "h": 12,
+        "x": 1800,
+        "y": 303,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/d",
+        "w": 9,
+        "h": 3,
+        "x": 1,
+        "y": 1013
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/da",
+        "w": 13,
+        "h": 12,
+        "x": 1815,
+        "y": 289,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/db",
+        "w": 13,
+        "h": 12,
+        "x": 1800,
+        "y": 303,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dc",
+        "w": 13,
+        "h": 12,
+        "x": 1830,
+        "y": 275,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dd",
+        "w": 15,
+        "h": 11,
+        "x": 1711,
+        "y": 964,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/de",
+        "w": 16,
+        "h": 10,
+        "x": 1163,
+        "y": 753,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/df",
+        "w": 16,
+        "h": 12,
+        "x": 1605,
+        "y": 1004,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dg",
+        "w": 14,
+        "h": 12,
+        "x": 1848,
+        "y": 948,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dh",
+        "w": 12,
+        "h": 14,
+        "x": 1656,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/di",
+        "w": 14,
+        "h": 12,
+        "x": 1800,
+        "y": 261,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dj",
+        "w": 14,
+        "h": 13,
+        "x": 1848,
+        "y": 918,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dk",
+        "w": 15,
+        "h": 13,
+        "x": 1559,
+        "y": 1003,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dl",
+        "w": 6,
+        "h": 19,
+        "x": 1097,
+        "y": 679,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dm",
+        "w": 14,
+        "h": 13,
+        "x": 1848,
+        "y": 933,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dn",
+        "w": 11,
+        "h": 12,
+        "x": 1826,
+        "y": 377,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/do",
+        "w": 11,
+        "h": 12,
+        "x": 1800,
+        "y": 394,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dp",
+        "w": 11,
+        "h": 12,
+        "x": 1813,
+        "y": 390,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dq",
+        "w": 5,
+        "h": 4,
+        "x": 1436,
+        "y": 1012,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dr",
+        "w": 7,
+        "h": 7,
+        "x": 1825,
+        "y": 960,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ds",
+        "w": 5,
+        "h": 7,
+        "x": 1857,
+        "y": 1,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dt",
+        "w": 17,
+        "h": 17,
+        "x": 1609,
+        "y": 985,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/du",
+        "w": 15,
+        "h": 11,
+        "x": 1791,
+        "y": 960,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dv",
+        "w": 15,
+        "h": 11,
+        "x": 1808,
+        "y": 960,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dw",
+        "w": 11,
+        "h": 12,
+        "x": 1826,
+        "y": 391,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dx",
+        "w": 12,
+        "h": 11,
+        "x": 1796,
+        "y": 408,
+        "fx": -140,
+        "fy": -184,
+        "fw": 272,
+        "fh": 488
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dy",
+        "w": 39,
+        "h": 77,
+        "x": 1755,
+        "y": 403,
+        "r": true,
+        "fx": -92,
+        "fy": -170,
+        "fw": 272,
+        "fh": 488
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/dz",
+        "w": 11,
+        "h": 13,
+        "x": 1813,
+        "y": 345,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/e",
+        "w": 736,
+        "h": 272,
+        "x": 1,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ea",
+        "w": 11,
+        "h": 13,
+        "x": 1800,
+        "y": 379,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/eb",
+        "w": 11,
+        "h": 12,
+        "x": 1796,
+        "y": 421,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ec",
+        "w": 272,
+        "h": 488,
+        "x": 1207,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ed",
+        "w": 272,
+        "h": 488,
+        "x": 1481,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ee",
+        "w": 11,
+        "h": 12,
+        "x": 1796,
+        "y": 435,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ef",
+        "w": 11,
+        "h": 12,
+        "x": 1796,
+        "y": 449,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/eg",
+        "w": 11,
+        "h": 12,
+        "x": 1796,
+        "y": 435,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/eh",
+        "w": 11,
+        "h": 12,
+        "x": 1796,
+        "y": 463,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ei",
+        "w": 10,
+        "h": 10,
+        "x": 1846,
+        "y": 261
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ej",
+        "w": 20,
+        "h": 20,
+        "x": 1234,
+        "y": 989
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ek",
+        "w": 10,
+        "h": 4,
+        "x": 1402,
+        "y": 1012,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/el",
+        "w": 16,
+        "h": 16,
+        "x": 1628,
+        "y": 985
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/em",
+        "w": 8,
+        "h": 7,
+        "x": 1775,
+        "y": 482,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/en",
+        "w": 21,
+        "h": 21,
+        "x": 1163,
+        "y": 730,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/eo",
+        "w": 19,
+        "h": 19,
+        "x": 1186,
+        "y": 730,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ep",
+        "w": 15,
+        "h": 10,
+        "x": 1802,
+        "y": 249,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/eq",
+        "w": 14,
+        "h": 17,
+        "x": 1848,
+        "y": 866,
+        "r": true,
+        "fx": -119,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/er",
+        "w": 21,
+        "h": 20,
+        "x": 1605,
+        "y": 963,
+        "fx": -118,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/es",
+        "w": 18,
+        "h": 20,
+        "x": 1256,
+        "y": 989,
+        "fx": -112,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/et",
+        "w": 8,
+        "h": 11,
+        "x": 1853,
+        "y": 210,
+        "r": true,
+        "fx": -113,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/eu",
+        "w": 32,
+        "h": 19,
+        "x": 1178,
+        "y": 989,
+        "fx": -122,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ev",
+        "w": 19,
+        "h": 34,
+        "x": 883,
+        "y": 701,
+        "r": true,
+        "fx": -120,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ew",
+        "w": 9,
+        "h": 13,
+        "x": 1853,
+        "y": 167,
+        "r": true,
+        "fx": -122,
+        "fy": -110,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ex",
+        "w": 8,
+        "h": 16,
+        "x": 1646,
+        "y": 985
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ey",
+        "w": 11,
+        "h": 14,
+        "x": 1800,
+        "y": 317,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ez",
+        "w": 40,
+        "h": 24,
+        "x": 1105,
+        "y": 989,
+        "r": true,
+        "fx": -20,
+        "fy": -12,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/f",
+        "w": 4,
+        "h": 4,
+        "x": 1664,
+        "y": 996
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fa",
+        "w": 13,
+        "h": 14,
+        "x": 1276,
+        "y": 989,
+        "fx": -27,
+        "fy": -20,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fb",
+        "w": 11,
+        "h": 13,
+        "x": 1813,
+        "y": 360,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fc",
+        "w": 11,
+        "h": 12,
+        "x": 1796,
+        "y": 477,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fd",
+        "w": 11,
+        "h": 13,
+        "x": 1813,
+        "y": 345,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fe",
+        "w": 11,
+        "h": 12,
+        "x": 1796,
+        "y": 421,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ff",
+        "w": 11,
+        "h": 13,
+        "x": 1813,
+        "y": 375,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fg",
+        "w": 13,
+        "h": 10,
+        "x": 1828,
+        "y": 318,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fh",
+        "w": 10,
+        "h": 13,
+        "x": 1826,
+        "y": 362,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fi",
+        "w": 10,
+        "h": 14,
+        "x": 1826,
+        "y": 330,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fj",
+        "w": 10,
+        "h": 13,
+        "x": 1670,
+        "y": 980,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fk",
+        "w": 10,
+        "h": 13,
+        "x": 1826,
+        "y": 362,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fl",
+        "w": 10,
+        "h": 14,
+        "x": 1826,
+        "y": 346,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fm",
+        "w": 15,
+        "h": 11,
+        "x": 1711,
+        "y": 964,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fn",
+        "w": 15,
+        "h": 10,
+        "x": 1819,
+        "y": 249,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fo",
+        "w": 15,
+        "h": 10,
+        "x": 1836,
+        "y": 249,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fp",
+        "w": 11,
+        "h": 15,
+        "x": 1650,
+        "y": 963
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fq",
+        "w": 8,
+        "h": 16,
+        "x": 1853,
+        "y": 192
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fr",
+        "w": 12,
+        "h": 14,
+        "x": 1472,
+        "y": 1002
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fs",
+        "w": 14,
+        "h": 12,
+        "x": 1848,
+        "y": 948,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ft",
+        "w": 11,
+        "h": 14,
+        "x": 1800,
+        "y": 333
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fu",
+        "w": 13,
+        "h": 12,
+        "x": 1815,
+        "y": 303,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fv",
+        "w": 14,
+        "h": 12,
+        "x": 1804,
+        "y": 946,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fw",
+        "w": 184,
+        "h": 222,
+        "x": 1105,
+        "y": 765,
+        "fx": -44,
+        "fy": -44,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fx",
+        "w": 33,
+        "h": 182,
+        "x": 1828,
+        "y": 664,
+        "r": true,
+        "fx": -45,
+        "fy": -253,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fy",
+        "w": 199,
+        "h": 315,
+        "x": 904,
+        "y": 701,
+        "fx": -28,
+        "fy": -43,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/fz",
+        "w": 20,
+        "h": 36,
+        "x": 861,
+        "y": 701,
+        "fx": -45,
+        "fy": -260,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/g",
+        "w": 11,
+        "h": 12,
+        "x": 1682,
+        "y": 977,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ga",
+        "w": 163,
+        "h": 277,
+        "x": 739,
+        "y": 739,
+        "fx": -52,
+        "fy": -55,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gb",
+        "w": 261,
+        "h": 171,
+        "x": 1601,
+        "y": 491,
+        "r": true,
+        "fx": -45,
+        "fy": -78,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gc",
+        "w": 11,
+        "h": 12,
+        "x": 1695,
+        "y": 977,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gd",
+        "w": 223,
+        "h": 178,
+        "x": 1291,
+        "y": 765,
+        "r": true,
+        "fx": -47,
+        "fy": -123,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/ge",
+        "w": 63,
+        "h": 32,
+        "x": 1665,
+        "y": 930,
+        "r": true,
+        "fx": -190,
+        "fy": -59,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gf",
+        "w": 225,
+        "h": 200,
+        "x": 1601,
+        "y": 664,
+        "fx": -7,
+        "fy": -45,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gg",
+        "w": 392,
+        "h": 272,
+        "x": 1207,
+        "y": 491,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gh",
+        "w": 16,
+        "h": 10,
+        "x": 1163,
+        "y": 753,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gi",
+        "w": 16,
+        "h": 10,
+        "x": 1516,
+        "y": 975,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gj",
+        "w": 5,
+        "h": 4,
+        "x": 1436,
+        "y": 1012,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gk",
+        "w": 7,
+        "h": 7,
+        "x": 1825,
+        "y": 960,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gl",
+        "w": 9,
+        "h": 8,
+        "x": 1853,
+        "y": 182,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/gm",
+        "w": 17,
+        "h": 17,
+        "x": 1609,
+        "y": 985,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/h",
+        "w": 11,
+        "h": 12,
+        "x": 1830,
+        "y": 304,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/i",
+        "w": 11,
+        "h": 12,
+        "x": 1708,
+        "y": 977,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/j",
+        "w": 7,
+        "h": 3,
+        "x": 32,
+        "y": 1013,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/k",
+        "w": 3,
+        "h": 8,
+        "x": 1181,
+        "y": 753
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/l",
+        "w": 4,
+        "h": 8,
+        "x": 1486,
+        "y": 1002
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/m",
+        "w": 9,
+        "h": 4,
+        "x": 1414,
+        "y": 1012,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/n",
+        "w": 4,
+        "h": 8,
+        "x": 1486,
+        "y": 1002
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/o",
+        "w": 9,
+        "h": 4,
+        "x": 1414,
+        "y": 1012,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/p",
+        "w": 8,
+        "h": 3,
+        "x": 22,
+        "y": 1013,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/q",
+        "w": 7,
+        "h": 3,
+        "x": 41,
+        "y": 1013,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/r",
+        "w": 9,
+        "h": 4,
+        "x": 1425,
+        "y": 1012,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/s",
+        "w": 4,
+        "h": 8,
+        "x": 1721,
+        "y": 977
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/t",
+        "w": 9,
+        "h": 4,
+        "x": 1425,
+        "y": 1012,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/u",
+        "w": 4,
+        "h": 8,
+        "x": 1721,
+        "y": 977
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/v",
+        "w": 11,
+        "h": 12,
+        "x": 1800,
+        "y": 394,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/w",
+        "w": 6,
+        "h": 5,
+        "x": 1656,
+        "y": 996,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/x",
+        "w": 6,
+        "h": 6,
+        "x": 1534,
+        "y": 975,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/y",
+        "w": 16,
+        "h": 12,
+        "x": 1623,
+        "y": 1004,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/shy_assassin_001/.gen/movie/z",
+        "w": 14,
+        "h": 14,
+        "x": 1848,
+        "y": 902,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    }
+]

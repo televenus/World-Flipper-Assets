@@ -1,0 +1,1448 @@
+[
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 823,
+        "y": 812
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/aa",
+        "w": 8,
+        "h": 8,
+        "x": 499,
+        "y": 912
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ab",
+        "w": 7,
+        "h": 9,
+        "x": 823,
+        "y": 749,
+        "fx": -20,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ac",
+        "w": 7,
+        "h": 9,
+        "x": 823,
+        "y": 760,
+        "fx": -26,
+        "fy": -3,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ad",
+        "w": 14,
+        "h": 7,
+        "x": 434,
+        "y": 913,
+        "r": true,
+        "fx": -78,
+        "fy": -108,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ae",
+        "w": 16,
+        "h": 11,
+        "x": 581,
+        "y": 909,
+        "r": true,
+        "fx": -149,
+        "fy": -71,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/af",
+        "w": 10,
+        "h": 3,
+        "x": 353,
+        "y": 917
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ag",
+        "w": 11,
+        "h": 13,
+        "x": 1172,
+        "y": 907,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ah",
+        "w": 16,
+        "h": 18,
+        "x": 797,
+        "y": 883,
+        "r": true,
+        "fx": -71,
+        "fy": -32,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ai",
+        "w": 21,
+        "h": 26,
+        "x": 520,
+        "y": 883,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 26,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/aj",
+        "w": 18,
+        "h": 13,
+        "x": 685,
+        "y": 907,
+        "r": true,
+        "fx": -116,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ak",
+        "w": 15,
+        "h": 22,
+        "x": 674,
+        "y": 883,
+        "fx": -65,
+        "fy": -135,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/al",
+        "w": 10,
+        "h": 13,
+        "x": 1185,
+        "y": 907,
+        "r": true,
+        "fx": -125,
+        "fy": -121,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/am",
+        "w": 9,
+        "h": 11,
+        "x": 832,
+        "y": 767,
+        "fx": -93,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/an",
+        "w": 20,
+        "h": 24,
+        "x": 629,
+        "y": 883,
+        "fx": -73,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ao",
+        "w": 12,
+        "h": 14,
+        "x": 1197,
+        "y": 906,
+        "fx": -186,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ap",
+        "w": 38,
+        "h": 35,
+        "x": 30,
+        "y": 883,
+        "fx": -96,
+        "fy": -130,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/aq",
+        "w": 38,
+        "h": 35,
+        "x": 70,
+        "y": 883,
+        "fx": -96,
+        "fy": -130,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ar",
+        "w": 38,
+        "h": 35,
+        "x": 110,
+        "y": 883,
+        "fx": -96,
+        "fy": -130,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/as",
+        "w": 38,
+        "h": 35,
+        "x": 150,
+        "y": 883,
+        "fx": -96,
+        "fy": -130,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/at",
+        "w": 38,
+        "h": 35,
+        "x": 190,
+        "y": 883,
+        "fx": -96,
+        "fy": -130,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/au",
+        "w": 15,
+        "h": 27,
+        "x": 487,
+        "y": 883,
+        "fx": -144,
+        "fy": -19,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/av",
+        "w": 25,
+        "h": 25,
+        "x": 543,
+        "y": 883,
+        "fx": -96,
+        "fy": -59,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/aw",
+        "w": 14,
+        "h": 27,
+        "x": 504,
+        "y": 883,
+        "r": true,
+        "fx": -57,
+        "fy": -34,
+        "fw": 84,
+        "fh": 84
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ax",
+        "w": 18,
+        "h": 9,
+        "x": 525,
+        "y": 911,
+        "r": true,
+        "fx": -104,
+        "fy": -47,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ay",
+        "w": 272,
+        "h": 640,
+        "x": 1370,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/az",
+        "w": 12,
+        "h": 14,
+        "x": 1211,
+        "y": 906
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/b",
+        "w": 327,
+        "h": 181,
+        "x": 843,
+        "y": 739,
+        "r": true,
+        "fx": -9,
+        "fy": -4,
+        "fw": 200,
+        "fh": 340
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ba",
+        "w": 12,
+        "h": 14,
+        "x": 1213,
+        "y": 890
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bb",
+        "w": 14,
+        "h": 11,
+        "x": 1319,
+        "y": 866,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bc",
+        "w": 12,
+        "h": 14,
+        "x": 1225,
+        "y": 906
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bd",
+        "w": 14,
+        "h": 11,
+        "x": 1335,
+        "y": 866,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/be",
+        "w": 11,
+        "h": 14,
+        "x": 1347,
+        "y": 850,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bf",
+        "w": 11,
+        "h": 14,
+        "x": 1349,
+        "y": 879,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bg",
+        "w": 14,
+        "h": 11,
+        "x": 1351,
+        "y": 866,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bh",
+        "w": 11,
+        "h": 14,
+        "x": 1349,
+        "y": 895,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bi",
+        "w": 12,
+        "h": 14,
+        "x": 1227,
+        "y": 890
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bj",
+        "w": 11,
+        "h": 14,
+        "x": 1362,
+        "y": 879,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bk",
+        "w": 14,
+        "h": 11,
+        "x": 1319,
+        "y": 866,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bl",
+        "w": 11,
+        "h": 14,
+        "x": 1362,
+        "y": 895,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bm",
+        "w": 6,
+        "h": 5,
+        "x": 823,
+        "y": 798,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bn",
+        "w": 6,
+        "h": 6,
+        "x": 823,
+        "y": 790,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bo",
+        "w": 16,
+        "h": 12,
+        "x": 667,
+        "y": 908,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bp",
+        "w": 14,
+        "h": 14,
+        "x": 1197,
+        "y": 890,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bq",
+        "w": 14,
+        "h": 15,
+        "x": 776,
+        "y": 905,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/br",
+        "w": 5,
+        "h": 5,
+        "x": 823,
+        "y": 805,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bs",
+        "w": 7,
+        "h": 7,
+        "x": 823,
+        "y": 771,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bt",
+        "w": 3,
+        "h": 3,
+        "x": 833,
+        "y": 896,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bu",
+        "w": 21,
+        "h": 23,
+        "x": 651,
+        "y": 883,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bv",
+        "w": 3,
+        "h": 3,
+        "x": 833,
+        "y": 896,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bw",
+        "w": 3,
+        "h": 3,
+        "x": 833,
+        "y": 896,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bx",
+        "w": 12,
+        "h": 14,
+        "x": 1239,
+        "y": 906
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/by",
+        "w": 12,
+        "h": 14,
+        "x": 1241,
+        "y": 890
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/bz",
+        "w": 12,
+        "h": 12,
+        "x": 1373,
+        "y": 825
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/c",
+        "w": 272,
+        "h": 880,
+        "x": 1,
+        "y": 1,
+        "fx": -304,
+        "fy": 0,
+        "fw": 880,
+        "fh": 880
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ca",
+        "w": 10,
+        "h": 13,
+        "x": 1255,
+        "y": 879,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cb",
+        "w": 8,
+        "h": 8,
+        "x": 509,
+        "y": 912
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cc",
+        "w": 12,
+        "h": 14,
+        "x": 1253,
+        "y": 906
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cd",
+        "w": 13,
+        "h": 15,
+        "x": 792,
+        "y": 905
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ce",
+        "w": 17,
+        "h": 5,
+        "x": 376,
+        "y": 915
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cf",
+        "w": 19,
+        "h": 6,
+        "x": 404,
+        "y": 914
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cg",
+        "w": 12,
+        "h": 14,
+        "x": 1319,
+        "y": 850
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ch",
+        "w": 5,
+        "h": 5,
+        "x": 823,
+        "y": 805,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ci",
+        "w": 7,
+        "h": 7,
+        "x": 823,
+        "y": 771,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cj",
+        "w": 9,
+        "h": 11,
+        "x": 832,
+        "y": 788,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ck",
+        "w": 21,
+        "h": 23,
+        "x": 651,
+        "y": 883,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cl",
+        "w": 11,
+        "h": 14,
+        "x": 1360,
+        "y": 809,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cm",
+        "w": 15,
+        "h": 11,
+        "x": 599,
+        "y": 909,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cn",
+        "w": 11,
+        "h": 14,
+        "x": 1360,
+        "y": 825,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/co",
+        "w": 15,
+        "h": 11,
+        "x": 616,
+        "y": 909,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cp",
+        "w": 15,
+        "h": 11,
+        "x": 633,
+        "y": 909,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cq",
+        "w": 11,
+        "h": 14,
+        "x": 1360,
+        "y": 841,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cr",
+        "w": 12,
+        "h": 14,
+        "x": 1225,
+        "y": 906
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cs",
+        "w": 11,
+        "h": 14,
+        "x": 1367,
+        "y": 857
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ct",
+        "w": 12,
+        "h": 14,
+        "x": 1227,
+        "y": 890
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cu",
+        "w": 11,
+        "h": 14,
+        "x": 1373,
+        "y": 809
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cv",
+        "w": 12,
+        "h": 14,
+        "x": 1333,
+        "y": 850
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cw",
+        "w": 271,
+        "h": 736,
+        "x": 1097,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 880
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cx",
+        "w": 272,
+        "h": 880,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cy",
+        "w": 16,
+        "h": 15,
+        "x": 705,
+        "y": 905,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/cz",
+        "w": 272,
+        "h": 880,
+        "x": 549,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/d",
+        "w": 16,
+        "h": 10,
+        "x": 545,
+        "y": 910,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/da",
+        "w": 16,
+        "h": 15,
+        "x": 723,
+        "y": 905,
+        "fx": -7,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/db",
+        "w": 16,
+        "h": 15,
+        "x": 705,
+        "y": 905,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dc",
+        "w": 7,
+        "h": 6,
+        "x": 425,
+        "y": 914,
+        "r": true,
+        "fx": -21,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dd",
+        "w": 18,
+        "h": 16,
+        "x": 807,
+        "y": 903,
+        "fx": -8,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/de",
+        "w": 75,
+        "h": 149,
+        "x": 1172,
+        "y": 739,
+        "fx": 0,
+        "fy": 0,
+        "fw": 75,
+        "fh": 150
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/df",
+        "w": 7,
+        "h": 6,
+        "x": 833,
+        "y": 780,
+        "r": true,
+        "fx": -20,
+        "fy": -6,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dg",
+        "w": 14,
+        "h": 16,
+        "x": 827,
+        "y": 901,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dh",
+        "w": 29,
+        "h": 29,
+        "x": 402,
+        "y": 883,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/di",
+        "w": 40,
+        "h": 20,
+        "x": 691,
+        "y": 883,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dj",
+        "w": 15,
+        "h": 15,
+        "x": 759,
+        "y": 905,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dk",
+        "w": 18,
+        "h": 20,
+        "x": 777,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dl",
+        "w": 29,
+        "h": 30,
+        "x": 371,
+        "y": 883,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dm",
+        "w": 22,
+        "h": 27,
+        "x": 463,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dn",
+        "w": 25,
+        "h": 33,
+        "x": 299,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/do",
+        "w": 27,
+        "h": 35,
+        "x": 270,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dp",
+        "w": 27,
+        "h": 36,
+        "x": 1,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dq",
+        "w": 25,
+        "h": 33,
+        "x": 326,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dr",
+        "w": 39,
+        "h": 39,
+        "x": 1267,
+        "y": 879,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ds",
+        "w": 4,
+        "h": 4,
+        "x": 833,
+        "y": 884
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dt",
+        "w": 28,
+        "h": 28,
+        "x": 433,
+        "y": 883,
+        "fx": 0,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/du",
+        "w": 4,
+        "h": 4,
+        "x": 833,
+        "y": 890
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dv",
+        "w": 67,
+        "h": 68,
+        "x": 1319,
+        "y": 739,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dw",
+        "w": 68,
+        "h": 68,
+        "x": 1249,
+        "y": 739
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dx",
+        "w": 68,
+        "h": 68,
+        "x": 1249,
+        "y": 809
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dy",
+        "w": 57,
+        "h": 24,
+        "x": 570,
+        "y": 883,
+        "fx": 0,
+        "fy": -33,
+        "fw": 57,
+        "fh": 57
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/dz",
+        "w": 39,
+        "h": 39,
+        "x": 1308,
+        "y": 879,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/e",
+        "w": 8,
+        "h": 3,
+        "x": 823,
+        "y": 739
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ea",
+        "w": 4,
+        "h": 4,
+        "x": 1249,
+        "y": 879
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/eb",
+        "w": 39,
+        "h": 39,
+        "x": 1319,
+        "y": 809,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ec",
+        "w": 20,
+        "h": 20,
+        "x": 733,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ed",
+        "w": 16,
+        "h": 15,
+        "x": 741,
+        "y": 905,
+        "fx": -7,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ee",
+        "w": 16,
+        "h": 32,
+        "x": 353,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ef",
+        "w": 7,
+        "h": 5,
+        "x": 395,
+        "y": 915,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/eg",
+        "w": 11,
+        "h": 7,
+        "x": 450,
+        "y": 913,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/eh",
+        "w": 9,
+        "h": 15,
+        "x": 832,
+        "y": 750,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ei",
+        "w": 272,
+        "h": 339,
+        "x": 1644,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 440
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ej",
+        "w": 15,
+        "h": 11,
+        "x": 650,
+        "y": 909,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ek",
+        "w": 440,
+        "h": 272,
+        "x": 1388,
+        "y": 643,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/el",
+        "w": 16,
+        "h": 8,
+        "x": 463,
+        "y": 912,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/em",
+        "w": 16,
+        "h": 8,
+        "x": 481,
+        "y": 912,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/en",
+        "w": 15,
+        "h": 11,
+        "x": 823,
+        "y": 846,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/eo",
+        "w": 15,
+        "h": 11,
+        "x": 823,
+        "y": 859,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ep",
+        "w": 10,
+        "h": 15,
+        "x": 831,
+        "y": 801,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/eq",
+        "w": 10,
+        "h": 15,
+        "x": 1185,
+        "y": 890,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/er",
+        "w": 11,
+        "h": 15,
+        "x": 1172,
+        "y": 890
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/es",
+        "w": 10,
+        "h": 10,
+        "x": 1255,
+        "y": 894
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/et",
+        "w": 20,
+        "h": 20,
+        "x": 755,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/eu",
+        "w": 4,
+        "h": 10,
+        "x": 835,
+        "y": 872
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/ev",
+        "w": 16,
+        "h": 16,
+        "x": 815,
+        "y": 883
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/f",
+        "w": 16,
+        "h": 12,
+        "x": 823,
+        "y": 818,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/g",
+        "w": 272,
+        "h": 736,
+        "x": 823,
+        "y": 1,
+        "fx": -232,
+        "fy": 0,
+        "fw": 736,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/h",
+        "w": 9,
+        "h": 3,
+        "x": 365,
+        "y": 917
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/i",
+        "w": 4,
+        "h": 4,
+        "x": 1349,
+        "y": 911
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/j",
+        "w": 7,
+        "h": 3,
+        "x": 823,
+        "y": 780,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/k",
+        "w": 8,
+        "h": 3,
+        "x": 823,
+        "y": 744,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/l",
+        "w": 4,
+        "h": 8,
+        "x": 519,
+        "y": 912
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/m",
+        "w": 4,
+        "h": 9,
+        "x": 823,
+        "y": 872
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/n",
+        "w": 4,
+        "h": 8,
+        "x": 519,
+        "y": 912
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/o",
+        "w": 4,
+        "h": 9,
+        "x": 823,
+        "y": 872
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/p",
+        "w": 8,
+        "h": 3,
+        "x": 833,
+        "y": 745,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/q",
+        "w": 7,
+        "h": 3,
+        "x": 823,
+        "y": 785,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/r",
+        "w": 4,
+        "h": 9,
+        "x": 829,
+        "y": 872
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/s",
+        "w": 8,
+        "h": 4,
+        "x": 833,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/t",
+        "w": 4,
+        "h": 9,
+        "x": 829,
+        "y": 872
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/u",
+        "w": 8,
+        "h": 4,
+        "x": 833,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/v",
+        "w": 16,
+        "h": 10,
+        "x": 563,
+        "y": 910,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/w",
+        "w": 16,
+        "h": 12,
+        "x": 823,
+        "y": 832,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/x",
+        "w": 250,
+        "h": 256,
+        "x": 1644,
+        "y": 342,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/y",
+        "w": 38,
+        "h": 35,
+        "x": 230,
+        "y": 883,
+        "fx": -96,
+        "fy": -131,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/old_mercenary_001/.gen/movie/z",
+        "w": 14,
+        "h": 11,
+        "x": 1351,
+        "y": 866,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    }
+]

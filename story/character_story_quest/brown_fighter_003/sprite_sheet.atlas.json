@@ -1,0 +1,736 @@
+[
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 166,
+        "y": 500
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/aa",
+        "w": 14,
+        "h": 13,
+        "x": 141,
+        "y": 461,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ab",
+        "w": 16,
+        "h": 13,
+        "x": 79,
+        "y": 468,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ac",
+        "w": 14,
+        "h": 13,
+        "x": 141,
+        "y": 461,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ad",
+        "w": 15,
+        "h": 13,
+        "x": 190,
+        "y": 443,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ae",
+        "w": 10,
+        "h": 10,
+        "x": 219,
+        "y": 486
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/af",
+        "w": 20,
+        "h": 20,
+        "x": 54,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ag",
+        "w": 4,
+        "h": 10,
+        "x": 48,
+        "y": 492
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ah",
+        "w": 16,
+        "h": 16,
+        "x": 121,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ai",
+        "w": 15,
+        "h": 11,
+        "x": 190,
+        "y": 458,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/aj",
+        "w": 3,
+        "h": 7,
+        "x": 210,
+        "y": 497
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ak",
+        "w": 8,
+        "h": 3,
+        "x": 90,
+        "y": 483,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/al",
+        "w": 8,
+        "h": 4,
+        "x": 139,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/am",
+        "w": 9,
+        "h": 4,
+        "x": 100,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/an",
+        "w": 8,
+        "h": 4,
+        "x": 139,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ao",
+        "w": 9,
+        "h": 4,
+        "x": 100,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ap",
+        "w": 3,
+        "h": 8,
+        "x": 198,
+        "y": 496
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/aq",
+        "w": 7,
+        "h": 3,
+        "x": 231,
+        "y": 495,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ar",
+        "w": 9,
+        "h": 4,
+        "x": 111,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/as",
+        "w": 8,
+        "h": 4,
+        "x": 149,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/at",
+        "w": 9,
+        "h": 4,
+        "x": 111,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/au",
+        "w": 8,
+        "h": 4,
+        "x": 149,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/av",
+        "w": 5,
+        "h": 4,
+        "x": 159,
+        "y": 500,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/aw",
+        "w": 7,
+        "h": 7,
+        "x": 123,
+        "y": 497,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ax",
+        "w": 5,
+        "h": 7,
+        "x": 132,
+        "y": 497,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ay",
+        "w": 17,
+        "h": 17,
+        "x": 102,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/az",
+        "w": 15,
+        "h": 11,
+        "x": 207,
+        "y": 458,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/b",
+        "w": 51,
+        "h": 47,
+        "x": 1,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ba",
+        "w": 11,
+        "h": 11,
+        "x": 206,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bb",
+        "w": 5,
+        "h": 8,
+        "x": 191,
+        "y": 496,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bc",
+        "w": 13,
+        "h": 10,
+        "x": 191,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bd",
+        "w": 5,
+        "h": 8,
+        "x": 191,
+        "y": 496,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/be",
+        "w": 15,
+        "h": 13,
+        "x": 157,
+        "y": 458,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bf",
+        "w": 13,
+        "h": 16,
+        "x": 139,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bg",
+        "w": 17,
+        "h": 5,
+        "x": 224,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bh",
+        "w": 19,
+        "h": 6,
+        "x": 102,
+        "y": 462
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bi",
+        "w": 13,
+        "h": 13,
+        "x": 158,
+        "y": 473,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bj",
+        "w": 15,
+        "h": 10,
+        "x": 141,
+        "y": 476,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bk",
+        "w": 14,
+        "h": 13,
+        "x": 174,
+        "y": 458,
+        "fx": -5,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bl",
+        "w": 16,
+        "h": 13,
+        "x": 154,
+        "y": 443,
+        "fx": -4,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bm",
+        "w": 15,
+        "h": 11,
+        "x": 97,
+        "y": 470,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bn",
+        "w": 14,
+        "h": 13,
+        "x": 174,
+        "y": 458,
+        "fx": -5,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bo",
+        "w": 15,
+        "h": 13,
+        "x": 207,
+        "y": 443,
+        "fx": -4,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bp",
+        "w": 15,
+        "h": 11,
+        "x": 173,
+        "y": 473,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bq",
+        "w": 13,
+        "h": 12,
+        "x": 18,
+        "y": 492,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/br",
+        "w": 13,
+        "h": 13,
+        "x": 158,
+        "y": 473,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bs",
+        "w": 13,
+        "h": 12,
+        "x": 33,
+        "y": 492,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bt",
+        "w": 15,
+        "h": 11,
+        "x": 190,
+        "y": 471,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bu",
+        "w": 15,
+        "h": 11,
+        "x": 207,
+        "y": 471,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bv",
+        "w": 16,
+        "h": 10,
+        "x": 224,
+        "y": 450,
+        "r": true,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bw",
+        "w": 15,
+        "h": 10,
+        "x": 224,
+        "y": 474,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bx",
+        "w": 16,
+        "h": 10,
+        "x": 123,
+        "y": 461,
+        "r": true,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/by",
+        "w": 5,
+        "h": 7,
+        "x": 203,
+        "y": 497,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/bz",
+        "w": 7,
+        "h": 11,
+        "x": 114,
+        "y": 470,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/c",
+        "w": 23,
+        "h": 39,
+        "x": 54,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/ca",
+        "w": 9,
+        "h": 15,
+        "x": 112,
+        "y": 483,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/d",
+        "w": 240,
+        "h": 440,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/e",
+        "w": 4,
+        "h": 4,
+        "x": 172,
+        "y": 500
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/f",
+        "w": 10,
+        "h": 15,
+        "x": 100,
+        "y": 483,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/g",
+        "w": 9,
+        "h": 3,
+        "x": 79,
+        "y": 483
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/h",
+        "w": 15,
+        "h": 10,
+        "x": 123,
+        "y": 485,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/i",
+        "w": 16,
+        "h": 10,
+        "x": 224,
+        "y": 462,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/j",
+        "w": 16,
+        "h": 10,
+        "x": 123,
+        "y": 473,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/k",
+        "w": 15,
+        "h": 10,
+        "x": 140,
+        "y": 488,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/l",
+        "w": 10,
+        "h": 16,
+        "x": 76,
+        "y": 488,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/m",
+        "w": 10,
+        "h": 16,
+        "x": 88,
+        "y": 488,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/n",
+        "w": 15,
+        "h": 11,
+        "x": 190,
+        "y": 458,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/o",
+        "w": 15,
+        "h": 11,
+        "x": 207,
+        "y": 458,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/p",
+        "w": 15,
+        "h": 10,
+        "x": 157,
+        "y": 488,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/q",
+        "w": 15,
+        "h": 10,
+        "x": 174,
+        "y": 486,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/r",
+        "w": 5,
+        "h": 5,
+        "x": 178,
+        "y": 498,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/s",
+        "w": 7,
+        "h": 7,
+        "x": 231,
+        "y": 486,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/t",
+        "w": 3,
+        "h": 3,
+        "x": 185,
+        "y": 498,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/u",
+        "w": 21,
+        "h": 23,
+        "x": 79,
+        "y": 443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/v",
+        "w": 3,
+        "h": 3,
+        "x": 185,
+        "y": 498,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/w",
+        "w": 3,
+        "h": 3,
+        "x": 185,
+        "y": 498,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/x",
+        "w": 15,
+        "h": 11,
+        "x": 207,
+        "y": 458,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/y",
+        "w": 15,
+        "h": 12,
+        "x": 1,
+        "y": 492,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/brown_fighter_003/.gen/movie/z",
+        "w": 16,
+        "h": 13,
+        "x": 172,
+        "y": 443,
+        "r": true
+    }
+]

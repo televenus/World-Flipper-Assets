@@ -1,0 +1,954 @@
+[
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1218,
+        "y": 859
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/aa",
+        "w": 16,
+        "h": 8,
+        "x": 820,
+        "y": 869,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ab",
+        "w": 13,
+        "h": 14,
+        "x": 1115,
+        "y": 849,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ac",
+        "w": 13,
+        "h": 14,
+        "x": 1130,
+        "y": 849,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ad",
+        "w": 13,
+        "h": 14,
+        "x": 1145,
+        "y": 849,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ae",
+        "w": 13,
+        "h": 14,
+        "x": 1130,
+        "y": 849,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/af",
+        "w": 13,
+        "h": 14,
+        "x": 1160,
+        "y": 849,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ag",
+        "w": 16,
+        "h": 10,
+        "x": 956,
+        "y": 867,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ah",
+        "w": 12,
+        "h": 16,
+        "x": 969,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ai",
+        "w": 272,
+        "h": 736,
+        "x": 549,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/aj",
+        "w": 196,
+        "h": 82,
+        "x": 1291,
+        "y": 739,
+        "fx": -38,
+        "fy": -493,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ak",
+        "w": 676,
+        "h": 108,
+        "x": 563,
+        "y": 739,
+        "r": true,
+        "fx": -82,
+        "fy": -24,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/al",
+        "w": 272,
+        "h": 736,
+        "x": 823,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/am",
+        "w": 272,
+        "h": 736,
+        "x": 1097,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/an",
+        "w": 5,
+        "h": 6,
+        "x": 787,
+        "y": 871,
+        "r": true,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ao",
+        "w": 6,
+        "h": 6,
+        "x": 779,
+        "y": 871,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ap",
+        "w": 13,
+        "h": 12,
+        "x": 1104,
+        "y": 865,
+        "r": true,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/aq",
+        "w": 14,
+        "h": 14,
+        "x": 1083,
+        "y": 849,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ar",
+        "w": 250,
+        "h": 640,
+        "x": 1645,
+        "y": 1,
+        "fx": 0,
+        "fy": -70,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/as",
+        "w": 272,
+        "h": 698,
+        "x": 1371,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/at",
+        "w": 736,
+        "h": 272,
+        "x": 739,
+        "y": 879,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/au",
+        "w": 11,
+        "h": 11,
+        "x": 1174,
+        "y": 865,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/av",
+        "w": 11,
+        "h": 11,
+        "x": 1187,
+        "y": 865,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/aw",
+        "w": 11,
+        "h": 11,
+        "x": 1200,
+        "y": 865,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ax",
+        "w": 11,
+        "h": 11,
+        "x": 1187,
+        "y": 865,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ay",
+        "w": 5,
+        "h": 6,
+        "x": 787,
+        "y": 871,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/az",
+        "w": 6,
+        "h": 6,
+        "x": 779,
+        "y": 871,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/b",
+        "w": 281,
+        "h": 157,
+        "x": 1477,
+        "y": 975,
+        "r": true,
+        "fx": -58,
+        "fy": -31,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ba",
+        "w": 12,
+        "h": 16,
+        "x": 983,
+        "y": 849,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bb",
+        "w": 14,
+        "h": 14,
+        "x": 1099,
+        "y": 849,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bc",
+        "w": 14,
+        "h": 15,
+        "x": 1028,
+        "y": 849,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bd",
+        "w": 11,
+        "h": 12,
+        "x": 1119,
+        "y": 865,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/be",
+        "w": 11,
+        "h": 12,
+        "x": 1132,
+        "y": 865,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bf",
+        "w": 11,
+        "h": 12,
+        "x": 1119,
+        "y": 865,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bg",
+        "w": 11,
+        "h": 12,
+        "x": 1145,
+        "y": 865,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bh",
+        "w": 13,
+        "h": 17,
+        "x": 936,
+        "y": 849,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bi",
+        "w": 13,
+        "h": 14,
+        "x": 1175,
+        "y": 849,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bj",
+        "w": 13,
+        "h": 18,
+        "x": 818,
+        "y": 849,
+        "fx": -26,
+        "fy": -14,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bk",
+        "w": 15,
+        "h": 17,
+        "x": 919,
+        "y": 849,
+        "fx": -18,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bl",
+        "w": 15,
+        "h": 19,
+        "x": 801,
+        "y": 849,
+        "fx": -17,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bm",
+        "w": 736,
+        "h": 271,
+        "x": 1,
+        "y": 883,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 880
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bn",
+        "w": 272,
+        "h": 880,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bo",
+        "w": 272,
+        "h": 880,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bp",
+        "w": 10,
+        "h": 10,
+        "x": 1009,
+        "y": 867
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bq",
+        "w": 15,
+        "h": 11,
+        "x": 1021,
+        "y": 866,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/br",
+        "w": 20,
+        "h": 20,
+        "x": 779,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bs",
+        "w": 4,
+        "h": 10,
+        "x": 1205,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bt",
+        "w": 15,
+        "h": 11,
+        "x": 1038,
+        "y": 866,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bu",
+        "w": 16,
+        "h": 16,
+        "x": 951,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bv",
+        "w": 11,
+        "h": 15,
+        "x": 1044,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bw",
+        "w": 14,
+        "h": 11,
+        "x": 1072,
+        "y": 866,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bx",
+        "w": 3,
+        "h": 7,
+        "x": 810,
+        "y": 870
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/by",
+        "w": 3,
+        "h": 8,
+        "x": 1211,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/bz",
+        "w": 4,
+        "h": 8,
+        "x": 944,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/c",
+        "w": 64,
+        "h": 9,
+        "x": 838,
+        "y": 868,
+        "fx": -16,
+        "fy": -42,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ca",
+        "w": 4,
+        "h": 9,
+        "x": 927,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cb",
+        "w": 4,
+        "h": 8,
+        "x": 944,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cc",
+        "w": 4,
+        "h": 9,
+        "x": 927,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cd",
+        "w": 3,
+        "h": 8,
+        "x": 1216,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ce",
+        "w": 3,
+        "h": 7,
+        "x": 815,
+        "y": 870
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cf",
+        "w": 4,
+        "h": 9,
+        "x": 933,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cg",
+        "w": 4,
+        "h": 8,
+        "x": 950,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ch",
+        "w": 4,
+        "h": 9,
+        "x": 933,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ci",
+        "w": 4,
+        "h": 8,
+        "x": 950,
+        "y": 868
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cj",
+        "w": 15,
+        "h": 11,
+        "x": 1055,
+        "y": 866,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ck",
+        "w": 11,
+        "h": 15,
+        "x": 1057,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cl",
+        "w": 15,
+        "h": 10,
+        "x": 992,
+        "y": 867,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cm",
+        "w": 5,
+        "h": 5,
+        "x": 794,
+        "y": 871,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cn",
+        "w": 7,
+        "h": 7,
+        "x": 563,
+        "y": 849,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/co",
+        "w": 11,
+        "h": 9,
+        "x": 904,
+        "y": 868,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cp",
+        "w": 21,
+        "h": 23,
+        "x": 549,
+        "y": 858,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cq",
+        "w": 14,
+        "h": 11,
+        "x": 1158,
+        "y": 865,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cr",
+        "w": 5,
+        "h": 4,
+        "x": 1211,
+        "y": 859,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cs",
+        "w": 7,
+        "h": 7,
+        "x": 801,
+        "y": 870,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/ct",
+        "w": 8,
+        "h": 9,
+        "x": 917,
+        "y": 868,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/cu",
+        "w": 17,
+        "h": 17,
+        "x": 900,
+        "y": 849,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/d",
+        "w": 13,
+        "h": 14,
+        "x": 1190,
+        "y": 849,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/e",
+        "w": 3,
+        "h": 9,
+        "x": 939,
+        "y": 868,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/f",
+        "w": 16,
+        "h": 10,
+        "x": 974,
+        "y": 867,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/g",
+        "w": 3,
+        "h": 8,
+        "x": 1213,
+        "y": 865,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/h",
+        "w": 12,
+        "h": 16,
+        "x": 997,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/i",
+        "w": 48,
+        "h": 97,
+        "x": 1241,
+        "y": 739,
+        "r": true,
+        "fx": -1,
+        "fy": -7,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/j",
+        "w": 11,
+        "h": 15,
+        "x": 1070,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/k",
+        "w": 15,
+        "h": 15,
+        "x": 1011,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/l",
+        "w": 14,
+        "h": 12,
+        "x": 1088,
+        "y": 865,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/m",
+        "w": 145,
+        "h": 156,
+        "x": 1760,
+        "y": 975,
+        "r": true,
+        "fx": -58,
+        "fy": -74,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/n",
+        "w": 164,
+        "h": 28,
+        "x": 613,
+        "y": 849,
+        "fx": -54,
+        "fy": -324,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/o",
+        "w": 65,
+        "h": 17,
+        "x": 833,
+        "y": 849,
+        "fx": -17,
+        "fy": -1,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/p",
+        "w": 9,
+        "h": 30,
+        "x": 591,
+        "y": 849,
+        "r": true,
+        "fx": -7,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/q",
+        "w": 9,
+        "h": 30,
+        "x": 602,
+        "y": 849,
+        "r": true,
+        "fx": -4,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/r",
+        "w": 41,
+        "h": 43,
+        "x": 1291,
+        "y": 823,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/s",
+        "w": 41,
+        "h": 43,
+        "x": 1334,
+        "y": 823,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/t",
+        "w": 17,
+        "h": 30,
+        "x": 572,
+        "y": 849,
+        "r": true,
+        "fx": -4,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/u",
+        "w": 17,
+        "h": 30,
+        "x": 572,
+        "y": 849,
+        "r": true,
+        "fx": -7,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/v",
+        "w": 12,
+        "h": 117,
+        "x": 549,
+        "y": 739
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/w",
+        "w": 368,
+        "h": 272,
+        "x": 1489,
+        "y": 701,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/x",
+        "w": 4,
+        "h": 4,
+        "x": 1221,
+        "y": 849
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/y",
+        "w": 13,
+        "h": 14,
+        "x": 1115,
+        "y": 849,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/alice_003/.gen/movie/z",
+        "w": 13,
+        "h": 14,
+        "x": 1190,
+        "y": 849,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    }
+]

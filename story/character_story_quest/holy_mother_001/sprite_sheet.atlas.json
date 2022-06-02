@@ -1,0 +1,4646 @@
+[
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1000,
+        "y": 1345
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/aa",
+        "w": 12,
+        "h": 12,
+        "x": 953,
+        "y": 1218,
+        "fx": -23,
+        "fy": -19,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ab",
+        "w": 13,
+        "h": 17,
+        "x": 907,
+        "y": 1158,
+        "r": true,
+        "fx": -18,
+        "fy": -17,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ac",
+        "w": 14,
+        "h": 11,
+        "x": 805,
+        "y": 1330,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ad",
+        "w": 17,
+        "h": 14,
+        "x": 886,
+        "y": 1142,
+        "fx": -19,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ae",
+        "w": 14,
+        "h": 11,
+        "x": 871,
+        "y": 1359,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/af",
+        "w": 13,
+        "h": 19,
+        "x": 878,
+        "y": 1158,
+        "r": true,
+        "fx": -10,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ag",
+        "w": 14,
+        "h": 13,
+        "x": 996,
+        "y": 1148,
+        "r": true,
+        "fx": -23,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ah",
+        "w": 22,
+        "h": 25,
+        "x": 854,
+        "y": 1158,
+        "fx": -24,
+        "fy": -6,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ai",
+        "w": 12,
+        "h": 19,
+        "x": 893,
+        "y": 1158,
+        "r": true,
+        "fx": -10,
+        "fy": -7,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/aj",
+        "w": 31,
+        "h": 30,
+        "x": 939,
+        "y": 1015,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ak",
+        "w": 13,
+        "h": 19,
+        "x": 905,
+        "y": 1137,
+        "r": true,
+        "fx": -10,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/al",
+        "w": 15,
+        "h": 14,
+        "x": 922,
+        "y": 1199,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/am",
+        "w": 20,
+        "h": 24,
+        "x": 722,
+        "y": 1344,
+        "fx": -16,
+        "fy": -7,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/an",
+        "w": 15,
+        "h": 14,
+        "x": 806,
+        "y": 1295,
+        "fx": -12,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ao",
+        "w": 14,
+        "h": 17,
+        "x": 922,
+        "y": 1152,
+        "r": true,
+        "fx": -11,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ap",
+        "w": 14,
+        "h": 12,
+        "x": 855,
+        "y": 1304,
+        "r": true,
+        "fx": -17,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/aq",
+        "w": 21,
+        "h": 18,
+        "x": 862,
+        "y": 1238,
+        "fx": -15,
+        "fy": -13,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ar",
+        "w": 12,
+        "h": 26,
+        "x": 855,
+        "y": 1102,
+        "fx": -27,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/as",
+        "w": 15,
+        "h": 12,
+        "x": 854,
+        "y": 1352,
+        "r": true,
+        "fx": -13,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/at",
+        "w": 12,
+        "h": 10,
+        "x": 993,
+        "y": 1239,
+        "fx": -17,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/au",
+        "w": 11,
+        "h": 14,
+        "x": 967,
+        "y": 1251,
+        "fx": -25,
+        "fy": -17,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/av",
+        "w": 14,
+        "h": 15,
+        "x": 821,
+        "y": 1328,
+        "r": true,
+        "fx": -19,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/aw",
+        "w": 33,
+        "h": 15,
+        "x": 764,
+        "y": 949,
+        "r": true,
+        "fx": -26,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ax",
+        "w": 11,
+        "h": 14,
+        "x": 980,
+        "y": 1257,
+        "fx": -18,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ay",
+        "w": 12,
+        "h": 15,
+        "x": 938,
+        "y": 1250,
+        "fx": -24,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/az",
+        "w": 13,
+        "h": 15,
+        "x": 871,
+        "y": 1308,
+        "fx": -12,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/b",
+        "w": 13,
+        "h": 15,
+        "x": 871,
+        "y": 1325,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ba",
+        "w": 12,
+        "h": 26,
+        "x": 855,
+        "y": 1102,
+        "fx": -27,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bb",
+        "w": 12,
+        "h": 11,
+        "x": 957,
+        "y": 1133,
+        "fx": -18,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bc",
+        "w": 33,
+        "h": 15,
+        "x": 764,
+        "y": 949,
+        "r": true,
+        "fx": -26,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bd",
+        "w": 15,
+        "h": 12,
+        "x": 854,
+        "y": 1352,
+        "r": true,
+        "fx": -13,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/be",
+        "w": 11,
+        "h": 14,
+        "x": 900,
+        "y": 1383,
+        "fx": -17,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bf",
+        "w": 12,
+        "h": 26,
+        "x": 855,
+        "y": 1102,
+        "fx": -27,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bg",
+        "w": 16,
+        "h": 15,
+        "x": 904,
+        "y": 1197,
+        "fx": -13,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bh",
+        "w": 12,
+        "h": 15,
+        "x": 965,
+        "y": 1181,
+        "fx": -18,
+        "fy": -4,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bi",
+        "w": 25,
+        "h": 18,
+        "x": 580,
+        "y": 981,
+        "r": true,
+        "fx": -8,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bj",
+        "w": 17,
+        "h": 13,
+        "x": 885,
+        "y": 1254,
+        "fx": -14,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bk",
+        "w": 18,
+        "h": 7,
+        "x": 170,
+        "y": 1389,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bl",
+        "w": 13,
+        "h": 17,
+        "x": 805,
+        "y": 1311,
+        "r": true,
+        "fx": -14,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bm",
+        "w": 27,
+        "h": 20,
+        "x": 985,
+        "y": 962,
+        "r": true,
+        "fx": -7,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bn",
+        "w": 13,
+        "h": 16,
+        "x": 823,
+        "y": 1293,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bo",
+        "w": 10,
+        "h": 24,
+        "x": 882,
+        "y": 1093,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bp",
+        "w": 20,
+        "h": 28,
+        "x": 775,
+        "y": 1343,
+        "fx": -7,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bq",
+        "w": 4,
+        "h": 4,
+        "x": 1005,
+        "y": 1357
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/br",
+        "w": 15,
+        "h": 10,
+        "x": 999,
+        "y": 1136,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bs",
+        "w": 4,
+        "h": 4,
+        "x": 1013,
+        "y": 1332
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bt",
+        "w": 11,
+        "h": 26,
+        "x": 869,
+        "y": 1094,
+        "r": true,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bu",
+        "w": 11,
+        "h": 28,
+        "x": 1011,
+        "y": 169,
+        "r": true,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bv",
+        "w": 11,
+        "h": 15,
+        "x": 1011,
+        "y": 199,
+        "fx": -14,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bw",
+        "w": 4,
+        "h": 4,
+        "x": 1013,
+        "y": 1338
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bx",
+        "w": 11,
+        "h": 14,
+        "x": 913,
+        "y": 1383
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/by",
+        "w": 4,
+        "h": 6,
+        "x": 912,
+        "y": 1326
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/bz",
+        "w": 4,
+        "h": 4,
+        "x": 1012,
+        "y": 1344
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 1019,
+        "y": 854,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ca",
+        "w": 5,
+        "h": 5,
+        "x": 975,
+        "y": 1321
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cb",
+        "w": 3,
+        "h": 4,
+        "x": 878,
+        "y": 1179
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cc",
+        "w": 3,
+        "h": 6,
+        "x": 1007,
+        "y": 1191
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cd",
+        "w": 10,
+        "h": 15,
+        "x": 1012,
+        "y": 1148
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ce",
+        "w": 4,
+        "h": 4,
+        "x": 1018,
+        "y": 1344
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cf",
+        "w": 3,
+        "h": 3,
+        "x": 1019,
+        "y": 1362
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cg",
+        "w": 3,
+        "h": 5,
+        "x": 1019,
+        "y": 876
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ch",
+        "w": 14,
+        "h": 10,
+        "x": 946,
+        "y": 1341,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ci",
+        "w": 3,
+        "h": 3,
+        "x": 1019,
+        "y": 1367
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cj",
+        "w": 11,
+        "h": 14,
+        "x": 980,
+        "y": 1273,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ck",
+        "w": 20,
+        "h": 20,
+        "x": 917,
+        "y": 1090
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cl",
+        "w": 16,
+        "h": 10,
+        "x": 883,
+        "y": 1200
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cm",
+        "w": 26,
+        "h": 31,
+        "x": 617,
+        "y": 1323,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cn",
+        "w": 5,
+        "h": 5,
+        "x": 994,
+        "y": 1317
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/co",
+        "w": 12,
+        "h": 15,
+        "x": 965,
+        "y": 1198
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cp",
+        "w": 3,
+        "h": 3,
+        "x": 1019,
+        "y": 1367
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cq",
+        "w": 4,
+        "h": 5,
+        "x": 1000,
+        "y": 1338
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cr",
+        "w": 3,
+        "h": 3,
+        "x": 1014,
+        "y": 1369
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cs",
+        "w": 12,
+        "h": 13,
+        "x": 1010,
+        "y": 1279,
+        "fx": -13,
+        "fy": -7,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ct",
+        "w": 15,
+        "h": 14,
+        "x": 854,
+        "y": 1271,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cu",
+        "w": 11,
+        "h": 13,
+        "x": 967,
+        "y": 1267,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cv",
+        "w": 15,
+        "h": 14,
+        "x": 806,
+        "y": 1295,
+        "fx": -12,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cw",
+        "w": 32,
+        "h": 24,
+        "x": 939,
+        "y": 1047,
+        "fx": -3,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cx",
+        "w": 13,
+        "h": 16,
+        "x": 871,
+        "y": 1290,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cy",
+        "w": 4,
+        "h": 5,
+        "x": 1006,
+        "y": 1344
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/cz",
+        "w": 13,
+        "h": 15,
+        "x": 871,
+        "y": 1342
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/d",
+        "w": 16,
+        "h": 11,
+        "x": 939,
+        "y": 1133,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/da",
+        "w": 3,
+        "h": 3,
+        "x": 1019,
+        "y": 1367
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/db",
+        "w": 5,
+        "h": 3,
+        "x": 996,
+        "y": 1362,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dc",
+        "w": 3,
+        "h": 3,
+        "x": 1014,
+        "y": 1369
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dd",
+        "w": 22,
+        "h": 23,
+        "x": 735,
+        "y": 1374,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/de",
+        "w": 9,
+        "h": 8,
+        "x": 106,
+        "y": 1389
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/df",
+        "w": 4,
+        "h": 4,
+        "x": 1003,
+        "y": 1363
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dg",
+        "w": 13,
+        "h": 15,
+        "x": 854,
+        "y": 1366
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dh",
+        "w": 3,
+        "h": 4,
+        "x": 1019,
+        "y": 1332
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/di",
+        "w": 3,
+        "h": 3,
+        "x": 1019,
+        "y": 1372
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dj",
+        "w": 3,
+        "h": 3,
+        "x": 1019,
+        "y": 1367
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dk",
+        "w": 18,
+        "h": 22,
+        "x": 1004,
+        "y": 1069,
+        "r": true,
+        "fx": -12,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dl",
+        "w": 17,
+        "h": 42,
+        "x": 512,
+        "y": 1355,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dm",
+        "w": 17,
+        "h": 30,
+        "x": 626,
+        "y": 966
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dn",
+        "w": 15,
+        "h": 11,
+        "x": 982,
+        "y": 1134,
+        "r": true,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/do",
+        "w": 15,
+        "h": 15,
+        "x": 921,
+        "y": 1251,
+        "fx": -15,
+        "fy": -9,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dp",
+        "w": 44,
+        "h": 14,
+        "x": 645,
+        "y": 1340,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dq",
+        "w": 17,
+        "h": 42,
+        "x": 512,
+        "y": 1355,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dr",
+        "w": 44,
+        "h": 14,
+        "x": 978,
+        "y": 786,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ds",
+        "w": 44,
+        "h": 14,
+        "x": 543,
+        "y": 1383,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dt",
+        "w": 17,
+        "h": 12,
+        "x": 836,
+        "y": 1256,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/du",
+        "w": 4,
+        "h": 3,
+        "x": 891,
+        "y": 1063
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dv",
+        "w": 12,
+        "h": 62,
+        "x": 857,
+        "y": 1000
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dw",
+        "w": 10,
+        "h": 28,
+        "x": 867,
+        "y": 1064
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dx",
+        "w": 10,
+        "h": 28,
+        "x": 879,
+        "y": 1063
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dy",
+        "w": 6,
+        "h": 17,
+        "x": 1016,
+        "y": 383
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/dz",
+        "w": 26,
+        "h": 8,
+        "x": 1,
+        "y": 1389,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/e",
+        "w": 18,
+        "h": 24,
+        "x": 1004,
+        "y": 1043,
+        "fx": -18,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ea",
+        "w": 26,
+        "h": 8,
+        "x": 29,
+        "y": 1389,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/eb",
+        "w": 14,
+        "h": 13,
+        "x": 922,
+        "y": 1184
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ec",
+        "w": 5,
+        "h": 4,
+        "x": 997,
+        "y": 1351
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ed",
+        "w": 19,
+        "h": 7,
+        "x": 128,
+        "y": 1389,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ee",
+        "w": 19,
+        "h": 7,
+        "x": 149,
+        "y": 1389,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ef",
+        "w": 45,
+        "h": 12,
+        "x": 642,
+        "y": 1356,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/eg",
+        "w": 3,
+        "h": 10,
+        "x": 1019,
+        "y": 762
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/eh",
+        "w": 6,
+        "h": 18,
+        "x": 1016,
+        "y": 343
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ei",
+        "w": 6,
+        "h": 18,
+        "x": 1016,
+        "y": 363
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ej",
+        "w": 14,
+        "h": 5,
+        "x": 909,
+        "y": 403,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ek",
+        "w": 14,
+        "h": 5,
+        "x": 925,
+        "y": 403,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/el",
+        "w": 10,
+        "h": 39,
+        "x": 531,
+        "y": 1355
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/em",
+        "w": 15,
+        "h": 12,
+        "x": 838,
+        "y": 1304
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/en",
+        "w": 16,
+        "h": 16,
+        "x": 986,
+        "y": 1095,
+        "fx": -19,
+        "fy": -10,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/eo",
+        "w": 3,
+        "h": 6,
+        "x": 975,
+        "y": 1313
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ep",
+        "w": 4,
+        "h": 13,
+        "x": 1014,
+        "y": 944
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/eq",
+        "w": 4,
+        "h": 13,
+        "x": 1014,
+        "y": 959
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/er",
+        "w": 3,
+        "h": 9,
+        "x": 1019,
+        "y": 774
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/es",
+        "w": 3,
+        "h": 9,
+        "x": 1019,
+        "y": 843
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/et",
+        "w": 10,
+        "h": 35,
+        "x": 855,
+        "y": 1065
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/eu",
+        "w": 13,
+        "h": 15,
+        "x": 952,
+        "y": 1249,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ev",
+        "w": 5,
+        "h": 4,
+        "x": 997,
+        "y": 1351
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ew",
+        "w": 11,
+        "h": 13,
+        "x": 949,
+        "y": 1313,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ex",
+        "w": 14,
+        "h": 12,
+        "x": 996,
+        "y": 1163,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ey",
+        "w": 12,
+        "h": 14,
+        "x": 979,
+        "y": 1224
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ez",
+        "w": 15,
+        "h": 16,
+        "x": 904,
+        "y": 1214
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/f",
+        "w": 17,
+        "h": 11,
+        "x": 855,
+        "y": 1258,
+        "r": true,
+        "fx": -27,
+        "fy": -15,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fa",
+        "w": 29,
+        "h": 29,
+        "x": 698,
+        "y": 1313,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fb",
+        "w": 40,
+        "h": 20,
+        "x": 897,
+        "y": 1046,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fc",
+        "w": 15,
+        "h": 15,
+        "x": 820,
+        "y": 1311,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fd",
+        "w": 15,
+        "h": 15,
+        "x": 838,
+        "y": 1287,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fe",
+        "w": 18,
+        "h": 20,
+        "x": 1004,
+        "y": 1093,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ff",
+        "w": 12,
+        "h": 14,
+        "x": 993,
+        "y": 1191
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fg",
+        "w": 30,
+        "h": 29,
+        "x": 973,
+        "y": 984,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fh",
+        "w": 22,
+        "h": 27,
+        "x": 679,
+        "y": 1370,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fi",
+        "w": 33,
+        "h": 25,
+        "x": 607,
+        "y": 1356
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fj",
+        "w": 15,
+        "h": 16,
+        "x": 904,
+        "y": 1232,
+        "fx": -14,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fk",
+        "w": 27,
+        "h": 35,
+        "x": 807,
+        "y": 1220,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fl",
+        "w": 27,
+        "h": 36,
+        "x": 985,
+        "y": 924,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fm",
+        "w": 11,
+        "h": 14,
+        "x": 946,
+        "y": 1281,
+        "fx": -19,
+        "fy": -10,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fn",
+        "w": 15,
+        "h": 16,
+        "x": 904,
+        "y": 1250
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fo",
+        "w": 11,
+        "h": 13,
+        "x": 967,
+        "y": 1267,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fp",
+        "w": 11,
+        "h": 13,
+        "x": 959,
+        "y": 1298,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fq",
+        "w": 15,
+        "h": 16,
+        "x": 921,
+        "y": 1215
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fr",
+        "w": 11,
+        "h": 14,
+        "x": 946,
+        "y": 1297,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fs",
+        "w": 14,
+        "h": 15,
+        "x": 855,
+        "y": 1287,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ft",
+        "w": 15,
+        "h": 14,
+        "x": 854,
+        "y": 1271,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fu",
+        "w": 15,
+        "h": 14,
+        "x": 886,
+        "y": 1320,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fv",
+        "w": 11,
+        "h": 14,
+        "x": 980,
+        "y": 1273,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fw",
+        "w": 11,
+        "h": 14,
+        "x": 959,
+        "y": 1282,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fx",
+        "w": 17,
+        "h": 11,
+        "x": 855,
+        "y": 1258,
+        "r": true,
+        "fx": -27,
+        "fy": -15,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fy",
+        "w": 11,
+        "h": 13,
+        "x": 962,
+        "y": 1313,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/fz",
+        "w": 13,
+        "h": 11,
+        "x": 918,
+        "y": 1325,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/g",
+        "w": 14,
+        "h": 15,
+        "x": 821,
+        "y": 1328,
+        "r": true,
+        "fx": -19,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ga",
+        "w": 11,
+        "h": 13,
+        "x": 962,
+        "y": 1313,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gb",
+        "w": 11,
+        "h": 13,
+        "x": 919,
+        "y": 1368,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gc",
+        "w": 3,
+        "h": 3,
+        "x": 1014,
+        "y": 1374
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gd",
+        "w": 13,
+        "h": 15,
+        "x": 887,
+        "y": 1353
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ge",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 1369
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gf",
+        "w": 3,
+        "h": 2,
+        "x": 871,
+        "y": 1000
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gg",
+        "w": 3,
+        "h": 4,
+        "x": 1019,
+        "y": 1338
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gh",
+        "w": 11,
+        "h": 13,
+        "x": 932,
+        "y": 1368
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gi",
+        "w": 3,
+        "h": 3,
+        "x": 1019,
+        "y": 1377
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gj",
+        "w": 11,
+        "h": 14,
+        "x": 972,
+        "y": 1290
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gk",
+        "w": 4,
+        "h": 4,
+        "x": 1013,
+        "y": 1332
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gl",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 1375
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gm",
+        "w": 14,
+        "h": 11,
+        "x": 985,
+        "y": 1291,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gn",
+        "w": 4,
+        "h": 4,
+        "x": 1013,
+        "y": 1332
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/go",
+        "w": 3,
+        "h": 4,
+        "x": 1011,
+        "y": 1351,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gp",
+        "w": 14,
+        "h": 11,
+        "x": 985,
+        "y": 1304,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gq",
+        "w": 4,
+        "h": 4,
+        "x": 1013,
+        "y": 1332
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gr",
+        "w": 19,
+        "h": 19,
+        "x": 961,
+        "y": 1111,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gs",
+        "w": 19,
+        "h": 19,
+        "x": 982,
+        "y": 1113,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gt",
+        "w": 15,
+        "h": 15,
+        "x": 837,
+        "y": 1318,
+        "fx": -23,
+        "fy": -15,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gu",
+        "w": 3,
+        "h": 9,
+        "x": 1019,
+        "y": 865,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gv",
+        "w": 29,
+        "h": 29,
+        "x": 973,
+        "y": 1043,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gw",
+        "w": 6,
+        "h": 6,
+        "x": 972,
+        "y": 1282
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gx",
+        "w": 6,
+        "h": 6,
+        "x": 989,
+        "y": 1352
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gy",
+        "w": 25,
+        "h": 18,
+        "x": 553,
+        "y": 981,
+        "fx": -26,
+        "fy": -15,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/gz",
+        "w": 6,
+        "h": 6,
+        "x": 1001,
+        "y": 1322
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/h",
+        "w": 272,
+        "h": 447,
+        "x": 493,
+        "y": 410,
+        "fx": 0,
+        "fy": -207,
+        "fw": 272,
+        "fh": 1000
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ha",
+        "w": 29,
+        "h": 29,
+        "x": 744,
+        "y": 1343,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hb",
+        "w": 39,
+        "h": 39,
+        "x": 979,
+        "y": 704,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hc",
+        "w": 19,
+        "h": 19,
+        "x": 1003,
+        "y": 1115,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hd",
+        "w": 19,
+        "h": 19,
+        "x": 883,
+        "y": 1179,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/he",
+        "w": 13,
+        "h": 11,
+        "x": 962,
+        "y": 1341,
+        "r": true,
+        "fx": -27,
+        "fy": -15,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hf",
+        "w": 33,
+        "h": 15,
+        "x": 764,
+        "y": 949,
+        "r": true,
+        "fx": -26,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hg",
+        "w": 22,
+        "h": 19,
+        "x": 964,
+        "y": 1074,
+        "r": true,
+        "fx": -25,
+        "fy": -9,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hh",
+        "w": 15,
+        "h": 16,
+        "x": 921,
+        "y": 1233,
+        "r": true,
+        "fx": -19,
+        "fy": -20,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hi",
+        "w": 16,
+        "h": 15,
+        "x": 836,
+        "y": 1270,
+        "fx": -19,
+        "fy": -20,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hj",
+        "w": 2,
+        "h": 3,
+        "x": 1020,
+        "y": 620
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hk",
+        "w": 12,
+        "h": 12,
+        "x": 938,
+        "y": 1267
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hl",
+        "w": 14,
+        "h": 11,
+        "x": 870,
+        "y": 1145
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hm",
+        "w": 14,
+        "h": 14,
+        "x": 854,
+        "y": 1383
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hn",
+        "w": 5,
+        "h": 5,
+        "x": 989,
+        "y": 1360
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ho",
+        "w": 15,
+        "h": 8,
+        "x": 75,
+        "y": 1389
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hp",
+        "w": 12,
+        "h": 8,
+        "x": 92,
+        "y": 1389
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hq",
+        "w": 13,
+        "h": 15,
+        "x": 965,
+        "y": 1147,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hr",
+        "w": 5,
+        "h": 5,
+        "x": 1017,
+        "y": 1325
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hs",
+        "w": 3,
+        "h": 2,
+        "x": 939,
+        "y": 977,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ht",
+        "w": 26,
+        "h": 18,
+        "x": 525,
+        "y": 981
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hu",
+        "w": 24,
+        "h": 34,
+        "x": 836,
+        "y": 1220,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hv",
+        "w": 28,
+        "h": 39,
+        "x": 985,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hw",
+        "w": 9,
+        "h": 12,
+        "x": 874,
+        "y": 1258,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hx",
+        "w": 14,
+        "h": 19,
+        "x": 988,
+        "y": 1074,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hy",
+        "w": 16,
+        "h": 22,
+        "x": 1006,
+        "y": 546,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/hz",
+        "w": 11,
+        "h": 13,
+        "x": 957,
+        "y": 1367
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/i",
+        "w": 29,
+        "h": 24,
+        "x": 691,
+        "y": 1344,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ia",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 1381
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ib",
+        "w": 6,
+        "h": 7,
+        "x": 1016,
+        "y": 1136,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ic",
+        "w": 9,
+        "h": 11,
+        "x": 972,
+        "y": 1354,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/id",
+        "w": 9,
+        "h": 11,
+        "x": 977,
+        "y": 1341,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ie",
+        "w": 4,
+        "h": 4,
+        "x": 1013,
+        "y": 1338
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/if",
+        "w": 9,
+        "h": 13,
+        "x": 965,
+        "y": 1382,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ig",
+        "w": 5,
+        "h": 4,
+        "x": 1004,
+        "y": 1351
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ih",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 1387
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ii",
+        "w": 2,
+        "h": 2,
+        "x": 691,
+        "y": 1340
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ij",
+        "w": 10,
+        "h": 13,
+        "x": 945,
+        "y": 1368,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ik",
+        "w": 12,
+        "h": 5,
+        "x": 821,
+        "y": 1363
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/il",
+        "w": 3,
+        "h": 3,
+        "x": 1014,
+        "y": 1379
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/im",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 1393
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/in",
+        "w": 14,
+        "h": 11,
+        "x": 1001,
+        "y": 1309,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/io",
+        "w": 3,
+        "h": 3,
+        "x": 1019,
+        "y": 1382
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ip",
+        "w": 15,
+        "h": 11,
+        "x": 980,
+        "y": 1177,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/iq",
+        "w": 3,
+        "h": 4,
+        "x": 1011,
+        "y": 1357,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ir",
+        "w": 9,
+        "h": 13,
+        "x": 971,
+        "y": 1132
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/is",
+        "w": 4,
+        "h": 6,
+        "x": 1000,
+        "y": 1330
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/it",
+        "w": 5,
+        "h": 8,
+        "x": 854,
+        "y": 1185
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/iu",
+        "w": 3,
+        "h": 4,
+        "x": 1009,
+        "y": 1363
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/iv",
+        "w": 13,
+        "h": 11,
+        "x": 993,
+        "y": 1266
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/iw",
+        "w": 4,
+        "h": 4,
+        "x": 1008,
+        "y": 1369
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ix",
+        "w": 5,
+        "h": 4,
+        "x": 995,
+        "y": 1367
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/iy",
+        "w": 21,
+        "h": 27,
+        "x": 1001,
+        "y": 463
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/iz",
+        "w": 33,
+        "h": 26,
+        "x": 972,
+        "y": 1015,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/j",
+        "w": 13,
+        "h": 15,
+        "x": 938,
+        "y": 1146
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ja",
+        "w": 36,
+        "h": 44,
+        "x": 398,
+        "y": 1353
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jb",
+        "w": 13,
+        "h": 13,
+        "x": 993,
+        "y": 1251
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jc",
+        "w": 18,
+        "h": 19,
+        "x": 884,
+        "y": 1212,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jd",
+        "w": 21,
+        "h": 27,
+        "x": 1001,
+        "y": 492,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/je",
+        "w": 6,
+        "h": 3,
+        "x": 997,
+        "y": 1357,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jf",
+        "w": 5,
+        "h": 6,
+        "x": 1017,
+        "y": 1309
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jg",
+        "w": 3,
+        "h": 4,
+        "x": 1014,
+        "y": 1363,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jh",
+        "w": 14,
+        "h": 11,
+        "x": 922,
+        "y": 1171
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ji",
+        "w": 4,
+        "h": 4,
+        "x": 1008,
+        "y": 1369
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jj",
+        "w": 5,
+        "h": 4,
+        "x": 995,
+        "y": 1373
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jk",
+        "w": 9,
+        "h": 8,
+        "x": 117,
+        "y": 1389
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jl",
+        "w": 10,
+        "h": 11,
+        "x": 976,
+        "y": 1328,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jm",
+        "w": 16,
+        "h": 16,
+        "x": 920,
+        "y": 1134
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jn",
+        "w": 4,
+        "h": 4,
+        "x": 1008,
+        "y": 1375
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jo",
+        "w": 11,
+        "h": 12,
+        "x": 989,
+        "y": 1382
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jp",
+        "w": 5,
+        "h": 7,
+        "x": 642,
+        "y": 1370,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jq",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 1381
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jr",
+        "w": 4,
+        "h": 4,
+        "x": 1008,
+        "y": 1381
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/js",
+        "w": 12,
+        "h": 14,
+        "x": 993,
+        "y": 1207
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jt",
+        "w": 12,
+        "h": 14,
+        "x": 993,
+        "y": 1223
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ju",
+        "w": 14,
+        "h": 12,
+        "x": 1008,
+        "y": 1251,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jv",
+        "w": 6,
+        "h": 5,
+        "x": 972,
+        "y": 1306,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jw",
+        "w": 6,
+        "h": 6,
+        "x": 1009,
+        "y": 1322,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jx",
+        "w": 12,
+        "h": 16,
+        "x": 806,
+        "y": 1258,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jy",
+        "w": 14,
+        "h": 14,
+        "x": 870,
+        "y": 1383,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/jz",
+        "w": 15,
+        "h": 15,
+        "x": 854,
+        "y": 1318
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/k",
+        "w": 14,
+        "h": 15,
+        "x": 886,
+        "y": 1336,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ka",
+        "w": 14,
+        "h": 15,
+        "x": 820,
+        "y": 1257,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kb",
+        "w": 3,
+        "h": 7,
+        "x": 1019,
+        "y": 974
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kc",
+        "w": 8,
+        "h": 3,
+        "x": 895,
+        "y": 1137,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kd",
+        "w": 4,
+        "h": 8,
+        "x": 203,
+        "y": 1389
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ke",
+        "w": 4,
+        "h": 9,
+        "x": 994,
+        "y": 1340
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kf",
+        "w": 4,
+        "h": 8,
+        "x": 203,
+        "y": 1389
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kg",
+        "w": 4,
+        "h": 9,
+        "x": 994,
+        "y": 1340
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kh",
+        "w": 3,
+        "h": 8,
+        "x": 1014,
+        "y": 974
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ki",
+        "w": 3,
+        "h": 7,
+        "x": 980,
+        "y": 1306
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kj",
+        "w": 4,
+        "h": 9,
+        "x": 983,
+        "y": 1354
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kk",
+        "w": 8,
+        "h": 4,
+        "x": 1014,
+        "y": 925,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kl",
+        "w": 4,
+        "h": 9,
+        "x": 983,
+        "y": 1354
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/km",
+        "w": 8,
+        "h": 4,
+        "x": 1014,
+        "y": 925,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kn",
+        "w": 16,
+        "h": 16,
+        "x": 986,
+        "y": 1095,
+        "fx": -19,
+        "fy": -10,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ko",
+        "w": 16,
+        "h": 12,
+        "x": 836,
+        "y": 1349,
+        "r": true,
+        "fx": -19,
+        "fy": -10,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kp",
+        "w": 14,
+        "h": 13,
+        "x": 980,
+        "y": 1147,
+        "fx": -17,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kq",
+        "w": 14,
+        "h": 13,
+        "x": 980,
+        "y": 1162,
+        "fx": -17,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kr",
+        "w": 13,
+        "h": 16,
+        "x": 821,
+        "y": 1345,
+        "fx": -16,
+        "fy": -3,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ks",
+        "w": 13,
+        "h": 15,
+        "x": 938,
+        "y": 1163,
+        "fx": -16,
+        "fy": -3,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kt",
+        "w": 38,
+        "h": 38,
+        "x": 979,
+        "y": 843,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ku",
+        "w": 13,
+        "h": 13,
+        "x": 903,
+        "y": 1281,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kv",
+        "w": 20,
+        "h": 20,
+        "x": 895,
+        "y": 1115
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kw",
+        "w": 20,
+        "h": 20,
+        "x": 917,
+        "y": 1112
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kx",
+        "w": 13,
+        "h": 16,
+        "x": 871,
+        "y": 1272,
+        "fx": -17,
+        "fy": -3,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ky",
+        "w": 43,
+        "h": 145,
+        "x": 909,
+        "y": 256,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/kz",
+        "w": 45,
+        "h": 253,
+        "x": 909,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/l",
+        "w": 15,
+        "h": 14,
+        "x": 837,
+        "y": 1363,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/la",
+        "w": 13,
+        "h": 16,
+        "x": 823,
+        "y": 1293,
+        "fx": -18,
+        "fy": -9,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lb",
+        "w": 206,
+        "h": 62,
+        "x": 1,
+        "y": 1325,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lc",
+        "w": 53,
+        "h": 111,
+        "x": 956,
+        "y": 103,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ld",
+        "w": 15,
+        "h": 15,
+        "x": 854,
+        "y": 1335
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/le",
+        "w": 15,
+        "h": 15,
+        "x": 886,
+        "y": 1269
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lf",
+        "w": 32,
+        "h": 32,
+        "x": 939,
+        "y": 981
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lg",
+        "w": 414,
+        "h": 407,
+        "x": 493,
+        "y": 1,
+        "fx": -93,
+        "fy": -100,
+        "fw": 600,
+        "fh": 600
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lh",
+        "w": 10,
+        "h": 30,
+        "x": 793,
+        "y": 1311,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/li",
+        "w": 14,
+        "h": 11,
+        "x": 933,
+        "y": 1327,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lj",
+        "w": 13,
+        "h": 12,
+        "x": 997,
+        "y": 1177,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lk",
+        "w": 7,
+        "h": 11,
+        "x": 1014,
+        "y": 931,
+        "fx": -3,
+        "fy": 0,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ll",
+        "w": 49,
+        "h": 49,
+        "x": 827,
+        "y": 949,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lm",
+        "w": 13,
+        "h": 12,
+        "x": 918,
+        "y": 1311,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ln",
+        "w": 13,
+        "h": 12,
+        "x": 952,
+        "y": 1266,
+        "fx": -32,
+        "fy": -26,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lo",
+        "w": 26,
+        "h": 24,
+        "x": 782,
+        "y": 1373,
+        "fx": -25,
+        "fy": -2,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lp",
+        "w": 4,
+        "h": 4,
+        "x": 1008,
+        "y": 1387
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lq",
+        "w": 4,
+        "h": 4,
+        "x": 1008,
+        "y": 1393
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lr",
+        "w": 40,
+        "h": 40,
+        "x": 897,
+        "y": 1004
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ls",
+        "w": 78,
+        "h": 51,
+        "x": 726,
+        "y": 1258
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lt",
+        "w": 32,
+        "h": 62,
+        "x": 951,
+        "y": 886,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lu",
+        "w": 66,
+        "h": 41,
+        "x": 956,
+        "y": 216,
+        "fx": 0,
+        "fy": 0,
+        "fw": 66,
+        "fh": 43
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lv",
+        "w": 60,
+        "h": 60,
+        "x": 954,
+        "y": 343
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lw",
+        "w": 25,
+        "h": 24,
+        "x": 810,
+        "y": 1373,
+        "r": true,
+        "fx": -26,
+        "fy": -1,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lx",
+        "w": 66,
+        "h": 100,
+        "x": 956,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ly",
+        "w": 23,
+        "h": 17,
+        "x": 939,
+        "y": 1073,
+        "fx": -23,
+        "fy": -11,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/lz",
+        "w": 29,
+        "h": 14,
+        "x": 589,
+        "y": 1383,
+        "fx": -22,
+        "fy": -15,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/m",
+        "w": 14,
+        "h": 15,
+        "x": 886,
+        "y": 1336,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ma",
+        "w": 40,
+        "h": 40,
+        "x": 978,
+        "y": 620,
+        "fx": -1,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mb",
+        "w": 39,
+        "h": 39,
+        "x": 978,
+        "y": 745,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mc",
+        "w": 39,
+        "h": 39,
+        "x": 979,
+        "y": 802,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/md",
+        "w": 30,
+        "h": 30,
+        "x": 729,
+        "y": 1311
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/me",
+        "w": 10,
+        "h": 21,
+        "x": 870,
+        "y": 1122,
+        "fx": 0,
+        "fy": -12,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mf",
+        "w": 45,
+        "h": 42,
+        "x": 436,
+        "y": 1355,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mg",
+        "w": 43,
+        "h": 27,
+        "x": 979,
+        "y": 591,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mh",
+        "w": 27,
+        "h": 14,
+        "x": 620,
+        "y": 1383,
+        "fx": -24,
+        "fy": -14,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mi",
+        "w": 70,
+        "h": 72,
+        "x": 209,
+        "y": 1325,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mj",
+        "w": 14,
+        "h": 27,
+        "x": 703,
+        "y": 1370,
+        "r": true,
+        "fx": -24,
+        "fy": -14,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mk",
+        "w": 30,
+        "h": 30,
+        "x": 761,
+        "y": 1311
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ml",
+        "w": 79,
+        "h": 53,
+        "x": 645,
+        "y": 1258
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mm",
+        "w": 14,
+        "h": 27,
+        "x": 719,
+        "y": 1370,
+        "r": true,
+        "fx": -24,
+        "fy": -14,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mn",
+        "w": 14,
+        "h": 26,
+        "x": 854,
+        "y": 1130,
+        "r": true,
+        "fx": -24,
+        "fy": -14,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mo",
+        "w": 17,
+        "h": 19,
+        "x": 885,
+        "y": 1233,
+        "r": true,
+        "fx": -27,
+        "fy": -15,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mp",
+        "w": 40,
+        "h": 40,
+        "x": 979,
+        "y": 662
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mq",
+        "w": 17,
+        "h": 29,
+        "x": 1005,
+        "y": 984,
+        "fx": -32,
+        "fy": 0,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mr",
+        "w": 20,
+        "h": 24,
+        "x": 862,
+        "y": 1212,
+        "fx": -27,
+        "fy": -2,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ms",
+        "w": 21,
+        "h": 22,
+        "x": 891,
+        "y": 1068,
+        "fx": -26,
+        "fy": -5,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mt",
+        "w": 21,
+        "h": 21,
+        "x": 894,
+        "y": 1092,
+        "fx": -26,
+        "fy": -7,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mu",
+        "w": 16,
+        "h": 19,
+        "x": 1006,
+        "y": 570,
+        "r": true,
+        "fx": -27,
+        "fy": -21,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mv",
+        "w": 15,
+        "h": 12,
+        "x": 837,
+        "y": 1335,
+        "fx": -30,
+        "fy": -26,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mw",
+        "w": 12,
+        "h": 13,
+        "x": 1010,
+        "y": 1294,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mx",
+        "w": 13,
+        "h": 12,
+        "x": 918,
+        "y": 1311,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/my",
+        "w": 13,
+        "h": 12,
+        "x": 915,
+        "y": 1338,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/mz",
+        "w": 14,
+        "h": 11,
+        "x": 949,
+        "y": 1328,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/n",
+        "w": 15,
+        "h": 14,
+        "x": 837,
+        "y": 1379,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/na",
+        "w": 30,
+        "h": 30,
+        "x": 543,
+        "y": 1351
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nb",
+        "w": 15,
+        "h": 15,
+        "x": 886,
+        "y": 1286
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nc",
+        "w": 15,
+        "h": 15,
+        "x": 886,
+        "y": 1303
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nd",
+        "w": 33,
+        "h": 15,
+        "x": 764,
+        "y": 949,
+        "r": true,
+        "fx": -26,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ne",
+        "w": 12,
+        "h": 26,
+        "x": 855,
+        "y": 1102,
+        "fx": -27,
+        "fy": -6,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nf",
+        "w": 13,
+        "h": 13,
+        "x": 903,
+        "y": 1296,
+        "fx": -25,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ng",
+        "w": 11,
+        "h": 13,
+        "x": 976,
+        "y": 1382,
+        "fx": -27,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nh",
+        "w": 11,
+        "h": 14,
+        "x": 915,
+        "y": 1352,
+        "fx": -23,
+        "fy": -12,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ni",
+        "w": 13,
+        "h": 13,
+        "x": 918,
+        "y": 1281,
+        "fx": -23,
+        "fy": -18,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nj",
+        "w": 1,
+        "h": 1,
+        "x": 917,
+        "y": 1134,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nk",
+        "w": 4,
+        "h": 4,
+        "x": 1008,
+        "y": 1387
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nl",
+        "w": 4,
+        "h": 4,
+        "x": 1016,
+        "y": 1350
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nm",
+        "w": 30,
+        "h": 30,
+        "x": 575,
+        "y": 1351,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nn",
+        "w": 44,
+        "h": 44,
+        "x": 352,
+        "y": 1353,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/no",
+        "w": 7,
+        "h": 7,
+        "x": 1001,
+        "y": 1291,
+        "fx": -122,
+        "fy": -128,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/np",
+        "w": 10,
+        "h": 13,
+        "x": 970,
+        "y": 1367,
+        "r": true,
+        "fx": -117,
+        "fy": -121,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nq",
+        "w": 20,
+        "h": 25,
+        "x": 861,
+        "y": 1185,
+        "r": true,
+        "fx": -116,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nr",
+        "w": 28,
+        "h": 27,
+        "x": 649,
+        "y": 1370,
+        "fx": -114,
+        "fy": -104,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ns",
+        "w": 27,
+        "h": 42,
+        "x": 483,
+        "y": 1355,
+        "fx": -116,
+        "fy": -93,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nt",
+        "w": 51,
+        "h": 25,
+        "x": 645,
+        "y": 1313,
+        "r": true,
+        "fx": -117,
+        "fy": -84,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nu",
+        "w": 24,
+        "h": 57,
+        "x": 871,
+        "y": 1004,
+        "fx": -117,
+        "fy": -78,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nv",
+        "w": 59,
+        "h": 25,
+        "x": 878,
+        "y": 977,
+        "r": true,
+        "fx": -117,
+        "fy": -74,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nw",
+        "w": 28,
+        "h": 63,
+        "x": 827,
+        "y": 1000,
+        "fx": -116,
+        "fy": -72,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nx",
+        "w": 65,
+        "h": 26,
+        "x": 878,
+        "y": 949,
+        "r": true,
+        "fx": -116,
+        "fy": -70,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ny",
+        "w": 25,
+        "h": 66,
+        "x": 979,
+        "y": 523,
+        "fx": -117,
+        "fy": -68,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/nz",
+        "w": 26,
+        "h": 70,
+        "x": 951,
+        "y": 671,
+        "fx": -117,
+        "fy": -66,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/o",
+        "w": 38,
+        "h": 29,
+        "x": 945,
+        "y": 950
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oa",
+        "w": 25,
+        "h": 70,
+        "x": 951,
+        "y": 743,
+        "fx": -116,
+        "fy": -64,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ob",
+        "w": 26,
+        "h": 72,
+        "x": 951,
+        "y": 523,
+        "fx": -115,
+        "fy": -63,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oc",
+        "w": 25,
+        "h": 72,
+        "x": 951,
+        "y": 597,
+        "fx": -116,
+        "fy": -62,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/od",
+        "w": 68,
+        "h": 26,
+        "x": 954,
+        "y": 259,
+        "r": true,
+        "fx": -117,
+        "fy": -67,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oe",
+        "w": 68,
+        "h": 26,
+        "x": 954,
+        "y": 287,
+        "r": true,
+        "fx": -116,
+        "fy": -65,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/of",
+        "w": 68,
+        "h": 26,
+        "x": 954,
+        "y": 315,
+        "r": true,
+        "fx": -116,
+        "fy": -63,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/og",
+        "w": 25,
+        "h": 63,
+        "x": 827,
+        "y": 1130,
+        "fx": -115,
+        "fy": -62,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oh",
+        "w": 73,
+        "h": 26,
+        "x": 542,
+        "y": 1323,
+        "r": true,
+        "fx": -115,
+        "fy": -62,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oi",
+        "w": 26,
+        "h": 69,
+        "x": 951,
+        "y": 815,
+        "fx": -114,
+        "fy": -60,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oj",
+        "w": 26,
+        "h": 74,
+        "x": 324,
+        "y": 1323,
+        "fx": -113,
+        "fy": -60,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ok",
+        "w": 26,
+        "h": 63,
+        "x": 827,
+        "y": 1065,
+        "fx": -114,
+        "fy": -66,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ol",
+        "w": 10,
+        "h": 16,
+        "x": 953,
+        "y": 1146
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/om",
+        "w": 8,
+        "h": 3,
+        "x": 607,
+        "y": 1351
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/on",
+        "w": 12,
+        "h": 16,
+        "x": 939,
+        "y": 1197
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oo",
+        "w": 15,
+        "h": 11,
+        "x": 1007,
+        "y": 1199,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/op",
+        "w": 10,
+        "h": 9,
+        "x": 982,
+        "y": 1317,
+        "r": true,
+        "fx": -3,
+        "fy": -4,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oq",
+        "w": 15,
+        "h": 24,
+        "x": 1007,
+        "y": 1015,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/or",
+        "w": 3,
+        "h": 15,
+        "x": 1019,
+        "y": 745,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/os",
+        "w": 24,
+        "h": 15,
+        "x": 799,
+        "y": 949,
+        "fx": -6,
+        "fy": -3,
+        "fw": 34,
+        "fh": 23
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ot",
+        "w": 12,
+        "h": 13,
+        "x": 928,
+        "y": 1353,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ou",
+        "w": 13,
+        "h": 12,
+        "x": 997,
+        "y": 1177,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ov",
+        "w": 12,
+        "h": 13,
+        "x": 942,
+        "y": 1353,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ow",
+        "w": 7,
+        "h": 5,
+        "x": 941,
+        "y": 403,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ox",
+        "w": 11,
+        "h": 7,
+        "x": 190,
+        "y": 1389,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oy",
+        "w": 15,
+        "h": 9,
+        "x": 869,
+        "y": 1372,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/oz",
+        "w": 16,
+        "h": 8,
+        "x": 57,
+        "y": 1389,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/p",
+        "w": 182,
+        "h": 537,
+        "x": 767,
+        "y": 410,
+        "fx": -45,
+        "fy": -169,
+        "fw": 272,
+        "fh": 1000
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pa",
+        "w": 10,
+        "h": 15,
+        "x": 1012,
+        "y": 1165
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pb",
+        "w": 11,
+        "h": 14,
+        "x": 926,
+        "y": 1383,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pc",
+        "w": 15,
+        "h": 11,
+        "x": 1007,
+        "y": 1212,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pd",
+        "w": 10,
+        "h": 16,
+        "x": 953,
+        "y": 1164,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pe",
+        "w": 10,
+        "h": 16,
+        "x": 953,
+        "y": 1182,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pf",
+        "w": 15,
+        "h": 11,
+        "x": 1007,
+        "y": 1225,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pg",
+        "w": 10,
+        "h": 15,
+        "x": 1012,
+        "y": 1182,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ph",
+        "w": 14,
+        "h": 11,
+        "x": 930,
+        "y": 1340,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pi",
+        "w": 10,
+        "h": 16,
+        "x": 953,
+        "y": 1200,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pj",
+        "w": 15,
+        "h": 11,
+        "x": 1007,
+        "y": 1238,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pk",
+        "w": 10,
+        "h": 16,
+        "x": 967,
+        "y": 1215,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pl",
+        "w": 11,
+        "h": 15,
+        "x": 980,
+        "y": 1240,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pm",
+        "w": 10,
+        "h": 16,
+        "x": 967,
+        "y": 1233
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pn",
+        "w": 12,
+        "h": 16,
+        "x": 938,
+        "y": 1232
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/po",
+        "w": 11,
+        "h": 13,
+        "x": 976,
+        "y": 1382,
+        "fx": -27,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pp",
+        "w": 5,
+        "h": 6,
+        "x": 1017,
+        "y": 1317,
+        "fx": -3,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pq",
+        "w": 13,
+        "h": 13,
+        "x": 903,
+        "y": 1311,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pr",
+        "w": 5,
+        "h": 5,
+        "x": 1006,
+        "y": 1330,
+        "fx": -11,
+        "fy": -18,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ps",
+        "w": 7,
+        "h": 7,
+        "x": 1001,
+        "y": 1300,
+        "fx": -10,
+        "fy": -14,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pt",
+        "w": 13,
+        "h": 13,
+        "x": 918,
+        "y": 1296,
+        "fx": -7,
+        "fy": -8,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pu",
+        "w": 17,
+        "h": 17,
+        "x": 607,
+        "y": 981,
+        "fx": -5,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pv",
+        "w": 5,
+        "h": 5,
+        "x": 1006,
+        "y": 1337,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pw",
+        "w": 7,
+        "h": 7,
+        "x": 903,
+        "y": 1326,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/px",
+        "w": 3,
+        "h": 3,
+        "x": 1014,
+        "y": 1384,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/py",
+        "w": 21,
+        "h": 23,
+        "x": 759,
+        "y": 1374,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/pz",
+        "w": 3,
+        "h": 3,
+        "x": 1014,
+        "y": 1384,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/q",
+        "w": 244,
+        "h": 998,
+        "x": 247,
+        "y": 1,
+        "fx": -14,
+        "fy": 0,
+        "fw": 272,
+        "fh": 1000
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qa",
+        "w": 3,
+        "h": 3,
+        "x": 1014,
+        "y": 1384,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qb",
+        "w": 5,
+        "h": 5,
+        "x": 1006,
+        "y": 1337,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qc",
+        "w": 7,
+        "h": 7,
+        "x": 903,
+        "y": 1326,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qd",
+        "w": 9,
+        "h": 11,
+        "x": 965,
+        "y": 1328,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qe",
+        "w": 21,
+        "h": 23,
+        "x": 759,
+        "y": 1374,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qf",
+        "w": 10,
+        "h": 10,
+        "x": 988,
+        "y": 1328
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qg",
+        "w": 20,
+        "h": 20,
+        "x": 939,
+        "y": 1111
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qh",
+        "w": 4,
+        "h": 10,
+        "x": 988,
+        "y": 1340
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qi",
+        "w": 16,
+        "h": 16,
+        "x": 904,
+        "y": 1179
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qj",
+        "w": 11,
+        "h": 15,
+        "x": 902,
+        "y": 1336
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qk",
+        "w": 13,
+        "h": 15,
+        "x": 965,
+        "y": 1164,
+        "r": true,
+        "fx": -30,
+        "fy": -25,
+        "fw": 76,
+        "fh": 76
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ql",
+        "w": 11,
+        "h": 15,
+        "x": 902,
+        "y": 1353
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qm",
+        "w": 15,
+        "h": 11,
+        "x": 887,
+        "y": 1370,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qn",
+        "w": 14,
+        "h": 10,
+        "x": 933,
+        "y": 1315
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qo",
+        "w": 15,
+        "h": 11,
+        "x": 904,
+        "y": 1268,
+        "r": true,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qp",
+        "w": 11,
+        "h": 14,
+        "x": 939,
+        "y": 1383,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qq",
+        "w": 21,
+        "h": 14,
+        "x": 963,
+        "y": 1095,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qr",
+        "w": 32,
+        "h": 23,
+        "x": 827,
+        "y": 1195,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qs",
+        "w": 23,
+        "h": 20,
+        "x": 914,
+        "y": 1068,
+        "fx": -4,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qt",
+        "w": 22,
+        "h": 17,
+        "x": 939,
+        "y": 1092,
+        "fx": -6,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qu",
+        "w": 12,
+        "h": 15,
+        "x": 979,
+        "y": 1190,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qv",
+        "w": 14,
+        "h": 12,
+        "x": 1008,
+        "y": 1265,
+        "r": true,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qw",
+        "w": 15,
+        "h": 11,
+        "x": 921,
+        "y": 1268,
+        "r": true,
+        "fx": -27,
+        "fy": -19,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qx",
+        "w": 12,
+        "h": 15,
+        "x": 979,
+        "y": 1207,
+        "fx": -26,
+        "fy": -18,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qy",
+        "w": 11,
+        "h": 15,
+        "x": 933,
+        "y": 1281
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/qz",
+        "w": 11,
+        "h": 33,
+        "x": 1011,
+        "y": 103,
+        "fx": -28,
+        "fy": 0,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/r",
+        "w": 244,
+        "h": 1000,
+        "x": 1,
+        "y": 1,
+        "fx": -14,
+        "fy": 0,
+        "fw": 272,
+        "fh": 1000
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ra",
+        "w": 11,
+        "h": 29,
+        "x": 1011,
+        "y": 138,
+        "fx": -28,
+        "fy": -4,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rb",
+        "w": 11,
+        "h": 21,
+        "x": 882,
+        "y": 1119,
+        "fx": -28,
+        "fy": -12,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rc",
+        "w": 11,
+        "h": 13,
+        "x": 982,
+        "y": 1367,
+        "fx": -28,
+        "fy": -20,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rd",
+        "w": 13,
+        "h": 15,
+        "x": 938,
+        "y": 1180,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/re",
+        "w": 13,
+        "h": 15,
+        "x": 938,
+        "y": 1215,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rf",
+        "w": 13,
+        "h": 15,
+        "x": 938,
+        "y": 1180,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rg",
+        "w": 13,
+        "h": 15,
+        "x": 952,
+        "y": 1232,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rh",
+        "w": 13,
+        "h": 11,
+        "x": 904,
+        "y": 1370
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ri",
+        "w": 4,
+        "h": 4,
+        "x": 1008,
+        "y": 1387
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rj",
+        "w": 180,
+        "h": 58,
+        "x": 645,
+        "y": 1160
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rk",
+        "w": 11,
+        "h": 15,
+        "x": 933,
+        "y": 1298
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rl",
+        "w": 13,
+        "h": 17,
+        "x": 806,
+        "y": 1276,
+        "r": true,
+        "fx": -9,
+        "fy": -18,
+        "fw": 35,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rm",
+        "w": 13,
+        "h": 17,
+        "x": 821,
+        "y": 1274,
+        "r": true,
+        "fx": -9,
+        "fy": -9,
+        "fw": 35,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rn",
+        "w": 12,
+        "h": 14,
+        "x": 886,
+        "y": 1383
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ro",
+        "w": 131,
+        "h": 120,
+        "x": 493,
+        "y": 859,
+        "fx": -33,
+        "fy": -13,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rp",
+        "w": 48,
+        "h": 59,
+        "x": 951,
+        "y": 405,
+        "fx": -103,
+        "fy": -133,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rq",
+        "w": 7,
+        "h": 40,
+        "x": 1015,
+        "y": 883,
+        "r": true,
+        "fx": -36,
+        "fy": -126,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rr",
+        "w": 41,
+        "h": 72,
+        "x": 281,
+        "y": 1325,
+        "r": true,
+        "fx": -98,
+        "fy": -48,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rs",
+        "w": 160,
+        "h": 36,
+        "x": 645,
+        "y": 1220,
+        "fx": -10,
+        "fy": -26,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rt",
+        "w": 87,
+        "h": 30,
+        "x": 453,
+        "y": 1323,
+        "fx": -10,
+        "fy": -59,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ru",
+        "w": 30,
+        "h": 18,
+        "x": 493,
+        "y": 981,
+        "r": true,
+        "fx": -150,
+        "fy": -32,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rv",
+        "w": 21,
+        "h": 56,
+        "x": 1001,
+        "y": 405,
+        "r": true,
+        "fx": -97,
+        "fy": -50,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rw",
+        "w": 136,
+        "h": 105,
+        "x": 626,
+        "y": 859,
+        "fx": -10,
+        "fy": -28,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rx",
+        "w": 99,
+        "h": 28,
+        "x": 352,
+        "y": 1323,
+        "fx": -13,
+        "fy": -24,
+        "fw": 180,
+        "fh": 192
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/ry",
+        "w": 180,
+        "h": 192,
+        "x": 645,
+        "y": 966
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/rz",
+        "w": 15,
+        "h": 11,
+        "x": 1007,
+        "y": 1199,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/s",
+        "w": 320,
+        "h": 320,
+        "x": 1,
+        "y": 1003
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/sa",
+        "w": 15,
+        "h": 10,
+        "x": 993,
+        "y": 1279,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/sb",
+        "w": 11,
+        "h": 14,
+        "x": 952,
+        "y": 1383,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/t",
+        "w": 320,
+        "h": 320,
+        "x": 323,
+        "y": 1001
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/u",
+        "w": 4,
+        "h": 4,
+        "x": 1016,
+        "y": 1356
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/v",
+        "w": 22,
+        "h": 28,
+        "x": 797,
+        "y": 1343,
+        "fx": -13,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/w",
+        "w": 48,
+        "h": 55,
+        "x": 951,
+        "y": 466,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/x",
+        "w": 16,
+        "h": 23,
+        "x": 1006,
+        "y": 521,
+        "fx": -13,
+        "fy": -5,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/y",
+        "w": 14,
+        "h": 11,
+        "x": 805,
+        "y": 1330,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/holy_mother_001/.gen/movie/z",
+        "w": 14,
+        "h": 11,
+        "x": 956,
+        "y": 1354,
+        "r": true
+    }
+]

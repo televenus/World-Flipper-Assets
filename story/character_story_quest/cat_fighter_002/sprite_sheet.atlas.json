@@ -1,0 +1,886 @@
+[
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 218,
+        "y": 493
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/aa",
+        "w": 12,
+        "h": 14,
+        "x": 258,
+        "y": 427
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ab",
+        "w": 12,
+        "h": 14,
+        "x": 272,
+        "y": 427
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ac",
+        "w": 5,
+        "h": 6,
+        "x": 79,
+        "y": 497,
+        "r": true,
+        "fx": -5,
+        "fy": -10,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ad",
+        "w": 6,
+        "h": 6,
+        "x": 71,
+        "y": 497,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ae",
+        "w": 12,
+        "h": 13,
+        "x": 300,
+        "y": 459,
+        "fx": -2,
+        "fy": -2,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/af",
+        "w": 14,
+        "h": 14,
+        "x": 164,
+        "y": 478,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ag",
+        "w": 14,
+        "h": 14,
+        "x": 180,
+        "y": 478,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ah",
+        "w": 14,
+        "h": 14,
+        "x": 196,
+        "y": 478,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ai",
+        "w": 14,
+        "h": 14,
+        "x": 212,
+        "y": 477,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/aj",
+        "w": 14,
+        "h": 14,
+        "x": 228,
+        "y": 477,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ak",
+        "w": 14,
+        "h": 14,
+        "x": 244,
+        "y": 477,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/al",
+        "w": 13,
+        "h": 14,
+        "x": 243,
+        "y": 395,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/am",
+        "w": 13,
+        "h": 14,
+        "x": 243,
+        "y": 411,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/an",
+        "w": 13,
+        "h": 14,
+        "x": 243,
+        "y": 395,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ao",
+        "w": 13,
+        "h": 14,
+        "x": 243,
+        "y": 427,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ap",
+        "w": 12,
+        "h": 14,
+        "x": 276,
+        "y": 475,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/aq",
+        "w": 14,
+        "h": 12,
+        "x": 276,
+        "y": 491,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ar",
+        "w": 12,
+        "h": 14,
+        "x": 276,
+        "y": 475,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/as",
+        "w": 12,
+        "h": 14,
+        "x": 286,
+        "y": 427,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/at",
+        "w": 5,
+        "h": 6,
+        "x": 79,
+        "y": 497,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/au",
+        "w": 12,
+        "h": 14,
+        "x": 287,
+        "y": 395,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/av",
+        "w": 6,
+        "h": 6,
+        "x": 71,
+        "y": 497,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/aw",
+        "w": 12,
+        "h": 16,
+        "x": 106,
+        "y": 478,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ax",
+        "w": 14,
+        "h": 14,
+        "x": 260,
+        "y": 477,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ay",
+        "w": 14,
+        "h": 15,
+        "x": 137,
+        "y": 478,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/az",
+        "w": 12,
+        "h": 14,
+        "x": 287,
+        "y": 411,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/b",
+        "w": 220,
+        "h": 184,
+        "x": 517,
+        "y": 318,
+        "r": true,
+        "fx": -44,
+        "fy": -44,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ba",
+        "w": 12,
+        "h": 14,
+        "x": 287,
+        "y": 395,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bb",
+        "w": 12,
+        "h": 14,
+        "x": 286,
+        "y": 443,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bc",
+        "w": 3,
+        "h": 7,
+        "x": 195,
+        "y": 494
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bd",
+        "w": 3,
+        "h": 8,
+        "x": 151,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/be",
+        "w": 4,
+        "h": 8,
+        "x": 139,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bf",
+        "w": 9,
+        "h": 4,
+        "x": 49,
+        "y": 499,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bg",
+        "w": 4,
+        "h": 8,
+        "x": 139,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bh",
+        "w": 9,
+        "h": 4,
+        "x": 49,
+        "y": 499,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bi",
+        "w": 3,
+        "h": 8,
+        "x": 156,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bj",
+        "w": 3,
+        "h": 7,
+        "x": 200,
+        "y": 494
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bk",
+        "w": 9,
+        "h": 4,
+        "x": 60,
+        "y": 499,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bl",
+        "w": 4,
+        "h": 8,
+        "x": 145,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bm",
+        "w": 9,
+        "h": 4,
+        "x": 60,
+        "y": 499,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bn",
+        "w": 4,
+        "h": 8,
+        "x": 145,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bo",
+        "w": 13,
+        "h": 14,
+        "x": 258,
+        "y": 395,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bp",
+        "w": 13,
+        "h": 14,
+        "x": 258,
+        "y": 411,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bq",
+        "w": 15,
+        "h": 15,
+        "x": 120,
+        "y": 478,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/br",
+        "w": 4,
+        "h": 5,
+        "x": 212,
+        "y": 493,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bs",
+        "w": 7,
+        "h": 7,
+        "x": 118,
+        "y": 496,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bt",
+        "w": 5,
+        "h": 7,
+        "x": 188,
+        "y": 494,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bu",
+        "w": 17,
+        "h": 17,
+        "x": 70,
+        "y": 478,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bv",
+        "w": 12,
+        "h": 14,
+        "x": 286,
+        "y": 459,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bw",
+        "w": 15,
+        "h": 16,
+        "x": 89,
+        "y": 478
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bx",
+        "w": 240,
+        "h": 440,
+        "x": 1,
+        "y": 1,
+        "fx": -100,
+        "fy": 0,
+        "fw": 440,
+        "fh": 440
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/by",
+        "w": 8,
+        "h": 7,
+        "x": 108,
+        "y": 496,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/bz",
+        "w": 21,
+        "h": 21,
+        "x": 26,
+        "y": 478,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/c",
+        "w": 11,
+        "h": 13,
+        "x": 304,
+        "y": 474,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ca",
+        "w": 19,
+        "h": 19,
+        "x": 49,
+        "y": 478,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/cb",
+        "w": 7,
+        "h": 5,
+        "x": 86,
+        "y": 497,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/cc",
+        "w": 11,
+        "h": 7,
+        "x": 95,
+        "y": 496,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/cd",
+        "w": 9,
+        "h": 15,
+        "x": 153,
+        "y": 478,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ce",
+        "w": 11,
+        "h": 14,
+        "x": 300,
+        "y": 427,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/cf",
+        "w": 5,
+        "h": 5,
+        "x": 205,
+        "y": 494,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/cg",
+        "w": 7,
+        "h": 7,
+        "x": 161,
+        "y": 495,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ch",
+        "w": 11,
+        "h": 9,
+        "x": 170,
+        "y": 494,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/ci",
+        "w": 23,
+        "h": 21,
+        "x": 1,
+        "y": 481,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/d",
+        "w": 3,
+        "h": 9,
+        "x": 183,
+        "y": 494,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/e",
+        "w": 13,
+        "h": 12,
+        "x": 292,
+        "y": 491,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/f",
+        "w": 12,
+        "h": 14,
+        "x": 290,
+        "y": 475,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/g",
+        "w": 11,
+        "h": 12,
+        "x": 307,
+        "y": 489,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/h",
+        "w": 11,
+        "h": 14,
+        "x": 301,
+        "y": 395,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/i",
+        "w": 12,
+        "h": 14,
+        "x": 273,
+        "y": 395
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/j",
+        "w": 10,
+        "h": 8,
+        "x": 127,
+        "y": 495,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/k",
+        "w": 199,
+        "h": 315,
+        "x": 517,
+        "y": 1,
+        "fx": -28,
+        "fy": -43,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/l",
+        "w": 63,
+        "h": 32,
+        "x": 207,
+        "y": 443,
+        "r": true,
+        "fx": -190,
+        "fy": -59,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/m",
+        "w": 20,
+        "h": 36,
+        "x": 1,
+        "y": 443,
+        "fx": -45,
+        "fy": -260,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/n",
+        "w": 163,
+        "h": 277,
+        "x": 718,
+        "y": 1,
+        "fx": -52,
+        "fy": -55,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/o",
+        "w": 182,
+        "h": 33,
+        "x": 23,
+        "y": 443,
+        "fx": -45,
+        "fy": -253,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/p",
+        "w": 178,
+        "h": 223,
+        "x": 739,
+        "y": 280,
+        "fx": -47,
+        "fy": -123,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/q",
+        "w": 171,
+        "h": 261,
+        "x": 919,
+        "y": 203,
+        "fx": -45,
+        "fy": -78,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/r",
+        "w": 225,
+        "h": 200,
+        "x": 883,
+        "y": 1,
+        "fx": -7,
+        "fy": -45,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/s",
+        "w": 272,
+        "h": 392,
+        "x": 243,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/t",
+        "w": 4,
+        "h": 4,
+        "x": 218,
+        "y": 499
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/u",
+        "w": 11,
+        "h": 14,
+        "x": 301,
+        "y": 411,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/v",
+        "w": 12,
+        "h": 14,
+        "x": 273,
+        "y": 411
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/w",
+        "w": 11,
+        "h": 14,
+        "x": 301,
+        "y": 395,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/x",
+        "w": 11,
+        "h": 14,
+        "x": 300,
+        "y": 443,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/y",
+        "w": 12,
+        "h": 14,
+        "x": 272,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/cat_fighter_002/.gen/movie/z",
+        "w": 12,
+        "h": 14,
+        "x": 272,
+        "y": 459
+    }
+]

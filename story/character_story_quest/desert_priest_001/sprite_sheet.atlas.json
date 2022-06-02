@@ -1,0 +1,1137 @@
+[
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1108,
+        "y": 541
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/aa",
+        "w": 23,
+        "h": 21,
+        "x": 597,
+        "y": 524,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ab",
+        "w": 7,
+        "h": 3,
+        "x": 853,
+        "y": 525,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ac",
+        "w": 8,
+        "h": 3,
+        "x": 833,
+        "y": 525,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ad",
+        "w": 8,
+        "h": 4,
+        "x": 1088,
+        "y": 541,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ae",
+        "w": 9,
+        "h": 4,
+        "x": 812,
+        "y": 486,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/af",
+        "w": 8,
+        "h": 4,
+        "x": 1088,
+        "y": 541,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ag",
+        "w": 9,
+        "h": 4,
+        "x": 812,
+        "y": 486,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ah",
+        "w": 8,
+        "h": 3,
+        "x": 843,
+        "y": 525,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ai",
+        "w": 7,
+        "h": 3,
+        "x": 862,
+        "y": 525,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/aj",
+        "w": 9,
+        "h": 4,
+        "x": 812,
+        "y": 492,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ak",
+        "w": 8,
+        "h": 4,
+        "x": 1098,
+        "y": 541,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/al",
+        "w": 9,
+        "h": 4,
+        "x": 812,
+        "y": 492,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/am",
+        "w": 8,
+        "h": 4,
+        "x": 1098,
+        "y": 541,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/an",
+        "w": 272,
+        "h": 280,
+        "x": 823,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ao",
+        "w": 12,
+        "h": 13,
+        "x": 1240,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ap",
+        "w": 14,
+        "h": 12,
+        "x": 796,
+        "y": 456,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/aq",
+        "w": 13,
+        "h": 15,
+        "x": 812,
+        "y": 530,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ar",
+        "w": 272,
+        "h": 280,
+        "x": 1097,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/as",
+        "w": 12,
+        "h": 13,
+        "x": 1254,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/at",
+        "w": 12,
+        "h": 13,
+        "x": 1240,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/au",
+        "w": 12,
+        "h": 13,
+        "x": 1268,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/av",
+        "w": 13,
+        "h": 15,
+        "x": 827,
+        "y": 530,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/aw",
+        "w": 13,
+        "h": 15,
+        "x": 812,
+        "y": 530,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ax",
+        "w": 6,
+        "h": 5,
+        "x": 1261,
+        "y": 540,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ay",
+        "w": 6,
+        "h": 6,
+        "x": 1333,
+        "y": 537,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/az",
+        "w": 12,
+        "h": 16,
+        "x": 722,
+        "y": 525,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/b",
+        "w": 308,
+        "h": 272,
+        "x": 1371,
+        "y": 243,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 544
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ba",
+        "w": 14,
+        "h": 14,
+        "x": 796,
+        "y": 440,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bb",
+        "w": 14,
+        "h": 15,
+        "x": 796,
+        "y": 423,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bc",
+        "w": 9,
+        "h": 9,
+        "x": 812,
+        "y": 453,
+        "fx": -4,
+        "fy": -4,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bd",
+        "w": 9,
+        "h": 9,
+        "x": 812,
+        "y": 464
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/be",
+        "w": 59,
+        "h": 59,
+        "x": 735,
+        "y": 464,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bf",
+        "w": 59,
+        "h": 59,
+        "x": 1681,
+        "y": 472,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bg",
+        "w": 10,
+        "h": 5,
+        "x": 1240,
+        "y": 540,
+        "r": true,
+        "fx": -5,
+        "fy": -3,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bh",
+        "w": 10,
+        "h": 10,
+        "x": 1333,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bi",
+        "w": 20,
+        "h": 20,
+        "x": 549,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bj",
+        "w": 10,
+        "h": 4,
+        "x": 1076,
+        "y": 541,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bk",
+        "w": 16,
+        "h": 16,
+        "x": 704,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bl",
+        "w": 12,
+        "h": 14,
+        "x": 1076,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bm",
+        "w": 14,
+        "h": 12,
+        "x": 796,
+        "y": 470,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bn",
+        "w": 14,
+        "h": 12,
+        "x": 796,
+        "y": 456,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bo",
+        "w": 12,
+        "h": 14,
+        "x": 1090,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bp",
+        "w": 11,
+        "h": 17,
+        "x": 691,
+        "y": 525,
+        "fx": -17,
+        "fy": -6,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bq",
+        "w": 9,
+        "h": 9,
+        "x": 812,
+        "y": 475,
+        "fx": -26,
+        "fy": -16,
+        "fw": 60,
+        "fh": 43
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/br",
+        "w": 14,
+        "h": 12,
+        "x": 796,
+        "y": 484,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bs",
+        "w": 14,
+        "h": 12,
+        "x": 796,
+        "y": 498,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bt",
+        "w": 12,
+        "h": 14,
+        "x": 1160,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bu",
+        "w": 14,
+        "h": 12,
+        "x": 796,
+        "y": 498,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bv",
+        "w": 12,
+        "h": 14,
+        "x": 1174,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bw",
+        "w": 10,
+        "h": 16,
+        "x": 764,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bx",
+        "w": 12,
+        "h": 16,
+        "x": 736,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/by",
+        "w": 15,
+        "h": 11,
+        "x": 796,
+        "y": 512,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/bz",
+        "w": 11,
+        "h": 15,
+        "x": 936,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/c",
+        "w": 10,
+        "h": 16,
+        "x": 776,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ca",
+        "w": 12,
+        "h": 13,
+        "x": 1282,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cb",
+        "w": 12,
+        "h": 13,
+        "x": 1296,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cc",
+        "w": 12,
+        "h": 13,
+        "x": 1310,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cd",
+        "w": 12,
+        "h": 14,
+        "x": 1104,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ce",
+        "w": 12,
+        "h": 14,
+        "x": 1118,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cf",
+        "w": 12,
+        "h": 14,
+        "x": 1132,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cg",
+        "w": 13,
+        "h": 15,
+        "x": 842,
+        "y": 530,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ch",
+        "w": 24,
+        "h": 21,
+        "x": 571,
+        "y": 524,
+        "r": true,
+        "fx": -140,
+        "fy": -162,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ci",
+        "w": 33,
+        "h": 50,
+        "x": 788,
+        "y": 371,
+        "r": true,
+        "fx": -111,
+        "fy": -149,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cj",
+        "w": 272,
+        "h": 368,
+        "x": 549,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ck",
+        "w": 8,
+        "h": 7,
+        "x": 812,
+        "y": 503,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cl",
+        "w": 21,
+        "h": 21,
+        "x": 647,
+        "y": 524,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cm",
+        "w": 19,
+        "h": 19,
+        "x": 670,
+        "y": 525,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cn",
+        "w": 10,
+        "h": 15,
+        "x": 1040,
+        "y": 525,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/co",
+        "w": 10,
+        "h": 16,
+        "x": 788,
+        "y": 525,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cp",
+        "w": 8,
+        "h": 16,
+        "x": 813,
+        "y": 512
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cq",
+        "w": 10,
+        "h": 16,
+        "x": 800,
+        "y": 525,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cr",
+        "w": 10,
+        "h": 15,
+        "x": 1052,
+        "y": 525,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cs",
+        "w": 10,
+        "h": 16,
+        "x": 887,
+        "y": 525,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/ct",
+        "w": 10,
+        "h": 16,
+        "x": 899,
+        "y": 525,
+        "fx": -28,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cu",
+        "w": 11,
+        "h": 14,
+        "x": 1188,
+        "y": 525,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cv",
+        "w": 11,
+        "h": 14,
+        "x": 1201,
+        "y": 525,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cw",
+        "w": 11,
+        "h": 15,
+        "x": 949,
+        "y": 525,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cx",
+        "w": 11,
+        "h": 15,
+        "x": 962,
+        "y": 525,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cy",
+        "w": 11,
+        "h": 14,
+        "x": 1214,
+        "y": 525,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/cz",
+        "w": 13,
+        "h": 15,
+        "x": 857,
+        "y": 530,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/d",
+        "w": 8,
+        "h": 3,
+        "x": 823,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/da",
+        "w": 13,
+        "h": 15,
+        "x": 872,
+        "y": 530,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/db",
+        "w": 13,
+        "h": 15,
+        "x": 857,
+        "y": 530,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/dc",
+        "w": 13,
+        "h": 15,
+        "x": 921,
+        "y": 525,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/dd",
+        "w": 23,
+        "h": 21,
+        "x": 622,
+        "y": 524,
+        "r": true,
+        "fx": -123,
+        "fy": -162,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/de",
+        "w": 185,
+        "h": 227,
+        "x": 1681,
+        "y": 243,
+        "r": true,
+        "fx": -14,
+        "fy": -24,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/df",
+        "w": 184,
+        "h": 151,
+        "x": 549,
+        "y": 371,
+        "r": true,
+        "fx": -44,
+        "fy": -1016,
+        "fw": 240,
+        "fh": 1200
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/dg",
+        "w": 125,
+        "h": 103,
+        "x": 1868,
+        "y": 243
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/dh",
+        "w": 1200,
+        "h": 240,
+        "x": 823,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/di",
+        "w": 11,
+        "h": 15,
+        "x": 975,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/dj",
+        "w": 11,
+        "h": 15,
+        "x": 988,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/dk",
+        "w": 7,
+        "h": 5,
+        "x": 1252,
+        "y": 540,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/dl",
+        "w": 7,
+        "h": 11,
+        "x": 1324,
+        "y": 525,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/dm",
+        "w": 9,
+        "h": 15,
+        "x": 812,
+        "y": 423,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/e",
+        "w": 12,
+        "h": 16,
+        "x": 750,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/f",
+        "w": 11,
+        "h": 15,
+        "x": 1001,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/g",
+        "w": 9,
+        "h": 3,
+        "x": 812,
+        "y": 498
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/h",
+        "w": 12,
+        "h": 14,
+        "x": 1146,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/i",
+        "w": 12,
+        "h": 13,
+        "x": 1296,
+        "y": 525,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/j",
+        "w": 272,
+        "h": 544,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/k",
+        "w": 272,
+        "h": 544,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/l",
+        "w": 4,
+        "h": 4,
+        "x": 1114,
+        "y": 541
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/m",
+        "w": 11,
+        "h": 14,
+        "x": 1227,
+        "y": 525,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/n",
+        "w": 8,
+        "h": 16,
+        "x": 911,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/o",
+        "w": 5,
+        "h": 5,
+        "x": 1269,
+        "y": 540,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/p",
+        "w": 7,
+        "h": 7,
+        "x": 1324,
+        "y": 538,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/q",
+        "w": 11,
+        "h": 15,
+        "x": 1014,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/r",
+        "w": 3,
+        "h": 3,
+        "x": 871,
+        "y": 525,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/s",
+        "w": 23,
+        "h": 21,
+        "x": 597,
+        "y": 524,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/t",
+        "w": 3,
+        "h": 3,
+        "x": 871,
+        "y": 525,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/u",
+        "w": 3,
+        "h": 3,
+        "x": 871,
+        "y": 525,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/v",
+        "w": 10,
+        "h": 15,
+        "x": 1064,
+        "y": 525,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/w",
+        "w": 11,
+        "h": 15,
+        "x": 1027,
+        "y": 525
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/x",
+        "w": 5,
+        "h": 5,
+        "x": 1269,
+        "y": 540,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/y",
+        "w": 7,
+        "h": 7,
+        "x": 1324,
+        "y": 538,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/desert_priest_001/.gen/movie/z",
+        "w": 9,
+        "h": 11,
+        "x": 812,
+        "y": 440,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    }
+]

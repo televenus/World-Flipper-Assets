@@ -1,0 +1,3907 @@
+[
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1861,
+        "y": 450
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/aa",
+        "w": 8,
+        "h": 3,
+        "x": 867,
+        "y": 1020
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ab",
+        "w": 16,
+        "h": 12,
+        "x": 1809,
+        "y": 440,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ac",
+        "w": 12,
+        "h": 13,
+        "x": 1788,
+        "y": 505,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ad",
+        "w": 15,
+        "h": 14,
+        "x": 1820,
+        "y": 347,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ae",
+        "w": 272,
+        "h": 392,
+        "x": 1203,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/af",
+        "w": 4,
+        "h": 4,
+        "x": 1787,
+        "y": 749
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ag",
+        "w": 15,
+        "h": 14,
+        "x": 1854,
+        "y": 389,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ah",
+        "w": 15,
+        "h": 14,
+        "x": 1820,
+        "y": 347,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ai",
+        "w": 15,
+        "h": 14,
+        "x": 1854,
+        "y": 405,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/aj",
+        "w": 12,
+        "h": 14,
+        "x": 1805,
+        "y": 567
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ak",
+        "w": 12,
+        "h": 14,
+        "x": 1786,
+        "y": 690
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/al",
+        "w": 12,
+        "h": 14,
+        "x": 1784,
+        "y": 733
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/am",
+        "w": 16,
+        "h": 10,
+        "x": 1836,
+        "y": 398,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/an",
+        "w": 16,
+        "h": 12,
+        "x": 1770,
+        "y": 505,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ao",
+        "w": 15,
+        "h": 16,
+        "x": 1820,
+        "y": 311
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ap",
+        "w": 12,
+        "h": 12,
+        "x": 1728,
+        "y": 993,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/aq",
+        "w": 12,
+        "h": 12,
+        "x": 1833,
+        "y": 546,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ar",
+        "w": 14,
+        "h": 12,
+        "x": 1771,
+        "y": 568,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/as",
+        "w": 12,
+        "h": 12,
+        "x": 1728,
+        "y": 993,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/at",
+        "w": 14,
+        "h": 12,
+        "x": 1509,
+        "y": 985,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/au",
+        "w": 12,
+        "h": 12,
+        "x": 1848,
+        "y": 514,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/av",
+        "w": 14,
+        "h": 12,
+        "x": 1771,
+        "y": 568,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/aw",
+        "w": 14,
+        "h": 12,
+        "x": 1525,
+        "y": 985,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ax",
+        "w": 5,
+        "h": 5,
+        "x": 1770,
+        "y": 446,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ay",
+        "w": 7,
+        "h": 7,
+        "x": 1199,
+        "y": 1015,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/az",
+        "w": 9,
+        "h": 11,
+        "x": 1827,
+        "y": 441,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/b",
+        "w": 220,
+        "h": 184,
+        "x": 1,
+        "y": 839,
+        "r": true,
+        "fx": -44,
+        "fy": -44,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ba",
+        "w": 21,
+        "h": 23,
+        "x": 1861,
+        "y": 161,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bb",
+        "w": 12,
+        "h": 14,
+        "x": 1452,
+        "y": 986
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bc",
+        "w": 12,
+        "h": 14,
+        "x": 1452,
+        "y": 1002
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bd",
+        "w": 16,
+        "h": 8,
+        "x": 1081,
+        "y": 1015,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/be",
+        "w": 15,
+        "h": 16,
+        "x": 1837,
+        "y": 346,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bf",
+        "w": 12,
+        "h": 14,
+        "x": 1466,
+        "y": 1001
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bg",
+        "w": 15,
+        "h": 15,
+        "x": 1837,
+        "y": 364,
+        "fx": -25,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bh",
+        "w": 15,
+        "h": 16,
+        "x": 1819,
+        "y": 381,
+        "r": true,
+        "fx": -12,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bi",
+        "w": 384,
+        "h": 272,
+        "x": 753,
+        "y": 485,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bj",
+        "w": 12,
+        "h": 14,
+        "x": 1805,
+        "y": 567
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bk",
+        "w": 16,
+        "h": 14,
+        "x": 1853,
+        "y": 272,
+        "fx": -25,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bl",
+        "w": 14,
+        "h": 18,
+        "x": 1820,
+        "y": 272,
+        "r": true,
+        "fx": -11,
+        "fy": -5,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bm",
+        "w": 16,
+        "h": 13,
+        "x": 1836,
+        "y": 410,
+        "fx": -25,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bn",
+        "w": 19,
+        "h": 15,
+        "x": 946,
+        "y": 1008,
+        "fx": -11,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bo",
+        "w": 15,
+        "h": 13,
+        "x": 1854,
+        "y": 421,
+        "fx": -25,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bp",
+        "w": 16,
+        "h": 19,
+        "x": 1751,
+        "y": 636,
+        "r": true,
+        "fx": -11,
+        "fy": -3,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bq",
+        "w": 12,
+        "h": 14,
+        "x": 1786,
+        "y": 690
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/br",
+        "w": 15,
+        "h": 11,
+        "x": 717,
+        "y": 1012,
+        "fx": -25,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bs",
+        "w": 19,
+        "h": 15,
+        "x": 946,
+        "y": 1008,
+        "fx": -11,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bt",
+        "w": 17,
+        "h": 13,
+        "x": 1777,
+        "y": 438,
+        "r": true,
+        "fx": -26,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bu",
+        "w": 16,
+        "h": 19,
+        "x": 1751,
+        "y": 636,
+        "r": true,
+        "fx": -11,
+        "fy": -3,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bv",
+        "w": 10,
+        "h": 14,
+        "x": 1700,
+        "y": 983,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bw",
+        "w": 19,
+        "h": 15,
+        "x": 946,
+        "y": 1008,
+        "fx": -11,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bx",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 272,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/by",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 289,
+        "fx": -29,
+        "fy": -13,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/bz",
+        "w": 11,
+        "h": 14,
+        "x": 1796,
+        "y": 438,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/c",
+        "w": 20,
+        "h": 36,
+        "x": 1430,
+        "y": 986,
+        "fx": -45,
+        "fy": -260,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ca",
+        "w": 13,
+        "h": 16,
+        "x": 1771,
+        "y": 550,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cb",
+        "w": 21,
+        "h": 14,
+        "x": 1861,
+        "y": 186,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cc",
+        "w": 15,
+        "h": 12,
+        "x": 1767,
+        "y": 536,
+        "r": true,
+        "fx": -29,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cd",
+        "w": 29,
+        "h": 24,
+        "x": 1422,
+        "y": 802,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ce",
+        "w": 32,
+        "h": 23,
+        "x": 1783,
+        "y": 900,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cf",
+        "w": 16,
+        "h": 18,
+        "x": 1751,
+        "y": 657,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cg",
+        "w": 55,
+        "h": 48,
+        "x": 1082,
+        "y": 759,
+        "r": true,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ch",
+        "w": 14,
+        "h": 19,
+        "x": 1751,
+        "y": 718,
+        "r": true,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ci",
+        "w": 20,
+        "h": 23,
+        "x": 806,
+        "y": 1000,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cj",
+        "w": 16,
+        "h": 18,
+        "x": 1751,
+        "y": 677,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ck",
+        "w": 17,
+        "h": 22,
+        "x": 1458,
+        "y": 733,
+        "r": true,
+        "fx": -6,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cl",
+        "w": 16,
+        "h": 14,
+        "x": 1853,
+        "y": 288,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cm",
+        "w": 15,
+        "h": 12,
+        "x": 1802,
+        "y": 583,
+        "r": true,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cn",
+        "w": 27,
+        "h": 21,
+        "x": 1174,
+        "y": 584,
+        "r": true,
+        "fx": -18,
+        "fy": -7,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/co",
+        "w": 12,
+        "h": 14,
+        "x": 1481,
+        "y": 985,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cp",
+        "w": 29,
+        "h": 29,
+        "x": 1853,
+        "y": 33,
+        "fx": -2,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cq",
+        "w": 40,
+        "h": 20,
+        "x": 1741,
+        "y": 900,
+        "fx": -2,
+        "fy": -2,
+        "fw": 44,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cr",
+        "w": 15,
+        "h": 15,
+        "x": 1854,
+        "y": 304,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cs",
+        "w": 16,
+        "h": 14,
+        "x": 1770,
+        "y": 453,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ct",
+        "w": 30,
+        "h": 37,
+        "x": 1380,
+        "y": 986,
+        "fx": -17,
+        "fy": -10,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cu",
+        "w": 20,
+        "h": 18,
+        "x": 924,
+        "y": 986
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cv",
+        "w": 21,
+        "h": 28,
+        "x": 1858,
+        "y": 131,
+        "fx": -27,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cw",
+        "w": 29,
+        "h": 30,
+        "x": 1853,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cx",
+        "w": 27,
+        "h": 22,
+        "x": 1174,
+        "y": 560
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cy",
+        "w": 22,
+        "h": 29,
+        "x": 1860,
+        "y": 221,
+        "fx": -27,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/cz",
+        "w": 25,
+        "h": 33,
+        "x": 1174,
+        "y": 607,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/d",
+        "w": 315,
+        "h": 199,
+        "x": 765,
+        "y": 759,
+        "r": true,
+        "fx": -28,
+        "fy": -43,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/da",
+        "w": 27,
+        "h": 35,
+        "x": 1174,
+        "y": 523,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/db",
+        "w": 11,
+        "h": 14,
+        "x": 1871,
+        "y": 425,
+        "fx": -27,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dc",
+        "w": 27,
+        "h": 36,
+        "x": 1174,
+        "y": 485,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dd",
+        "w": 15,
+        "h": 12,
+        "x": 1785,
+        "y": 597,
+        "r": true,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/de",
+        "w": 4,
+        "h": 4,
+        "x": 1876,
+        "y": 456
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/df",
+        "w": 6,
+        "h": 5,
+        "x": 246,
+        "y": 1018,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dg",
+        "w": 6,
+        "h": 6,
+        "x": 889,
+        "y": 998,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dh",
+        "w": 16,
+        "h": 12,
+        "x": 1767,
+        "y": 597,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/di",
+        "w": 14,
+        "h": 14,
+        "x": 1779,
+        "y": 611,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dj",
+        "w": 14,
+        "h": 15,
+        "x": 1784,
+        "y": 520,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dk",
+        "w": 10,
+        "h": 10,
+        "x": 753,
+        "y": 825
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dl",
+        "w": 20,
+        "h": 20,
+        "x": 845,
+        "y": 997
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dm",
+        "w": 10,
+        "h": 4,
+        "x": 1777,
+        "y": 215,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dn",
+        "w": 16,
+        "h": 16,
+        "x": 1751,
+        "y": 739
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/do",
+        "w": 15,
+        "h": 16,
+        "x": 1820,
+        "y": 329
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dp",
+        "w": 15,
+        "h": 16,
+        "x": 1837,
+        "y": 310
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dq",
+        "w": 14,
+        "h": 12,
+        "x": 1541,
+        "y": 985,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dr",
+        "w": 16,
+        "h": 13,
+        "x": 1800,
+        "y": 520,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ds",
+        "w": 272,
+        "h": 384,
+        "x": 1477,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dt",
+        "w": 16,
+        "h": 13,
+        "x": 1800,
+        "y": 535,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/du",
+        "w": 16,
+        "h": 13,
+        "x": 1800,
+        "y": 520,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dv",
+        "w": 16,
+        "h": 13,
+        "x": 1787,
+        "y": 567,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dw",
+        "w": 14,
+        "h": 12,
+        "x": 1557,
+        "y": 985,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dx",
+        "w": 14,
+        "h": 12,
+        "x": 1541,
+        "y": 985,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dy",
+        "w": 14,
+        "h": 12,
+        "x": 1573,
+        "y": 985,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/dz",
+        "w": 12,
+        "h": 14,
+        "x": 1481,
+        "y": 985,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/e",
+        "w": 277,
+        "h": 163,
+        "x": 223,
+        "y": 839,
+        "r": true,
+        "fx": -52,
+        "fy": -55,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ea",
+        "w": 15,
+        "h": 16,
+        "x": 1837,
+        "y": 328,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/eb",
+        "w": 15,
+        "h": 16,
+        "x": 1837,
+        "y": 328,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ec",
+        "w": 13,
+        "h": 15,
+        "x": 1769,
+        "y": 639,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ed",
+        "w": 14,
+        "h": 11,
+        "x": 1784,
+        "y": 537,
+        "r": true,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ee",
+        "w": 14,
+        "h": 16,
+        "x": 1770,
+        "y": 469,
+        "fx": -9,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ef",
+        "w": 16,
+        "h": 17,
+        "x": 928,
+        "y": 1006,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/eg",
+        "w": 16,
+        "h": 13,
+        "x": 1767,
+        "y": 582,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/eh",
+        "w": 16,
+        "h": 16,
+        "x": 1819,
+        "y": 363,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ei",
+        "w": 14,
+        "h": 16,
+        "x": 1770,
+        "y": 487,
+        "fx": -9,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ej",
+        "w": 14,
+        "h": 11,
+        "x": 1653,
+        "y": 985,
+        "r": true,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ek",
+        "w": 15,
+        "h": 12,
+        "x": 1802,
+        "y": 597,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/el",
+        "w": 13,
+        "h": 15,
+        "x": 1769,
+        "y": 656,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/em",
+        "w": 7,
+        "h": 3,
+        "x": 1452,
+        "y": 1018,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/en",
+        "w": 8,
+        "h": 3,
+        "x": 877,
+        "y": 1020,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/eo",
+        "w": 4,
+        "h": 8,
+        "x": 1174,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ep",
+        "w": 9,
+        "h": 4,
+        "x": 856,
+        "y": 1019,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/eq",
+        "w": 4,
+        "h": 8,
+        "x": 1174,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/er",
+        "w": 9,
+        "h": 4,
+        "x": 856,
+        "y": 1019,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/es",
+        "w": 3,
+        "h": 8,
+        "x": 987,
+        "y": 1008
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/et",
+        "w": 7,
+        "h": 3,
+        "x": 1825,
+        "y": 417,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/eu",
+        "w": 9,
+        "h": 4,
+        "x": 1789,
+        "y": 215,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ev",
+        "w": 4,
+        "h": 8,
+        "x": 1180,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ew",
+        "w": 9,
+        "h": 4,
+        "x": 1789,
+        "y": 215,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ex",
+        "w": 4,
+        "h": 8,
+        "x": 1180,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ey",
+        "w": 13,
+        "h": 12,
+        "x": 1854,
+        "y": 436,
+        "fx": -12,
+        "fy": -6,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ez",
+        "w": 14,
+        "h": 15,
+        "x": 1786,
+        "y": 550,
+        "fx": -11,
+        "fy": -6,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/f",
+        "w": 32,
+        "h": 63,
+        "x": 992,
+        "y": 960,
+        "fx": -190,
+        "fy": -59,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fa",
+        "w": 19,
+        "h": 11,
+        "x": 581,
+        "y": 1012,
+        "r": true,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fb",
+        "w": 21,
+        "h": 19,
+        "x": 394,
+        "y": 1004,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fc",
+        "w": 22,
+        "h": 19,
+        "x": 370,
+        "y": 1004,
+        "fx": -6,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fd",
+        "w": 18,
+        "h": 11,
+        "x": 623,
+        "y": 1012,
+        "r": true,
+        "fx": -13,
+        "fy": -5,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fe",
+        "w": 20,
+        "h": 20,
+        "x": 867,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ff",
+        "w": 49,
+        "h": 49,
+        "x": 1777,
+        "y": 221,
+        "fx": -2,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fg",
+        "w": 56,
+        "h": 56,
+        "x": 1803,
+        "y": 163,
+        "fx": -3,
+        "fy": -5,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fh",
+        "w": 22,
+        "h": 17,
+        "x": 1115,
+        "y": 809,
+        "fx": -4,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fi",
+        "w": 4,
+        "h": 6,
+        "x": 1781,
+        "y": 749,
+        "fx": -1,
+        "fy": -1,
+        "fw": 6,
+        "fh": 8
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fj",
+        "w": 17,
+        "h": 11,
+        "x": 643,
+        "y": 1012,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 15,
+        "fh": 19
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fk",
+        "w": 14,
+        "h": 16,
+        "x": 1786,
+        "y": 469,
+        "fx": -11,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fl",
+        "w": 4,
+        "h": 4,
+        "x": 266,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fm",
+        "w": 9,
+        "h": 13,
+        "x": 1812,
+        "y": 611,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fn",
+        "w": 4,
+        "h": 5,
+        "x": 1819,
+        "y": 399,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fo",
+        "w": 4,
+        "h": 4,
+        "x": 1217,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fp",
+        "w": 2,
+        "h": 2,
+        "x": 1053,
+        "y": 1021
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fq",
+        "w": 14,
+        "h": 11,
+        "x": 1669,
+        "y": 985,
+        "r": true,
+        "fx": -21,
+        "fy": -12,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fr",
+        "w": 19,
+        "h": 2,
+        "x": 1026,
+        "y": 1021,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 2
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fs",
+        "w": 10,
+        "h": 13,
+        "x": 1824,
+        "y": 454,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ft",
+        "w": 12,
+        "h": 5,
+        "x": 223,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fu",
+        "w": 3,
+        "h": 3,
+        "x": 1853,
+        "y": 95
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fv",
+        "w": 4,
+        "h": 4,
+        "x": 1819,
+        "y": 590
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fw",
+        "w": 26,
+        "h": 19,
+        "x": 342,
+        "y": 1004,
+        "fx": -7,
+        "fy": -5,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fx",
+        "w": 17,
+        "h": 11,
+        "x": 662,
+        "y": 1012,
+        "r": true,
+        "fx": -20,
+        "fy": -8,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fy",
+        "w": 3,
+        "h": 3,
+        "x": 1461,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/fz",
+        "w": 13,
+        "h": 15,
+        "x": 1769,
+        "y": 673
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/g",
+        "w": 33,
+        "h": 182,
+        "x": 1139,
+        "y": 485,
+        "r": true,
+        "fx": -45,
+        "fy": -253,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ga",
+        "w": 4,
+        "h": 4,
+        "x": 1876,
+        "y": 462
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gb",
+        "w": 18,
+        "h": 25,
+        "x": 1174,
+        "y": 642,
+        "r": true,
+        "fx": -10,
+        "fy": -5,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gc",
+        "w": 4,
+        "h": 4,
+        "x": 1876,
+        "y": 456
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gd",
+        "w": 4,
+        "h": 4,
+        "x": 272,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ge",
+        "w": 15,
+        "h": 15,
+        "x": 1854,
+        "y": 321
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gf",
+        "w": 15,
+        "h": 15,
+        "x": 1854,
+        "y": 338
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gg",
+        "w": 15,
+        "h": 15,
+        "x": 1854,
+        "y": 355
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gh",
+        "w": 19,
+        "h": 19,
+        "x": 417,
+        "y": 1004,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gi",
+        "w": 12,
+        "h": 13,
+        "x": 1727,
+        "y": 978,
+        "fx": -12,
+        "fy": -5,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gj",
+        "w": 18,
+        "h": 25,
+        "x": 1751,
+        "y": 550,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gk",
+        "w": 20,
+        "h": 11,
+        "x": 559,
+        "y": 1012,
+        "r": true,
+        "fx": -20,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gl",
+        "w": 2,
+        "h": 3,
+        "x": 1767,
+        "y": 577,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gm",
+        "w": 3,
+        "h": 4,
+        "x": 1762,
+        "y": 604
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gn",
+        "w": 11,
+        "h": 13,
+        "x": 1836,
+        "y": 454
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/go",
+        "w": 22,
+        "h": 18,
+        "x": 1860,
+        "y": 252,
+        "fx": -9,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gp",
+        "w": 19,
+        "h": 11,
+        "x": 602,
+        "y": 1012,
+        "r": true,
+        "fx": -20,
+        "fy": -4,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gq",
+        "w": 3,
+        "h": 3,
+        "x": 1466,
+        "y": 1017
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gr",
+        "w": 14,
+        "h": 11,
+        "x": 1712,
+        "y": 993,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gs",
+        "w": 4,
+        "h": 4,
+        "x": 1223,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gt",
+        "w": 15,
+        "h": 17,
+        "x": 1820,
+        "y": 292,
+        "fx": -9,
+        "fy": -1,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gu",
+        "w": 4,
+        "h": 4,
+        "x": 1819,
+        "y": 596
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gv",
+        "w": 11,
+        "h": 14,
+        "x": 1819,
+        "y": 469
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gw",
+        "w": 4,
+        "h": 4,
+        "x": 1223,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gx",
+        "w": 3,
+        "h": 4,
+        "x": 1229,
+        "y": 1015,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gy",
+        "w": 11,
+        "h": 14,
+        "x": 1819,
+        "y": 485
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/gz",
+        "w": 4,
+        "h": 4,
+        "x": 1223,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/h",
+        "w": 225,
+        "h": 200,
+        "x": 1458,
+        "y": 757,
+        "fx": -7,
+        "fy": -45,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ha",
+        "w": 16,
+        "h": 11,
+        "x": 681,
+        "y": 1012,
+        "r": true,
+        "fx": -20,
+        "fy": -10,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hb",
+        "w": 16,
+        "h": 11,
+        "x": 699,
+        "y": 1012,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hc",
+        "w": 30,
+        "h": 30,
+        "x": 1828,
+        "y": 221
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hd",
+        "w": 34,
+        "h": 67,
+        "x": 1422,
+        "y": 733,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/he",
+        "w": 67,
+        "h": 34,
+        "x": 1311,
+        "y": 986,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hf",
+        "w": 3,
+        "h": 4,
+        "x": 987,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hg",
+        "w": 11,
+        "h": 14,
+        "x": 1819,
+        "y": 501
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hh",
+        "w": 4,
+        "h": 4,
+        "x": 1825,
+        "y": 590
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hi",
+        "w": 53,
+        "h": 62,
+        "x": 1422,
+        "y": 669,
+        "r": true,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hj",
+        "w": 29,
+        "h": 29,
+        "x": 1853,
+        "y": 64,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hk",
+        "w": 3,
+        "h": 4,
+        "x": 1793,
+        "y": 749
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hl",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 306
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hm",
+        "w": 4,
+        "h": 2,
+        "x": 1047,
+        "y": 1021
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hn",
+        "w": 9,
+        "h": 4,
+        "x": 845,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ho",
+        "w": 19,
+        "h": 19,
+        "x": 438,
+        "y": 1004,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hp",
+        "w": 19,
+        "h": 19,
+        "x": 459,
+        "y": 1004,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hq",
+        "w": 30,
+        "h": 30,
+        "x": 1828,
+        "y": 221
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hr",
+        "w": 19,
+        "h": 19,
+        "x": 438,
+        "y": 1004,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hs",
+        "w": 19,
+        "h": 19,
+        "x": 459,
+        "y": 1004,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ht",
+        "w": 19,
+        "h": 19,
+        "x": 417,
+        "y": 1004,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hu",
+        "w": 34,
+        "h": 67,
+        "x": 1422,
+        "y": 733,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hv",
+        "w": 67,
+        "h": 34,
+        "x": 1311,
+        "y": 986,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hw",
+        "w": 29,
+        "h": 29,
+        "x": 1853,
+        "y": 64,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hx",
+        "w": 15,
+        "h": 13,
+        "x": 1785,
+        "y": 582
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hy",
+        "w": 4,
+        "h": 5,
+        "x": 254,
+        "y": 1018,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/hz",
+        "w": 4,
+        "h": 4,
+        "x": 1876,
+        "y": 456
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/i",
+        "w": 14,
+        "h": 12,
+        "x": 1589,
+        "y": 985,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ia",
+        "w": 4,
+        "h": 4,
+        "x": 272,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ib",
+        "w": 15,
+        "h": 15,
+        "x": 1854,
+        "y": 321
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ic",
+        "w": 15,
+        "h": 15,
+        "x": 1854,
+        "y": 338
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/id",
+        "w": 15,
+        "h": 15,
+        "x": 1854,
+        "y": 355
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ie",
+        "w": 4,
+        "h": 4,
+        "x": 278,
+        "y": 1018
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/if",
+        "w": 10,
+        "h": 15,
+        "x": 1784,
+        "y": 639
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ig",
+        "w": 4,
+        "h": 4,
+        "x": 1223,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ih",
+        "w": 53,
+        "h": 62,
+        "x": 1422,
+        "y": 669,
+        "r": true,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ii",
+        "w": 53,
+        "h": 59,
+        "x": 1026,
+        "y": 960,
+        "r": true,
+        "fx": -16,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ij",
+        "w": 53,
+        "h": 61,
+        "x": 1803,
+        "y": 100,
+        "r": true,
+        "fx": -14,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ik",
+        "w": 12,
+        "h": 14,
+        "x": 1480,
+        "y": 1001
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/il",
+        "w": 24,
+        "h": 15,
+        "x": 1858,
+        "y": 114,
+        "r": true,
+        "fx": -12,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/im",
+        "w": 3,
+        "h": 11,
+        "x": 1453,
+        "y": 802,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/in",
+        "w": 19,
+        "h": 17,
+        "x": 1861,
+        "y": 202,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/io",
+        "w": 7,
+        "h": 18,
+        "x": 1194,
+        "y": 642,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ip",
+        "w": 12,
+        "h": 13,
+        "x": 1840,
+        "y": 425,
+        "fx": -15,
+        "fy": -6,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/iq",
+        "w": 24,
+        "h": 10,
+        "x": 874,
+        "y": 986,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ir",
+        "w": 26,
+        "h": 11,
+        "x": 531,
+        "y": 1012,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/is",
+        "w": 15,
+        "h": 23,
+        "x": 828,
+        "y": 1000,
+        "fx": -12,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/it",
+        "w": 28,
+        "h": 11,
+        "x": 501,
+        "y": 1012,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/iu",
+        "w": 13,
+        "h": 15,
+        "x": 1784,
+        "y": 656,
+        "fx": -13,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/iv",
+        "w": 13,
+        "h": 14,
+        "x": 1767,
+        "y": 717,
+        "fx": -14,
+        "fy": -4,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/iw",
+        "w": 18,
+        "h": 17,
+        "x": 889,
+        "y": 1006,
+        "r": true,
+        "fx": -11,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ix",
+        "w": 24,
+        "h": 17,
+        "x": 1858,
+        "y": 95,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/iy",
+        "w": 12,
+        "h": 14,
+        "x": 1495,
+        "y": 985,
+        "fx": -18,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/iz",
+        "w": 31,
+        "h": 17,
+        "x": 1082,
+        "y": 809,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/j",
+        "w": 3,
+        "h": 9,
+        "x": 1453,
+        "y": 815,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ja",
+        "w": 16,
+        "h": 13,
+        "x": 1788,
+        "y": 454,
+        "fx": -11,
+        "fy": -9,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jb",
+        "w": 28,
+        "h": 16,
+        "x": 1828,
+        "y": 253,
+        "r": true,
+        "fx": -12,
+        "fy": -5,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jc",
+        "w": 14,
+        "h": 16,
+        "x": 1786,
+        "y": 487,
+        "r": true,
+        "fx": -11,
+        "fy": -9,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jd",
+        "w": 16,
+        "h": 19,
+        "x": 1751,
+        "y": 636,
+        "r": true,
+        "fx": -11,
+        "fy": -3,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/je",
+        "w": 14,
+        "h": 25,
+        "x": 1751,
+        "y": 577,
+        "fx": -14,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jf",
+        "w": 15,
+        "h": 15,
+        "x": 1854,
+        "y": 372,
+        "fx": -13,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jg",
+        "w": 22,
+        "h": 14,
+        "x": 900,
+        "y": 986,
+        "r": true,
+        "fx": -14,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jh",
+        "w": 10,
+        "h": 13,
+        "x": 1845,
+        "y": 469,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ji",
+        "w": 9,
+        "h": 16,
+        "x": 1825,
+        "y": 399,
+        "r": true,
+        "fx": -13,
+        "fy": -5,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jj",
+        "w": 34,
+        "h": 12,
+        "x": 806,
+        "y": 986,
+        "fx": -4,
+        "fy": -13,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jk",
+        "w": 14,
+        "h": 35,
+        "x": 1751,
+        "y": 513,
+        "r": true,
+        "fx": -4,
+        "fy": -12,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jl",
+        "w": 16,
+        "h": 37,
+        "x": 1412,
+        "y": 986,
+        "r": true,
+        "fx": -3,
+        "fy": -11,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jm",
+        "w": 39,
+        "h": 18,
+        "x": 765,
+        "y": 986,
+        "fx": -2,
+        "fy": -10,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jn",
+        "w": 15,
+        "h": 8,
+        "x": 1099,
+        "y": 1015,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jo",
+        "w": 15,
+        "h": 16,
+        "x": 1819,
+        "y": 381,
+        "r": true,
+        "fx": -12,
+        "fy": -4,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jp",
+        "w": 14,
+        "h": 13,
+        "x": 1782,
+        "y": 718,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jq",
+        "w": 14,
+        "h": 15,
+        "x": 1802,
+        "y": 550,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jr",
+        "w": 10,
+        "h": 13,
+        "x": 1845,
+        "y": 484,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/js",
+        "w": 16,
+        "h": 13,
+        "x": 1806,
+        "y": 454,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jt",
+        "w": 15,
+        "h": 8,
+        "x": 1116,
+        "y": 1015,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ju",
+        "w": 16,
+        "h": 15,
+        "x": 1836,
+        "y": 381,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jv",
+        "w": 7,
+        "h": 17,
+        "x": 797,
+        "y": 1006,
+        "r": true,
+        "fx": -13,
+        "fy": -15,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jw",
+        "w": 15,
+        "h": 14,
+        "x": 1762,
+        "y": 611,
+        "fx": -9,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jx",
+        "w": 15,
+        "h": 15,
+        "x": 1802,
+        "y": 469,
+        "fx": -7,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jy",
+        "w": 15,
+        "h": 8,
+        "x": 1133,
+        "y": 1015,
+        "fx": -14,
+        "fy": -13,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/jz",
+        "w": 10,
+        "h": 13,
+        "x": 1849,
+        "y": 454,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/k",
+        "w": 12,
+        "h": 12,
+        "x": 1848,
+        "y": 528,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ka",
+        "w": 750,
+        "h": 352,
+        "x": 1,
+        "y": 485,
+        "r": true,
+        "fx": -199,
+        "fy": 0,
+        "fw": 750,
+        "fh": 750
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kb",
+        "w": 15,
+        "h": 13,
+        "x": 1795,
+        "y": 611,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kc",
+        "w": 13,
+        "h": 11,
+        "x": 1838,
+        "y": 441,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kd",
+        "w": 15,
+        "h": 11,
+        "x": 734,
+        "y": 1012
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ke",
+        "w": 13,
+        "h": 15,
+        "x": 1784,
+        "y": 673,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kf",
+        "w": 11,
+        "h": 14,
+        "x": 1827,
+        "y": 425,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kg",
+        "w": 11,
+        "h": 14,
+        "x": 1832,
+        "y": 469,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kh",
+        "w": 11,
+        "h": 13,
+        "x": 1845,
+        "y": 499,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ki",
+        "w": 5,
+        "h": 5,
+        "x": 1770,
+        "y": 446,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kj",
+        "w": 7,
+        "h": 7,
+        "x": 1199,
+        "y": 1015,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kk",
+        "w": 3,
+        "h": 3,
+        "x": 1819,
+        "y": 602,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kl",
+        "w": 21,
+        "h": 23,
+        "x": 1861,
+        "y": 161,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/km",
+        "w": 3,
+        "h": 3,
+        "x": 1819,
+        "y": 602,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kn",
+        "w": 3,
+        "h": 3,
+        "x": 1819,
+        "y": 602,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ko",
+        "w": 11,
+        "h": 14,
+        "x": 1832,
+        "y": 485,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kp",
+        "w": 11,
+        "h": 14,
+        "x": 1832,
+        "y": 501,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kq",
+        "w": 11,
+        "h": 7,
+        "x": 1186,
+        "y": 1015,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kr",
+        "w": 20,
+        "h": 20,
+        "x": 946,
+        "y": 986
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ks",
+        "w": 141,
+        "h": 141,
+        "x": 1741,
+        "y": 757,
+        "fx": -1,
+        "fy": -1,
+        "fw": 142,
+        "fh": 142
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kt",
+        "w": 20,
+        "h": 20,
+        "x": 968,
+        "y": 986
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ku",
+        "w": 10,
+        "h": 6,
+        "x": 1769,
+        "y": 749
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kv",
+        "w": 19,
+        "h": 19,
+        "x": 480,
+        "y": 1004,
+        "fx": -2,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kw",
+        "w": 272,
+        "h": 272,
+        "x": 1203,
+        "y": 395
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kx",
+        "w": 13,
+        "h": 13,
+        "x": 1685,
+        "y": 983,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ky",
+        "w": 13,
+        "h": 13,
+        "x": 1712,
+        "y": 978,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/kz",
+        "w": 13,
+        "h": 13,
+        "x": 1685,
+        "y": 983,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/l",
+        "w": 15,
+        "h": 15,
+        "x": 1802,
+        "y": 486
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/la",
+        "w": 13,
+        "h": 13,
+        "x": 1869,
+        "y": 441,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lb",
+        "w": 4,
+        "h": 5,
+        "x": 260,
+        "y": 1018,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lc",
+        "w": 7,
+        "h": 7,
+        "x": 1208,
+        "y": 1015,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ld",
+        "w": 9,
+        "h": 8,
+        "x": 1163,
+        "y": 1015,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/le",
+        "w": 17,
+        "h": 17,
+        "x": 909,
+        "y": 1006,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lf",
+        "w": 13,
+        "h": 13,
+        "x": 1861,
+        "y": 456,
+        "fx": -12,
+        "fy": -5,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lg",
+        "w": 13,
+        "h": 13,
+        "x": 1857,
+        "y": 471,
+        "fx": -12,
+        "fy": -5,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lh",
+        "w": 14,
+        "h": 18,
+        "x": 1809,
+        "y": 406,
+        "fx": -11,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/li",
+        "w": 13,
+        "h": 13,
+        "x": 1857,
+        "y": 471,
+        "fx": -12,
+        "fy": -5,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lj",
+        "w": 4,
+        "h": 5,
+        "x": 260,
+        "y": 1018,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lk",
+        "w": 7,
+        "h": 7,
+        "x": 1208,
+        "y": 1015,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ll",
+        "w": 7,
+        "h": 5,
+        "x": 237,
+        "y": 1018,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lm",
+        "w": 17,
+        "h": 17,
+        "x": 909,
+        "y": 1006,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ln",
+        "w": 7,
+        "h": 5,
+        "x": 1194,
+        "y": 662,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lo",
+        "w": 11,
+        "h": 7,
+        "x": 1762,
+        "y": 627,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lp",
+        "w": 15,
+        "h": 9,
+        "x": 1769,
+        "y": 690,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lq",
+        "w": 13,
+        "h": 13,
+        "x": 1858,
+        "y": 499,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lr",
+        "w": 13,
+        "h": 13,
+        "x": 1819,
+        "y": 517,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ls",
+        "w": 13,
+        "h": 13,
+        "x": 1818,
+        "y": 532,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lt",
+        "w": 13,
+        "h": 13,
+        "x": 1819,
+        "y": 517,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lu",
+        "w": 40,
+        "h": 42,
+        "x": 1777,
+        "y": 362,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lv",
+        "w": 227,
+        "h": 185,
+        "x": 1082,
+        "y": 828,
+        "fx": -14,
+        "fy": -24,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lw",
+        "w": 1200,
+        "h": 240,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lx",
+        "w": 1200,
+        "h": 240,
+        "x": 1,
+        "y": 243,
+        "r": true,
+        "fx": -480,
+        "fy": 0,
+        "fw": 1200,
+        "fh": 1200
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ly",
+        "w": 24,
+        "h": 212,
+        "x": 1777,
+        "y": 1,
+        "fx": -116,
+        "fy": -11,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/lz",
+        "w": 24,
+        "h": 216,
+        "x": 1751,
+        "y": 228,
+        "fx": -116,
+        "fy": -8,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/m",
+        "w": 3,
+        "h": 9,
+        "x": 1453,
+        "y": 815,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ma",
+        "w": 24,
+        "h": 224,
+        "x": 1685,
+        "y": 757,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mb",
+        "w": 24,
+        "h": 225,
+        "x": 1751,
+        "y": 1,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mc",
+        "w": 225,
+        "h": 24,
+        "x": 765,
+        "y": 960,
+        "r": true,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/md",
+        "w": 225,
+        "h": 24,
+        "x": 1458,
+        "y": 959,
+        "r": true,
+        "fx": -116,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/me",
+        "w": 26,
+        "h": 53,
+        "x": 1711,
+        "y": 923,
+        "fx": -115,
+        "fy": -172,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mf",
+        "w": 30,
+        "h": 30,
+        "x": 1777,
+        "y": 406
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mg",
+        "w": 30,
+        "h": 30,
+        "x": 1817,
+        "y": 900
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mh",
+        "w": 30,
+        "h": 30,
+        "x": 1849,
+        "y": 900
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mi",
+        "w": 13,
+        "h": 11,
+        "x": 1857,
+        "y": 486,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mj",
+        "w": 13,
+        "h": 13,
+        "x": 1818,
+        "y": 547,
+        "fx": -31,
+        "fy": -6,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mk",
+        "w": 14,
+        "h": 17,
+        "x": 1837,
+        "y": 291,
+        "fx": -30,
+        "fy": -1,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ml",
+        "w": 18,
+        "h": 15,
+        "x": 967,
+        "y": 1008,
+        "r": true,
+        "fx": -29,
+        "fy": 0,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mm",
+        "w": 14,
+        "h": 19,
+        "x": 1751,
+        "y": 697,
+        "fx": -30,
+        "fy": 0,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mn",
+        "w": 15,
+        "h": 18,
+        "x": 1836,
+        "y": 271,
+        "fx": -29,
+        "fy": -2,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mo",
+        "w": 13,
+        "h": 14,
+        "x": 1769,
+        "y": 733,
+        "fx": -31,
+        "fy": -12,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mp",
+        "w": 14,
+        "h": 12,
+        "x": 1605,
+        "y": 985,
+        "fx": -30,
+        "fy": -13,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mq",
+        "w": 16,
+        "h": 12,
+        "x": 1809,
+        "y": 426,
+        "fx": -28,
+        "fy": -13,
+        "fw": 74,
+        "fh": 74
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mr",
+        "w": 12,
+        "h": 14,
+        "x": 1494,
+        "y": 1001
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ms",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 323
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mt",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 340
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mu",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 357
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mv",
+        "w": 13,
+        "h": 14,
+        "x": 1466,
+        "y": 985
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mw",
+        "w": 15,
+        "h": 10,
+        "x": 1783,
+        "y": 706,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mx",
+        "w": 6,
+        "h": 5,
+        "x": 246,
+        "y": 1018,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/my",
+        "w": 6,
+        "h": 6,
+        "x": 889,
+        "y": 998,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/mz",
+        "w": 12,
+        "h": 13,
+        "x": 1834,
+        "y": 517,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/n",
+        "w": 15,
+        "h": 15,
+        "x": 1767,
+        "y": 519
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/na",
+        "w": 14,
+        "h": 14,
+        "x": 1767,
+        "y": 701,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nb",
+        "w": 281,
+        "h": 157,
+        "x": 1139,
+        "y": 669,
+        "r": true,
+        "fx": -58,
+        "fy": -31,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nc",
+        "w": 145,
+        "h": 156,
+        "x": 1311,
+        "y": 828,
+        "r": true,
+        "fx": -58,
+        "fy": -74,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nd",
+        "w": 9,
+        "h": 64,
+        "x": 753,
+        "y": 759,
+        "r": true,
+        "fx": -16,
+        "fy": -42,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ne",
+        "w": 12,
+        "h": 11,
+        "x": 751,
+        "y": 1012,
+        "fx": 0,
+        "fy": -3,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nf",
+        "w": 12,
+        "h": 12,
+        "x": 1862,
+        "y": 514,
+        "fx": -9,
+        "fy": -11,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ng",
+        "w": 12,
+        "h": 12,
+        "x": 1862,
+        "y": 528,
+        "fx": -1,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nh",
+        "w": 48,
+        "h": 97,
+        "x": 1803,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -7,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ni",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 374
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nj",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 391
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nk",
+        "w": 11,
+        "h": 15,
+        "x": 1871,
+        "y": 408
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nl",
+        "w": 28,
+        "h": 164,
+        "x": 1711,
+        "y": 757,
+        "r": true,
+        "fx": -54,
+        "fy": -324,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nm",
+        "w": 17,
+        "h": 65,
+        "x": 1751,
+        "y": 446,
+        "r": true,
+        "fx": -17,
+        "fy": -1,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nn",
+        "w": 30,
+        "h": 9,
+        "x": 842,
+        "y": 986,
+        "fx": -7,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/no",
+        "w": 9,
+        "h": 30,
+        "x": 1751,
+        "y": 604,
+        "r": true,
+        "fx": -4,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/np",
+        "w": 41,
+        "h": 43,
+        "x": 1777,
+        "y": 272,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nq",
+        "w": 41,
+        "h": 43,
+        "x": 1777,
+        "y": 317,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nr",
+        "w": 30,
+        "h": 17,
+        "x": 765,
+        "y": 1006,
+        "fx": -4,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ns",
+        "w": 30,
+        "h": 17,
+        "x": 765,
+        "y": 1006,
+        "fx": -7,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nt",
+        "w": 117,
+        "h": 12,
+        "x": 223,
+        "y": 1004,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nu",
+        "w": 272,
+        "h": 368,
+        "x": 1477,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nv",
+        "w": 4,
+        "h": 5,
+        "x": 260,
+        "y": 1018,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nw",
+        "w": 7,
+        "h": 7,
+        "x": 1208,
+        "y": 1015,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/nx",
+        "w": 11,
+        "h": 8,
+        "x": 1150,
+        "y": 1015,
+        "fx": -4,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/ny",
+        "w": 17,
+        "h": 17,
+        "x": 909,
+        "y": 1006,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/o",
+        "w": 15,
+        "h": 15,
+        "x": 1802,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/p",
+        "w": 14,
+        "h": 12,
+        "x": 1621,
+        "y": 985,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/q",
+        "w": 14,
+        "h": 12,
+        "x": 1589,
+        "y": 985,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/r",
+        "w": 14,
+        "h": 12,
+        "x": 1637,
+        "y": 985,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/s",
+        "w": 12,
+        "h": 12,
+        "x": 1819,
+        "y": 562,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/t",
+        "w": 12,
+        "h": 12,
+        "x": 1848,
+        "y": 528,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/u",
+        "w": 12,
+        "h": 12,
+        "x": 1833,
+        "y": 560,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/v",
+        "w": 11,
+        "h": 12,
+        "x": 1819,
+        "y": 576,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/w",
+        "w": 13,
+        "h": 12,
+        "x": 1833,
+        "y": 532,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/x",
+        "w": 12,
+        "h": 14,
+        "x": 1466,
+        "y": 1001
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/y",
+        "w": 261,
+        "h": 171,
+        "x": 502,
+        "y": 839,
+        "r": true,
+        "fx": -45,
+        "fy": -78,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/lamp_guide_001/.gen/movie/z",
+        "w": 16,
+        "h": 10,
+        "x": 1775,
+        "y": 627,
+        "r": true
+    }
+]

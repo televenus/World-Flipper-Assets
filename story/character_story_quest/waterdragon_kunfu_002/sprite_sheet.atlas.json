@@ -1,0 +1,3269 @@
+[
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 959,
+        "y": 504
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/aa",
+        "w": 14,
+        "h": 15,
+        "x": 1727,
+        "y": 495,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ab",
+        "w": 15,
+        "h": 15,
+        "x": 1724,
+        "y": 454
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ac",
+        "w": 12,
+        "h": 14,
+        "x": 1741,
+        "y": 472
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ad",
+        "w": 12,
+        "h": 14,
+        "x": 1817,
+        "y": 467
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ae",
+        "w": 5,
+        "h": 5,
+        "x": 1750,
+        "y": 505,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/af",
+        "w": 7,
+        "h": 7,
+        "x": 896,
+        "y": 503,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ag",
+        "w": 3,
+        "h": 3,
+        "x": 1822,
+        "y": 331,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ah",
+        "w": 23,
+        "h": 21,
+        "x": 737,
+        "y": 490,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ai",
+        "w": 3,
+        "h": 3,
+        "x": 1822,
+        "y": 331,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/aj",
+        "w": 3,
+        "h": 3,
+        "x": 1822,
+        "y": 331,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ak",
+        "w": 11,
+        "h": 13,
+        "x": 1804,
+        "y": 450,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/al",
+        "w": 12,
+        "h": 14,
+        "x": 1817,
+        "y": 483,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/am",
+        "w": 12,
+        "h": 15,
+        "x": 1741,
+        "y": 455,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/an",
+        "w": 12,
+        "h": 15,
+        "x": 1814,
+        "y": 422,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ao",
+        "w": 13,
+        "h": 15,
+        "x": 1799,
+        "y": 433
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ap",
+        "w": 12,
+        "h": 15,
+        "x": 1828,
+        "y": 422,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/aq",
+        "w": 11,
+        "h": 13,
+        "x": 1831,
+        "y": 473,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ar",
+        "w": 11,
+        "h": 14,
+        "x": 823,
+        "y": 494,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/as",
+        "w": 14,
+        "h": 11,
+        "x": 887,
+        "y": 477,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/at",
+        "w": 12,
+        "h": 11,
+        "x": 1854,
+        "y": 427
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/au",
+        "w": 14,
+        "h": 12,
+        "x": 1790,
+        "y": 499,
+        "r": true,
+        "fx": -8,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/av",
+        "w": 13,
+        "h": 11,
+        "x": 1072,
+        "y": 491
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/aw",
+        "w": 14,
+        "h": 12,
+        "x": 1806,
+        "y": 499,
+        "r": true,
+        "fx": -8,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ax",
+        "w": 7,
+        "h": 3,
+        "x": 39,
+        "y": 508,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ay",
+        "w": 8,
+        "h": 3,
+        "x": 29,
+        "y": 508,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/az",
+        "w": 4,
+        "h": 8,
+        "x": 884,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/b",
+        "w": 14,
+        "h": 12,
+        "x": 1822,
+        "y": 499,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ba",
+        "w": 4,
+        "h": 9,
+        "x": 263,
+        "y": 502
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bb",
+        "w": 4,
+        "h": 8,
+        "x": 884,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bc",
+        "w": 4,
+        "h": 9,
+        "x": 263,
+        "y": 502
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bd",
+        "w": 8,
+        "h": 3,
+        "x": 1803,
+        "y": 331,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/be",
+        "w": 7,
+        "h": 3,
+        "x": 1813,
+        "y": 331,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bf",
+        "w": 9,
+        "h": 4,
+        "x": 1843,
+        "y": 452,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bg",
+        "w": 4,
+        "h": 8,
+        "x": 890,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bh",
+        "w": 9,
+        "h": 4,
+        "x": 1843,
+        "y": 452,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bi",
+        "w": 4,
+        "h": 8,
+        "x": 890,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bj",
+        "w": 14,
+        "h": 11,
+        "x": 903,
+        "y": 477,
+        "r": true,
+        "fx": -8,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bk",
+        "w": 14,
+        "h": 12,
+        "x": 1694,
+        "y": 481,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bl",
+        "w": 4,
+        "h": 4,
+        "x": 1878,
+        "y": 486
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bm",
+        "w": 10,
+        "h": 15,
+        "x": 1831,
+        "y": 439
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bn",
+        "w": 4,
+        "h": 4,
+        "x": 965,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bo",
+        "w": 11,
+        "h": 14,
+        "x": 836,
+        "y": 490,
+        "fx": -27,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bp",
+        "w": 12,
+        "h": 11,
+        "x": 1854,
+        "y": 440,
+        "r": true,
+        "fx": -10,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bq",
+        "w": 14,
+        "h": 12,
+        "x": 1838,
+        "y": 499,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/br",
+        "w": 14,
+        "h": 12,
+        "x": 819,
+        "y": 480,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bs",
+        "w": 7,
+        "h": 8,
+        "x": 875,
+        "y": 503,
+        "r": true,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bt",
+        "w": 15,
+        "h": 15,
+        "x": 1724,
+        "y": 471
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bu",
+        "w": 21,
+        "h": 21,
+        "x": 762,
+        "y": 490,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bv",
+        "w": 19,
+        "h": 19,
+        "x": 1724,
+        "y": 415,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bw",
+        "w": 7,
+        "h": 5,
+        "x": 836,
+        "y": 506,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bx",
+        "w": 11,
+        "h": 7,
+        "x": 614,
+        "y": 504,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/by",
+        "w": 15,
+        "h": 9,
+        "x": 1814,
+        "y": 439,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/bz",
+        "w": 5,
+        "h": 4,
+        "x": 945,
+        "y": 504,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 1781,
+        "y": 331
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ca",
+        "w": 7,
+        "h": 7,
+        "x": 905,
+        "y": 504,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cb",
+        "w": 7,
+        "h": 5,
+        "x": 854,
+        "y": 506,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cc",
+        "w": 17,
+        "h": 17,
+        "x": 1705,
+        "y": 420,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cd",
+        "w": 12,
+        "h": 14,
+        "x": 809,
+        "y": 494
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ce",
+        "w": 736,
+        "h": 272,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cf",
+        "w": 15,
+        "h": 16,
+        "x": 1745,
+        "y": 415
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cg",
+        "w": 14,
+        "h": 12,
+        "x": 919,
+        "y": 477,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ch",
+        "w": 15,
+        "h": 16,
+        "x": 1762,
+        "y": 415
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ci",
+        "w": 11,
+        "h": 12,
+        "x": 1844,
+        "y": 473,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cj",
+        "w": 12,
+        "h": 15,
+        "x": 1817,
+        "y": 450,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ck",
+        "w": 13,
+        "h": 12,
+        "x": 1072,
+        "y": 477,
+        "r": true,
+        "fx": -18,
+        "fy": -13,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cl",
+        "w": 14,
+        "h": 12,
+        "x": 935,
+        "y": 477,
+        "r": true,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cm",
+        "w": 13,
+        "h": 11,
+        "x": 950,
+        "y": 491,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cn",
+        "w": 13,
+        "h": 13,
+        "x": 967,
+        "y": 477,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/co",
+        "w": 12,
+        "h": 17,
+        "x": 1710,
+        "y": 458,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 21,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cp",
+        "w": 640,
+        "h": 272,
+        "x": 739,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cq",
+        "w": 15,
+        "h": 11,
+        "x": 1612,
+        "y": 500,
+        "r": true,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cr",
+        "w": 13,
+        "h": 13,
+        "x": 982,
+        "y": 477,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cs",
+        "w": 11,
+        "h": 14,
+        "x": 849,
+        "y": 490,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ct",
+        "w": 15,
+        "h": 16,
+        "x": 1724,
+        "y": 436,
+        "fx": -15,
+        "fy": -8,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cu",
+        "w": 14,
+        "h": 21,
+        "x": 1785,
+        "y": 393,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cv",
+        "w": 13,
+        "h": 13,
+        "x": 967,
+        "y": 477,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cw",
+        "w": 4,
+        "h": 4,
+        "x": 971,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cx",
+        "w": 11,
+        "h": 14,
+        "x": 862,
+        "y": 490
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cy",
+        "w": 6,
+        "h": 4,
+        "x": 929,
+        "y": 504,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/cz",
+        "w": 4,
+        "h": 4,
+        "x": 977,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/d",
+        "w": 16,
+        "h": 15,
+        "x": 1779,
+        "y": 416,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/da",
+        "w": 5,
+        "h": 5,
+        "x": 863,
+        "y": 506
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/db",
+        "w": 26,
+        "h": 21,
+        "x": 709,
+        "y": 490,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dc",
+        "w": 13,
+        "h": 11,
+        "x": 965,
+        "y": 492,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dd",
+        "w": 32,
+        "h": 23,
+        "x": 631,
+        "y": 464,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/de",
+        "w": 25,
+        "h": 41,
+        "x": 500,
+        "y": 470,
+        "fx": -13,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/df",
+        "w": 13,
+        "h": 13,
+        "x": 997,
+        "y": 477,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dg",
+        "w": 23,
+        "h": 20,
+        "x": 1712,
+        "y": 393,
+        "fx": -4,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dh",
+        "w": 29,
+        "h": 24,
+        "x": 754,
+        "y": 464,
+        "r": true,
+        "fx": -10,
+        "fy": -14,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/di",
+        "w": 22,
+        "h": 17,
+        "x": 785,
+        "y": 494,
+        "fx": -6,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dj",
+        "w": 3,
+        "h": 4,
+        "x": 870,
+        "y": 506
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dk",
+        "w": 3,
+        "h": 6,
+        "x": 1585,
+        "y": 475
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dl",
+        "w": 10,
+        "h": 15,
+        "x": 1831,
+        "y": 456
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dm",
+        "w": 4,
+        "h": 4,
+        "x": 983,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dn",
+        "w": 30,
+        "h": 24,
+        "x": 690,
+        "y": 464,
+        "r": true,
+        "fx": -9,
+        "fy": -14,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/do",
+        "w": 12,
+        "h": 15,
+        "x": 1743,
+        "y": 488,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dp",
+        "w": 3,
+        "h": 3,
+        "x": 88,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dq",
+        "w": 3,
+        "h": 5,
+        "x": 1563,
+        "y": 326
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dr",
+        "w": 10,
+        "h": 14,
+        "x": 1805,
+        "y": 481
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ds",
+        "w": 3,
+        "h": 3,
+        "x": 93,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dt",
+        "w": 13,
+        "h": 15,
+        "x": 1755,
+        "y": 450,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/du",
+        "w": 13,
+        "h": 16,
+        "x": 1870,
+        "y": 229,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dv",
+        "w": 5,
+        "h": 4,
+        "x": 1871,
+        "y": 486,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dw",
+        "w": 13,
+        "h": 15,
+        "x": 1755,
+        "y": 467
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dx",
+        "w": 3,
+        "h": 3,
+        "x": 93,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dy",
+        "w": 3,
+        "h": 5,
+        "x": 1568,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/dz",
+        "w": 3,
+        "h": 3,
+        "x": 98,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/e",
+        "w": 12,
+        "h": 12,
+        "x": 1854,
+        "y": 413,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ea",
+        "w": 13,
+        "h": 11,
+        "x": 980,
+        "y": 492,
+        "r": true,
+        "fx": -19,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/eb",
+        "w": 13,
+        "h": 11,
+        "x": 995,
+        "y": 492,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ec",
+        "w": 9,
+        "h": 8,
+        "x": 797,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ed",
+        "w": 4,
+        "h": 4,
+        "x": 989,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ee",
+        "w": 15,
+        "h": 13,
+        "x": 1770,
+        "y": 450,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ef",
+        "w": 4,
+        "h": 3,
+        "x": 76,
+        "y": 508,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/eg",
+        "w": 3,
+        "h": 3,
+        "x": 103,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/eh",
+        "w": 3,
+        "h": 3,
+        "x": 93,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ei",
+        "w": 13,
+        "h": 11,
+        "x": 1010,
+        "y": 492,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ej",
+        "w": 13,
+        "h": 13,
+        "x": 1012,
+        "y": 477,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ek",
+        "w": 14,
+        "h": 15,
+        "x": 1783,
+        "y": 433,
+        "fx": -12,
+        "fy": -3,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/el",
+        "w": 44,
+        "h": 14,
+        "x": 652,
+        "y": 448,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/em",
+        "w": 17,
+        "h": 42,
+        "x": 1578,
+        "y": 431,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/en",
+        "w": 44,
+        "h": 14,
+        "x": 698,
+        "y": 448,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/eo",
+        "w": 44,
+        "h": 14,
+        "x": 744,
+        "y": 448,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ep",
+        "w": 12,
+        "h": 17,
+        "x": 1710,
+        "y": 439
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/eq",
+        "w": 4,
+        "h": 3,
+        "x": 1749,
+        "y": 450
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/er",
+        "w": 12,
+        "h": 62,
+        "x": 1861,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/es",
+        "w": 28,
+        "h": 10,
+        "x": 1854,
+        "y": 401,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/et",
+        "w": 10,
+        "h": 28,
+        "x": 785,
+        "y": 464
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/eu",
+        "w": 23,
+        "h": 22,
+        "x": 655,
+        "y": 489,
+        "fx": -1,
+        "fy": -2,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ev",
+        "w": 14,
+        "h": 11,
+        "x": 875,
+        "y": 490,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ew",
+        "w": 10,
+        "h": 12,
+        "x": 1857,
+        "y": 467,
+        "r": true,
+        "fx": -17,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ex",
+        "w": 29,
+        "h": 29,
+        "x": 1854,
+        "y": 370,
+        "fx": -1,
+        "fy": -3,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ey",
+        "w": 6,
+        "h": 17,
+        "x": 1741,
+        "y": 436
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ez",
+        "w": 8,
+        "h": 26,
+        "x": 1875,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/f",
+        "w": 14,
+        "h": 12,
+        "x": 1774,
+        "y": 499,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fa",
+        "w": 8,
+        "h": 26,
+        "x": 1875,
+        "y": 29
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fb",
+        "w": 13,
+        "h": 14,
+        "x": 1802,
+        "y": 465,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fc",
+        "w": 5,
+        "h": 4,
+        "x": 952,
+        "y": 504
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fd",
+        "w": 19,
+        "h": 7,
+        "x": 593,
+        "y": 504,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fe",
+        "w": 7,
+        "h": 19,
+        "x": 1845,
+        "y": 389
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ff",
+        "w": 45,
+        "h": 12,
+        "x": 790,
+        "y": 448,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fg",
+        "w": 29,
+        "h": 32,
+        "x": 1854,
+        "y": 336,
+        "r": true,
+        "fx": -2,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fh",
+        "w": 10,
+        "h": 3,
+        "x": 1712,
+        "y": 415,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fi",
+        "w": 18,
+        "h": 6,
+        "x": 1673,
+        "y": 462,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fj",
+        "w": 18,
+        "h": 6,
+        "x": 1801,
+        "y": 411,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fk",
+        "w": 14,
+        "h": 5,
+        "x": 1690,
+        "y": 329,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fl",
+        "w": 14,
+        "h": 5,
+        "x": 1724,
+        "y": 488,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fm",
+        "w": 39,
+        "h": 10,
+        "x": 1426,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fn",
+        "w": 15,
+        "h": 12,
+        "x": 1797,
+        "y": 419
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fo",
+        "w": 30,
+        "h": 24,
+        "x": 722,
+        "y": 464,
+        "r": true,
+        "fx": -8,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fp",
+        "w": 13,
+        "h": 11,
+        "x": 1025,
+        "y": 492,
+        "r": true,
+        "fx": -12,
+        "fy": -5,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fq",
+        "w": 6,
+        "h": 3,
+        "x": 48,
+        "y": 508,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fr",
+        "w": 13,
+        "h": 4,
+        "x": 1597,
+        "y": 469,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fs",
+        "w": 13,
+        "h": 4,
+        "x": 914,
+        "y": 504,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ft",
+        "w": 9,
+        "h": 3,
+        "x": 18,
+        "y": 508,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fu",
+        "w": 9,
+        "h": 3,
+        "x": 1792,
+        "y": 331,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fv",
+        "w": 35,
+        "h": 10,
+        "x": 594,
+        "y": 464,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fw",
+        "w": 15,
+        "h": 13,
+        "x": 1646,
+        "y": 498
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fx",
+        "w": 5,
+        "h": 4,
+        "x": 952,
+        "y": 504
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fy",
+        "w": 4,
+        "h": 4,
+        "x": 995,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/fz",
+        "w": 11,
+        "h": 12,
+        "x": 1854,
+        "y": 499
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/g",
+        "w": 220,
+        "h": 184,
+        "x": 1087,
+        "y": 275,
+        "r": true,
+        "fx": -44,
+        "fy": -44,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ga",
+        "w": 7,
+        "h": 5,
+        "x": 845,
+        "y": 506
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gb",
+        "w": 4,
+        "h": 4,
+        "x": 1001,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gc",
+        "w": 4,
+        "h": 4,
+        "x": 1007,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gd",
+        "w": 24,
+        "h": 29,
+        "x": 1647,
+        "y": 439,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ge",
+        "w": 13,
+        "h": 11,
+        "x": 995,
+        "y": 492,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gf",
+        "w": 59,
+        "h": 59,
+        "x": 1720,
+        "y": 275,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gg",
+        "w": 59,
+        "h": 59,
+        "x": 1507,
+        "y": 333,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gh",
+        "w": 20,
+        "h": 20,
+        "x": 1801,
+        "y": 389
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gi",
+        "w": 49,
+        "h": 49,
+        "x": 1480,
+        "y": 433,
+        "fx": -2,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gj",
+        "w": 56,
+        "h": 56,
+        "x": 1827,
+        "y": 261,
+        "fx": -3,
+        "fy": -5,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gk",
+        "w": 48,
+        "h": 55,
+        "x": 1751,
+        "y": 336,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gl",
+        "w": 13,
+        "h": 11,
+        "x": 1040,
+        "y": 492,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gm",
+        "w": 13,
+        "h": 13,
+        "x": 1027,
+        "y": 477,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gn",
+        "w": 13,
+        "h": 13,
+        "x": 1012,
+        "y": 477,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/go",
+        "w": 13,
+        "h": 13,
+        "x": 1042,
+        "y": 477,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gp",
+        "w": 11,
+        "h": 12,
+        "x": 1856,
+        "y": 453,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gq",
+        "w": 3,
+        "h": 3,
+        "x": 108,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gr",
+        "w": 15,
+        "h": 11,
+        "x": 1629,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gs",
+        "w": 4,
+        "h": 3,
+        "x": 64,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gt",
+        "w": 9,
+        "h": 13,
+        "x": 1843,
+        "y": 437
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gu",
+        "w": 13,
+        "h": 9,
+        "x": 1831,
+        "y": 488,
+        "fx": -7,
+        "fy": -4,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gv",
+        "w": 13,
+        "h": 12,
+        "x": 1870,
+        "y": 247,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gw",
+        "w": 6,
+        "h": 4,
+        "x": 937,
+        "y": 504,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gx",
+        "w": 8,
+        "h": 5,
+        "x": 1706,
+        "y": 329,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gy",
+        "w": 4,
+        "h": 3,
+        "x": 82,
+        "y": 508,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/gz",
+        "w": 13,
+        "h": 11,
+        "x": 935,
+        "y": 491
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/h",
+        "w": 20,
+        "h": 36,
+        "x": 1590,
+        "y": 475,
+        "fx": -45,
+        "fy": -260,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ha",
+        "w": 4,
+        "h": 4,
+        "x": 1013,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hb",
+        "w": 5,
+        "h": 4,
+        "x": 1871,
+        "y": 480
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hc",
+        "w": 21,
+        "h": 27,
+        "x": 1509,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hd",
+        "w": 33,
+        "h": 26,
+        "x": 593,
+        "y": 476,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/he",
+        "w": 44,
+        "h": 36,
+        "x": 547,
+        "y": 472,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hf",
+        "w": 13,
+        "h": 13,
+        "x": 1057,
+        "y": 477
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hg",
+        "w": 18,
+        "h": 19,
+        "x": 1865,
+        "y": 162,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hh",
+        "w": 21,
+        "h": 27,
+        "x": 837,
+        "y": 448,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hi",
+        "w": 10,
+        "h": 13,
+        "x": 1842,
+        "y": 422,
+        "r": true,
+        "fx": -7,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hj",
+        "w": 6,
+        "h": 3,
+        "x": 56,
+        "y": 508,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hk",
+        "w": 5,
+        "h": 6,
+        "x": 1578,
+        "y": 475
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hl",
+        "w": 4,
+        "h": 3,
+        "x": 70,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hm",
+        "w": 14,
+        "h": 11,
+        "x": 871,
+        "y": 477
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hn",
+        "w": 4,
+        "h": 4,
+        "x": 1013,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ho",
+        "w": 5,
+        "h": 4,
+        "x": 1878,
+        "y": 480
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hp",
+        "w": 9,
+        "h": 8,
+        "x": 808,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hq",
+        "w": 11,
+        "h": 10,
+        "x": 1467,
+        "y": 500
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hr",
+        "w": 16,
+        "h": 16,
+        "x": 819,
+        "y": 462
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hs",
+        "w": 15,
+        "h": 13,
+        "x": 1663,
+        "y": 498
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ht",
+        "w": 15,
+        "h": 15,
+        "x": 1749,
+        "y": 433,
+        "fx": -25,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hu",
+        "w": 31,
+        "h": 35,
+        "x": 116,
+        "y": 476,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 45,
+        "fh": 39
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hv",
+        "w": 11,
+        "h": 13,
+        "x": 1804,
+        "y": 450,
+        "fx": -23,
+        "fy": -16,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hw",
+        "w": 20,
+        "h": 20,
+        "x": 1823,
+        "y": 389
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hx",
+        "w": 51,
+        "h": 51,
+        "x": 1801,
+        "y": 336,
+        "fx": -3,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hy",
+        "w": 12,
+        "h": 14,
+        "x": 1817,
+        "y": 483,
+        "fx": -23,
+        "fy": -15,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/hz",
+        "w": 10,
+        "h": 16,
+        "x": 1715,
+        "y": 495,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/i",
+        "w": 315,
+        "h": 199,
+        "x": 1,
+        "y": 275,
+        "r": true,
+        "fx": -28,
+        "fy": -43,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ia",
+        "w": 12,
+        "h": 15,
+        "x": 1757,
+        "y": 484,
+        "fx": -24,
+        "fy": -14,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ib",
+        "w": 14,
+        "h": 14,
+        "x": 1770,
+        "y": 465,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ic",
+        "w": 27,
+        "h": 27,
+        "x": 1480,
+        "y": 484,
+        "fx": -17,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/id",
+        "w": 81,
+        "h": 49,
+        "x": 1563,
+        "y": 275,
+        "fx": -1,
+        "fy": -1,
+        "fw": 84,
+        "fh": 53
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ie",
+        "w": 29,
+        "h": 28,
+        "x": 1532,
+        "y": 483,
+        "fx": -16,
+        "fy": -1,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/if",
+        "w": 29,
+        "h": 29,
+        "x": 1616,
+        "y": 439,
+        "fx": -16,
+        "fy": 0,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ig",
+        "w": 15,
+        "h": 11,
+        "x": 837,
+        "y": 477,
+        "r": true,
+        "fx": -25,
+        "fy": -14,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ih",
+        "w": 18,
+        "h": 9,
+        "x": 1821,
+        "y": 411,
+        "fx": -119,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ii",
+        "w": 59,
+        "h": 59,
+        "x": 1568,
+        "y": 326,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ij",
+        "w": 80,
+        "h": 80,
+        "x": 1309,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ik",
+        "w": 77,
+        "h": 74,
+        "x": 1309,
+        "y": 357,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/il",
+        "w": 59,
+        "h": 59,
+        "x": 1629,
+        "y": 329,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/im",
+        "w": 113,
+        "h": 28,
+        "x": 440,
+        "y": 440
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/in",
+        "w": 56,
+        "h": 14,
+        "x": 594,
+        "y": 448
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/io",
+        "w": 113,
+        "h": 30,
+        "x": 1,
+        "y": 476
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ip",
+        "w": 49,
+        "h": 111,
+        "x": 1810,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/iq",
+        "w": 55,
+        "h": 24,
+        "x": 214,
+        "y": 476
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ir",
+        "w": 56,
+        "h": 15,
+        "x": 1827,
+        "y": 319
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/is",
+        "w": 15,
+        "h": 12,
+        "x": 1771,
+        "y": 481,
+        "fx": -6,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/it",
+        "w": 14,
+        "h": 17,
+        "x": 1694,
+        "y": 462,
+        "r": true,
+        "fx": -119,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/iu",
+        "w": 75,
+        "h": 50,
+        "x": 1087,
+        "y": 461,
+        "fx": 0,
+        "fy": 0,
+        "fw": 75,
+        "fh": 52
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/iv",
+        "w": 21,
+        "h": 20,
+        "x": 1762,
+        "y": 393,
+        "fx": -118,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/iw",
+        "w": 15,
+        "h": 10,
+        "x": 1757,
+        "y": 501,
+        "fx": -6,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ix",
+        "w": 12,
+        "h": 11,
+        "x": 1854,
+        "y": 440,
+        "r": true,
+        "fx": -24,
+        "fy": -17,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/iy",
+        "w": 5,
+        "h": 5,
+        "x": 1750,
+        "y": 505,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/iz",
+        "w": 14,
+        "h": 11,
+        "x": 891,
+        "y": 490,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/j",
+        "w": 277,
+        "h": 163,
+        "x": 318,
+        "y": 275,
+        "r": true,
+        "fx": -52,
+        "fy": -55,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ja",
+        "w": 7,
+        "h": 7,
+        "x": 896,
+        "y": 503,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jb",
+        "w": 11,
+        "h": 9,
+        "x": 1841,
+        "y": 411,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jc",
+        "w": 23,
+        "h": 21,
+        "x": 737,
+        "y": 490,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jd",
+        "w": 13,
+        "h": 11,
+        "x": 1055,
+        "y": 492,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/je",
+        "w": 37,
+        "h": 30,
+        "x": 555,
+        "y": 440,
+        "fx": 0,
+        "fy": 0,
+        "fw": 37,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jf",
+        "w": 25,
+        "h": 26,
+        "x": 1639,
+        "y": 470,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jg",
+        "w": 26,
+        "h": 25,
+        "x": 1684,
+        "y": 393,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jh",
+        "w": 25,
+        "h": 28,
+        "x": 1563,
+        "y": 483
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ji",
+        "w": 25,
+        "h": 28,
+        "x": 1612,
+        "y": 470
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jj",
+        "w": 32,
+        "h": 37,
+        "x": 1539,
+        "y": 394,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jk",
+        "w": 13,
+        "h": 11,
+        "x": 1868,
+        "y": 413,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jl",
+        "w": 13,
+        "h": 11,
+        "x": 1868,
+        "y": 426,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jm",
+        "w": 13,
+        "h": 11,
+        "x": 1868,
+        "y": 413,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jn",
+        "w": 13,
+        "h": 11,
+        "x": 1868,
+        "y": 439,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jo",
+        "w": 13,
+        "h": 11,
+        "x": 1055,
+        "y": 492,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jp",
+        "w": 11,
+        "h": 13,
+        "x": 1843,
+        "y": 458,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jq",
+        "w": 15,
+        "h": 16,
+        "x": 1698,
+        "y": 495,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jr",
+        "w": 10,
+        "h": 10,
+        "x": 1846,
+        "y": 487
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/js",
+        "w": 20,
+        "h": 20,
+        "x": 797,
+        "y": 462
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jt",
+        "w": 4,
+        "h": 10,
+        "x": 1775,
+        "y": 262
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ju",
+        "w": 16,
+        "h": 16,
+        "x": 1680,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jv",
+        "w": 23,
+        "h": 23,
+        "x": 665,
+        "y": 464,
+        "fx": -17,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jw",
+        "w": 15,
+        "h": 3,
+        "x": 1,
+        "y": 508
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jx",
+        "w": 23,
+        "h": 17,
+        "x": 1680,
+        "y": 420,
+        "fx": -17,
+        "fy": -5,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jy",
+        "w": 18,
+        "h": 23,
+        "x": 1865,
+        "y": 137,
+        "r": true,
+        "fx": -17,
+        "fy": -4,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/jz",
+        "w": 21,
+        "h": 21,
+        "x": 1673,
+        "y": 439,
+        "fx": -18,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/k",
+        "w": 63,
+        "h": 32,
+        "x": 149,
+        "y": 476,
+        "r": true,
+        "fx": -190,
+        "fy": -59,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ka",
+        "w": 43,
+        "h": 47,
+        "x": 1438,
+        "y": 384,
+        "fx": -7,
+        "fy": -8,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kb",
+        "w": 48,
+        "h": 47,
+        "x": 1388,
+        "y": 384,
+        "r": true,
+        "fx": -5,
+        "fy": -8,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kc",
+        "w": 45,
+        "h": 48,
+        "x": 1531,
+        "y": 433,
+        "fx": -6,
+        "fy": -6,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kd",
+        "w": 45,
+        "h": 47,
+        "x": 1460,
+        "y": 335,
+        "fx": -6,
+        "fy": -6,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ke",
+        "w": 23,
+        "h": 20,
+        "x": 1737,
+        "y": 393,
+        "fx": -17,
+        "fy": -9,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kf",
+        "w": 22,
+        "h": 25,
+        "x": 1861,
+        "y": 65,
+        "r": true,
+        "fx": -16,
+        "fy": -6,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kg",
+        "w": 25,
+        "h": 22,
+        "x": 628,
+        "y": 489,
+        "fx": -10,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kh",
+        "w": 58,
+        "h": 41,
+        "x": 440,
+        "y": 470,
+        "fx": -102,
+        "fy": -87,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ki",
+        "w": 17,
+        "h": 36,
+        "x": 1597,
+        "y": 431,
+        "r": true,
+        "fx": -109,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kj",
+        "w": 52,
+        "h": 65,
+        "x": 1426,
+        "y": 433,
+        "r": true,
+        "fx": -96,
+        "fy": -75,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kk",
+        "w": 18,
+        "h": 41,
+        "x": 527,
+        "y": 470,
+        "r": true,
+        "fx": -108,
+        "fy": -118,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kl",
+        "w": 67,
+        "h": 50,
+        "x": 1164,
+        "y": 461,
+        "fx": -96,
+        "fy": -71,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/km",
+        "w": 18,
+        "h": 43,
+        "x": 1865,
+        "y": 92,
+        "r": true,
+        "fx": -107,
+        "fy": -118,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kn",
+        "w": 53,
+        "h": 68,
+        "x": 1810,
+        "y": 114,
+        "r": true,
+        "fx": -94,
+        "fy": -68,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ko",
+        "w": 42,
+        "h": 20,
+        "x": 1573,
+        "y": 409,
+        "fx": -107,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kp",
+        "w": 15,
+        "h": 11,
+        "x": 854,
+        "y": 477,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kq",
+        "w": 51,
+        "h": 71,
+        "x": 387,
+        "y": 440,
+        "r": true,
+        "fx": -88,
+        "fy": -71,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kr",
+        "w": 43,
+        "h": 20,
+        "x": 1573,
+        "y": 387,
+        "fx": -107,
+        "fy": -118,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ks",
+        "w": 15,
+        "h": 11,
+        "x": 854,
+        "y": 477,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kt",
+        "w": 72,
+        "h": 52,
+        "x": 1646,
+        "y": 275,
+        "fx": -86,
+        "fy": -68,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ku",
+        "w": 22,
+        "h": 9,
+        "x": 239,
+        "y": 502,
+        "fx": -117,
+        "fy": -125,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kv",
+        "w": 19,
+        "h": 8,
+        "x": 1483,
+        "y": 384,
+        "fx": -120,
+        "fy": -126,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kw",
+        "w": 12,
+        "h": 23,
+        "x": 1680,
+        "y": 470,
+        "r": true,
+        "fx": -118,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kx",
+        "w": 23,
+        "h": 9,
+        "x": 214,
+        "y": 502,
+        "fx": -117,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ky",
+        "w": 13,
+        "h": 21,
+        "x": 1870,
+        "y": 183,
+        "r": true,
+        "fx": -117,
+        "fy": -120,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/kz",
+        "w": 12,
+        "h": 21,
+        "x": 1696,
+        "y": 439,
+        "r": true,
+        "fx": -118,
+        "fy": -120,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/l",
+        "w": 33,
+        "h": 182,
+        "x": 1775,
+        "y": 1,
+        "r": true,
+        "fx": -45,
+        "fy": -253,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/la",
+        "w": 12,
+        "h": 24,
+        "x": 1666,
+        "y": 470,
+        "r": true,
+        "fx": -116,
+        "fy": -120,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lb",
+        "w": 13,
+        "h": 21,
+        "x": 1870,
+        "y": 206,
+        "r": true,
+        "fx": -118,
+        "fy": -120,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lc",
+        "w": 45,
+        "h": 75,
+        "x": 1775,
+        "y": 185,
+        "r": true,
+        "fx": -84,
+        "fy": -67,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ld",
+        "w": 72,
+        "h": 46,
+        "x": 1233,
+        "y": 461,
+        "fx": -89,
+        "fy": -64,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/le",
+        "w": 61,
+        "h": 78,
+        "x": 1309,
+        "y": 433,
+        "r": true,
+        "fx": -88,
+        "fy": -60,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lf",
+        "w": 83,
+        "h": 58,
+        "x": 1391,
+        "y": 275,
+        "fx": -86,
+        "fy": -68,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lg",
+        "w": 85,
+        "h": 56,
+        "x": 1476,
+        "y": 275,
+        "fx": -85,
+        "fy": -68,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lh",
+        "w": 52,
+        "h": 78,
+        "x": 1372,
+        "y": 433,
+        "r": true,
+        "fx": -91,
+        "fy": -70,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/li",
+        "w": 46,
+        "h": 75,
+        "x": 1822,
+        "y": 184,
+        "r": true,
+        "fx": -92,
+        "fy": -72,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lj",
+        "w": 44,
+        "h": 67,
+        "x": 1781,
+        "y": 262,
+        "r": true,
+        "fx": -97,
+        "fy": -73,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lk",
+        "w": 67,
+        "h": 47,
+        "x": 1391,
+        "y": 335,
+        "fx": -97,
+        "fy": -72,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ll",
+        "w": 67,
+        "h": 71,
+        "x": 318,
+        "y": 440,
+        "r": true,
+        "fx": -94,
+        "fy": -67,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lm",
+        "w": 59,
+        "h": 55,
+        "x": 1690,
+        "y": 336,
+        "fx": -100,
+        "fy": -78,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ln",
+        "w": 54,
+        "h": 37,
+        "x": 1483,
+        "y": 394,
+        "fx": -104,
+        "fy": -76,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lo",
+        "w": 45,
+        "h": 33,
+        "x": 271,
+        "y": 476,
+        "fx": -111,
+        "fy": -79,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lp",
+        "w": 1,
+        "h": 1,
+        "x": 1388,
+        "y": 357,
+        "fx": 0,
+        "fy": 0,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lq",
+        "w": 31,
+        "h": 20,
+        "x": 1618,
+        "y": 390,
+        "fx": -13,
+        "fy": -8,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lr",
+        "w": 31,
+        "h": 20,
+        "x": 1651,
+        "y": 390,
+        "fx": -13,
+        "fy": -8,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ls",
+        "w": 27,
+        "h": 21,
+        "x": 680,
+        "y": 490,
+        "fx": -15,
+        "fy": -8,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lt",
+        "w": 29,
+        "h": 25,
+        "x": 1649,
+        "y": 412,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lu",
+        "w": 30,
+        "h": 25,
+        "x": 1617,
+        "y": 412,
+        "r": true,
+        "fx": -16,
+        "fy": -6,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lv",
+        "w": 4,
+        "h": 4,
+        "x": 1019,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lw",
+        "w": 15,
+        "h": 13,
+        "x": 1787,
+        "y": 450,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lx",
+        "w": 14,
+        "h": 11,
+        "x": 919,
+        "y": 491,
+        "r": true,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/ly",
+        "w": 10,
+        "h": 12,
+        "x": 907,
+        "y": 490,
+        "fx": -10,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/lz",
+        "w": 15,
+        "h": 12,
+        "x": 1788,
+        "y": 481,
+        "r": true,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/m",
+        "w": 261,
+        "h": 171,
+        "x": 597,
+        "y": 275,
+        "r": true,
+        "fx": -45,
+        "fy": -78,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/n",
+        "w": 225,
+        "h": 200,
+        "x": 860,
+        "y": 275,
+        "fx": -7,
+        "fy": -45,
+        "fw": 272,
+        "fh": 392
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/o",
+        "w": 392,
+        "h": 272,
+        "x": 1381,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/p",
+        "w": 4,
+        "h": 4,
+        "x": 1025,
+        "y": 505
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/q",
+        "w": 11,
+        "h": 12,
+        "x": 1869,
+        "y": 452,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/r",
+        "w": 11,
+        "h": 12,
+        "x": 1869,
+        "y": 466,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/s",
+        "w": 11,
+        "h": 12,
+        "x": 1869,
+        "y": 452,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/t",
+        "w": 11,
+        "h": 12,
+        "x": 1858,
+        "y": 481,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/u",
+        "w": 5,
+        "h": 6,
+        "x": 1743,
+        "y": 505,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/v",
+        "w": 14,
+        "h": 12,
+        "x": 951,
+        "y": 477,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/w",
+        "w": 15,
+        "h": 15,
+        "x": 1766,
+        "y": 433
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/x",
+        "w": 6,
+        "h": 6,
+        "x": 1875,
+        "y": 57,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/y",
+        "w": 12,
+        "h": 16,
+        "x": 1710,
+        "y": 477,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/waterdragon_kunfu_002/.gen/movie/z",
+        "w": 14,
+        "h": 14,
+        "x": 1786,
+        "y": 465,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    }
+]

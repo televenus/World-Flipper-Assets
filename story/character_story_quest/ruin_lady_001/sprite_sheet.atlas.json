@@ -1,0 +1,1446 @@
+[
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 782,
+        "y": 552
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/aa",
+        "w": 11,
+        "h": 15,
+        "x": 648,
+        "y": 711
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ab",
+        "w": 11,
+        "h": 15,
+        "x": 691,
+        "y": 674
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ac",
+        "w": 11,
+        "h": 15,
+        "x": 704,
+        "y": 673
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ad",
+        "w": 12,
+        "h": 13,
+        "x": 754,
+        "y": 601,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ae",
+        "w": 12,
+        "h": 13,
+        "x": 743,
+        "y": 634,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/af",
+        "w": 12,
+        "h": 13,
+        "x": 760,
+        "y": 649,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ag",
+        "w": 11,
+        "h": 14,
+        "x": 757,
+        "y": 633,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ah",
+        "w": 5,
+        "h": 5,
+        "x": 668,
+        "y": 731,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ai",
+        "w": 7,
+        "h": 7,
+        "x": 700,
+        "y": 719,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/aj",
+        "w": 11,
+        "h": 9,
+        "x": 725,
+        "y": 662,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ak",
+        "w": 21,
+        "h": 23,
+        "x": 757,
+        "y": 495,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/al",
+        "w": 16,
+        "h": 13,
+        "x": 800,
+        "y": 482,
+        "fx": -15,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/am",
+        "w": 16,
+        "h": 14,
+        "x": 277,
+        "y": 998,
+        "fx": -16,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/an",
+        "w": 15,
+        "h": 14,
+        "x": 313,
+        "y": 998,
+        "fx": -17,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ao",
+        "w": 11,
+        "h": 13,
+        "x": 691,
+        "y": 691,
+        "fx": -19,
+        "fy": -3,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ap",
+        "w": 11,
+        "h": 13,
+        "x": 691,
+        "y": 691,
+        "fx": -19,
+        "fy": -3,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/aq",
+        "w": 13,
+        "h": 13,
+        "x": 754,
+        "y": 554,
+        "fx": -18,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ar",
+        "w": 11,
+        "h": 13,
+        "x": 746,
+        "y": 690,
+        "fx": -19,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/as",
+        "w": 13,
+        "h": 13,
+        "x": 754,
+        "y": 569,
+        "fx": -18,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/at",
+        "w": 16,
+        "h": 12,
+        "x": 167,
+        "y": 1000,
+        "fx": -17,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/au",
+        "w": 21,
+        "h": 13,
+        "x": 702,
+        "y": 658,
+        "fx": -14,
+        "fy": -3,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/av",
+        "w": 19,
+        "h": 14,
+        "x": 256,
+        "y": 998,
+        "fx": -15,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/aw",
+        "w": 13,
+        "h": 16,
+        "x": 659,
+        "y": 685,
+        "fx": -16,
+        "fy": -1,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ax",
+        "w": 16,
+        "h": 14,
+        "x": 295,
+        "y": 998,
+        "r": true,
+        "fx": -16,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ay",
+        "w": 15,
+        "h": 19,
+        "x": 757,
+        "y": 520,
+        "fx": -17,
+        "fy": -2,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/az",
+        "w": 19,
+        "h": 15,
+        "x": 253,
+        "y": 981,
+        "r": true,
+        "fx": -16,
+        "fy": -5,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/b",
+        "w": 12,
+        "h": 14,
+        "x": 393,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ba",
+        "w": 14,
+        "h": 14,
+        "x": 330,
+        "y": 998,
+        "fx": -17,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bb",
+        "w": 13,
+        "h": 14,
+        "x": 378,
+        "y": 998,
+        "fx": -18,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bc",
+        "w": 14,
+        "h": 14,
+        "x": 346,
+        "y": 998,
+        "fx": -17,
+        "fy": -11,
+        "fw": 48,
+        "fh": 48
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bd",
+        "w": 4,
+        "h": 5,
+        "x": 642,
+        "y": 729,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/be",
+        "w": 7,
+        "h": 7,
+        "x": 622,
+        "y": 729,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bf",
+        "w": 5,
+        "h": 7,
+        "x": 709,
+        "y": 719,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bg",
+        "w": 17,
+        "h": 17,
+        "x": 234,
+        "y": 981,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bh",
+        "w": 11,
+        "h": 13,
+        "x": 769,
+        "y": 570,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bi",
+        "w": 12,
+        "h": 13,
+        "x": 718,
+        "y": 690,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bj",
+        "w": 12,
+        "h": 13,
+        "x": 732,
+        "y": 690,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bk",
+        "w": 12,
+        "h": 13,
+        "x": 768,
+        "y": 601,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bl",
+        "w": 11,
+        "h": 14,
+        "x": 774,
+        "y": 520,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bm",
+        "w": 15,
+        "h": 11,
+        "x": 757,
+        "y": 541,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bn",
+        "w": 11,
+        "h": 15,
+        "x": 754,
+        "y": 584
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bo",
+        "w": 15,
+        "h": 12,
+        "x": 239,
+        "y": 1000,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bp",
+        "w": 12,
+        "h": 15,
+        "x": 356,
+        "y": 981,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bq",
+        "w": 12,
+        "h": 14,
+        "x": 407,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/br",
+        "w": 15,
+        "h": 12,
+        "x": 239,
+        "y": 1000,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bs",
+        "w": 12,
+        "h": 15,
+        "x": 370,
+        "y": 981,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bt",
+        "w": 10,
+        "h": 15,
+        "x": 780,
+        "y": 495,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bu",
+        "w": 82,
+        "h": 196,
+        "x": 659,
+        "y": 431,
+        "r": true,
+        "fx": -38,
+        "fy": -493,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bv",
+        "w": 108,
+        "h": 676,
+        "x": 549,
+        "y": 1,
+        "fx": -82,
+        "fy": -24,
+        "fw": 272,
+        "fh": 736
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bw",
+        "w": 11,
+        "h": 9,
+        "x": 648,
+        "y": 728,
+        "fx": -3,
+        "fy": -3,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bx",
+        "w": 9,
+        "h": 8,
+        "x": 581,
+        "y": 729,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/by",
+        "w": 10,
+        "h": 13,
+        "x": 731,
+        "y": 647,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/bz",
+        "w": 3,
+        "h": 9,
+        "x": 755,
+        "y": 662,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 755,
+        "y": 662,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ca",
+        "w": 11,
+        "h": 12,
+        "x": 661,
+        "y": 703,
+        "fx": -11,
+        "fy": -5,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cb",
+        "w": 11,
+        "h": 11,
+        "x": 701,
+        "y": 706,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cc",
+        "w": 11,
+        "h": 12,
+        "x": 674,
+        "y": 699,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cd",
+        "w": 11,
+        "h": 12,
+        "x": 661,
+        "y": 717,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ce",
+        "w": 11,
+        "h": 12,
+        "x": 674,
+        "y": 699,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cf",
+        "w": 11,
+        "h": 12,
+        "x": 674,
+        "y": 713,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cg",
+        "w": 272,
+        "h": 736,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ch",
+        "w": 272,
+        "h": 736,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ci",
+        "w": 12,
+        "h": 14,
+        "x": 421,
+        "y": 998
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cj",
+        "w": 12,
+        "h": 14,
+        "x": 774,
+        "y": 536
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ck",
+        "w": 12,
+        "h": 8,
+        "x": 567,
+        "y": 729,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 11,
+        "fh": 13
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cl",
+        "w": 10,
+        "h": 16,
+        "x": 731,
+        "y": 629
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cm",
+        "w": 8,
+        "h": 3,
+        "x": 808,
+        "y": 497
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cn",
+        "w": 16,
+        "h": 12,
+        "x": 185,
+        "y": 1000,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/co",
+        "w": 16,
+        "h": 15,
+        "x": 800,
+        "y": 431,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cp",
+        "w": 16,
+        "h": 15,
+        "x": 800,
+        "y": 448,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cq",
+        "w": 16,
+        "h": 15,
+        "x": 800,
+        "y": 465,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cr",
+        "w": 3,
+        "h": 7,
+        "x": 813,
+        "y": 507
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cs",
+        "w": 8,
+        "h": 3,
+        "x": 808,
+        "y": 502,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ct",
+        "w": 4,
+        "h": 8,
+        "x": 592,
+        "y": 729
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cu",
+        "w": 9,
+        "h": 4,
+        "x": 631,
+        "y": 729,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cv",
+        "w": 4,
+        "h": 8,
+        "x": 592,
+        "y": 729
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cw",
+        "w": 9,
+        "h": 4,
+        "x": 631,
+        "y": 729,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cx",
+        "w": 3,
+        "h": 8,
+        "x": 617,
+        "y": 729
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cy",
+        "w": 3,
+        "h": 7,
+        "x": 808,
+        "y": 507
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/cz",
+        "w": 9,
+        "h": 4,
+        "x": 760,
+        "y": 664,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/d",
+        "w": 12,
+        "h": 13,
+        "x": 732,
+        "y": 690,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/da",
+        "w": 4,
+        "h": 8,
+        "x": 598,
+        "y": 729
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/db",
+        "w": 9,
+        "h": 4,
+        "x": 760,
+        "y": 664,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dc",
+        "w": 4,
+        "h": 8,
+        "x": 598,
+        "y": 729
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dd",
+        "w": 11,
+        "h": 14,
+        "x": 744,
+        "y": 674,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/de",
+        "w": 15,
+        "h": 15,
+        "x": 274,
+        "y": 981
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/df",
+        "w": 15,
+        "h": 15,
+        "x": 291,
+        "y": 981
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dg",
+        "w": 16,
+        "h": 8,
+        "x": 549,
+        "y": 729,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dh",
+        "w": 15,
+        "h": 15,
+        "x": 308,
+        "y": 981
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/di",
+        "w": 10,
+        "h": 16,
+        "x": 743,
+        "y": 616
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dj",
+        "w": 16,
+        "h": 12,
+        "x": 203,
+        "y": 1000,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dk",
+        "w": 5,
+        "h": 7,
+        "x": 675,
+        "y": 730,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dl",
+        "w": 11,
+        "h": 7,
+        "x": 604,
+        "y": 729,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dm",
+        "w": 9,
+        "h": 15,
+        "x": 789,
+        "y": 476,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dn",
+        "w": 9,
+        "h": 64,
+        "x": 743,
+        "y": 550,
+        "r": true,
+        "fx": -16,
+        "fy": -42,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/do",
+        "w": 12,
+        "h": 12,
+        "x": 768,
+        "y": 616,
+        "fx": -10,
+        "fy": -10,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dp",
+        "w": 12,
+        "h": 11,
+        "x": 687,
+        "y": 706,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dq",
+        "w": 97,
+        "h": 48,
+        "x": 549,
+        "y": 679,
+        "fx": -1,
+        "fy": -7,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dr",
+        "w": 11,
+        "h": 9,
+        "x": 687,
+        "y": 719,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ds",
+        "w": 65,
+        "h": 17,
+        "x": 167,
+        "y": 981,
+        "fx": -17,
+        "fy": -1,
+        "fw": 99,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dt",
+        "w": 157,
+        "h": 281,
+        "x": 659,
+        "y": 1,
+        "fx": -58,
+        "fy": -31,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/du",
+        "w": 156,
+        "h": 145,
+        "x": 659,
+        "y": 284,
+        "fx": -58,
+        "fy": -74,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dv",
+        "w": 164,
+        "h": 28,
+        "x": 1,
+        "y": 981,
+        "fx": -54,
+        "fy": -324,
+        "fw": 272,
+        "fh": 368
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dw",
+        "w": 9,
+        "h": 30,
+        "x": 648,
+        "y": 679,
+        "r": true,
+        "fx": -7,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dx",
+        "w": 30,
+        "h": 9,
+        "x": 659,
+        "y": 674,
+        "fx": -4,
+        "fy": -37,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dy",
+        "w": 41,
+        "h": 43,
+        "x": 659,
+        "y": 629,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/dz",
+        "w": 41,
+        "h": 43,
+        "x": 757,
+        "y": 431,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/e",
+        "w": 11,
+        "h": 15,
+        "x": 755,
+        "y": 616
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ea",
+        "w": 30,
+        "h": 17,
+        "x": 757,
+        "y": 476,
+        "fx": -4,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/eb",
+        "w": 30,
+        "h": 17,
+        "x": 757,
+        "y": 476,
+        "fx": -7,
+        "fy": -2,
+        "fw": 41,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ec",
+        "w": 12,
+        "h": 117,
+        "x": 743,
+        "y": 431
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ed",
+        "w": 368,
+        "h": 272,
+        "x": 443,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ee",
+        "w": 11,
+        "h": 14,
+        "x": 769,
+        "y": 554,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ef",
+        "w": 15,
+        "h": 11,
+        "x": 743,
+        "y": 649,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/eg",
+        "w": 11,
+        "h": 15,
+        "x": 717,
+        "y": 673,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/eh",
+        "w": 11,
+        "h": 14,
+        "x": 767,
+        "y": 585,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ei",
+        "w": 11,
+        "h": 13,
+        "x": 770,
+        "y": 630,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ej",
+        "w": 12,
+        "h": 15,
+        "x": 384,
+        "y": 981,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/ek",
+        "w": 12,
+        "h": 15,
+        "x": 398,
+        "y": 981,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/el",
+        "w": 13,
+        "h": 15,
+        "x": 341,
+        "y": 981,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/em",
+        "w": 27,
+        "h": 27,
+        "x": 702,
+        "y": 629,
+        "fx": -2,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/en",
+        "w": 14,
+        "h": 12,
+        "x": 792,
+        "y": 497,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/f",
+        "w": 440,
+        "h": 240,
+        "x": 1,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/g",
+        "w": 4,
+        "h": 4,
+        "x": 782,
+        "y": 558
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/h",
+        "w": 12,
+        "h": 14,
+        "x": 730,
+        "y": 674
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/i",
+        "w": 12,
+        "h": 14,
+        "x": 704,
+        "y": 690
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/j",
+        "w": 5,
+        "h": 5,
+        "x": 668,
+        "y": 731,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/k",
+        "w": 7,
+        "h": 7,
+        "x": 700,
+        "y": 719,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/l",
+        "w": 3,
+        "h": 3,
+        "x": 813,
+        "y": 516,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/m",
+        "w": 21,
+        "h": 23,
+        "x": 757,
+        "y": 495,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/n",
+        "w": 3,
+        "h": 3,
+        "x": 813,
+        "y": 516,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/o",
+        "w": 3,
+        "h": 3,
+        "x": 813,
+        "y": 516,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/p",
+        "w": 12,
+        "h": 15,
+        "x": 412,
+        "y": 981,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/q",
+        "w": 15,
+        "h": 12,
+        "x": 426,
+        "y": 981,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/r",
+        "w": 12,
+        "h": 15,
+        "x": 412,
+        "y": 981,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/s",
+        "w": 15,
+        "h": 12,
+        "x": 674,
+        "y": 685,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/t",
+        "w": 5,
+        "h": 6,
+        "x": 661,
+        "y": 731,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/u",
+        "w": 6,
+        "h": 6,
+        "x": 780,
+        "y": 512,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/v",
+        "w": 16,
+        "h": 12,
+        "x": 221,
+        "y": 1000,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/w",
+        "w": 14,
+        "h": 14,
+        "x": 362,
+        "y": 998,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/x",
+        "w": 14,
+        "h": 15,
+        "x": 325,
+        "y": 981,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/y",
+        "w": 12,
+        "h": 13,
+        "x": 743,
+        "y": 634,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ruin_lady_001/.gen/movie/z",
+        "w": 15,
+        "h": 10,
+        "x": 738,
+        "y": 662,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    }
+]

@@ -1,0 +1,2255 @@
+[
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1192,
+        "y": 343
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/aa",
+        "w": 13,
+        "h": 11,
+        "x": 1139,
+        "y": 376,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ab",
+        "w": 13,
+        "h": 11,
+        "x": 1124,
+        "y": 469,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ac",
+        "w": 13,
+        "h": 11,
+        "x": 1139,
+        "y": 376,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ad",
+        "w": 11,
+        "h": 13,
+        "x": 1154,
+        "y": 467,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ae",
+        "w": 13,
+        "h": 11,
+        "x": 1167,
+        "y": 376,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/af",
+        "w": 11,
+        "h": 13,
+        "x": 1154,
+        "y": 376,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ag",
+        "w": 13,
+        "h": 11,
+        "x": 1167,
+        "y": 376,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ah",
+        "w": 13,
+        "h": 11,
+        "x": 1182,
+        "y": 376,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ai",
+        "w": 680,
+        "h": 272,
+        "x": 517,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/aj",
+        "w": 4,
+        "h": 4,
+        "x": 1192,
+        "y": 349
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ak",
+        "w": 13,
+        "h": 13,
+        "x": 1124,
+        "y": 374,
+        "fx": -11,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/al",
+        "w": 13,
+        "h": 13,
+        "x": 1094,
+        "y": 457,
+        "fx": -11,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/am",
+        "w": 16,
+        "h": 15,
+        "x": 819,
+        "y": 396,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/an",
+        "w": 15,
+        "h": 15,
+        "x": 1025,
+        "y": 452
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ao",
+        "w": 12,
+        "h": 14,
+        "x": 1070,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ap",
+        "w": 15,
+        "h": 15,
+        "x": 1022,
+        "y": 394
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/aq",
+        "w": 12,
+        "h": 14,
+        "x": 1059,
+        "y": 444
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ar",
+        "w": 15,
+        "h": 16,
+        "x": 957,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/as",
+        "w": 13,
+        "h": 15,
+        "x": 1052,
+        "y": 462
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/at",
+        "w": 5,
+        "h": 7,
+        "x": 713,
+        "y": 377,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/au",
+        "w": 11,
+        "h": 7,
+        "x": 586,
+        "y": 413,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/av",
+        "w": 15,
+        "h": 9,
+        "x": 617,
+        "y": 377,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/aw",
+        "w": 13,
+        "h": 13,
+        "x": 1100,
+        "y": 440,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ax",
+        "w": 13,
+        "h": 13,
+        "x": 1112,
+        "y": 424,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ay",
+        "w": 6,
+        "h": 5,
+        "x": 837,
+        "y": 396,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/az",
+        "w": 6,
+        "h": 6,
+        "x": 517,
+        "y": 422,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/b",
+        "w": 11,
+        "h": 14,
+        "x": 835,
+        "y": 466,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ba",
+        "w": 12,
+        "h": 13,
+        "x": 1138,
+        "y": 389,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bb",
+        "w": 14,
+        "h": 14,
+        "x": 1066,
+        "y": 410,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bc",
+        "w": 11,
+        "h": 14,
+        "x": 1096,
+        "y": 408,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bd",
+        "w": 13,
+        "h": 13,
+        "x": 1122,
+        "y": 408,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/be",
+        "w": 11,
+        "h": 13,
+        "x": 1152,
+        "y": 391,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bf",
+        "w": 12,
+        "h": 14,
+        "x": 1071,
+        "y": 426
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bg",
+        "w": 11,
+        "h": 13,
+        "x": 1152,
+        "y": 406,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bh",
+        "w": 11,
+        "h": 14,
+        "x": 1097,
+        "y": 392,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bi",
+        "w": 13,
+        "h": 13,
+        "x": 1123,
+        "y": 392,
+        "fx": -6,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bj",
+        "w": 15,
+        "h": 16,
+        "x": 974,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bk",
+        "w": 11,
+        "h": 13,
+        "x": 1156,
+        "y": 421,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bl",
+        "w": 12,
+        "h": 14,
+        "x": 1082,
+        "y": 409
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bm",
+        "w": 11,
+        "h": 13,
+        "x": 1158,
+        "y": 436,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bn",
+        "w": 11,
+        "h": 14,
+        "x": 1096,
+        "y": 408,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bo",
+        "w": 13,
+        "h": 13,
+        "x": 1122,
+        "y": 408,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bp",
+        "w": 15,
+        "h": 16,
+        "x": 991,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bq",
+        "w": 11,
+        "h": 13,
+        "x": 1152,
+        "y": 391,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/br",
+        "w": 11,
+        "h": 13,
+        "x": 1152,
+        "y": 406,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bs",
+        "w": 11,
+        "h": 14,
+        "x": 1098,
+        "y": 376,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bt",
+        "w": 13,
+        "h": 13,
+        "x": 1109,
+        "y": 455,
+        "fx": -6,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bu",
+        "w": 11,
+        "h": 13,
+        "x": 1166,
+        "y": 451,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bv",
+        "w": 12,
+        "h": 14,
+        "x": 1083,
+        "y": 392
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bw",
+        "w": 11,
+        "h": 13,
+        "x": 1167,
+        "y": 466,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bx",
+        "w": 15,
+        "h": 16,
+        "x": 1008,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/by",
+        "w": 10,
+        "h": 9,
+        "x": 647,
+        "y": 377,
+        "fx": -12,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/bz",
+        "w": 10,
+        "h": 9,
+        "x": 659,
+        "y": 377,
+        "fx": -1,
+        "fy": -2,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 229,
+        "y": 477
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ca",
+        "w": 11,
+        "h": 15,
+        "x": 835,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cb",
+        "w": 7,
+        "h": 7,
+        "x": 609,
+        "y": 413,
+        "fx": -1,
+        "fy": -1,
+        "fw": 9,
+        "fh": 9
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cc",
+        "w": 13,
+        "h": 13,
+        "x": 1115,
+        "y": 439,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cd",
+        "w": 4,
+        "h": 4,
+        "x": 1192,
+        "y": 355
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ce",
+        "w": 11,
+        "h": 14,
+        "x": 1081,
+        "y": 458,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cf",
+        "w": 15,
+        "h": 15,
+        "x": 1025,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cg",
+        "w": 13,
+        "h": 11,
+        "x": 1180,
+        "y": 389,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ch",
+        "w": 11,
+        "h": 13,
+        "x": 1167,
+        "y": 389,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ci",
+        "w": 12,
+        "h": 14,
+        "x": 1084,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cj",
+        "w": 11,
+        "h": 14,
+        "x": 835,
+        "y": 466,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ck",
+        "w": 11,
+        "h": 13,
+        "x": 1165,
+        "y": 404,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cl",
+        "w": 11,
+        "h": 13,
+        "x": 1169,
+        "y": 419,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cm",
+        "w": 11,
+        "h": 14,
+        "x": 1087,
+        "y": 441,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cn",
+        "w": 15,
+        "h": 15,
+        "x": 1022,
+        "y": 411
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/co",
+        "w": 11,
+        "h": 13,
+        "x": 1178,
+        "y": 404,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cp",
+        "w": 11,
+        "h": 13,
+        "x": 1171,
+        "y": 434,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cq",
+        "w": 12,
+        "h": 14,
+        "x": 1067,
+        "y": 460
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cr",
+        "w": 217,
+        "h": 50,
+        "x": 924,
+        "y": 322,
+        "r": true,
+        "fx": -71,
+        "fy": -14,
+        "fw": 240,
+        "fh": 231
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cs",
+        "w": 240,
+        "h": 440,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ct",
+        "w": 8,
+        "h": 7,
+        "x": 599,
+        "y": 413,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cu",
+        "w": 21,
+        "h": 21,
+        "x": 653,
+        "y": 388,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cv",
+        "w": 19,
+        "h": 19,
+        "x": 742,
+        "y": 377,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cw",
+        "w": 11,
+        "h": 15,
+        "x": 835,
+        "y": 449
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cx",
+        "w": 5,
+        "h": 5,
+        "x": 915,
+        "y": 336,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cy",
+        "w": 7,
+        "h": 7,
+        "x": 618,
+        "y": 413,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/cz",
+        "w": 11,
+        "h": 9,
+        "x": 634,
+        "y": 377,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/d",
+        "w": 11,
+        "h": 13,
+        "x": 1165,
+        "y": 404,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/da",
+        "w": 21,
+        "h": 23,
+        "x": 610,
+        "y": 388,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/db",
+        "w": 5,
+        "h": 5,
+        "x": 915,
+        "y": 336,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dc",
+        "w": 7,
+        "h": 7,
+        "x": 618,
+        "y": 413,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dd",
+        "w": 3,
+        "h": 3,
+        "x": 459,
+        "y": 477,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/de",
+        "w": 21,
+        "h": 23,
+        "x": 610,
+        "y": 388,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/df",
+        "w": 3,
+        "h": 3,
+        "x": 459,
+        "y": 477,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dg",
+        "w": 3,
+        "h": 3,
+        "x": 459,
+        "y": 477,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dh",
+        "w": 6,
+        "h": 5,
+        "x": 837,
+        "y": 396,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/di",
+        "w": 6,
+        "h": 6,
+        "x": 517,
+        "y": 422,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dj",
+        "w": 12,
+        "h": 16,
+        "x": 997,
+        "y": 452,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dk",
+        "w": 14,
+        "h": 14,
+        "x": 1067,
+        "y": 393,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dl",
+        "w": 15,
+        "h": 14,
+        "x": 802,
+        "y": 397,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dm",
+        "w": 10,
+        "h": 10,
+        "x": 1109,
+        "y": 470
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dn",
+        "w": 20,
+        "h": 20,
+        "x": 676,
+        "y": 388
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/do",
+        "w": 4,
+        "h": 10,
+        "x": 1192,
+        "y": 331
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dp",
+        "w": 16,
+        "h": 16,
+        "x": 921,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dq",
+        "w": 7,
+        "h": 3,
+        "x": 270,
+        "y": 477,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dr",
+        "w": 8,
+        "h": 3,
+        "x": 250,
+        "y": 477,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ds",
+        "w": 4,
+        "h": 8,
+        "x": 701,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dt",
+        "w": 4,
+        "h": 9,
+        "x": 671,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/du",
+        "w": 4,
+        "h": 8,
+        "x": 701,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dv",
+        "w": 4,
+        "h": 9,
+        "x": 671,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dw",
+        "w": 8,
+        "h": 3,
+        "x": 260,
+        "y": 477,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dx",
+        "w": 7,
+        "h": 3,
+        "x": 279,
+        "y": 477,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dy",
+        "w": 4,
+        "h": 9,
+        "x": 677,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/dz",
+        "w": 4,
+        "h": 8,
+        "x": 707,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/e",
+        "w": 11,
+        "h": 13,
+        "x": 1169,
+        "y": 419,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ea",
+        "w": 4,
+        "h": 9,
+        "x": 677,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/eb",
+        "w": 4,
+        "h": 8,
+        "x": 707,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ec",
+        "w": 12,
+        "h": 15,
+        "x": 1039,
+        "y": 410,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ed",
+        "w": 15,
+        "h": 11,
+        "x": 1035,
+        "y": 469,
+        "r": true,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ee",
+        "w": 12,
+        "h": 17,
+        "x": 834,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ef",
+        "w": 4,
+        "h": 11,
+        "x": 517,
+        "y": 430
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/eg",
+        "w": 12,
+        "h": 16,
+        "x": 999,
+        "y": 434
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/eh",
+        "w": 17,
+        "h": 12,
+        "x": 1179,
+        "y": 275,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ei",
+        "w": 18,
+        "h": 13,
+        "x": 762,
+        "y": 398,
+        "fx": -11,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ej",
+        "w": 19,
+        "h": 12,
+        "x": 720,
+        "y": 399,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ek",
+        "w": 19,
+        "h": 12,
+        "x": 741,
+        "y": 399,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/el",
+        "w": 16,
+        "h": 18,
+        "x": 763,
+        "y": 377,
+        "r": true,
+        "fx": -10,
+        "fy": -5,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/em",
+        "w": 17,
+        "h": 12,
+        "x": 1179,
+        "y": 289,
+        "r": true,
+        "fx": -16,
+        "fy": -5,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/en",
+        "w": 17,
+        "h": 12,
+        "x": 1179,
+        "y": 303,
+        "r": true,
+        "fx": -16,
+        "fy": -5,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/eo",
+        "w": 11,
+        "h": 17,
+        "x": 835,
+        "y": 413,
+        "fx": -16,
+        "fy": -6,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ep",
+        "w": 32,
+        "h": 32,
+        "x": 459,
+        "y": 443
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/eq",
+        "w": 40,
+        "h": 40,
+        "x": 900,
+        "y": 395
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/er",
+        "w": 40,
+        "h": 40,
+        "x": 900,
+        "y": 437
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/es",
+        "w": 38,
+        "h": 34,
+        "x": 419,
+        "y": 443,
+        "fx": 0,
+        "fy": 0,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/et",
+        "w": 28,
+        "h": 28,
+        "x": 163,
+        "y": 451,
+        "fx": 0,
+        "fy": 0,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/eu",
+        "w": 15,
+        "h": 15,
+        "x": 1027,
+        "y": 428,
+        "fx": -9,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ev",
+        "w": 13,
+        "h": 16,
+        "x": 900,
+        "y": 377,
+        "fx": -11,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ew",
+        "w": 12,
+        "h": 14,
+        "x": 1073,
+        "y": 442,
+        "fx": -11,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ex",
+        "w": 15,
+        "h": 18,
+        "x": 799,
+        "y": 377,
+        "r": true,
+        "fx": -5,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ey",
+        "w": 16,
+        "h": 18,
+        "x": 781,
+        "y": 377,
+        "r": true,
+        "fx": -5,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ez",
+        "w": 17,
+        "h": 12,
+        "x": 1179,
+        "y": 317,
+        "r": true,
+        "fx": -11,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/f",
+        "w": 13,
+        "h": 13,
+        "x": 1112,
+        "y": 424,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fa",
+        "w": 12,
+        "h": 15,
+        "x": 1039,
+        "y": 410,
+        "fx": -10,
+        "fy": -2,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fb",
+        "w": 15,
+        "h": 15,
+        "x": 1027,
+        "y": 428,
+        "fx": -9,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fc",
+        "w": 12,
+        "h": 14,
+        "x": 1085,
+        "y": 425,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fd",
+        "w": 13,
+        "h": 16,
+        "x": 982,
+        "y": 452,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fe",
+        "w": 12,
+        "h": 13,
+        "x": 1124,
+        "y": 454,
+        "fx": -13,
+        "fy": -7,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ff",
+        "w": 32,
+        "h": 24,
+        "x": 217,
+        "y": 451,
+        "fx": -3,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fg",
+        "w": 22,
+        "h": 23,
+        "x": 586,
+        "y": 388,
+        "r": true,
+        "fx": -13,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fh",
+        "w": 18,
+        "h": 22,
+        "x": 633,
+        "y": 388,
+        "r": true,
+        "fx": -12,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fi",
+        "w": 5,
+        "h": 6,
+        "x": 837,
+        "y": 403,
+        "fx": 0,
+        "fy": 0,
+        "fw": 5,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fj",
+        "w": 5,
+        "h": 4,
+        "x": 915,
+        "y": 343,
+        "r": true,
+        "fx": -3,
+        "fy": -5,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fk",
+        "w": 10,
+        "h": 3,
+        "x": 217,
+        "y": 477,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 5,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fl",
+        "w": 10,
+        "h": 6,
+        "x": 275,
+        "y": 443,
+        "fx": 0,
+        "fy": -3,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fm",
+        "w": 10,
+        "h": 1,
+        "x": 196,
+        "y": 478,
+        "r": true,
+        "fx": -2,
+        "fy": -5,
+        "fw": 5,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fn",
+        "w": 30,
+        "h": 29,
+        "x": 67,
+        "y": 451,
+        "fx": -3,
+        "fy": -6,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fo",
+        "w": 1,
+        "h": 2,
+        "x": 193,
+        "y": 478,
+        "fx": -2,
+        "fy": -14,
+        "fw": 5,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fp",
+        "w": 30,
+        "h": 32,
+        "x": 493,
+        "y": 443,
+        "fx": -6,
+        "fy": -3,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fq",
+        "w": 50,
+        "h": 100,
+        "x": 719,
+        "y": 275,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 104
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fr",
+        "w": 50,
+        "h": 100,
+        "x": 771,
+        "y": 275,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 104
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fs",
+        "w": 50,
+        "h": 100,
+        "x": 823,
+        "y": 275,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 104
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ft",
+        "w": 50,
+        "h": 100,
+        "x": 848,
+        "y": 377,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 104
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fu",
+        "w": 4,
+        "h": 40,
+        "x": 915,
+        "y": 349,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fv",
+        "w": 13,
+        "h": 15,
+        "x": 1039,
+        "y": 393,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fw",
+        "w": 11,
+        "h": 14,
+        "x": 1099,
+        "y": 424,
+        "fx": -10,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fx",
+        "w": 16,
+        "h": 17,
+        "x": 816,
+        "y": 377,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fy",
+        "w": 16,
+        "h": 16,
+        "x": 939,
+        "y": 376,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/fz",
+        "w": 38,
+        "h": 38,
+        "x": 942,
+        "y": 435,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/g",
+        "w": 9,
+        "h": 3,
+        "x": 229,
+        "y": 477
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ga",
+        "w": 13,
+        "h": 13,
+        "x": 1127,
+        "y": 423,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gb",
+        "w": 20,
+        "h": 20,
+        "x": 698,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gc",
+        "w": 20,
+        "h": 20,
+        "x": 720,
+        "y": 377
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gd",
+        "w": 13,
+        "h": 15,
+        "x": 1042,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ge",
+        "w": 11,
+        "h": 14,
+        "x": 1109,
+        "y": 408,
+        "fx": -9,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gf",
+        "w": 43,
+        "h": 145,
+        "x": 517,
+        "y": 275,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gg",
+        "w": 253,
+        "h": 45,
+        "x": 924,
+        "y": 275,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gh",
+        "w": 12,
+        "h": 15,
+        "x": 1044,
+        "y": 427,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gi",
+        "w": 206,
+        "h": 62,
+        "x": 627,
+        "y": 413,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gj",
+        "w": 15,
+        "h": 16,
+        "x": 982,
+        "y": 434,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gk",
+        "w": 53,
+        "h": 111,
+        "x": 562,
+        "y": 275,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gl",
+        "w": 24,
+        "h": 29,
+        "x": 99,
+        "y": 451,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gm",
+        "w": 48,
+        "h": 55,
+        "x": 574,
+        "y": 422,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gn",
+        "w": 16,
+        "h": 24,
+        "x": 251,
+        "y": 451,
+        "fx": -39,
+        "fy": -18,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/go",
+        "w": 22,
+        "h": 25,
+        "x": 193,
+        "y": 451,
+        "fx": -33,
+        "fy": -16,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gp",
+        "w": 31,
+        "h": 29,
+        "x": 1,
+        "y": 451,
+        "fx": -28,
+        "fy": -14,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gq",
+        "w": 31,
+        "h": 29,
+        "x": 34,
+        "y": 451,
+        "fx": -28,
+        "fy": -14,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gr",
+        "w": 36,
+        "h": 28,
+        "x": 125,
+        "y": 451,
+        "fx": -29,
+        "fy": -15,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gs",
+        "w": 38,
+        "h": 39,
+        "x": 875,
+        "y": 336,
+        "fx": -28,
+        "fy": 0,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gt",
+        "w": 47,
+        "h": 58,
+        "x": 525,
+        "y": 422,
+        "fx": -19,
+        "fy": 0,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gu",
+        "w": 47,
+        "h": 59,
+        "x": 875,
+        "y": 275,
+        "fx": -18,
+        "fy": -1,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gv",
+        "w": 47,
+        "h": 43,
+        "x": 1143,
+        "y": 331,
+        "fx": -19,
+        "fy": -17,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gw",
+        "w": 43,
+        "h": 37,
+        "x": 288,
+        "y": 443,
+        "fx": -22,
+        "fy": -22,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gx",
+        "w": 15,
+        "h": 15,
+        "x": 1042,
+        "y": 445
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gy",
+        "w": 100,
+        "h": 100,
+        "x": 617,
+        "y": 275
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/gz",
+        "w": 38,
+        "h": 39,
+        "x": 942,
+        "y": 394,
+        "r": true,
+        "fx": -23,
+        "fy": -8,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/h",
+        "w": 15,
+        "h": 15,
+        "x": 1025,
+        "y": 452
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ha",
+        "w": 42,
+        "h": 36,
+        "x": 333,
+        "y": 443,
+        "r": true,
+        "fx": -26,
+        "fy": -1,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hb",
+        "w": 40,
+        "h": 34,
+        "x": 377,
+        "y": 443,
+        "r": true,
+        "fx": -25,
+        "fy": -1,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hc",
+        "w": 38,
+        "h": 38,
+        "x": 982,
+        "y": 394,
+        "fx": -24,
+        "fy": -1,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hd",
+        "w": 22,
+        "h": 32,
+        "x": 562,
+        "y": 388,
+        "fx": -40,
+        "fy": -8,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/he",
+        "w": 16,
+        "h": 24,
+        "x": 269,
+        "y": 451,
+        "r": true,
+        "fx": -38,
+        "fy": -28,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hf",
+        "w": 18,
+        "h": 14,
+        "x": 782,
+        "y": 397,
+        "r": true,
+        "fx": -38,
+        "fy": -26,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hg",
+        "w": 16,
+        "h": 10,
+        "x": 982,
+        "y": 470,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hh",
+        "w": 12,
+        "h": 16,
+        "x": 1011,
+        "y": 452
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hi",
+        "w": 11,
+        "h": 15,
+        "x": 1053,
+        "y": 410
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hj",
+        "w": 13,
+        "h": 13,
+        "x": 1137,
+        "y": 407,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hk",
+        "w": 11,
+        "h": 15,
+        "x": 1054,
+        "y": 393
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hl",
+        "w": 11,
+        "h": 15,
+        "x": 1057,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hm",
+        "w": 16,
+        "h": 8,
+        "x": 683,
+        "y": 377,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hn",
+        "w": 15,
+        "h": 10,
+        "x": 1018,
+        "y": 470,
+        "r": true,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/ho",
+        "w": 11,
+        "h": 14,
+        "x": 1110,
+        "y": 392,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/hp",
+        "w": 11,
+        "h": 14,
+        "x": 1111,
+        "y": 376,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/i",
+        "w": 12,
+        "h": 14,
+        "x": 1070,
+        "y": 376
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/j",
+        "w": 272,
+        "h": 448,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -232,
+        "fw": 272,
+        "fh": 680
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/k",
+        "w": 16,
+        "h": 10,
+        "x": 1000,
+        "y": 470,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/l",
+        "w": 8,
+        "h": 3,
+        "x": 240,
+        "y": 477
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/m",
+        "w": 12,
+        "h": 16,
+        "x": 1013,
+        "y": 434
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/n",
+        "w": 11,
+        "h": 15,
+        "x": 1058,
+        "y": 427
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/o",
+        "w": 11,
+        "h": 13,
+        "x": 1182,
+        "y": 419,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/p",
+        "w": 13,
+        "h": 11,
+        "x": 1184,
+        "y": 434,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/q",
+        "w": 11,
+        "h": 13,
+        "x": 1182,
+        "y": 419,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/r",
+        "w": 13,
+        "h": 11,
+        "x": 1184,
+        "y": 447,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/s",
+        "w": 12,
+        "h": 13,
+        "x": 1130,
+        "y": 438,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/t",
+        "w": 12,
+        "h": 13,
+        "x": 1142,
+        "y": 422,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/u",
+        "w": 12,
+        "h": 13,
+        "x": 1130,
+        "y": 438,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/v",
+        "w": 12,
+        "h": 13,
+        "x": 1138,
+        "y": 453,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/w",
+        "w": 13,
+        "h": 12,
+        "x": 1139,
+        "y": 468,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/x",
+        "w": 12,
+        "h": 13,
+        "x": 1144,
+        "y": 437,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/y",
+        "w": 13,
+        "h": 12,
+        "x": 1139,
+        "y": 468,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/steel_lacrosse_003/.gen/movie/z",
+        "w": 12,
+        "h": 13,
+        "x": 1152,
+        "y": 452,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    }
+]

@@ -1,0 +1,872 @@
+[
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1133,
+        "y": 260
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/aa",
+        "w": 16,
+        "h": 16,
+        "x": 817,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ab",
+        "w": 14,
+        "h": 10,
+        "x": 955,
+        "y": 473,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ac",
+        "w": 14,
+        "h": 10,
+        "x": 1190,
+        "y": 452,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ad",
+        "w": 11,
+        "h": 14,
+        "x": 891,
+        "y": 473
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ae",
+        "w": 10,
+        "h": 15,
+        "x": 996,
+        "y": 449,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/af",
+        "w": 10,
+        "h": 15,
+        "x": 1116,
+        "y": 478
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ag",
+        "w": 15,
+        "h": 10,
+        "x": 904,
+        "y": 473,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ah",
+        "w": 11,
+        "h": 11,
+        "x": 1143,
+        "y": 468
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ai",
+        "w": 8,
+        "h": 5,
+        "x": 1123,
+        "y": 260
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/aj",
+        "w": 11,
+        "h": 14,
+        "x": 1008,
+        "y": 449,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ak",
+        "w": 11,
+        "h": 14,
+        "x": 1021,
+        "y": 449,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/al",
+        "w": 11,
+        "h": 14,
+        "x": 1008,
+        "y": 449,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/am",
+        "w": 14,
+        "h": 11,
+        "x": 1034,
+        "y": 449,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/an",
+        "w": 14,
+        "h": 11,
+        "x": 1034,
+        "y": 462,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ao",
+        "w": 11,
+        "h": 14,
+        "x": 1130,
+        "y": 463,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ap",
+        "w": 11,
+        "h": 15,
+        "x": 970,
+        "y": 449
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/aq",
+        "w": 13,
+        "h": 10,
+        "x": 1225,
+        "y": 464,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ar",
+        "w": 13,
+        "h": 10,
+        "x": 1238,
+        "y": 452,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/as",
+        "w": 14,
+        "h": 10,
+        "x": 1206,
+        "y": 452,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/at",
+        "w": 14,
+        "h": 10,
+        "x": 1222,
+        "y": 452,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/au",
+        "w": 13,
+        "h": 10,
+        "x": 1240,
+        "y": 464,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/av",
+        "w": 13,
+        "h": 10,
+        "x": 1238,
+        "y": 452,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/aw",
+        "w": 10,
+        "h": 14,
+        "x": 1156,
+        "y": 464,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ax",
+        "w": 10,
+        "h": 16,
+        "x": 863,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ay",
+        "w": 12,
+        "h": 16,
+        "x": 835,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/az",
+        "w": 10,
+        "h": 14,
+        "x": 1168,
+        "y": 464,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/b",
+        "w": 151,
+        "h": 22,
+        "x": 817,
+        "y": 449,
+        "fx": -291,
+        "fy": -291,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ba",
+        "w": 16,
+        "h": 8,
+        "x": 1,
+        "y": 503,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bb",
+        "w": 11,
+        "h": 13,
+        "x": 1026,
+        "y": 394,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bc",
+        "w": 11,
+        "h": 13,
+        "x": 1180,
+        "y": 464,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bd",
+        "w": 10,
+        "h": 13,
+        "x": 1234,
+        "y": 308,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/be",
+        "w": 10,
+        "h": 13,
+        "x": 1234,
+        "y": 323,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bf",
+        "w": 14,
+        "h": 10,
+        "x": 1193,
+        "y": 464,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bg",
+        "w": 14,
+        "h": 10,
+        "x": 1209,
+        "y": 464,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bh",
+        "w": 10,
+        "h": 13,
+        "x": 1234,
+        "y": 338,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bi",
+        "w": 12,
+        "h": 14,
+        "x": 1116,
+        "y": 446
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bj",
+        "w": 7,
+        "h": 3,
+        "x": 1246,
+        "y": 260,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bk",
+        "w": 3,
+        "h": 8,
+        "x": 43,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bl",
+        "w": 4,
+        "h": 8,
+        "x": 37,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bm",
+        "w": 9,
+        "h": 4,
+        "x": 1039,
+        "y": 394,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bn",
+        "w": 4,
+        "h": 8,
+        "x": 37,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bo",
+        "w": 9,
+        "h": 4,
+        "x": 1039,
+        "y": 394,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bp",
+        "w": 3,
+        "h": 8,
+        "x": 48,
+        "y": 503
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bq",
+        "w": 7,
+        "h": 3,
+        "x": 1246,
+        "y": 265,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/br",
+        "w": 9,
+        "h": 4,
+        "x": 1039,
+        "y": 400,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bs",
+        "w": 8,
+        "h": 4,
+        "x": 1143,
+        "y": 446,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bt",
+        "w": 9,
+        "h": 4,
+        "x": 1039,
+        "y": 400,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bu",
+        "w": 8,
+        "h": 4,
+        "x": 1143,
+        "y": 446,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bv",
+        "w": 10,
+        "h": 13,
+        "x": 1234,
+        "y": 323,
+        "fx": -10,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bw",
+        "w": 10,
+        "h": 14,
+        "x": 1141,
+        "y": 481,
+        "fx": -10,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bx",
+        "w": 10,
+        "h": 14,
+        "x": 1141,
+        "y": 497,
+        "fx": -10,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/by",
+        "w": 11,
+        "h": 14,
+        "x": 1128,
+        "y": 479,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/bz",
+        "w": 11,
+        "h": 14,
+        "x": 1128,
+        "y": 495,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/c",
+        "w": 318,
+        "h": 261,
+        "x": 515,
+        "y": 1,
+        "fx": -182,
+        "fy": -89,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ca",
+        "w": 11,
+        "h": 14,
+        "x": 1128,
+        "y": 479,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/cb",
+        "w": 11,
+        "h": 14,
+        "x": 1143,
+        "y": 452,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/cc",
+        "w": 10,
+        "h": 15,
+        "x": 1116,
+        "y": 495,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/cd",
+        "w": 10,
+        "h": 14,
+        "x": 1234,
+        "y": 260,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ce",
+        "w": 10,
+        "h": 14,
+        "x": 1234,
+        "y": 276,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/cf",
+        "w": 15,
+        "h": 10,
+        "x": 921,
+        "y": 473,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/cg",
+        "w": 15,
+        "h": 10,
+        "x": 938,
+        "y": 473,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ch",
+        "w": 10,
+        "h": 14,
+        "x": 1234,
+        "y": 292,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ci",
+        "w": 10,
+        "h": 14,
+        "x": 1234,
+        "y": 276,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/cj",
+        "w": 15,
+        "h": 10,
+        "x": 1156,
+        "y": 452,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/ck",
+        "w": 11,
+        "h": 15,
+        "x": 878,
+        "y": 473
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/cl",
+        "w": 11,
+        "h": 15,
+        "x": 983,
+        "y": 449
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/d",
+        "w": 231,
+        "h": 38,
+        "x": 817,
+        "y": 409,
+        "fx": -269,
+        "fy": -276,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/e",
+        "w": 286,
+        "h": 264,
+        "x": 835,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/f",
+        "w": 64,
+        "h": 64,
+        "x": 1050,
+        "y": 446,
+        "fx": -85,
+        "fy": -185,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/g",
+        "w": 130,
+        "h": 257,
+        "x": 1123,
+        "y": 1,
+        "r": true,
+        "fx": -227,
+        "fy": -144,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/h",
+        "w": 300,
+        "h": 247,
+        "x": 515,
+        "y": 264,
+        "fx": -196,
+        "fy": -92,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/i",
+        "w": 12,
+        "h": 14,
+        "x": 1116,
+        "y": 462
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/j",
+        "w": 9,
+        "h": 3,
+        "x": 878,
+        "y": 490
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/k",
+        "w": 10,
+        "h": 16,
+        "x": 875,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/l",
+        "w": 3,
+        "h": 8,
+        "x": 53,
+        "y": 503,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/m",
+        "w": 12,
+        "h": 16,
+        "x": 849,
+        "y": 495
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/n",
+        "w": 11,
+        "h": 15,
+        "x": 1130,
+        "y": 446
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/o",
+        "w": 206,
+        "h": 103,
+        "x": 1026,
+        "y": 267,
+        "fx": -294,
+        "fy": -152,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/p",
+        "w": 59,
+        "h": 20,
+        "x": 817,
+        "y": 473,
+        "fx": -399,
+        "fy": -206,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/q",
+        "w": 101,
+        "h": 72,
+        "x": 1050,
+        "y": 372,
+        "fx": -333,
+        "fy": -127,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/r",
+        "w": 92,
+        "h": 78,
+        "x": 1153,
+        "y": 372,
+        "fx": -312,
+        "fy": -169,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/s",
+        "w": 207,
+        "h": 140,
+        "x": 817,
+        "y": 267,
+        "fx": -277,
+        "fy": -127,
+        "fw": 500,
+        "fh": 512
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/t",
+        "w": 512,
+        "h": 500,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/u",
+        "w": 4,
+        "h": 4,
+        "x": 1234,
+        "y": 365
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/v",
+        "w": 15,
+        "h": 10,
+        "x": 1173,
+        "y": 452,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/w",
+        "w": 16,
+        "h": 8,
+        "x": 19,
+        "y": 503,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/x",
+        "w": 10,
+        "h": 10,
+        "x": 1234,
+        "y": 353
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/y",
+        "w": 20,
+        "h": 20,
+        "x": 1026,
+        "y": 372
+    },
+    {
+        "n": "story/character_story_quest/black_doctor_001/.gen/movie/z",
+        "w": 10,
+        "h": 4,
+        "x": 970,
+        "y": 466,
+        "r": true
+    }
+]

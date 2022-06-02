@@ -1,0 +1,3112 @@
+[
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1280,
+        "y": 882
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/aa",
+        "w": 15,
+        "h": 15,
+        "x": 1252,
+        "y": 1008,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ab",
+        "w": 15,
+        "h": 15,
+        "x": 1269,
+        "y": 1008,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ac",
+        "w": 17,
+        "h": 13,
+        "x": 1253,
+        "y": 951,
+        "fx": -7,
+        "fy": -2,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ad",
+        "w": 80,
+        "h": 48,
+        "x": 1097,
+        "y": 497,
+        "fx": -24,
+        "fy": -24,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ae",
+        "w": 82,
+        "h": 46,
+        "x": 1,
+        "y": 977,
+        "fx": -23,
+        "fy": -25,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/af",
+        "w": 80,
+        "h": 46,
+        "x": 971,
+        "y": 869,
+        "fx": -24,
+        "fy": -26,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ag",
+        "w": 50,
+        "h": 82,
+        "x": 1270,
+        "y": 640,
+        "r": true,
+        "fx": -23,
+        "fy": -25,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ah",
+        "w": 78,
+        "h": 50,
+        "x": 1053,
+        "y": 869,
+        "fx": -25,
+        "fy": -24,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ai",
+        "w": 51,
+        "h": 78,
+        "x": 496,
+        "y": 786,
+        "r": true,
+        "fx": -25,
+        "fy": -23,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/aj",
+        "w": 18,
+        "h": 44,
+        "x": 1216,
+        "y": 289,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ak",
+        "w": 15,
+        "h": 15,
+        "x": 1274,
+        "y": 831,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/al",
+        "w": 11,
+        "h": 15,
+        "x": 1384,
+        "y": 384,
+        "fx": -32,
+        "fy": -23,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/am",
+        "w": 11,
+        "h": 15,
+        "x": 1384,
+        "y": 401,
+        "fx": -31,
+        "fy": -15,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/an",
+        "w": 13,
+        "h": 12,
+        "x": 1320,
+        "y": 900,
+        "fx": -30,
+        "fy": -5,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ao",
+        "w": 13,
+        "h": 14,
+        "x": 1344,
+        "y": 855,
+        "fx": -30,
+        "fy": -1,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ap",
+        "w": 31,
+        "h": 35,
+        "x": 869,
+        "y": 981,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 45,
+        "fh": 39
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/aq",
+        "w": 35,
+        "h": 31,
+        "x": 1174,
+        "y": 967,
+        "fx": -5,
+        "fy": 0,
+        "fw": 45,
+        "fh": 39
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ar",
+        "w": 12,
+        "h": 11,
+        "x": 1281,
+        "y": 914,
+        "fx": -30,
+        "fy": -2,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/as",
+        "w": 11,
+        "h": 12,
+        "x": 1331,
+        "y": 914,
+        "fx": -30,
+        "fy": 0,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/at",
+        "w": 11,
+        "h": 12,
+        "x": 1344,
+        "y": 914,
+        "fx": -30,
+        "fy": -1,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/au",
+        "w": 51,
+        "h": 52,
+        "x": 266,
+        "y": 889,
+        "fx": -3,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/av",
+        "w": 51,
+        "h": 52,
+        "x": 319,
+        "y": 889,
+        "fx": -3,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/aw",
+        "w": 11,
+        "h": 11,
+        "x": 1384,
+        "y": 435,
+        "fx": -30,
+        "fy": -3,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ax",
+        "w": 76,
+        "h": 54,
+        "x": 613,
+        "y": 913,
+        "fx": -26,
+        "fy": -18,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ay",
+        "w": 16,
+        "h": 16,
+        "x": 1161,
+        "y": 452,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/az",
+        "w": 16,
+        "h": 16,
+        "x": 1161,
+        "y": 470,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/b",
+        "w": 11,
+        "h": 15,
+        "x": 1384,
+        "y": 418,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ba",
+        "w": 81,
+        "h": 49,
+        "x": 723,
+        "y": 869,
+        "fx": -1,
+        "fy": -1,
+        "fw": 84,
+        "fh": 53
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bb",
+        "w": 81,
+        "h": 49,
+        "x": 806,
+        "y": 869,
+        "fx": -1,
+        "fy": -1,
+        "fw": 84,
+        "fh": 53
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bc",
+        "w": 56,
+        "h": 76,
+        "x": 1322,
+        "y": 600,
+        "r": true,
+        "fx": -24,
+        "fy": -19,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bd",
+        "w": 76,
+        "h": 54,
+        "x": 1133,
+        "y": 869,
+        "fx": -26,
+        "fy": -21,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/be",
+        "w": 76,
+        "h": 56,
+        "x": 535,
+        "y": 910,
+        "fx": -28,
+        "fy": -19,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bf",
+        "w": 11,
+        "h": 18,
+        "x": 1384,
+        "y": 346,
+        "fx": -73,
+        "fy": -64,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bg",
+        "w": 35,
+        "h": 45,
+        "x": 952,
+        "y": 978,
+        "r": true,
+        "fx": -55,
+        "fy": -56,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bh",
+        "w": 53,
+        "h": 46,
+        "x": 85,
+        "y": 977,
+        "fx": -50,
+        "fy": -46,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bi",
+        "w": 51,
+        "h": 56,
+        "x": 1211,
+        "y": 869,
+        "r": true,
+        "fx": -48,
+        "fy": -41,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bj",
+        "w": 56,
+        "h": 57,
+        "x": 952,
+        "y": 919,
+        "r": true,
+        "fx": -48,
+        "fy": -37,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bk",
+        "w": 56,
+        "h": 56,
+        "x": 1051,
+        "y": 921,
+        "fx": -50,
+        "fy": -33,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bl",
+        "w": 30,
+        "h": 33,
+        "x": 1365,
+        "y": 42,
+        "r": true,
+        "fx": -63,
+        "fy": -31,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bm",
+        "w": 19,
+        "h": 18,
+        "x": 1250,
+        "y": 966,
+        "fx": -71,
+        "fy": -40,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bn",
+        "w": 71,
+        "h": 27,
+        "x": 535,
+        "y": 968,
+        "r": true,
+        "fx": -67,
+        "fy": -12,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bo",
+        "w": 97,
+        "h": 92,
+        "x": 1193,
+        "y": 546,
+        "fx": -30,
+        "fy": -5,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bp",
+        "w": 59,
+        "h": 59,
+        "x": 769,
+        "y": 920,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bq",
+        "w": 80,
+        "h": 80,
+        "x": 152,
+        "y": 943
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/br",
+        "w": 77,
+        "h": 74,
+        "x": 1318,
+        "y": 448,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bs",
+        "w": 59,
+        "h": 59,
+        "x": 830,
+        "y": 920,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bt",
+        "w": 59,
+        "h": 59,
+        "x": 769,
+        "y": 920,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bu",
+        "w": 80,
+        "h": 80,
+        "x": 234,
+        "y": 943
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bv",
+        "w": 77,
+        "h": 74,
+        "x": 1318,
+        "y": 524,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bw",
+        "w": 59,
+        "h": 59,
+        "x": 891,
+        "y": 919,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bx",
+        "w": 103,
+        "h": 96,
+        "x": 389,
+        "y": 888,
+        "fx": -29,
+        "fy": -3,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/by",
+        "w": 107,
+        "h": 100,
+        "x": 387,
+        "y": 786,
+        "fx": -25,
+        "fy": 0,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/bz",
+        "w": 110,
+        "h": 101,
+        "x": 275,
+        "y": 786,
+        "fx": -24,
+        "fy": 0,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 744,
+        "y": 1020
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ca",
+        "w": 114,
+        "h": 99,
+        "x": 1236,
+        "y": 144,
+        "fx": -22,
+        "fy": -2,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cb",
+        "w": 114,
+        "h": 99,
+        "x": 1236,
+        "y": 245,
+        "fx": -23,
+        "fy": -3,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cc",
+        "w": 114,
+        "h": 94,
+        "x": 1216,
+        "y": 346,
+        "fx": -23,
+        "fy": -9,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cd",
+        "w": 71,
+        "h": 80,
+        "x": 316,
+        "y": 943,
+        "r": true,
+        "fx": -24,
+        "fy": -9,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ce",
+        "w": 68,
+        "h": 29,
+        "x": 608,
+        "y": 969,
+        "r": true,
+        "fx": -63,
+        "fy": -15,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cf",
+        "w": 28,
+        "h": 33,
+        "x": 1367,
+        "y": 760,
+        "r": true,
+        "fx": -63,
+        "fy": -59,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cg",
+        "w": 38,
+        "h": 31,
+        "x": 1134,
+        "y": 966,
+        "fx": -61,
+        "fy": -59,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ch",
+        "w": 30,
+        "h": 39,
+        "x": 1365,
+        "y": 1,
+        "r": true,
+        "fx": -60,
+        "fy": -61,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ci",
+        "w": 76,
+        "h": 51,
+        "x": 691,
+        "y": 920,
+        "fx": -26,
+        "fy": -21,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cj",
+        "w": 32,
+        "h": 45,
+        "x": 735,
+        "y": 973,
+        "r": true,
+        "fx": -58,
+        "fy": -60,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ck",
+        "w": 34,
+        "h": 45,
+        "x": 989,
+        "y": 978,
+        "r": true,
+        "fx": -58,
+        "fy": -59,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cl",
+        "w": 80,
+        "h": 48,
+        "x": 889,
+        "y": 869,
+        "fx": -24,
+        "fy": -24,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cm",
+        "w": 49,
+        "h": 38,
+        "x": 769,
+        "y": 981,
+        "fx": -56,
+        "fy": -57,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cn",
+        "w": 39,
+        "h": 52,
+        "x": 1010,
+        "y": 917,
+        "r": true,
+        "fx": -54,
+        "fy": -57,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/co",
+        "w": 94,
+        "h": 36,
+        "x": 389,
+        "y": 986,
+        "fx": -17,
+        "fy": -39,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cp",
+        "w": 55,
+        "h": 39,
+        "x": 1322,
+        "y": 678,
+        "fx": -51,
+        "fy": -57,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cq",
+        "w": 47,
+        "h": 32,
+        "x": 820,
+        "y": 981,
+        "fx": -49,
+        "fy": -62,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cr",
+        "w": 38,
+        "h": 90,
+        "x": 1245,
+        "y": 728,
+        "r": true,
+        "fx": -19,
+        "fy": -38,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cs",
+        "w": 32,
+        "h": 53,
+        "x": 1352,
+        "y": 291,
+        "r": true,
+        "fx": -45,
+        "fy": -62,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ct",
+        "w": 55,
+        "h": 33,
+        "x": 678,
+        "y": 973,
+        "fx": -44,
+        "fy": -62,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cu",
+        "w": 36,
+        "h": 90,
+        "x": 1285,
+        "y": 724,
+        "r": true,
+        "fx": -19,
+        "fy": -36,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cv",
+        "w": 12,
+        "h": 15,
+        "x": 1314,
+        "y": 865,
+        "fx": -72,
+        "fy": -62,
+        "fw": 154,
+        "fh": 154
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cw",
+        "w": 35,
+        "h": 90,
+        "x": 1179,
+        "y": 452,
+        "r": true,
+        "fx": -19,
+        "fy": -36,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cx",
+        "w": 39,
+        "h": 90,
+        "x": 494,
+        "y": 888,
+        "r": true,
+        "fx": -19,
+        "fy": -35,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cy",
+        "w": 42,
+        "h": 90,
+        "x": 1323,
+        "y": 719,
+        "r": true,
+        "fx": -19,
+        "fy": -39,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/cz",
+        "w": 90,
+        "h": 39,
+        "x": 539,
+        "y": 869,
+        "fx": -19,
+        "fy": -37,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/d",
+        "w": 14,
+        "h": 12,
+        "x": 1335,
+        "y": 900,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/da",
+        "w": 90,
+        "h": 42,
+        "x": 631,
+        "y": 869,
+        "fx": -19,
+        "fy": -39,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/db",
+        "w": 53,
+        "h": 48,
+        "x": 1161,
+        "y": 402,
+        "fx": -71,
+        "fy": -78,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dc",
+        "w": 75,
+        "h": 86,
+        "x": 1193,
+        "y": 640,
+        "fx": -65,
+        "fy": -55,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dd",
+        "w": 112,
+        "h": 122,
+        "x": 152,
+        "y": 819,
+        "r": true,
+        "fx": -41,
+        "fy": -38,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/de",
+        "w": 127,
+        "h": 141,
+        "x": 1236,
+        "y": 1,
+        "fx": -35,
+        "fy": -23,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/df",
+        "w": 137,
+        "h": 140,
+        "x": 1097,
+        "y": 147,
+        "fx": -30,
+        "fy": -27,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dg",
+        "w": 137,
+        "h": 144,
+        "x": 1097,
+        "y": 1,
+        "fx": -35,
+        "fy": -24,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dh",
+        "w": 149,
+        "h": 156,
+        "x": 1,
+        "y": 819,
+        "fx": -29,
+        "fy": -18,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/di",
+        "w": 14,
+        "h": 12,
+        "x": 1351,
+        "y": 900,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dj",
+        "w": 15,
+        "h": 15,
+        "x": 1291,
+        "y": 831
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dk",
+        "w": 15,
+        "h": 15,
+        "x": 1274,
+        "y": 848,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dl",
+        "w": 15,
+        "h": 15,
+        "x": 1291,
+        "y": 848,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dm",
+        "w": 15,
+        "h": 15,
+        "x": 1252,
+        "y": 1008,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dn",
+        "w": 15,
+        "h": 16,
+        "x": 1380,
+        "y": 665,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/do",
+        "w": 15,
+        "h": 11,
+        "x": 1264,
+        "y": 914,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dp",
+        "w": 11,
+        "h": 15,
+        "x": 1384,
+        "y": 819,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dq",
+        "w": 15,
+        "h": 11,
+        "x": 1359,
+        "y": 850,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dr",
+        "w": 272,
+        "h": 544,
+        "x": 549,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ds",
+        "w": 11,
+        "h": 14,
+        "x": 1357,
+        "y": 914
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dt",
+        "w": 14,
+        "h": 11,
+        "x": 1272,
+        "y": 963,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/du",
+        "w": 40,
+        "h": 35,
+        "x": 902,
+        "y": 980,
+        "fx": 0,
+        "fy": -6,
+        "fw": 41,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dv",
+        "w": 34,
+        "h": 40,
+        "x": 1175,
+        "y": 925,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 41,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dw",
+        "w": 40,
+        "h": 36,
+        "x": 1211,
+        "y": 927,
+        "fx": 0,
+        "fy": -5,
+        "fw": 41,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dx",
+        "w": 40,
+        "h": 39,
+        "x": 1133,
+        "y": 925,
+        "fx": 0,
+        "fy": -2,
+        "fw": 41,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dy",
+        "w": 35,
+        "h": 40,
+        "x": 1097,
+        "y": 979,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 41,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/dz",
+        "w": 40,
+        "h": 37,
+        "x": 485,
+        "y": 986,
+        "fx": 0,
+        "fy": -4,
+        "fw": 41,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/e",
+        "w": 15,
+        "h": 16,
+        "x": 1379,
+        "y": 701
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ea",
+        "w": 11,
+        "h": 11,
+        "x": 1288,
+        "y": 995,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/eb",
+        "w": 11,
+        "h": 11,
+        "x": 1360,
+        "y": 976,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ec",
+        "w": 13,
+        "h": 12,
+        "x": 1344,
+        "y": 871,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ed",
+        "w": 13,
+        "h": 12,
+        "x": 1315,
+        "y": 977,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ee",
+        "w": 272,
+        "h": 544,
+        "x": 823,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ef",
+        "w": 11,
+        "h": 11,
+        "x": 1373,
+        "y": 976,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/eg",
+        "w": 13,
+        "h": 12,
+        "x": 1330,
+        "y": 977,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/eh",
+        "w": 13,
+        "h": 12,
+        "x": 1286,
+        "y": 1008,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ei",
+        "w": 11,
+        "h": 11,
+        "x": 1360,
+        "y": 976,
+        "fx": -6,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ej",
+        "w": 13,
+        "h": 12,
+        "x": 1344,
+        "y": 871,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ek",
+        "w": 13,
+        "h": 12,
+        "x": 1315,
+        "y": 977,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/el",
+        "w": 11,
+        "h": 11,
+        "x": 1345,
+        "y": 989,
+        "fx": -6,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/em",
+        "w": 13,
+        "h": 12,
+        "x": 1315,
+        "y": 991,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/en",
+        "w": 13,
+        "h": 12,
+        "x": 1330,
+        "y": 991,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/eo",
+        "w": 15,
+        "h": 16,
+        "x": 1379,
+        "y": 701
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ep",
+        "w": 14,
+        "h": 12,
+        "x": 1335,
+        "y": 900,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/eq",
+        "w": 10,
+        "h": 10,
+        "x": 1358,
+        "y": 989
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/er",
+        "w": 20,
+        "h": 20,
+        "x": 1252,
+        "y": 986
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/es",
+        "w": 10,
+        "h": 4,
+        "x": 1318,
+        "y": 442,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/et",
+        "w": 16,
+        "h": 16,
+        "x": 1379,
+        "y": 683
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/eu",
+        "w": 7,
+        "h": 5,
+        "x": 140,
+        "y": 1018,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ev",
+        "w": 11,
+        "h": 7,
+        "x": 1161,
+        "y": 488,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ew",
+        "w": 15,
+        "h": 9,
+        "x": 1216,
+        "y": 335,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ex",
+        "w": 5,
+        "h": 5,
+        "x": 1010,
+        "y": 971,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ey",
+        "w": 7,
+        "h": 7,
+        "x": 266,
+        "y": 861,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ez",
+        "w": 9,
+        "h": 11,
+        "x": 1386,
+        "y": 291,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/f",
+        "w": 272,
+        "h": 736,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fa",
+        "w": 21,
+        "h": 23,
+        "x": 637,
+        "y": 1000,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fb",
+        "w": 16,
+        "h": 15,
+        "x": 660,
+        "y": 1000,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fc",
+        "w": 15,
+        "h": 15,
+        "x": 1274,
+        "y": 831,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fd",
+        "w": 15,
+        "h": 15,
+        "x": 1308,
+        "y": 848,
+        "fx": -7,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fe",
+        "w": 15,
+        "h": 15,
+        "x": 1280,
+        "y": 865
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ff",
+        "w": 12,
+        "h": 14,
+        "x": 1354,
+        "y": 930
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fg",
+        "w": 13,
+        "h": 13,
+        "x": 1301,
+        "y": 962,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fh",
+        "w": 31,
+        "h": 20,
+        "x": 1178,
+        "y": 1000,
+        "fx": -5,
+        "fy": -21,
+        "fw": 41,
+        "fh": 41
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fi",
+        "w": 11,
+        "h": 14,
+        "x": 1288,
+        "y": 963
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fj",
+        "w": 11,
+        "h": 14,
+        "x": 1288,
+        "y": 979
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fk",
+        "w": 16,
+        "h": 15,
+        "x": 678,
+        "y": 1008,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fl",
+        "w": 15,
+        "h": 15,
+        "x": 1274,
+        "y": 848,
+        "fx": -7,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fm",
+        "w": 15,
+        "h": 15,
+        "x": 1297,
+        "y": 865,
+        "fx": -7,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fn",
+        "w": 1,
+        "h": 1,
+        "x": 1179,
+        "y": 544,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fo",
+        "w": 15,
+        "h": 17,
+        "x": 1380,
+        "y": 646,
+        "r": true,
+        "fx": -24,
+        "fy": -36,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fp",
+        "w": 20,
+        "h": 24,
+        "x": 1134,
+        "y": 999,
+        "r": true,
+        "fx": -20,
+        "fy": -32,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fq",
+        "w": 29,
+        "h": 31,
+        "x": 1365,
+        "y": 96,
+        "fx": -17,
+        "fy": -22,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fr",
+        "w": 41,
+        "h": 37,
+        "x": 1193,
+        "y": 830,
+        "fx": -10,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fs",
+        "w": 36,
+        "h": 37,
+        "x": 1236,
+        "y": 830,
+        "fx": -13,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ft",
+        "w": 28,
+        "h": 39,
+        "x": 1367,
+        "y": 719,
+        "r": true,
+        "fx": -12,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fu",
+        "w": 22,
+        "h": 41,
+        "x": 1109,
+        "y": 921,
+        "r": true,
+        "fx": -11,
+        "fy": -23,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fv",
+        "w": 1,
+        "h": 1,
+        "x": 1179,
+        "y": 544,
+        "fx": 0,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fw",
+        "w": 38,
+        "h": 38,
+        "x": 1041,
+        "y": 979,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fx",
+        "w": 13,
+        "h": 13,
+        "x": 1316,
+        "y": 962,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fy",
+        "w": 20,
+        "h": 20,
+        "x": 1264,
+        "y": 892
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/fz",
+        "w": 20,
+        "h": 20,
+        "x": 1272,
+        "y": 927
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/g",
+        "w": 4,
+        "h": 4,
+        "x": 1049,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ga",
+        "w": 13,
+        "h": 15,
+        "x": 1308,
+        "y": 831
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gb",
+        "w": 43,
+        "h": 145,
+        "x": 1352,
+        "y": 144,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gc",
+        "w": 253,
+        "h": 45,
+        "x": 275,
+        "y": 739,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gd",
+        "w": 62,
+        "h": 206,
+        "x": 1097,
+        "y": 289,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ge",
+        "w": 53,
+        "h": 111,
+        "x": 1161,
+        "y": 289,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gf",
+        "w": 11,
+        "h": 14,
+        "x": 1315,
+        "y": 1005,
+        "fx": -32,
+        "fy": -25,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gg",
+        "w": 12,
+        "h": 14,
+        "x": 1354,
+        "y": 946,
+        "fx": -30,
+        "fy": -26,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gh",
+        "w": 4,
+        "h": 4,
+        "x": 516,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gi",
+        "w": 28,
+        "h": 28,
+        "x": 1292,
+        "y": 610,
+        "fx": 0,
+        "fy": -2,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gj",
+        "w": 4,
+        "h": 4,
+        "x": 582,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gk",
+        "w": 15,
+        "h": 11,
+        "x": 1376,
+        "y": 850,
+        "r": true,
+        "fx": -32,
+        "fy": -29,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gl",
+        "w": 11,
+        "h": 14,
+        "x": 1328,
+        "y": 1005,
+        "fx": -32,
+        "fy": -30,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gm",
+        "w": 11,
+        "h": 12,
+        "x": 1362,
+        "y": 962,
+        "fx": -32,
+        "fy": -32,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gn",
+        "w": 12,
+        "h": 11,
+        "x": 1346,
+        "y": 976,
+        "fx": -31,
+        "fy": -33,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/go",
+        "w": 12,
+        "h": 12,
+        "x": 1301,
+        "y": 1008,
+        "fx": -31,
+        "fy": -32,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gp",
+        "w": 12,
+        "h": 13,
+        "x": 1301,
+        "y": 993,
+        "fx": -31,
+        "fy": -30,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gq",
+        "w": 11,
+        "h": 14,
+        "x": 1341,
+        "y": 1005,
+        "fx": -31,
+        "fy": -28,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gr",
+        "w": 16,
+        "h": 12,
+        "x": 1295,
+        "y": 914,
+        "r": true,
+        "fx": -30,
+        "fy": -23,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gs",
+        "w": 12,
+        "h": 16,
+        "x": 1320,
+        "y": 882,
+        "fx": -30,
+        "fy": -22,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gt",
+        "w": 13,
+        "h": 13,
+        "x": 1331,
+        "y": 962,
+        "fx": -30,
+        "fy": -24,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gu",
+        "w": 13,
+        "h": 13,
+        "x": 1331,
+        "y": 962,
+        "fx": -30,
+        "fy": -24,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gv",
+        "w": 12,
+        "h": 14,
+        "x": 1274,
+        "y": 976,
+        "fx": -31,
+        "fy": -22,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gw",
+        "w": 4,
+        "h": 4,
+        "x": 1055,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gx",
+        "w": 11,
+        "h": 12,
+        "x": 1375,
+        "y": 962
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gy",
+        "w": 7,
+        "h": 5,
+        "x": 372,
+        "y": 936
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/gz",
+        "w": 4,
+        "h": 4,
+        "x": 588,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/h",
+        "w": 16,
+        "h": 15,
+        "x": 696,
+        "y": 1008,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ha",
+        "w": 4,
+        "h": 4,
+        "x": 1061,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hb",
+        "w": 4,
+        "h": 4,
+        "x": 594,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hc",
+        "w": 10,
+        "h": 15,
+        "x": 1306,
+        "y": 583
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hd",
+        "w": 4,
+        "h": 4,
+        "x": 1067,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/he",
+        "w": 4,
+        "h": 4,
+        "x": 1073,
+        "y": 1019
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hf",
+        "w": 11,
+        "h": 14,
+        "x": 1368,
+        "y": 930
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hg",
+        "w": 6,
+        "h": 4,
+        "x": 1041,
+        "y": 1019,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hh",
+        "w": 4,
+        "h": 4,
+        "x": 522,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hi",
+        "w": 5,
+        "h": 5,
+        "x": 1017,
+        "y": 971
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hj",
+        "w": 11,
+        "h": 15,
+        "x": 1327,
+        "y": 928,
+        "fx": -16,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hk",
+        "w": 3,
+        "h": 4,
+        "x": 1392,
+        "y": 304
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hl",
+        "w": 3,
+        "h": 6,
+        "x": 1174,
+        "y": 488
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hm",
+        "w": 15,
+        "h": 10,
+        "x": 1359,
+        "y": 863,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hn",
+        "w": 4,
+        "h": 4,
+        "x": 848,
+        "y": 1015
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ho",
+        "w": 11,
+        "h": 14,
+        "x": 1368,
+        "y": 946,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hp",
+        "w": 14,
+        "h": 21,
+        "x": 1264,
+        "y": 869,
+        "r": true,
+        "fx": -16,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hq",
+        "w": 3,
+        "h": 3,
+        "x": 1273,
+        "y": 820
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hr",
+        "w": 3,
+        "h": 5,
+        "x": 381,
+        "y": 936
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hs",
+        "w": 14,
+        "h": 10,
+        "x": 1350,
+        "y": 888,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ht",
+        "w": 3,
+        "h": 3,
+        "x": 1273,
+        "y": 825
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hu",
+        "w": 32,
+        "h": 23,
+        "x": 603,
+        "y": 1000,
+        "fx": -4,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hv",
+        "w": 31,
+        "h": 26,
+        "x": 527,
+        "y": 997
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hw",
+        "w": 5,
+        "h": 5,
+        "x": 1390,
+        "y": 129
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hx",
+        "w": 15,
+        "h": 12,
+        "x": 1376,
+        "y": 863,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hy",
+        "w": 3,
+        "h": 3,
+        "x": 1273,
+        "y": 825
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/hz",
+        "w": 4,
+        "h": 5,
+        "x": 1359,
+        "y": 826
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/i",
+        "w": 16,
+        "h": 15,
+        "x": 714,
+        "y": 1008,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ia",
+        "w": 3,
+        "h": 3,
+        "x": 1328,
+        "y": 872
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ib",
+        "w": 20,
+        "h": 23,
+        "x": 1156,
+        "y": 1000,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ic",
+        "w": 17,
+        "h": 22,
+        "x": 1253,
+        "y": 927,
+        "r": true,
+        "fx": -6,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/id",
+        "w": 16,
+        "h": 13,
+        "x": 1341,
+        "y": 840
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ie",
+        "w": 5,
+        "h": 4,
+        "x": 575,
+        "y": 1019,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/if",
+        "w": 15,
+        "h": 13,
+        "x": 1303,
+        "y": 899,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ig",
+        "w": 3,
+        "h": 3,
+        "x": 1273,
+        "y": 825
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ih",
+        "w": 5,
+        "h": 3,
+        "x": 1390,
+        "y": 136,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ii",
+        "w": 3,
+        "h": 3,
+        "x": 1328,
+        "y": 872
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ij",
+        "w": 12,
+        "h": 15,
+        "x": 1340,
+        "y": 928,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ik",
+        "w": 9,
+        "h": 8,
+        "x": 1306,
+        "y": 600
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/il",
+        "w": 4,
+        "h": 4,
+        "x": 1386,
+        "y": 304
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/im",
+        "w": 13,
+        "h": 15,
+        "x": 1310,
+        "y": 945
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/in",
+        "w": 3,
+        "h": 4,
+        "x": 668,
+        "y": 1017
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/io",
+        "w": 3,
+        "h": 3,
+        "x": 1328,
+        "y": 877
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ip",
+        "w": 3,
+        "h": 3,
+        "x": 1273,
+        "y": 825
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/iq",
+        "w": 12,
+        "h": 14,
+        "x": 1274,
+        "y": 992,
+        "fx": -15,
+        "fy": -7,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ir",
+        "w": 13,
+        "h": 15,
+        "x": 1325,
+        "y": 945,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/is",
+        "w": 17,
+        "h": 42,
+        "x": 530,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/it",
+        "w": 30,
+        "h": 17,
+        "x": 1365,
+        "y": 77,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/iu",
+        "w": 14,
+        "h": 44,
+        "x": 1380,
+        "y": 600
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/iv",
+        "w": 17,
+        "h": 42,
+        "x": 530,
+        "y": 739,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/iw",
+        "w": 14,
+        "h": 44,
+        "x": 1025,
+        "y": 979
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ix",
+        "w": 14,
+        "h": 44,
+        "x": 1081,
+        "y": 979
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/iy",
+        "w": 17,
+        "h": 12,
+        "x": 1365,
+        "y": 819,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/iz",
+        "w": 3,
+        "h": 4,
+        "x": 673,
+        "y": 1017,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/j",
+        "w": 5,
+        "h": 5,
+        "x": 1010,
+        "y": 971,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ja",
+        "w": 12,
+        "h": 62,
+        "x": 1292,
+        "y": 546
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jb",
+        "w": 28,
+        "h": 10,
+        "x": 1367,
+        "y": 795,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jc",
+        "w": 28,
+        "h": 10,
+        "x": 1367,
+        "y": 807,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jd",
+        "w": 17,
+        "h": 6,
+        "x": 1025,
+        "y": 971,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/je",
+        "w": 26,
+        "h": 8,
+        "x": 1245,
+        "y": 820,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jf",
+        "w": 26,
+        "h": 8,
+        "x": 820,
+        "y": 1015,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jg",
+        "w": 14,
+        "h": 13,
+        "x": 1334,
+        "y": 885
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jh",
+        "w": 5,
+        "h": 4,
+        "x": 509,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ji",
+        "w": 7,
+        "h": 19,
+        "x": 266,
+        "y": 819
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jj",
+        "w": 7,
+        "h": 19,
+        "x": 266,
+        "y": 840
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jk",
+        "w": 12,
+        "h": 45,
+        "x": 372,
+        "y": 889
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jl",
+        "w": 10,
+        "h": 3,
+        "x": 732,
+        "y": 1020,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jm",
+        "w": 6,
+        "h": 18,
+        "x": 944,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jn",
+        "w": 6,
+        "h": 18,
+        "x": 944,
+        "y": 1000
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jo",
+        "w": 14,
+        "h": 5,
+        "x": 691,
+        "y": 913,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jp",
+        "w": 14,
+        "h": 5,
+        "x": 707,
+        "y": 913,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jq",
+        "w": 10,
+        "h": 39,
+        "x": 140,
+        "y": 977
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jr",
+        "w": 15,
+        "h": 12,
+        "x": 1376,
+        "y": 836
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/js",
+        "w": 3,
+        "h": 6,
+        "x": 1317,
+        "y": 600
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jt",
+        "w": 13,
+        "h": 4,
+        "x": 494,
+        "y": 980,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ju",
+        "w": 13,
+        "h": 4,
+        "x": 560,
+        "y": 1019,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jv",
+        "w": 9,
+        "h": 3,
+        "x": 755,
+        "y": 1020,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jw",
+        "w": 3,
+        "h": 9,
+        "x": 1129,
+        "y": 966
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jx",
+        "w": 10,
+        "h": 35,
+        "x": 1306,
+        "y": 546
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jy",
+        "w": 15,
+        "h": 13,
+        "x": 1286,
+        "y": 899
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/jz",
+        "w": 5,
+        "h": 4,
+        "x": 509,
+        "y": 980
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/k",
+        "w": 7,
+        "h": 7,
+        "x": 266,
+        "y": 861,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ka",
+        "w": 15,
+        "h": 15,
+        "x": 1291,
+        "y": 831
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kb",
+        "w": 11,
+        "h": 16,
+        "x": 1384,
+        "y": 366,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kc",
+        "w": 15,
+        "h": 15,
+        "x": 1359,
+        "y": 833,
+        "fx": -20,
+        "fy": -13,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kd",
+        "w": 17,
+        "h": 13,
+        "x": 1285,
+        "y": 816,
+        "r": true,
+        "fx": -21,
+        "fy": -12,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ke",
+        "w": 18,
+        "h": 13,
+        "x": 1109,
+        "y": 964,
+        "r": true,
+        "fx": -21,
+        "fy": -11,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kf",
+        "w": 15,
+        "h": 15,
+        "x": 1286,
+        "y": 882,
+        "fx": -19,
+        "fy": -14,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kg",
+        "w": 16,
+        "h": 12,
+        "x": 1323,
+        "y": 825,
+        "fx": -18,
+        "fy": -17,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kh",
+        "w": 20,
+        "h": 12,
+        "x": 1272,
+        "y": 949,
+        "r": true,
+        "fx": -22,
+        "fy": -5,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ki",
+        "w": 14,
+        "h": 15,
+        "x": 1325,
+        "y": 839,
+        "fx": -23,
+        "fy": -9,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kj",
+        "w": 41,
+        "h": 20,
+        "x": 496,
+        "y": 866,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kk",
+        "w": 37,
+        "h": 19,
+        "x": 1211,
+        "y": 965,
+        "r": true,
+        "fx": -18,
+        "fy": -6,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kl",
+        "w": 18,
+        "h": 34,
+        "x": 1232,
+        "y": 986,
+        "fx": -23,
+        "fy": -15,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/km",
+        "w": 23,
+        "h": 13,
+        "x": 1365,
+        "y": 129,
+        "r": true,
+        "fx": -23,
+        "fy": -15,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kn",
+        "w": 12,
+        "h": 15,
+        "x": 1340,
+        "y": 945,
+        "fx": -23,
+        "fy": -14,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ko",
+        "w": 15,
+        "h": 15,
+        "x": 1303,
+        "y": 882,
+        "fx": -20,
+        "fy": -13,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kp",
+        "w": 17,
+        "h": 13,
+        "x": 1304,
+        "y": 816,
+        "r": true,
+        "fx": -21,
+        "fy": -12,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kq",
+        "w": 18,
+        "h": 13,
+        "x": 1345,
+        "y": 811,
+        "r": true,
+        "fx": -21,
+        "fy": -11,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kr",
+        "w": 15,
+        "h": 15,
+        "x": 1294,
+        "y": 928,
+        "fx": -19,
+        "fy": -14,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ks",
+        "w": 16,
+        "h": 12,
+        "x": 1341,
+        "y": 826,
+        "fx": -18,
+        "fy": -17,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kt",
+        "w": 50,
+        "h": 100,
+        "x": 1332,
+        "y": 346
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ku",
+        "w": 100,
+        "h": 50,
+        "x": 1216,
+        "y": 442,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kv",
+        "w": 100,
+        "h": 50,
+        "x": 1216,
+        "y": 494,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kw",
+        "w": 50,
+        "h": 100,
+        "x": 1193,
+        "y": 728
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kx",
+        "w": 20,
+        "h": 12,
+        "x": 1323,
+        "y": 811,
+        "r": true,
+        "fx": -22,
+        "fy": -5,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ky",
+        "w": 4,
+        "h": 4,
+        "x": 266,
+        "y": 870
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/kz",
+        "w": 14,
+        "h": 15,
+        "x": 1294,
+        "y": 945,
+        "fx": -23,
+        "fy": -9,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/l",
+        "w": 3,
+        "h": 3,
+        "x": 1366,
+        "y": 888,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/la",
+        "w": 41,
+        "h": 20,
+        "x": 560,
+        "y": 997,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/lb",
+        "w": 19,
+        "h": 37,
+        "x": 1211,
+        "y": 986,
+        "fx": -18,
+        "fy": -6,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/lc",
+        "w": 272,
+        "h": 816,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/ld",
+        "w": 320,
+        "h": 320,
+        "x": 549,
+        "y": 547
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/le",
+        "w": 320,
+        "h": 320,
+        "x": 871,
+        "y": 547
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/m",
+        "w": 21,
+        "h": 23,
+        "x": 637,
+        "y": 1000,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/n",
+        "w": 3,
+        "h": 3,
+        "x": 1366,
+        "y": 888,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/o",
+        "w": 3,
+        "h": 3,
+        "x": 1366,
+        "y": 888,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/p",
+        "w": 14,
+        "h": 12,
+        "x": 1346,
+        "y": 962,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/q",
+        "w": 12,
+        "h": 14,
+        "x": 1301,
+        "y": 977
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/r",
+        "w": 11,
+        "h": 15,
+        "x": 1384,
+        "y": 819,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/s",
+        "w": 5,
+        "h": 6,
+        "x": 1044,
+        "y": 971,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/t",
+        "w": 6,
+        "h": 6,
+        "x": 660,
+        "y": 1017,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/u",
+        "w": 16,
+        "h": 12,
+        "x": 1313,
+        "y": 914,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/v",
+        "w": 14,
+        "h": 14,
+        "x": 1328,
+        "y": 856,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/w",
+        "w": 14,
+        "h": 15,
+        "x": 1311,
+        "y": 928,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/x",
+        "w": 15,
+        "h": 11,
+        "x": 1359,
+        "y": 875,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/y",
+        "w": 11,
+        "h": 15,
+        "x": 1384,
+        "y": 418,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/character_story_quest/mighty_striker_002/.gen/movie/z",
+        "w": 15,
+        "h": 11,
+        "x": 1376,
+        "y": 877,
+        "r": true,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    }
+]

@@ -1,0 +1,963 @@
+[
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 237,
+        "y": 432
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/aa",
+        "w": 12,
+        "h": 15,
+        "x": 203,
+        "y": 387,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ab",
+        "w": 12,
+        "h": 15,
+        "x": 201,
+        "y": 444,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ac",
+        "w": 12,
+        "h": 15,
+        "x": 203,
+        "y": 387,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ad",
+        "w": 11,
+        "h": 15,
+        "x": 215,
+        "y": 440
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ae",
+        "w": 12,
+        "h": 15,
+        "x": 210,
+        "y": 423,
+        "r": true,
+        "fx": -9,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/af",
+        "w": 16,
+        "h": 13,
+        "x": 175,
+        "y": 429,
+        "fx": -8,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ag",
+        "w": 16,
+        "h": 18,
+        "x": 163,
+        "y": 409,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ah",
+        "w": 16,
+        "h": 13,
+        "x": 175,
+        "y": 429,
+        "fx": -8,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ai",
+        "w": 4,
+        "h": 5,
+        "x": 201,
+        "y": 478,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/aj",
+        "w": 7,
+        "h": 7,
+        "x": 266,
+        "y": 485,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ak",
+        "w": 5,
+        "h": 7,
+        "x": 42,
+        "y": 479,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/al",
+        "w": 17,
+        "h": 17,
+        "x": 181,
+        "y": 409,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/am",
+        "w": 10,
+        "h": 10,
+        "x": 240,
+        "y": 489
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/an",
+        "w": 20,
+        "h": 20,
+        "x": 163,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ao",
+        "w": 10,
+        "h": 4,
+        "x": 37,
+        "y": 473,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ap",
+        "w": 16,
+        "h": 16,
+        "x": 185,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/aq",
+        "w": 29,
+        "h": 24,
+        "x": 99,
+        "y": 444,
+        "r": true,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ar",
+        "w": 48,
+        "h": 55,
+        "x": 72,
+        "y": 387,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/as",
+        "w": 1,
+        "h": 1,
+        "x": 163,
+        "y": 429,
+        "fx": 0,
+        "fy": 0,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/at",
+        "w": 29,
+        "h": 39,
+        "x": 170,
+        "y": 444,
+        "r": true,
+        "fx": -32,
+        "fy": -44,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/au",
+        "w": 39,
+        "h": 31,
+        "x": 1,
+        "y": 479,
+        "fx": -32,
+        "fy": -42,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/av",
+        "w": 38,
+        "h": 39,
+        "x": 130,
+        "y": 444,
+        "r": true,
+        "fx": -32,
+        "fy": -35,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/aw",
+        "w": 39,
+        "h": 43,
+        "x": 122,
+        "y": 387,
+        "fx": -32,
+        "fy": -30,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ax",
+        "w": 45,
+        "h": 39,
+        "x": 83,
+        "y": 471,
+        "r": true,
+        "fx": -32,
+        "fy": -27,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ay",
+        "w": 45,
+        "h": 39,
+        "x": 83,
+        "y": 471,
+        "r": true,
+        "fx": -32,
+        "fy": -29,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/az",
+        "w": 45,
+        "h": 39,
+        "x": 83,
+        "y": 471,
+        "r": true,
+        "fx": -32,
+        "fy": -28,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/b",
+        "w": 12,
+        "h": 15,
+        "x": 214,
+        "y": 404,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ba",
+        "w": 45,
+        "h": 39,
+        "x": 83,
+        "y": 471,
+        "r": true,
+        "fx": -32,
+        "fy": -29,
+        "fw": 103,
+        "fh": 103
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bb",
+        "w": 4,
+        "h": 4,
+        "x": 260,
+        "y": 500
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bc",
+        "w": 5,
+        "h": 5,
+        "x": 42,
+        "y": 505,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bd",
+        "w": 7,
+        "h": 7,
+        "x": 252,
+        "y": 491,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/be",
+        "w": 11,
+        "h": 9,
+        "x": 230,
+        "y": 501,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bf",
+        "w": 21,
+        "h": 23,
+        "x": 150,
+        "y": 485,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bg",
+        "w": 7,
+        "h": 3,
+        "x": 204,
+        "y": 507,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bh",
+        "w": 8,
+        "h": 3,
+        "x": 184,
+        "y": 507,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bi",
+        "w": 8,
+        "h": 4,
+        "x": 228,
+        "y": 477,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bj",
+        "w": 9,
+        "h": 4,
+        "x": 207,
+        "y": 478,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bk",
+        "w": 8,
+        "h": 4,
+        "x": 228,
+        "y": 477,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bl",
+        "w": 9,
+        "h": 4,
+        "x": 207,
+        "y": 478,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bm",
+        "w": 8,
+        "h": 3,
+        "x": 194,
+        "y": 507,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bn",
+        "w": 7,
+        "h": 3,
+        "x": 200,
+        "y": 423,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bo",
+        "w": 4,
+        "h": 9,
+        "x": 237,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bp",
+        "w": 8,
+        "h": 4,
+        "x": 256,
+        "y": 485,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bq",
+        "w": 4,
+        "h": 9,
+        "x": 237,
+        "y": 421
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/br",
+        "w": 8,
+        "h": 4,
+        "x": 256,
+        "y": 485,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bs",
+        "w": 25,
+        "h": 25,
+        "x": 72,
+        "y": 444,
+        "fx": -7,
+        "fy": -7,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bt",
+        "w": 33,
+        "h": 84,
+        "x": 37,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bu",
+        "w": 34,
+        "h": 90,
+        "x": 1,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bv",
+        "w": 32,
+        "h": 36,
+        "x": 49,
+        "y": 473,
+        "fx": -5,
+        "fy": -5,
+        "fw": 44,
+        "fh": 50
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bw",
+        "w": 18,
+        "h": 24,
+        "x": 130,
+        "y": 485,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bx",
+        "w": 15,
+        "h": 11,
+        "x": 244,
+        "y": 387,
+        "fx": -4,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/by",
+        "w": 38,
+        "h": 20,
+        "x": 173,
+        "y": 485,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 20,
+        "fh": 40
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/bz",
+        "w": 13,
+        "h": 11,
+        "x": 260,
+        "y": 419,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 173,
+        "y": 507
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ca",
+        "w": 13,
+        "h": 11,
+        "x": 228,
+        "y": 438,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cb",
+        "w": 13,
+        "h": 11,
+        "x": 260,
+        "y": 419,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cc",
+        "w": 13,
+        "h": 11,
+        "x": 228,
+        "y": 451,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cd",
+        "w": 15,
+        "h": 10,
+        "x": 158,
+        "y": 432,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ce",
+        "w": 14,
+        "h": 11,
+        "x": 259,
+        "y": 446,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cf",
+        "w": 15,
+        "h": 10,
+        "x": 244,
+        "y": 400,
+        "r": true,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cg",
+        "w": 14,
+        "h": 11,
+        "x": 243,
+        "y": 454,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ch",
+        "w": 16,
+        "h": 10,
+        "x": 122,
+        "y": 432,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ci",
+        "w": 11,
+        "h": 15,
+        "x": 224,
+        "y": 421,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cj",
+        "w": 16,
+        "h": 10,
+        "x": 140,
+        "y": 432,
+        "r": true,
+        "fx": -27,
+        "fy": -16,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/ck",
+        "w": 11,
+        "h": 15,
+        "x": 228,
+        "y": 404,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cl",
+        "w": 15,
+        "h": 10,
+        "x": 243,
+        "y": 412,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cm",
+        "w": 14,
+        "h": 11,
+        "x": 259,
+        "y": 459,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cn",
+        "w": 13,
+        "h": 11,
+        "x": 228,
+        "y": 464,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/co",
+        "w": 13,
+        "h": 11,
+        "x": 243,
+        "y": 467,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cp",
+        "w": 13,
+        "h": 11,
+        "x": 228,
+        "y": 464,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/cq",
+        "w": 13,
+        "h": 11,
+        "x": 258,
+        "y": 472,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/d",
+        "w": 11,
+        "h": 15,
+        "x": 231,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/e",
+        "w": 12,
+        "h": 14,
+        "x": 261,
+        "y": 387
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/f",
+        "w": 272,
+        "h": 384,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/g",
+        "w": 4,
+        "h": 4,
+        "x": 261,
+        "y": 494
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/h",
+        "w": 12,
+        "h": 15,
+        "x": 217,
+        "y": 387,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/i",
+        "w": 11,
+        "h": 15,
+        "x": 215,
+        "y": 457
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/j",
+        "w": 12,
+        "h": 14,
+        "x": 261,
+        "y": 403
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/k",
+        "w": 12,
+        "h": 15,
+        "x": 214,
+        "y": 404,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/l",
+        "w": 12,
+        "h": 15,
+        "x": 201,
+        "y": 461,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/m",
+        "w": 11,
+        "h": 15,
+        "x": 227,
+        "y": 484
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/n",
+        "w": 14,
+        "h": 12,
+        "x": 259,
+        "y": 432,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/o",
+        "w": 7,
+        "h": 8,
+        "x": 243,
+        "y": 501,
+        "fx": -2,
+        "fy": -1,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/p",
+        "w": 8,
+        "h": 8,
+        "x": 218,
+        "y": 474
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/q",
+        "w": 5,
+        "h": 6,
+        "x": 42,
+        "y": 497,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/r",
+        "w": 6,
+        "h": 6,
+        "x": 252,
+        "y": 500,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/s",
+        "w": 12,
+        "h": 16,
+        "x": 200,
+        "y": 405,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/t",
+        "w": 14,
+        "h": 14,
+        "x": 243,
+        "y": 424,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/u",
+        "w": 15,
+        "h": 14,
+        "x": 193,
+        "y": 428,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/v",
+        "w": 14,
+        "h": 12,
+        "x": 243,
+        "y": 440,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/w",
+        "w": 5,
+        "h": 7,
+        "x": 42,
+        "y": 488,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/x",
+        "w": 11,
+        "h": 7,
+        "x": 243,
+        "y": 480,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/y",
+        "w": 15,
+        "h": 9,
+        "x": 213,
+        "y": 501,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/student_gunsmith_001/.gen/movie/z",
+        "w": 12,
+        "h": 15,
+        "x": 213,
+        "y": 484,
+        "r": true,
+        "fx": -5,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    }
+]

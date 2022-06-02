@@ -1,0 +1,960 @@
+[
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 331,
+        "y": 1009
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/aa",
+        "w": 7,
+        "h": 7,
+        "x": 323,
+        "y": 983,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ab",
+        "w": 3,
+        "h": 3,
+        "x": 332,
+        "y": 989,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ac",
+        "w": 21,
+        "h": 23,
+        "x": 1,
+        "y": 983,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ad",
+        "w": 3,
+        "h": 3,
+        "x": 332,
+        "y": 989,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ae",
+        "w": 3,
+        "h": 3,
+        "x": 332,
+        "y": 989,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/af",
+        "w": 11,
+        "h": 15,
+        "x": 84,
+        "y": 983,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ag",
+        "w": 7,
+        "h": 3,
+        "x": 987,
+        "y": 277,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ah",
+        "w": 3,
+        "h": 8,
+        "x": 317,
+        "y": 1004
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ai",
+        "w": 4,
+        "h": 8,
+        "x": 316,
+        "y": 994
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/aj",
+        "w": 9,
+        "h": 4,
+        "x": 976,
+        "y": 277,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ak",
+        "w": 4,
+        "h": 8,
+        "x": 316,
+        "y": 994
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/al",
+        "w": 9,
+        "h": 4,
+        "x": 976,
+        "y": 277,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/am",
+        "w": 3,
+        "h": 8,
+        "x": 322,
+        "y": 993
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/an",
+        "w": 3,
+        "h": 7,
+        "x": 327,
+        "y": 992
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ao",
+        "w": 4,
+        "h": 9,
+        "x": 306,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ap",
+        "w": 4,
+        "h": 8,
+        "x": 317,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/aq",
+        "w": 4,
+        "h": 9,
+        "x": 306,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ar",
+        "w": 4,
+        "h": 8,
+        "x": 317,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/as",
+        "w": 14,
+        "h": 11,
+        "x": 243,
+        "y": 1000,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/at",
+        "w": 14,
+        "h": 11,
+        "x": 259,
+        "y": 1000,
+        "r": true,
+        "fx": -27,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/au",
+        "w": 11,
+        "h": 15,
+        "x": 97,
+        "y": 983,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/av",
+        "w": 14,
+        "h": 12,
+        "x": 104,
+        "y": 1000,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/aw",
+        "w": 10,
+        "h": 15,
+        "x": 253,
+        "y": 983,
+        "fx": -27,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ax",
+        "w": 10,
+        "h": 11,
+        "x": 294,
+        "y": 983,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ay",
+        "w": 16,
+        "h": 12,
+        "x": 976,
+        "y": 224,
+        "r": true,
+        "fx": -79,
+        "fy": -271,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/az",
+        "w": 27,
+        "h": 10,
+        "x": 947,
+        "y": 271,
+        "fx": -82,
+        "fy": -251,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/b",
+        "w": 185,
+        "h": 124,
+        "x": 760,
+        "y": 271,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ba",
+        "w": 44,
+        "h": 77,
+        "x": 947,
+        "y": 329,
+        "r": true,
+        "fx": -98,
+        "fy": -197,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bb",
+        "w": 5,
+        "h": 5,
+        "x": 304,
+        "y": 1008,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bc",
+        "w": 7,
+        "h": 7,
+        "x": 323,
+        "y": 983,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bd",
+        "w": 11,
+        "h": 9,
+        "x": 67,
+        "y": 1004,
+        "r": true,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/be",
+        "w": 21,
+        "h": 23,
+        "x": 1,
+        "y": 983,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bf",
+        "w": 757,
+        "h": 338,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -34,
+        "fy": -11,
+        "fw": 544,
+        "fh": 800
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bg",
+        "w": 11,
+        "h": 15,
+        "x": 110,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bh",
+        "w": 10,
+        "h": 10,
+        "x": 304,
+        "y": 996
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bi",
+        "w": 272,
+        "h": 640,
+        "x": 1,
+        "y": 341
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bj",
+        "w": 11,
+        "h": 15,
+        "x": 123,
+        "y": 983,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bk",
+        "w": 11,
+        "h": 15,
+        "x": 136,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bl",
+        "w": 14,
+        "h": 12,
+        "x": 120,
+        "y": 1000,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bm",
+        "w": 11,
+        "h": 15,
+        "x": 84,
+        "y": 983,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bn",
+        "w": 11,
+        "h": 15,
+        "x": 149,
+        "y": 983,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bo",
+        "w": 11,
+        "h": 15,
+        "x": 162,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bp",
+        "w": 14,
+        "h": 12,
+        "x": 136,
+        "y": 1000,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bq",
+        "w": 11,
+        "h": 14,
+        "x": 281,
+        "y": 983,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/br",
+        "w": 4,
+        "h": 4,
+        "x": 337,
+        "y": 1009
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bs",
+        "w": 18,
+        "h": 22,
+        "x": 976,
+        "y": 150,
+        "fx": -4,
+        "fy": -6,
+        "fw": 24,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bt",
+        "w": 17,
+        "h": 29,
+        "x": 976,
+        "y": 174,
+        "fx": -4,
+        "fy": -2,
+        "fw": 24,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bu",
+        "w": 11,
+        "h": 12,
+        "x": 200,
+        "y": 1000,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bv",
+        "w": 52,
+        "h": 42,
+        "x": 893,
+        "y": 397,
+        "r": true,
+        "fx": -3,
+        "fy": -6,
+        "fw": 48,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bw",
+        "w": 46,
+        "h": 44,
+        "x": 947,
+        "y": 283,
+        "r": true,
+        "fx": -2,
+        "fy": -10,
+        "fw": 48,
+        "fh": 64
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bx",
+        "w": 15,
+        "h": 23,
+        "x": 976,
+        "y": 252,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 32
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/by",
+        "w": 50,
+        "h": 50,
+        "x": 893,
+        "y": 441
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/bz",
+        "w": 272,
+        "h": 640,
+        "x": 275,
+        "y": 341
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/c",
+        "w": 44,
+        "h": 77,
+        "x": 947,
+        "y": 408,
+        "r": true,
+        "fx": -98,
+        "fy": -197,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ca",
+        "w": 6,
+        "h": 5,
+        "x": 19,
+        "y": 1008,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cb",
+        "w": 6,
+        "h": 6,
+        "x": 331,
+        "y": 1001,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cc",
+        "w": 16,
+        "h": 12,
+        "x": 976,
+        "y": 238,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cd",
+        "w": 14,
+        "h": 14,
+        "x": 265,
+        "y": 983,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ce",
+        "w": 14,
+        "h": 15,
+        "x": 68,
+        "y": 983,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cf",
+        "w": 4,
+        "h": 5,
+        "x": 311,
+        "y": 1008,
+        "r": true,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cg",
+        "w": 7,
+        "h": 7,
+        "x": 322,
+        "y": 1003,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ch",
+        "w": 7,
+        "h": 5,
+        "x": 10,
+        "y": 1008,
+        "r": true,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ci",
+        "w": 17,
+        "h": 17,
+        "x": 976,
+        "y": 205,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cj",
+        "w": 6,
+        "h": 5,
+        "x": 19,
+        "y": 1008,
+        "fx": -9,
+        "fy": -14,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/ck",
+        "w": 6,
+        "h": 6,
+        "x": 331,
+        "y": 1001,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cl",
+        "w": 12,
+        "h": 13,
+        "x": 80,
+        "y": 1000,
+        "fx": -6,
+        "fy": -6,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cm",
+        "w": 14,
+        "h": 14,
+        "x": 275,
+        "y": 999,
+        "fx": -5,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cn",
+        "w": 11,
+        "h": 15,
+        "x": 175,
+        "y": 983,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/co",
+        "w": 11,
+        "h": 15,
+        "x": 188,
+        "y": 983,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cp",
+        "w": 11,
+        "h": 15,
+        "x": 201,
+        "y": 983,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cq",
+        "w": 7,
+        "h": 5,
+        "x": 1,
+        "y": 1008,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cr",
+        "w": 11,
+        "h": 7,
+        "x": 27,
+        "y": 1006,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/cs",
+        "w": 15,
+        "h": 9,
+        "x": 50,
+        "y": 1004,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/d",
+        "w": 8,
+        "h": 12,
+        "x": 213,
+        "y": 1000,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/e",
+        "w": 8,
+        "h": 12,
+        "x": 223,
+        "y": 1000,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/f",
+        "w": 8,
+        "h": 12,
+        "x": 233,
+        "y": 1000,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/g",
+        "w": 8,
+        "h": 13,
+        "x": 94,
+        "y": 1000,
+        "r": true,
+        "fx": 0,
+        "fy": -4,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/h",
+        "w": 11,
+        "h": 15,
+        "x": 188,
+        "y": 983,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/i",
+        "w": 3,
+        "h": 9,
+        "x": 312,
+        "y": 983,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/j",
+        "w": 234,
+        "h": 147,
+        "x": 760,
+        "y": 1,
+        "r": true,
+        "fx": -63,
+        "fy": -84,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/k",
+        "w": 154,
+        "h": 280,
+        "x": 823,
+        "y": 671,
+        "fx": -59,
+        "fy": -49,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/l",
+        "w": 214,
+        "h": 119,
+        "x": 760,
+        "y": 150,
+        "r": true,
+        "fx": -79,
+        "fy": -99,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/m",
+        "w": 342,
+        "h": 272,
+        "x": 549,
+        "y": 397,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/n",
+        "w": 272,
+        "h": 342,
+        "x": 549,
+        "y": 671
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/o",
+        "w": 4,
+        "h": 4,
+        "x": 332,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/p",
+        "w": 11,
+        "h": 14,
+        "x": 291,
+        "y": 999,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/q",
+        "w": 8,
+        "h": 7,
+        "x": 40,
+        "y": 1006,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/r",
+        "w": 21,
+        "h": 21,
+        "x": 24,
+        "y": 983,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/s",
+        "w": 19,
+        "h": 19,
+        "x": 47,
+        "y": 983,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/t",
+        "w": 11,
+        "h": 15,
+        "x": 214,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/u",
+        "w": 11,
+        "h": 15,
+        "x": 227,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/v",
+        "w": 14,
+        "h": 12,
+        "x": 152,
+        "y": 1000,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/w",
+        "w": 14,
+        "h": 12,
+        "x": 168,
+        "y": 1000,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/x",
+        "w": 11,
+        "h": 15,
+        "x": 240,
+        "y": 983
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/y",
+        "w": 14,
+        "h": 12,
+        "x": 184,
+        "y": 1000,
+        "r": true
+    },
+    {
+        "n": "story/character_story_quest/ice_witch_002/.gen/movie/z",
+        "w": 5,
+        "h": 5,
+        "x": 304,
+        "y": 1008,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    }
+]
