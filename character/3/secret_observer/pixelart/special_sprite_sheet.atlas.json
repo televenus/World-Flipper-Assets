@@ -1,0 +1,160 @@
+[
+    {
+        "n": "character/secret_observer/pixelart/special0006",
+        "w": 14,
+        "h": 11,
+        "x": 45,
+        "y": 77,
+        "r": true,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0012",
+        "w": 39,
+        "h": 26,
+        "x": 0,
+        "y": 109,
+        "fx": -109,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0018",
+        "w": 41,
+        "h": 26,
+        "x": 61,
+        "y": 73,
+        "fx": -108,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0024",
+        "w": 41,
+        "h": 26,
+        "x": 45,
+        "y": 100,
+        "fx": -108,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0030",
+        "w": 60,
+        "h": 36,
+        "x": 63,
+        "y": 36,
+        "fx": -98,
+        "fy": -100,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0036",
+        "w": 62,
+        "h": 37,
+        "x": 0,
+        "y": 0,
+        "fx": -96,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0042",
+        "w": 61,
+        "h": 35,
+        "x": 63,
+        "y": 0,
+        "fx": -96,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0048",
+        "w": 44,
+        "h": 34,
+        "x": 0,
+        "y": 74,
+        "fx": -98,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0054",
+        "w": 40,
+        "h": 34,
+        "x": 87,
+        "y": 100,
+        "fx": -107,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0058",
+        "w": 29,
+        "h": 26,
+        "x": 0,
+        "y": 136,
+        "r": true,
+        "fx": -115,
+        "fy": -100,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0064",
+        "w": 44,
+        "h": 35,
+        "x": 0,
+        "y": 38,
+        "fx": -105,
+        "fy": -94,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0070",
+        "w": 35,
+        "h": 33,
+        "x": 40,
+        "y": 127,
+        "fx": -114,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0076",
+        "w": 15,
+        "h": 19,
+        "x": 45,
+        "y": 57,
+        "r": true,
+        "fx": -115,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/secret_observer/pixelart/special0106",
+        "w": 16,
+        "h": 18,
+        "x": 45,
+        "y": 38,
+        "r": true,
+        "fx": -115,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    }
+]

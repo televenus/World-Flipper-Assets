@@ -1,0 +1,260 @@
+{
+    "sequences": [
+        {
+            "name": "neutral",
+            "kind": "loop",
+            "begin": 1,
+            "end": 2
+        },
+        {
+            "name": "walk_back",
+            "kind": "loop",
+            "begin": 3,
+            "end": 62
+        },
+        {
+            "name": "walk_front",
+            "kind": "loop",
+            "begin": 63,
+            "end": 122
+        },
+        {
+            "name": "skill_ready",
+            "kind": "once",
+            "begin": 123,
+            "end": 170
+        },
+        {
+            "name": "kachidoki",
+            "kind": "loop",
+            "begin": 171,
+            "end": 218
+        },
+        {
+            "name": "into_coffin",
+            "kind": "pass",
+            "begin": 219,
+            "end": 260
+        },
+        {
+            "name": "ghost_raise",
+            "kind": "pass",
+            "begin": 261,
+            "end": 285
+        },
+        {
+            "name": "ghost_neutral",
+            "kind": "loop",
+            "begin": 286,
+            "end": 446
+        },
+        {
+            "name": "revive",
+            "kind": "once",
+            "begin": 447,
+            "end": 488
+        },
+        {
+            "name": "wince_ready",
+            "kind": "stop",
+            "begin": 489,
+            "end": 493
+        },
+        {
+            "name": "stun_ready",
+            "kind": "stop",
+            "begin": 494,
+            "end": 498
+        },
+        {
+            "name": "attack_initial",
+            "kind": "pass",
+            "begin": 499,
+            "end": 510
+        },
+        {
+            "name": "attack_charge",
+            "kind": "loop",
+            "begin": 511,
+            "end": 540
+        },
+        {
+            "name": "attack_action",
+            "kind": "pass",
+            "begin": 541,
+            "end": 578
+        },
+        {
+            "name": "attack_fire",
+            "kind": "once",
+            "begin": 579,
+            "end": 596
+        },
+        {
+            "name": "dead",
+            "kind": "stop",
+            "begin": 597,
+            "end": 601
+        }
+    ],
+    "circles": [
+        {
+            "path": "unit_body",
+            "frames": [
+                {
+                    "begin": 2,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 4,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 64,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 124,
+                    "data": []
+                },
+                {
+                    "begin": 172,
+                    "data": []
+                },
+                {
+                    "begin": 220,
+                    "data": []
+                },
+                {
+                    "begin": 262,
+                    "data": []
+                },
+                {
+                    "begin": 287,
+                    "data": []
+                },
+                {
+                    "begin": 448,
+                    "data": []
+                },
+                {
+                    "begin": 490,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 495,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 500,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 512,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 542,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 580,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "r": 8.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 598,
+                    "data": []
+                }
+            ]
+        }
+    ],
+    "points": [
+        {
+            "path": "hp_gauge",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "attack_point",
+            "frames": [
+                {
+                    "begin": 579,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                },
+                {
+                    "begin": 580,
+                    "data": []
+                }
+            ]
+        }
+    ],
+    "sounds": []
+}
