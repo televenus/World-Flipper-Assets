@@ -1,0 +1,4607 @@
+[
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 537,
+        "y": 2860
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/aa",
+        "w": 26,
+        "h": 5,
+        "x": 1504,
+        "y": 1235,
+        "r": true,
+        "fx": -20,
+        "fy": 0,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ab",
+        "w": 2,
+        "h": 9,
+        "x": 1164,
+        "y": 2383,
+        "fx": -22,
+        "fy": -31,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ac",
+        "w": 12,
+        "h": 14,
+        "x": 1676,
+        "y": 251,
+        "r": true,
+        "fx": -12,
+        "fy": -6,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ad",
+        "w": 17,
+        "h": 15,
+        "x": 1839,
+        "y": 2288,
+        "fx": -20,
+        "fy": -9,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ae",
+        "w": 47,
+        "h": 55,
+        "x": 1728,
+        "y": 2611,
+        "fx": -5,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/af",
+        "w": 47,
+        "h": 55,
+        "x": 1799,
+        "y": 1030,
+        "fx": -5,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ag",
+        "w": 272,
+        "h": 500,
+        "x": 1,
+        "y": 30,
+        "fx": -114,
+        "fy": 0,
+        "fw": 500,
+        "fh": 500
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ah",
+        "w": 21,
+        "h": 3,
+        "x": 1595,
+        "y": 2023,
+        "r": true,
+        "fx": -21,
+        "fy": -3,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ai",
+        "w": 23,
+        "h": 5,
+        "x": 1220,
+        "y": 2603,
+        "r": true,
+        "fx": -20,
+        "fy": -19,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/aj",
+        "w": 5,
+        "h": 25,
+        "x": 1897,
+        "y": 1664,
+        "fx": -20,
+        "fy": -14,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ak",
+        "w": 5,
+        "h": 29,
+        "x": 1218,
+        "y": 939,
+        "fx": -20,
+        "fy": -7,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/al",
+        "w": 6,
+        "h": 32,
+        "x": 1337,
+        "y": 1431,
+        "fx": -19,
+        "fy": -2,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/am",
+        "w": 219,
+        "h": 219,
+        "x": 907,
+        "y": 1,
+        "fx": -19,
+        "fy": -19,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/an",
+        "w": 26,
+        "h": 26,
+        "x": 1876,
+        "y": 2549
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ao",
+        "w": 44,
+        "h": 43,
+        "x": 1698,
+        "y": 923,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ap",
+        "w": 33,
+        "h": 33,
+        "x": 1128,
+        "y": 2557
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/aq",
+        "w": 33,
+        "h": 33,
+        "x": 1810,
+        "y": 1186
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ar",
+        "w": 31,
+        "h": 28,
+        "x": 1871,
+        "y": 2922
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/as",
+        "w": 44,
+        "h": 43,
+        "x": 1858,
+        "y": 971,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/at",
+        "w": 44,
+        "h": 43,
+        "x": 1858,
+        "y": 1016,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/au",
+        "w": 40,
+        "h": 40,
+        "x": 1857,
+        "y": 1151
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/av",
+        "w": 30,
+        "h": 30,
+        "x": 1820,
+        "y": 1328
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/aw",
+        "w": 29,
+        "h": 29,
+        "x": 1852,
+        "y": 1331,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ax",
+        "w": 30,
+        "h": 30,
+        "x": 1862,
+        "y": 1235
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ay",
+        "w": 69,
+        "h": 69,
+        "x": 1735,
+        "y": 2468,
+        "fx": -1,
+        "fy": -1,
+        "fw": 70,
+        "fh": 70
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/az",
+        "w": 79,
+        "h": 80,
+        "x": 1615,
+        "y": 2881,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/b",
+        "w": 13,
+        "h": 12,
+        "x": 1058,
+        "y": 1971,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ba",
+        "w": 68,
+        "h": 68,
+        "x": 1736,
+        "y": 1924,
+        "fx": -1,
+        "fy": -1,
+        "fw": 70,
+        "fh": 70
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bb",
+        "w": 28,
+        "h": 18,
+        "x": 600,
+        "y": 2300,
+        "fx": -1,
+        "fy": 0,
+        "fw": 32,
+        "fh": 21
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bc",
+        "w": 41,
+        "h": 30,
+        "x": 1121,
+        "y": 2525,
+        "fx": 0,
+        "fy": 0,
+        "fw": 42,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bd",
+        "w": 37,
+        "h": 65,
+        "x": 1463,
+        "y": 2904,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/be",
+        "w": 23,
+        "h": 35,
+        "x": 1696,
+        "y": 2934,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bf",
+        "w": 40,
+        "h": 40,
+        "x": 1862,
+        "y": 1193
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bg",
+        "w": 25,
+        "h": 50,
+        "x": 1877,
+        "y": 2470,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bh",
+        "w": 13,
+        "h": 12,
+        "x": 1889,
+        "y": 1764,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bi",
+        "w": 64,
+        "h": 13,
+        "x": 653,
+        "y": 2956,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bj",
+        "w": 42,
+        "h": 41,
+        "x": 515,
+        "y": 1528,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bk",
+        "w": 48,
+        "h": 55,
+        "x": 1808,
+        "y": 1087
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bl",
+        "w": 41,
+        "h": 42,
+        "x": 1406,
+        "y": 2474
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bm",
+        "w": 27,
+        "h": 27,
+        "x": 1000,
+        "y": 2816,
+        "fx": -3,
+        "fy": -3,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bn",
+        "w": 61,
+        "h": 34,
+        "x": 1742,
+        "y": 1888,
+        "fx": -3,
+        "fy": -4,
+        "fw": 69,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bo",
+        "w": 30,
+        "h": 30,
+        "x": 1872,
+        "y": 1267
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bp",
+        "w": 30,
+        "h": 29,
+        "x": 1314,
+        "y": 1989,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bq",
+        "w": 12,
+        "h": 13,
+        "x": 482,
+        "y": 1557,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/br",
+        "w": 13,
+        "h": 12,
+        "x": 1889,
+        "y": 1764,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bs",
+        "w": 12,
+        "h": 13,
+        "x": 748,
+        "y": 2956,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bt",
+        "w": 11,
+        "h": 12,
+        "x": 949,
+        "y": 1198,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bu",
+        "w": 13,
+        "h": 12,
+        "x": 1889,
+        "y": 1778,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bv",
+        "w": 11,
+        "h": 12,
+        "x": 1036,
+        "y": 2269,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bw",
+        "w": 12,
+        "h": 11,
+        "x": 1567,
+        "y": 2467,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bx",
+        "w": 12,
+        "h": 13,
+        "x": 496,
+        "y": 1557,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/by",
+        "w": 12,
+        "h": 11,
+        "x": 436,
+        "y": 2643,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/bz",
+        "w": 11,
+        "h": 12,
+        "x": 949,
+        "y": 1198,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/c",
+        "w": 3,
+        "h": 9,
+        "x": 1739,
+        "y": 968,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ca",
+        "w": 13,
+        "h": 12,
+        "x": 1889,
+        "y": 1778,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cb",
+        "w": 11,
+        "h": 12,
+        "x": 1036,
+        "y": 2269,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cc",
+        "w": 12,
+        "h": 11,
+        "x": 1746,
+        "y": 1093,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cd",
+        "w": 12,
+        "h": 13,
+        "x": 762,
+        "y": 2956,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ce",
+        "w": 11,
+        "h": 12,
+        "x": 949,
+        "y": 1212,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cf",
+        "w": 12,
+        "h": 13,
+        "x": 734,
+        "y": 2956,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cg",
+        "w": 13,
+        "h": 12,
+        "x": 1889,
+        "y": 1792,
+        "fx": -5,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ch",
+        "w": 143,
+        "h": 143,
+        "x": 1389,
+        "y": 970,
+        "fx": -5,
+        "fy": -5,
+        "fw": 153,
+        "fh": 153
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ci",
+        "w": 10,
+        "h": 10,
+        "x": 1346,
+        "y": 2011
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cj",
+        "w": 20,
+        "h": 20,
+        "x": 1346,
+        "y": 1989
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ck",
+        "w": 10,
+        "h": 4,
+        "x": 1112,
+        "y": 933,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cl",
+        "w": 16,
+        "h": 16,
+        "x": 1504,
+        "y": 2788
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cm",
+        "w": 7,
+        "h": 5,
+        "x": 1479,
+        "y": 2016,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cn",
+        "w": 11,
+        "h": 7,
+        "x": 1721,
+        "y": 2304,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/co",
+        "w": 9,
+        "h": 15,
+        "x": 223,
+        "y": 2766,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cp",
+        "w": 15,
+        "h": 15,
+        "x": 1858,
+        "y": 2288,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cq",
+        "w": 30,
+        "h": 30,
+        "x": 1872,
+        "y": 1299
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cr",
+        "w": 30,
+        "h": 30,
+        "x": 1820,
+        "y": 1360
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cs",
+        "w": 30,
+        "h": 30,
+        "x": 1820,
+        "y": 1392
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ct",
+        "w": 30,
+        "h": 30,
+        "x": 1820,
+        "y": 1424
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cu",
+        "w": 30,
+        "h": 30,
+        "x": 1806,
+        "y": 1924
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cv",
+        "w": 30,
+        "h": 30,
+        "x": 1806,
+        "y": 1956
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cw",
+        "w": 8,
+        "h": 8,
+        "x": 234,
+        "y": 2606
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cx",
+        "w": 48,
+        "h": 2,
+        "x": 1729,
+        "y": 1482,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cy",
+        "w": 127,
+        "h": 127,
+        "x": 949,
+        "y": 1231,
+        "fx": -1,
+        "fy": -1,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/cz",
+        "w": 175,
+        "h": 31,
+        "x": 1715,
+        "y": 596,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 31,
+        "fh": 176
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/d",
+        "w": 11,
+        "h": 9,
+        "x": 1128,
+        "y": 2592,
+        "fx": -7,
+        "fy": -5,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/da",
+        "w": 247,
+        "h": 247,
+        "x": 1,
+        "y": 1878
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/db",
+        "w": 18,
+        "h": 3,
+        "x": 1073,
+        "y": 1093,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dc",
+        "w": 57,
+        "h": 57,
+        "x": 537,
+        "y": 2801
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dd",
+        "w": 58,
+        "h": 58,
+        "x": 1703,
+        "y": 1175
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/de",
+        "w": 59,
+        "h": 59,
+        "x": 1724,
+        "y": 2668
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/df",
+        "w": 59,
+        "h": 59,
+        "x": 1785,
+        "y": 2668
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dg",
+        "w": 60,
+        "h": 60,
+        "x": 1842,
+        "y": 2860
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dh",
+        "w": 61,
+        "h": 61,
+        "x": 1838,
+        "y": 908
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/di",
+        "w": 62,
+        "h": 62,
+        "x": 1033,
+        "y": 1710
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dj",
+        "w": 63,
+        "h": 63,
+        "x": 1839,
+        "y": 1962
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dk",
+        "w": 63,
+        "h": 63,
+        "x": 1839,
+        "y": 2117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dl",
+        "w": 64,
+        "h": 64,
+        "x": 1838,
+        "y": 629
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dm",
+        "w": 65,
+        "h": 65,
+        "x": 1350,
+        "y": 2904
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dn",
+        "w": 66,
+        "h": 66,
+        "x": 1656,
+        "y": 2661
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/do",
+        "w": 68,
+        "h": 68,
+        "x": 1657,
+        "y": 2541
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dp",
+        "w": 69,
+        "h": 69,
+        "x": 1806,
+        "y": 2470
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dq",
+        "w": 70,
+        "h": 70,
+        "x": 1150,
+        "y": 1702
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dr",
+        "w": 4,
+        "h": 4,
+        "x": 1727,
+        "y": 2857
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ds",
+        "w": 23,
+        "h": 23,
+        "x": 1305,
+        "y": 1550,
+        "fx": -1,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dt",
+        "w": 11,
+        "h": 10,
+        "x": 1036,
+        "y": 2283,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/du",
+        "w": 50,
+        "h": 50,
+        "x": 1820,
+        "y": 1276
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dv",
+        "w": 62,
+        "h": 6,
+        "x": 1526,
+        "y": 1694
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dw",
+        "w": 44,
+        "h": 68,
+        "x": 1727,
+        "y": 2541,
+        "fx": -54,
+        "fy": -29,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dx",
+        "w": 44,
+        "h": 69,
+        "x": 1696,
+        "y": 2863,
+        "fx": -54,
+        "fy": -28,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dy",
+        "w": 44,
+        "h": 70,
+        "x": 1222,
+        "y": 1702,
+        "fx": -54,
+        "fy": -27,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/dz",
+        "w": 71,
+        "h": 43,
+        "x": 1450,
+        "y": 2565,
+        "r": true,
+        "fx": -54,
+        "fy": -26,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/e",
+        "w": 74,
+        "h": 90,
+        "x": 1374,
+        "y": 2518,
+        "fx": -13,
+        "fy": -8,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ea",
+        "w": 66,
+        "h": 43,
+        "x": 1803,
+        "y": 2926,
+        "r": true,
+        "fx": -54,
+        "fy": -31,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/eb",
+        "w": 44,
+        "h": 66,
+        "x": 1762,
+        "y": 1093,
+        "fx": -53,
+        "fy": -31,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ec",
+        "w": 44,
+        "h": 67,
+        "x": 1693,
+        "y": 968,
+        "fx": -53,
+        "fy": -30,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ed",
+        "w": 44,
+        "h": 68,
+        "x": 1830,
+        "y": 2541,
+        "fx": -53,
+        "fy": -29,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ee",
+        "w": 45,
+        "h": 69,
+        "x": 1742,
+        "y": 2857,
+        "fx": -53,
+        "fy": -28,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ef",
+        "w": 44,
+        "h": 65,
+        "x": 1417,
+        "y": 2904,
+        "fx": -54,
+        "fy": -32,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/eg",
+        "w": 272,
+        "h": 289,
+        "x": 275,
+        "y": 939
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/eh",
+        "w": 272,
+        "h": 370,
+        "x": 549,
+        "y": 30
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ei",
+        "w": 43,
+        "h": 58,
+        "x": 1767,
+        "y": 1222,
+        "fx": -115,
+        "fy": -97,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ej",
+        "w": 44,
+        "h": 71,
+        "x": 1613,
+        "y": 2467,
+        "fx": -113,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ek",
+        "w": 61,
+        "h": 74,
+        "x": 1742,
+        "y": 1812,
+        "fx": -103,
+        "fy": -99,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/el",
+        "w": 76,
+        "h": 83,
+        "x": 1535,
+        "y": 2480,
+        "r": true,
+        "fx": -94,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/em",
+        "w": 97,
+        "h": 80,
+        "x": 1805,
+        "y": 1811,
+        "fx": -82,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/en",
+        "w": 101,
+        "h": 90,
+        "x": 1168,
+        "y": 2511,
+        "fx": -80,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/eo",
+        "w": 104,
+        "h": 157,
+        "x": 1112,
+        "y": 939,
+        "r": true,
+        "fx": -59,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ep",
+        "w": 138,
+        "h": 199,
+        "x": 460,
+        "y": 2300,
+        "r": true,
+        "fx": -49,
+        "fy": -69,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/eq",
+        "w": 220,
+        "h": 202,
+        "x": 1,
+        "y": 2766,
+        "fx": -36,
+        "fy": 0,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/er",
+        "w": 165,
+        "h": 189,
+        "x": 1734,
+        "y": 1,
+        "fx": -61,
+        "fy": 0,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/es",
+        "w": 151,
+        "h": 196,
+        "x": 277,
+        "y": 2103,
+        "fx": -59,
+        "fy": 0,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/et",
+        "w": 86,
+        "h": 181,
+        "x": 874,
+        "y": 928,
+        "fx": -88,
+        "fy": 0,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/eu",
+        "w": 90,
+        "h": 185,
+        "x": 782,
+        "y": 928,
+        "fx": -85,
+        "fy": 0,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ev",
+        "w": 136,
+        "h": 97,
+        "x": 891,
+        "y": 2866,
+        "r": true,
+        "fx": -76,
+        "fy": -54,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ew",
+        "w": 72,
+        "h": 79,
+        "x": 1660,
+        "y": 2313,
+        "fx": -102,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ex",
+        "w": 72,
+        "h": 82,
+        "x": 1296,
+        "y": 1905,
+        "fx": -103,
+        "fy": -94,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ey",
+        "w": 69,
+        "h": 95,
+        "x": 1521,
+        "y": 1597,
+        "fx": -104,
+        "fy": -80,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ez",
+        "w": 72,
+        "h": 110,
+        "x": 850,
+        "y": 1336,
+        "fx": -102,
+        "fy": -65,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/f",
+        "w": 272,
+        "h": 500,
+        "x": 1,
+        "y": 532,
+        "fx": -114,
+        "fy": 0,
+        "fw": 500,
+        "fh": 500
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fa",
+        "w": 77,
+        "h": 72,
+        "x": 1659,
+        "y": 2394,
+        "r": true,
+        "fx": -103,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fb",
+        "w": 63,
+        "h": 67,
+        "x": 1839,
+        "y": 1893,
+        "fx": -107,
+        "fy": -96,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fc",
+        "w": 63,
+        "h": 58,
+        "x": 1285,
+        "y": 2911,
+        "r": true,
+        "fx": -109,
+        "fy": -97,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fd",
+        "w": 61,
+        "h": 55,
+        "x": 1777,
+        "y": 2611,
+        "r": true,
+        "fx": -111,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fe",
+        "w": 61,
+        "h": 51,
+        "x": 1582,
+        "y": 2641,
+        "r": true,
+        "fx": -112,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ff",
+        "w": 51,
+        "h": 61,
+        "x": 1746,
+        "y": 1030,
+        "fx": -112,
+        "fy": -98,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fg",
+        "w": 63,
+        "h": 51,
+        "x": 1839,
+        "y": 2182,
+        "r": true,
+        "fx": -112,
+        "fy": -96,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fh",
+        "w": 63,
+        "h": 51,
+        "x": 1839,
+        "y": 2235,
+        "r": true,
+        "fx": -112,
+        "fy": -96,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fi",
+        "w": 51,
+        "h": 62,
+        "x": 1097,
+        "y": 1710,
+        "fx": -112,
+        "fy": -97,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fj",
+        "w": 51,
+        "h": 73,
+        "x": 1674,
+        "y": 2788,
+        "fx": -112,
+        "fy": -95,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fk",
+        "w": 89,
+        "h": 91,
+        "x": 1813,
+        "y": 1482,
+        "fx": -86,
+        "fy": -96,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fl",
+        "w": 272,
+        "h": 289,
+        "x": 549,
+        "y": 402
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fm",
+        "w": 183,
+        "h": 111,
+        "x": 278,
+        "y": 2503,
+        "fx": -38,
+        "fy": -96,
+        "fw": 272,
+        "fh": 289
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fn",
+        "w": 169,
+        "h": 118,
+        "x": 967,
+        "y": 813,
+        "r": true,
+        "fx": -56,
+        "fy": -35,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fo",
+        "w": 169,
+        "h": 118,
+        "x": 1218,
+        "y": 970,
+        "r": true,
+        "fx": -56,
+        "fy": -35,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fp",
+        "w": 169,
+        "h": 118,
+        "x": 1218,
+        "y": 1090,
+        "r": true,
+        "fx": -56,
+        "fy": -35,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fq",
+        "w": 169,
+        "h": 118,
+        "x": 1389,
+        "y": 1115,
+        "r": true,
+        "fx": -56,
+        "fy": -35,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fr",
+        "w": 231,
+        "h": 211,
+        "x": 1,
+        "y": 2127,
+        "fx": -4,
+        "fy": -9,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fs",
+        "w": 231,
+        "h": 211,
+        "x": 549,
+        "y": 911,
+        "fx": -4,
+        "fy": -9,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ft",
+        "w": 231,
+        "h": 211,
+        "x": 1,
+        "y": 2340,
+        "fx": -4,
+        "fy": -9,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fu",
+        "w": 231,
+        "h": 211,
+        "x": 1,
+        "y": 2553,
+        "fx": -4,
+        "fy": -9,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fv",
+        "w": 200,
+        "h": 180,
+        "x": 1128,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fw",
+        "w": 200,
+        "h": 180,
+        "x": 1330,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fx",
+        "w": 234,
+        "h": 216,
+        "x": 549,
+        "y": 693,
+        "fx": -3,
+        "fy": -6,
+        "fw": 248,
+        "fh": 248
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fy",
+        "w": 200,
+        "h": 180,
+        "x": 1532,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/fz",
+        "w": 200,
+        "h": 180,
+        "x": 907,
+        "y": 222
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/g",
+        "w": 4,
+        "h": 4,
+        "x": 1840,
+        "y": 2660
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ga",
+        "w": 200,
+        "h": 180,
+        "x": 907,
+        "y": 404
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gb",
+        "w": 200,
+        "h": 180,
+        "x": 1109,
+        "y": 267
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gc",
+        "w": 200,
+        "h": 180,
+        "x": 1311,
+        "y": 267
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gd",
+        "w": 200,
+        "h": 180,
+        "x": 1513,
+        "y": 267
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ge",
+        "w": 200,
+        "h": 180,
+        "x": 1109,
+        "y": 449
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gf",
+        "w": 200,
+        "h": 180,
+        "x": 1311,
+        "y": 449
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gg",
+        "w": 200,
+        "h": 180,
+        "x": 1513,
+        "y": 449
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gh",
+        "w": 180,
+        "h": 200,
+        "x": 1715,
+        "y": 192,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gi",
+        "w": 180,
+        "h": 200,
+        "x": 1715,
+        "y": 394,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gj",
+        "w": 200,
+        "h": 180,
+        "x": 559,
+        "y": 1208
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gk",
+        "w": 200,
+        "h": 180,
+        "x": 559,
+        "y": 1390
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gl",
+        "w": 200,
+        "h": 180,
+        "x": 265,
+        "y": 1557
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gm",
+        "w": 200,
+        "h": 180,
+        "x": 265,
+        "y": 1739
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gn",
+        "w": 200,
+        "h": 180,
+        "x": 250,
+        "y": 1921
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/go",
+        "w": 200,
+        "h": 180,
+        "x": 467,
+        "y": 1572
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gp",
+        "w": 200,
+        "h": 180,
+        "x": 467,
+        "y": 1754
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gq",
+        "w": 200,
+        "h": 180,
+        "x": 452,
+        "y": 1936
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gr",
+        "w": 180,
+        "h": 200,
+        "x": 669,
+        "y": 1572,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gs",
+        "w": 200,
+        "h": 180,
+        "x": 669,
+        "y": 1774
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gt",
+        "w": 200,
+        "h": 180,
+        "x": 654,
+        "y": 1956
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gu",
+        "w": 200,
+        "h": 180,
+        "x": 430,
+        "y": 2118
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gv",
+        "w": 200,
+        "h": 180,
+        "x": 632,
+        "y": 2138
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gw",
+        "w": 180,
+        "h": 200,
+        "x": 278,
+        "y": 2301,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gx",
+        "w": 200,
+        "h": 180,
+        "x": 600,
+        "y": 2320
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gy",
+        "w": 200,
+        "h": 180,
+        "x": 234,
+        "y": 2616
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/gz",
+        "w": 200,
+        "h": 180,
+        "x": 599,
+        "y": 2502
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/h",
+        "w": 12,
+        "h": 13,
+        "x": 776,
+        "y": 2956,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ha",
+        "w": 200,
+        "h": 180,
+        "x": 596,
+        "y": 2684
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hb",
+        "w": 180,
+        "h": 200,
+        "x": 851,
+        "y": 1572,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hc",
+        "w": 200,
+        "h": 180,
+        "x": 871,
+        "y": 1774
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hd",
+        "w": 200,
+        "h": 180,
+        "x": 856,
+        "y": 1956
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/he",
+        "w": 200,
+        "h": 180,
+        "x": 834,
+        "y": 2138
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hf",
+        "w": 200,
+        "h": 180,
+        "x": 802,
+        "y": 2320
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hg",
+        "w": 200,
+        "h": 180,
+        "x": 801,
+        "y": 2502
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hh",
+        "w": 200,
+        "h": 180,
+        "x": 798,
+        "y": 2684
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hi",
+        "w": 200,
+        "h": 180,
+        "x": 829,
+        "y": 630
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hj",
+        "w": 200,
+        "h": 180,
+        "x": 1031,
+        "y": 631
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hk",
+        "w": 4,
+        "h": 4,
+        "x": 1799,
+        "y": 1087
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hl",
+        "w": 262,
+        "h": 340,
+        "x": 1,
+        "y": 1536,
+        "fx": 0,
+        "fy": 0,
+        "fw": 262,
+        "fh": 341
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hm",
+        "w": 18,
+        "h": 16,
+        "x": 1674,
+        "y": 2863,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hn",
+        "w": 16,
+        "h": 18,
+        "x": 1199,
+        "y": 1371,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ho",
+        "w": 17,
+        "h": 16,
+        "x": 888,
+        "y": 1,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hp",
+        "w": 16,
+        "h": 18,
+        "x": 1199,
+        "y": 1391,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hq",
+        "w": 16,
+        "h": 16,
+        "x": 1296,
+        "y": 1989,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hr",
+        "w": 16,
+        "h": 18,
+        "x": 1199,
+        "y": 1411,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hs",
+        "w": 16,
+        "h": 18,
+        "x": 632,
+        "y": 2118,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ht",
+        "w": 18,
+        "h": 16,
+        "x": 1502,
+        "y": 2904,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hu",
+        "w": 18,
+        "h": 16,
+        "x": 1502,
+        "y": 2922,
+        "fx": -4,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hv",
+        "w": 13,
+        "h": 13,
+        "x": 452,
+        "y": 1921,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hw",
+        "w": 13,
+        "h": 13,
+        "x": 654,
+        "y": 1936,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hx",
+        "w": 13,
+        "h": 13,
+        "x": 430,
+        "y": 2103,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hy",
+        "w": 13,
+        "h": 13,
+        "x": 1058,
+        "y": 1956,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/hz",
+        "w": 13,
+        "h": 13,
+        "x": 719,
+        "y": 2956,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/i",
+        "w": 13,
+        "h": 12,
+        "x": 1058,
+        "y": 1971,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ia",
+        "w": 13,
+        "h": 13,
+        "x": 1889,
+        "y": 1749,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ib",
+        "w": 13,
+        "h": 13,
+        "x": 467,
+        "y": 1557,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ic",
+        "w": 13,
+        "h": 13,
+        "x": 250,
+        "y": 1904,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/id",
+        "w": 13,
+        "h": 13,
+        "x": 1058,
+        "y": 1956,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ie",
+        "w": 123,
+        "h": 123,
+        "x": 1642,
+        "y": 1242,
+        "fx": -3,
+        "fy": -3,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/if",
+        "w": 141,
+        "h": 127,
+        "x": 1560,
+        "y": 1113,
+        "r": true,
+        "fx": -35,
+        "fy": -23,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ig",
+        "w": 112,
+        "h": 122,
+        "x": 761,
+        "y": 1448,
+        "r": true,
+        "fx": -41,
+        "fy": -38,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ih",
+        "w": 75,
+        "h": 86,
+        "x": 924,
+        "y": 1360,
+        "fx": -65,
+        "fy": -55,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ii",
+        "w": 30,
+        "h": 29,
+        "x": 1805,
+        "y": 1893,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ij",
+        "w": 29,
+        "h": 29,
+        "x": 1852,
+        "y": 1362,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ik",
+        "w": 39,
+        "h": 60,
+        "x": 1848,
+        "y": 1749,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 60,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/il",
+        "w": 39,
+        "h": 60,
+        "x": 1863,
+        "y": 2729,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 68,
+        "fh": 47
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/im",
+        "w": 137,
+        "h": 140,
+        "x": 1078,
+        "y": 1209,
+        "fx": -30,
+        "fy": -27,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/in",
+        "w": 40,
+        "h": 67,
+        "x": 1615,
+        "y": 2540,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/io",
+        "w": 48,
+        "h": 53,
+        "x": 1812,
+        "y": 1221,
+        "r": true,
+        "fx": -71,
+        "fy": -78,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ip",
+        "w": 82,
+        "h": 272,
+        "x": 823,
+        "y": 30,
+        "r": true,
+        "fx": 0,
+        "fy": -323,
+        "fw": 272,
+        "fh": 405
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/iq",
+        "w": 82,
+        "h": 272,
+        "x": 823,
+        "y": 304,
+        "r": true,
+        "fx": 0,
+        "fy": -323,
+        "fw": 272,
+        "fh": 405
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ir",
+        "w": 272,
+        "h": 82,
+        "x": 549,
+        "y": 1124,
+        "fx": 0,
+        "fy": -323,
+        "fw": 272,
+        "fh": 405
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/is",
+        "w": 272,
+        "h": 82,
+        "x": 1128,
+        "y": 183,
+        "fx": 0,
+        "fy": -323,
+        "fw": 272,
+        "fh": 405
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/it",
+        "w": 272,
+        "h": 82,
+        "x": 1402,
+        "y": 183,
+        "fx": 0,
+        "fy": -323,
+        "fw": 272,
+        "fh": 405
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/iu",
+        "w": 42,
+        "h": 233,
+        "x": 785,
+        "y": 693,
+        "fx": -18,
+        "fy": -4,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/iv",
+        "w": 238,
+        "h": 40,
+        "x": 275,
+        "y": 1515,
+        "r": true,
+        "fx": -19,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/iw",
+        "w": 41,
+        "h": 238,
+        "x": 234,
+        "y": 2127,
+        "fx": -19,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ix",
+        "w": 43,
+        "h": 237,
+        "x": 514,
+        "y": 1230,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/iy",
+        "w": 235,
+        "h": 42,
+        "x": 1472,
+        "y": 791,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/iz",
+        "w": 42,
+        "h": 237,
+        "x": 234,
+        "y": 2367,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/j",
+        "w": 12,
+        "h": 13,
+        "x": 790,
+        "y": 2956,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ja",
+        "w": 238,
+        "h": 44,
+        "x": 275,
+        "y": 1469,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jb",
+        "w": 236,
+        "h": 43,
+        "x": 653,
+        "y": 2866,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jc",
+        "w": 43,
+        "h": 235,
+        "x": 1004,
+        "y": 2320,
+        "fx": -17,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jd",
+        "w": 236,
+        "h": 43,
+        "x": 653,
+        "y": 2911,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/je",
+        "w": 237,
+        "h": 42,
+        "x": 1233,
+        "y": 791,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jf",
+        "w": 236,
+        "h": 43,
+        "x": 1225,
+        "y": 835,
+        "r": true,
+        "fx": -18,
+        "fy": -1,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jg",
+        "w": 234,
+        "h": 43,
+        "x": 1462,
+        "y": 923,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jh",
+        "w": 235,
+        "h": 44,
+        "x": 1225,
+        "y": 880,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/ji",
+        "w": 43,
+        "h": 238,
+        "x": 761,
+        "y": 1208,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jj",
+        "w": 237,
+        "h": 42,
+        "x": 1463,
+        "y": 835,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jk",
+        "w": 233,
+        "h": 42,
+        "x": 874,
+        "y": 586,
+        "r": true,
+        "fx": -18,
+        "fy": -1,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jl",
+        "w": 42,
+        "h": 238,
+        "x": 806,
+        "y": 1208,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jm",
+        "w": 235,
+        "h": 42,
+        "x": 1225,
+        "y": 926,
+        "r": true,
+        "fx": -17,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jn",
+        "w": 236,
+        "h": 42,
+        "x": 1463,
+        "y": 879,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 80,
+        "fh": 272
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jo",
+        "w": 32,
+        "h": 32,
+        "x": 1736,
+        "y": 1994
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jp",
+        "w": 272,
+        "h": 405,
+        "x": 275,
+        "y": 532
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jq",
+        "w": 70,
+        "h": 30,
+        "x": 1049,
+        "y": 2525,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/jr",
+        "w": 44,
+        "h": 44,
+        "x": 823,
+        "y": 578
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/k",
+        "w": 74,
+        "h": 90,
+        "x": 1763,
+        "y": 2131,
+        "fx": -13,
+        "fy": -8,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/l",
+        "w": 90,
+        "h": 74,
+        "x": 1523,
+        "y": 2565,
+        "r": true,
+        "fx": -13,
+        "fy": -8,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/m",
+        "w": 74,
+        "h": 90,
+        "x": 1645,
+        "y": 2221,
+        "fx": -13,
+        "fy": -8,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/n",
+        "w": 90,
+        "h": 74,
+        "x": 1568,
+        "y": 2315,
+        "r": true,
+        "fx": -13,
+        "fy": -8,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/o",
+        "w": 90,
+        "h": 74,
+        "x": 1567,
+        "y": 2391,
+        "r": true,
+        "fx": -13,
+        "fy": -8,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/p",
+        "w": 74,
+        "h": 91,
+        "x": 1399,
+        "y": 2219,
+        "fx": -13,
+        "fy": -7,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/q",
+        "w": 127,
+        "h": 127,
+        "x": 1709,
+        "y": 791,
+        "fx": -1,
+        "fy": -1,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/r",
+        "w": 272,
+        "h": 500,
+        "x": 275,
+        "y": 30,
+        "fx": -114,
+        "fy": 0,
+        "fw": 500,
+        "fh": 500
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/s",
+        "w": 91,
+        "h": 74,
+        "x": 1475,
+        "y": 2315,
+        "r": true,
+        "fx": -13,
+        "fy": -7,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/t",
+        "w": 74,
+        "h": 91,
+        "x": 1504,
+        "y": 2695,
+        "fx": -13,
+        "fy": -7,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/u",
+        "w": 74,
+        "h": 91,
+        "x": 1522,
+        "y": 2788,
+        "fx": -13,
+        "fy": -7,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/v",
+        "w": 74,
+        "h": 91,
+        "x": 1580,
+        "y": 2695,
+        "fx": -13,
+        "fy": -7,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/w",
+        "w": 74,
+        "h": 91,
+        "x": 1598,
+        "y": 2788,
+        "fx": -13,
+        "fy": -7,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/x",
+        "w": 91,
+        "h": 74,
+        "x": 1522,
+        "y": 2881,
+        "r": true,
+        "fx": -13,
+        "fy": -7,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/y",
+        "w": 74,
+        "h": 91,
+        "x": 1569,
+        "y": 2222,
+        "fx": -13,
+        "fy": -7,
+        "fw": 98,
+        "fh": 98
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie/z",
+        "w": 272,
+        "h": 500,
+        "x": 1,
+        "y": 1034,
+        "fx": -114,
+        "fy": 0,
+        "fw": 500,
+        "fh": 500
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/a",
+        "w": 237,
+        "h": 237,
+        "x": 275,
+        "y": 1230,
+        "fx": -2,
+        "fy": -2,
+        "fw": 240,
+        "fh": 240
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/aa",
+        "w": 62,
+        "h": 47,
+        "x": 1840,
+        "y": 2611,
+        "fx": 0,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ab",
+        "w": 20,
+        "h": 19,
+        "x": 1249,
+        "y": 1550,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ac",
+        "w": 40,
+        "h": 81,
+        "x": 1721,
+        "y": 2221,
+        "r": true,
+        "fx": -12,
+        "fy": 0,
+        "fw": 126,
+        "fh": 117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ad",
+        "w": 21,
+        "h": 20,
+        "x": 1500,
+        "y": 2610,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ae",
+        "w": 126,
+        "h": 122,
+        "x": 875,
+        "y": 1448,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/af",
+        "w": 49,
+        "h": 67,
+        "x": 823,
+        "y": 1115,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ag",
+        "w": 90,
+        "h": 94,
+        "x": 1220,
+        "y": 2713,
+        "fx": -10,
+        "fy": 0,
+        "fw": 126,
+        "fh": 117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ah",
+        "w": 33,
+        "h": 30,
+        "x": 1615,
+        "y": 2609,
+        "r": true,
+        "fx": -49,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ai",
+        "w": 90,
+        "h": 96,
+        "x": 1312,
+        "y": 2610,
+        "fx": -10,
+        "fy": 0,
+        "fw": 126,
+        "fh": 117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/aj",
+        "w": 21,
+        "h": 23,
+        "x": 1366,
+        "y": 1210,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ak",
+        "w": 123,
+        "h": 126,
+        "x": 1003,
+        "y": 2557,
+        "fx": -6,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/al",
+        "w": 51,
+        "h": 67,
+        "x": 1789,
+        "y": 2857,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/am",
+        "w": 51,
+        "h": 56,
+        "x": 1767,
+        "y": 1282,
+        "r": true,
+        "fx": -24,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/an",
+        "w": 104,
+        "h": 101,
+        "x": 1714,
+        "y": 1599,
+        "fx": -10,
+        "fy": 0,
+        "fw": 126,
+        "fh": 117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ao",
+        "w": 13,
+        "h": 24,
+        "x": 250,
+        "y": 1878,
+        "r": true,
+        "fx": -85,
+        "fy": -9,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ap",
+        "w": 74,
+        "h": 71,
+        "x": 1659,
+        "y": 2468,
+        "fx": -21,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/aq",
+        "w": 23,
+        "h": 22,
+        "x": 924,
+        "y": 1336,
+        "fx": 0,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ar",
+        "w": 124,
+        "h": 126,
+        "x": 1188,
+        "y": 2008,
+        "fx": -5,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/as",
+        "w": 51,
+        "h": 67,
+        "x": 1693,
+        "y": 1037,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/at",
+        "w": 102,
+        "h": 108,
+        "x": 1650,
+        "y": 1702,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 126,
+        "fh": 117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/au",
+        "w": 60,
+        "h": 104,
+        "x": 1838,
+        "y": 802,
+        "fx": -57,
+        "fy": -7,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/av",
+        "w": 71,
+        "h": 77,
+        "x": 1819,
+        "y": 2391,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/aw",
+        "w": 23,
+        "h": 23,
+        "x": 1832,
+        "y": 974,
+        "fx": 0,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ax",
+        "w": 56,
+        "h": 67,
+        "x": 1846,
+        "y": 2660,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ay",
+        "w": 105,
+        "h": 124,
+        "x": 1292,
+        "y": 2264,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 126,
+        "fh": 117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/az",
+        "w": 63,
+        "h": 105,
+        "x": 1838,
+        "y": 695,
+        "fx": -54,
+        "fy": -7,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/b",
+        "w": 44,
+        "h": 43,
+        "x": 1858,
+        "y": 1061,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ba",
+        "w": 74,
+        "h": 80,
+        "x": 1763,
+        "y": 2223,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bb",
+        "w": 126,
+        "h": 126,
+        "x": 1271,
+        "y": 2136,
+        "fx": -3,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bc",
+        "w": 73,
+        "h": 115,
+        "x": 1404,
+        "y": 2016,
+        "fx": -50,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bd",
+        "w": 78,
+        "h": 81,
+        "x": 1399,
+        "y": 2136,
+        "r": true,
+        "fx": -14,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/be",
+        "w": 23,
+        "h": 24,
+        "x": 1846,
+        "y": 1456,
+        "fx": 0,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bf",
+        "w": 67,
+        "h": 57,
+        "x": 1216,
+        "y": 2912
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bg",
+        "w": 113,
+        "h": 126,
+        "x": 1049,
+        "y": 2269,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 126,
+        "fh": 117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bh",
+        "w": 83,
+        "h": 122,
+        "x": 1124,
+        "y": 1447,
+        "fx": -44,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bi",
+        "w": 55,
+        "h": 68,
+        "x": 1773,
+        "y": 2541,
+        "r": true,
+        "fx": -40,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bj",
+        "w": 127,
+        "h": 126,
+        "x": 1142,
+        "y": 2136,
+        "fx": -2,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bk",
+        "w": 83,
+        "h": 83,
+        "x": 1450,
+        "y": 2480,
+        "fx": -13,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bl",
+        "w": 23,
+        "h": 25,
+        "x": 1813,
+        "y": 920
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bm",
+        "w": 67,
+        "h": 57,
+        "x": 1656,
+        "y": 2729
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bn",
+        "w": 117,
+        "h": 126,
+        "x": 1049,
+        "y": 2397,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bo",
+        "w": 85,
+        "h": 124,
+        "x": 1138,
+        "y": 813,
+        "fx": -43,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bp",
+        "w": 82,
+        "h": 87,
+        "x": 1820,
+        "y": 1575,
+        "fx": -29,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bq",
+        "w": 6,
+        "h": 15,
+        "x": 1225,
+        "y": 813,
+        "r": true,
+        "fx": -20,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/br",
+        "w": 88,
+        "h": 111,
+        "x": 1314,
+        "y": 2023,
+        "r": true,
+        "fx": -25,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bs",
+        "w": 83,
+        "h": 85,
+        "x": 1001,
+        "y": 1360,
+        "fx": -13,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bt",
+        "w": 23,
+        "h": 25,
+        "x": 1813,
+        "y": 947
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bu",
+        "w": 128,
+        "h": 126,
+        "x": 1058,
+        "y": 2008,
+        "fx": -1,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bv",
+        "w": 67,
+        "h": 57,
+        "x": 1725,
+        "y": 2729
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bw",
+        "w": 126,
+        "h": 117,
+        "x": 1164,
+        "y": 2264
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bx",
+        "w": 97,
+        "h": 136,
+        "x": 850,
+        "y": 1198,
+        "fx": -32,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/by",
+        "w": 66,
+        "h": 49,
+        "x": 1739,
+        "y": 979,
+        "fx": -20,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/bz",
+        "w": 111,
+        "h": 94,
+        "x": 1086,
+        "y": 1351,
+        "fx": -25,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/c",
+        "w": 37,
+        "h": 66,
+        "x": 1676,
+        "y": 183,
+        "fx": 0,
+        "fy": -1,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ca",
+        "w": 74,
+        "h": 74,
+        "x": 1399,
+        "y": 2312,
+        "fx": -20,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cb",
+        "w": 86,
+        "h": 85,
+        "x": 874,
+        "y": 1111,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cc",
+        "w": 23,
+        "h": 25,
+        "x": 1879,
+        "y": 1393
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cd",
+        "w": 117,
+        "h": 126,
+        "x": 1168,
+        "y": 2383,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ce",
+        "w": 143,
+        "h": 109,
+        "x": 1073,
+        "y": 1098,
+        "r": true,
+        "fx": -20,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cf",
+        "w": 97,
+        "h": 111,
+        "x": 1714,
+        "y": 1486,
+        "r": true,
+        "fx": -25,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cg",
+        "w": 126,
+        "h": 129,
+        "x": 1000,
+        "y": 2685,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ch",
+        "w": 57,
+        "h": 67,
+        "x": 1727,
+        "y": 2788,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ci",
+        "w": 79,
+        "h": 74,
+        "x": 1738,
+        "y": 2392,
+        "fx": -20,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cj",
+        "w": 115,
+        "h": 99,
+        "x": 1595,
+        "y": 2028,
+        "fx": -21,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ck",
+        "w": 90,
+        "h": 87,
+        "x": 1475,
+        "y": 2391,
+        "fx": -6,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cl",
+        "w": 126,
+        "h": 129,
+        "x": 1150,
+        "y": 1571,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cm",
+        "w": 117,
+        "h": 126,
+        "x": 1287,
+        "y": 2390,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cn",
+        "w": 147,
+        "h": 118,
+        "x": 1217,
+        "y": 1210,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/co",
+        "w": 74,
+        "h": 84,
+        "x": 1815,
+        "y": 2305,
+        "r": true,
+        "fx": -20,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cp",
+        "w": 23,
+        "h": 25,
+        "x": 1879,
+        "y": 1420
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cq",
+        "w": 33,
+        "h": 29,
+        "x": 1770,
+        "y": 1994,
+        "r": true,
+        "fx": -34,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cr",
+        "w": 67,
+        "h": 57,
+        "x": 1794,
+        "y": 2729
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cs",
+        "w": 91,
+        "h": 101,
+        "x": 1712,
+        "y": 2028,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ct",
+        "w": 126,
+        "h": 99,
+        "x": 1217,
+        "y": 1330,
+        "fx": -10,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cu",
+        "w": 92,
+        "h": 91,
+        "x": 1475,
+        "y": 2222,
+        "fx": -4,
+        "fy": 0,
+        "fw": 96,
+        "fh": 94
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cv",
+        "w": 126,
+        "h": 117,
+        "x": 1209,
+        "y": 1431
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cw",
+        "w": 134,
+        "h": 153,
+        "x": 463,
+        "y": 2501,
+        "fx": -7,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cx",
+        "w": 75,
+        "h": 36,
+        "x": 1820,
+        "y": 1664,
+        "r": true,
+        "fx": -27,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cy",
+        "w": 23,
+        "h": 25,
+        "x": 1871,
+        "y": 1447
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/cz",
+        "w": 92,
+        "h": 107,
+        "x": 1754,
+        "y": 1702,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/d",
+        "w": 23,
+        "h": 35,
+        "x": 1721,
+        "y": 2934,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/da",
+        "w": 76,
+        "h": 48,
+        "x": 1650,
+        "y": 2611,
+        "r": true,
+        "fx": -26,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/db",
+        "w": 100,
+        "h": 129,
+        "x": 1073,
+        "y": 1774,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dc",
+        "w": 94,
+        "h": 96,
+        "x": 1312,
+        "y": 2708,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dd",
+        "w": 57,
+        "h": 67,
+        "x": 1786,
+        "y": 2788,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/de",
+        "w": 157,
+        "h": 143,
+        "x": 1534,
+        "y": 968,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/df",
+        "w": 126,
+        "h": 117,
+        "x": 1345,
+        "y": 1349
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dg",
+        "w": 80,
+        "h": 52,
+        "x": 1500,
+        "y": 2641,
+        "r": true,
+        "fx": -24,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dh",
+        "w": 120,
+        "h": 95,
+        "x": 1592,
+        "y": 1605,
+        "fx": -2,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/di",
+        "w": 101,
+        "h": 129,
+        "x": 1175,
+        "y": 1774,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dj",
+        "w": 94,
+        "h": 96,
+        "x": 1330,
+        "y": 2806,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dk",
+        "w": 23,
+        "h": 25,
+        "x": 1807,
+        "y": 979
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dl",
+        "w": 158,
+        "h": 143,
+        "x": 436,
+        "y": 2656,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dm",
+        "w": 67,
+        "h": 84,
+        "x": 1406,
+        "y": 2388,
+        "fx": -13,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dn",
+        "w": 57,
+        "h": 67,
+        "x": 1845,
+        "y": 2791,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/do",
+        "w": 126,
+        "h": 117,
+        "x": 1473,
+        "y": 1359
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dp",
+        "w": 122,
+        "h": 99,
+        "x": 1370,
+        "y": 1808,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dq",
+        "w": 79,
+        "h": 85,
+        "x": 1734,
+        "y": 2305,
+        "fx": -5,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dr",
+        "w": 129,
+        "h": 101,
+        "x": 1073,
+        "y": 1905,
+        "fx": -7,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ds",
+        "w": 94,
+        "h": 96,
+        "x": 1404,
+        "y": 2610,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dt",
+        "w": 144,
+        "h": 158,
+        "x": 1692,
+        "y": 631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/du",
+        "w": 2,
+        "h": 4,
+        "x": 1742,
+        "y": 2928,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dv",
+        "w": 57,
+        "h": 67,
+        "x": 1703,
+        "y": 1106,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dw",
+        "w": 122,
+        "h": 102,
+        "x": 1397,
+        "y": 1597,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dx",
+        "w": 90,
+        "h": 88,
+        "x": 1671,
+        "y": 2131,
+        "fx": 0,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dy",
+        "w": 104,
+        "h": 129,
+        "x": 1036,
+        "y": 2138,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/dz",
+        "w": 126,
+        "h": 117,
+        "x": 1337,
+        "y": 1468
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/e",
+        "w": 44,
+        "h": 43,
+        "x": 1858,
+        "y": 1106,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ea",
+        "w": 14,
+        "h": 7,
+        "x": 782,
+        "y": 1115,
+        "fx": -4,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/eb",
+        "w": 67,
+        "h": 57,
+        "x": 1744,
+        "y": 920
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ec",
+        "w": 94,
+        "h": 96,
+        "x": 1408,
+        "y": 2708,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ed",
+        "w": 148,
+        "h": 158,
+        "x": 962,
+        "y": 933,
+        "fx": 0,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ee",
+        "w": 122,
+        "h": 105,
+        "x": 1278,
+        "y": 1701,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ef",
+        "w": 92,
+        "h": 90,
+        "x": 1577,
+        "y": 2129,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/eg",
+        "w": 8,
+        "h": 17,
+        "x": 549,
+        "y": 1208,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/eh",
+        "w": 109,
+        "h": 136,
+        "x": 962,
+        "y": 1093,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ei",
+        "w": 126,
+        "h": 117,
+        "x": 1465,
+        "y": 1478
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ej",
+        "w": 21,
+        "h": 12,
+        "x": 848,
+        "y": 1184,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ek",
+        "w": 122,
+        "h": 105,
+        "x": 1402,
+        "y": 1701,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/el",
+        "w": 90,
+        "h": 95,
+        "x": 1278,
+        "y": 1808,
+        "fx": 0,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/em",
+        "w": 136,
+        "h": 112,
+        "x": 1366,
+        "y": 1235,
+        "fx": 0,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/en",
+        "w": 94,
+        "h": 96,
+        "x": 1426,
+        "y": 2806,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/eo",
+        "w": 150,
+        "h": 158,
+        "x": 1540,
+        "y": 631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ep",
+        "w": 12,
+        "h": 21,
+        "x": 1058,
+        "y": 1985,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/eq",
+        "w": 96,
+        "h": 94,
+        "x": 1479,
+        "y": 2126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/er",
+        "w": 126,
+        "h": 117,
+        "x": 1601,
+        "y": 1367
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/es",
+        "w": 122,
+        "h": 105,
+        "x": 1526,
+        "y": 1702,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/et",
+        "w": 90,
+        "h": 100,
+        "x": 1238,
+        "y": 2809,
+        "fx": 0,
+        "fy": 0,
+        "fw": 90,
+        "fh": 101
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/eu",
+        "w": 22,
+        "h": 12,
+        "x": 1805,
+        "y": 2117,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ev",
+        "w": 136,
+        "h": 114,
+        "x": 829,
+        "y": 812,
+        "fx": 0,
+        "fy": 0,
+        "fw": 136,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ew",
+        "w": 151,
+        "h": 158,
+        "x": 1387,
+        "y": 631,
+        "fx": 0,
+        "fy": 0,
+        "fw": 152,
+        "fh": 158
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ex",
+        "w": 90,
+        "h": 101,
+        "x": 1204,
+        "y": 1905
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ey",
+        "w": 23,
+        "h": 20,
+        "x": 823,
+        "y": 1184,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ez",
+        "w": 122,
+        "h": 105,
+        "x": 1494,
+        "y": 1809,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/f",
+        "w": 4,
+        "h": 4,
+        "x": 537,
+        "y": 2860
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fa",
+        "w": 136,
+        "h": 115,
+        "x": 1504,
+        "y": 1242
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fb",
+        "w": 152,
+        "h": 158,
+        "x": 223,
+        "y": 2798
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fc",
+        "w": 25,
+        "h": 22,
+        "x": 250,
+        "y": 2103,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fd",
+        "w": 101,
+        "h": 90,
+        "x": 1271,
+        "y": 2518,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fe",
+        "w": 122,
+        "h": 105,
+        "x": 1618,
+        "y": 1812,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ff",
+        "w": 25,
+        "h": 23,
+        "x": 1806,
+        "y": 1988,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fg",
+        "w": 115,
+        "h": 136,
+        "x": 1029,
+        "y": 2816,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fh",
+        "w": 158,
+        "h": 152,
+        "x": 377,
+        "y": 2801,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fi",
+        "w": 90,
+        "h": 101,
+        "x": 1128,
+        "y": 2603
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fj",
+        "w": 152,
+        "h": 158,
+        "x": 1233,
+        "y": 631
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fk",
+        "w": 122,
+        "h": 105,
+        "x": 1370,
+        "y": 1909,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fl",
+        "w": 25,
+        "h": 23,
+        "x": 1278,
+        "y": 1550,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fm",
+        "w": 115,
+        "h": 136,
+        "x": 1033,
+        "y": 1572,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fn",
+        "w": 90,
+        "h": 101,
+        "x": 1128,
+        "y": 2706
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fo",
+        "w": 24,
+        "h": 25,
+        "x": 1794,
+        "y": 1340,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fp",
+        "w": 122,
+        "h": 105,
+        "x": 1494,
+        "y": 1916,
+        "fx": 0,
+        "fy": 0,
+        "fw": 122,
+        "fh": 106
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fq",
+        "w": 25,
+        "h": 25,
+        "x": 436,
+        "y": 2616
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fr",
+        "w": 90,
+        "h": 101,
+        "x": 1146,
+        "y": 2809
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fs",
+        "w": 90,
+        "h": 101,
+        "x": 1220,
+        "y": 2610
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ft",
+        "w": 25,
+        "h": 25,
+        "x": 1767,
+        "y": 1340
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fu",
+        "w": 25,
+        "h": 25,
+        "x": 1877,
+        "y": 2522
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fv",
+        "w": 25,
+        "h": 25,
+        "x": 1876,
+        "y": 2577
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fw",
+        "w": 25,
+        "h": 25,
+        "x": 1852,
+        "y": 1393
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fx",
+        "w": 25,
+        "h": 25,
+        "x": 1852,
+        "y": 1420
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fy",
+        "w": 12,
+        "h": 12,
+        "x": 1805,
+        "y": 2013
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/fz",
+        "w": 4,
+        "h": 4,
+        "x": 1727,
+        "y": 2857
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/g",
+        "w": 68,
+        "h": 57,
+        "x": 1146,
+        "y": 2912
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/ga",
+        "w": 24,
+        "h": 24,
+        "x": 1820,
+        "y": 1456
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/gb",
+        "w": 885,
+        "h": 27,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/h",
+        "w": 54,
+        "h": 45,
+        "x": 1848,
+        "y": 1702,
+        "r": true,
+        "fx": -58,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/i",
+        "w": 90,
+        "h": 88,
+        "x": 1805,
+        "y": 2027,
+        "fx": -21,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/j",
+        "w": 89,
+        "h": 113,
+        "x": 1729,
+        "y": 1367,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/k",
+        "w": 114,
+        "h": 101,
+        "x": 1479,
+        "y": 2023,
+        "fx": -15,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/l",
+        "w": 114,
+        "h": 103,
+        "x": 537,
+        "y": 2866,
+        "fx": -15,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/m",
+        "w": 38,
+        "h": 19,
+        "x": 1209,
+        "y": 1550,
+        "fx": -10,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/n",
+        "w": 116,
+        "h": 107,
+        "x": 1618,
+        "y": 1919,
+        "fx": -13,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/o",
+        "w": 45,
+        "h": 40,
+        "x": 1810,
+        "y": 1144,
+        "fx": -9,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/p",
+        "w": 1,
+        "h": 1,
+        "x": 1842,
+        "y": 2857,
+        "fx": 0,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/q",
+        "w": 117,
+        "h": 112,
+        "x": 1278,
+        "y": 1587,
+        "fx": -12,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/r",
+        "w": 55,
+        "h": 41,
+        "x": 1746,
+        "y": 2928,
+        "fx": -1,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/s",
+        "w": 8,
+        "h": 13,
+        "x": 265,
+        "y": 1536,
+        "r": true,
+        "fx": -6,
+        "fy": -1,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/t",
+        "w": 42,
+        "h": 57,
+        "x": 515,
+        "y": 1469,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/u",
+        "w": 16,
+        "h": 18,
+        "x": 1199,
+        "y": 1351,
+        "fx": -4,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/v",
+        "w": 119,
+        "h": 117,
+        "x": 1593,
+        "y": 1486,
+        "r": true,
+        "fx": -12,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/w",
+        "w": 45,
+        "h": 59,
+        "x": 1763,
+        "y": 1161,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 67,
+        "fh": 57
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/x",
+        "w": 19,
+        "h": 17,
+        "x": 1345,
+        "y": 1330,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 23,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/y",
+        "w": 1,
+        "h": 1,
+        "x": 1842,
+        "y": 2857,
+        "fx": 0,
+        "fy": 0,
+        "fw": 126,
+        "fh": 117
+    },
+    {
+        "n": "story/story_event_quest/2anv/2anv_event_prologue/.gen/movie_ui_scale/z",
+        "w": 119,
+        "h": 123,
+        "x": 1003,
+        "y": 1447,
+        "fx": -10,
+        "fy": 0,
+        "fw": 129,
+        "fh": 126
+    }
+]

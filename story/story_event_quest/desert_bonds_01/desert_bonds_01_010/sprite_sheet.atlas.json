@@ -1,0 +1,3154 @@
+[
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 810,
+        "y": 426
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/aa",
+        "w": 63,
+        "h": 158,
+        "x": 1966,
+        "y": 271,
+        "r": true,
+        "fx": -49,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ab",
+        "w": 160,
+        "h": 65,
+        "x": 1031,
+        "y": 1524,
+        "fx": -48,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ac",
+        "w": 162,
+        "h": 67,
+        "x": 1,
+        "y": 1563,
+        "fx": -47,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ad",
+        "w": 164,
+        "h": 70,
+        "x": 997,
+        "y": 600,
+        "fx": -46,
+        "fy": -94,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ae",
+        "w": 162,
+        "h": 68,
+        "x": 1031,
+        "y": 1454,
+        "fx": -47,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/af",
+        "w": 65,
+        "h": 160,
+        "x": 1899,
+        "y": 275,
+        "r": true,
+        "fx": -48,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ag",
+        "w": 50,
+        "h": 50,
+        "x": 1832,
+        "y": 1546
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ah",
+        "w": 202,
+        "h": 267,
+        "x": 1202,
+        "y": 596,
+        "fx": -35,
+        "fy": -50,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ai",
+        "w": 285,
+        "h": 202,
+        "x": 1612,
+        "y": 275,
+        "r": true,
+        "fx": -35,
+        "fy": -36,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/aj",
+        "w": 277,
+        "h": 202,
+        "x": 1612,
+        "y": 683,
+        "r": true,
+        "fx": -35,
+        "fy": -40,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ak",
+        "w": 202,
+        "h": 267,
+        "x": 823,
+        "y": 1037,
+        "fx": -35,
+        "fy": -52,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/al",
+        "w": 273,
+        "h": 202,
+        "x": 548,
+        "y": 1174,
+        "r": true,
+        "fx": -35,
+        "fy": -48,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/am",
+        "w": 202,
+        "h": 319,
+        "x": 1202,
+        "y": 275,
+        "fx": -35,
+        "fy": 0,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/an",
+        "w": 281,
+        "h": 202,
+        "x": 1612,
+        "y": 479,
+        "r": true,
+        "fx": -35,
+        "fy": -36,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ao",
+        "w": 254,
+        "h": 202,
+        "x": 1438,
+        "y": 887,
+        "r": true,
+        "fx": -35,
+        "fy": -63,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ap",
+        "w": 202,
+        "h": 250,
+        "x": 1694,
+        "y": 887,
+        "fx": -35,
+        "fy": -63,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/aq",
+        "w": 200,
+        "h": 249,
+        "x": 1031,
+        "y": 1133,
+        "fx": -36,
+        "fy": -60,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ar",
+        "w": 49,
+        "h": 49,
+        "x": 1781,
+        "y": 1539,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/as",
+        "w": 38,
+        "h": 67,
+        "x": 1858,
+        "y": 1139,
+        "fx": 0,
+        "fy": -1,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/at",
+        "w": 37,
+        "h": 66,
+        "x": 2010,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/au",
+        "w": 35,
+        "h": 23,
+        "x": 1196,
+        "y": 1417,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/av",
+        "w": 63,
+        "h": 63,
+        "x": 1913,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/aw",
+        "w": 14,
+        "h": 9,
+        "x": 1027,
+        "y": 854,
+        "fx": -129,
+        "fy": -187,
+        "fw": 272,
+        "fh": 640
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ax",
+        "w": 12,
+        "h": 13,
+        "x": 2030,
+        "y": 1545,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ay",
+        "w": 128,
+        "h": 99,
+        "x": 329,
+        "y": 1526,
+        "fx": -72,
+        "fy": -121,
+        "fw": 272,
+        "fh": 640
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/az",
+        "w": 128,
+        "h": 99,
+        "x": 1895,
+        "y": 501,
+        "fx": 0,
+        "fy": 0,
+        "fw": 128,
+        "fh": 100
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/b",
+        "w": 12,
+        "h": 11,
+        "x": 790,
+        "y": 1603,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ba",
+        "w": 172,
+        "h": 475,
+        "x": 823,
+        "y": 275,
+        "fx": -50,
+        "fy": -74,
+        "fw": 272,
+        "fh": 772
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bb",
+        "w": 272,
+        "h": 772,
+        "x": 1,
+        "y": 432
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bc",
+        "w": 30,
+        "h": 30,
+        "x": 1998,
+        "y": 1529
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bd",
+        "w": 772,
+        "h": 272,
+        "x": 735,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/be",
+        "w": 4,
+        "h": 4,
+        "x": 1196,
+        "y": 836
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bf",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1285,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bg",
+        "w": 12,
+        "h": 14,
+        "x": 699,
+        "y": 1616,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bh",
+        "w": 13,
+        "h": 13,
+        "x": 650,
+        "y": 1617,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bi",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1300,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bj",
+        "w": 14,
+        "h": 13,
+        "x": 554,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bk",
+        "w": 14,
+        "h": 13,
+        "x": 570,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bl",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1315,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bm",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1300,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bn",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1330,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bo",
+        "w": 14,
+        "h": 13,
+        "x": 586,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bp",
+        "w": 12,
+        "h": 14,
+        "x": 713,
+        "y": 1616
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bq",
+        "w": 158,
+        "h": 64,
+        "x": 1683,
+        "y": 1342,
+        "fx": -49,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/br",
+        "w": 14,
+        "h": 13,
+        "x": 570,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bs",
+        "w": 160,
+        "h": 65,
+        "x": 276,
+        "y": 1459,
+        "fx": -48,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bt",
+        "w": 14,
+        "h": 13,
+        "x": 602,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bu",
+        "w": 160,
+        "h": 67,
+        "x": 1693,
+        "y": 1206,
+        "fx": -48,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bv",
+        "w": 160,
+        "h": 65,
+        "x": 1693,
+        "y": 1275,
+        "fx": -48,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bw",
+        "w": 158,
+        "h": 64,
+        "x": 1683,
+        "y": 1408,
+        "fx": -49,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bx",
+        "w": 65,
+        "h": 160,
+        "x": 1962,
+        "y": 687,
+        "r": true,
+        "fx": -48,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/by",
+        "w": 12,
+        "h": 14,
+        "x": 727,
+        "y": 1616,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/bz",
+        "w": 15,
+        "h": 15,
+        "x": 1655,
+        "y": 1469,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 1672,
+        "y": 1469
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ca",
+        "w": 12,
+        "h": 14,
+        "x": 741,
+        "y": 1616
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cb",
+        "w": 65,
+        "h": 160,
+        "x": 1961,
+        "y": 849,
+        "r": true,
+        "fx": -48,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cc",
+        "w": 12,
+        "h": 14,
+        "x": 699,
+        "y": 1616,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cd",
+        "w": 12,
+        "h": 14,
+        "x": 755,
+        "y": 1616,
+        "fx": -9,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ce",
+        "w": 12,
+        "h": 14,
+        "x": 769,
+        "y": 1616
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cf",
+        "w": 16,
+        "h": 16,
+        "x": 2031,
+        "y": 337,
+        "fx": -5,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cg",
+        "w": 15,
+        "h": 13,
+        "x": 1415,
+        "y": 1416,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ch",
+        "w": 11,
+        "h": 14,
+        "x": 286,
+        "y": 1526,
+        "fx": -17,
+        "fy": -8,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ci",
+        "w": 148,
+        "h": 62,
+        "x": 1899,
+        "y": 437,
+        "fx": -54,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cj",
+        "w": 4,
+        "h": 4,
+        "x": 816,
+        "y": 426
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ck",
+        "w": 60,
+        "h": 60,
+        "x": 1832,
+        "y": 1484
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cl",
+        "w": 4,
+        "h": 4,
+        "x": 1196,
+        "y": 842
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cm",
+        "w": 30,
+        "h": 30,
+        "x": 1987,
+        "y": 1595
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cn",
+        "w": 68,
+        "h": 140,
+        "x": 1843,
+        "y": 1342,
+        "r": true,
+        "fx": -58,
+        "fy": -91,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/co",
+        "w": 77,
+        "h": 136,
+        "x": 1604,
+        "y": 1296,
+        "r": true,
+        "fx": -60,
+        "fy": -83,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cp",
+        "w": 132,
+        "h": 83,
+        "x": 1895,
+        "y": 602,
+        "fx": -62,
+        "fy": -80,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cq",
+        "w": 51,
+        "h": 4,
+        "x": 1966,
+        "y": 431
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cr",
+        "w": 51,
+        "h": 51,
+        "x": 1675,
+        "y": 1539
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cs",
+        "w": 32,
+        "h": 32,
+        "x": 1755,
+        "y": 1598
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ct",
+        "w": 32,
+        "h": 32,
+        "x": 1789,
+        "y": 1598
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cu",
+        "w": 24,
+        "h": 53,
+        "x": 510,
+        "y": 1549,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 54,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cv",
+        "w": 49,
+        "h": 28,
+        "x": 1998,
+        "y": 1395,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 28,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cw",
+        "w": 40,
+        "h": 18,
+        "x": 257,
+        "y": 1543,
+        "fx": -3,
+        "fy": -3,
+        "fw": 48,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cx",
+        "w": 51,
+        "h": 4,
+        "x": 1755,
+        "y": 1592
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cy",
+        "w": 51,
+        "h": 51,
+        "x": 1728,
+        "y": 1539
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/cz",
+        "w": 19,
+        "h": 19,
+        "x": 1079,
+        "y": 844,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/d",
+        "w": 10,
+        "h": 64,
+        "x": 810,
+        "y": 275
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/da",
+        "w": 4,
+        "h": 4,
+        "x": 816,
+        "y": 426
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/db",
+        "w": 18,
+        "h": 39,
+        "x": 1173,
+        "y": 1591,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dc",
+        "w": 4,
+        "h": 27,
+        "x": 1891,
+        "y": 847,
+        "fx": 0,
+        "fy": 0,
+        "fw": 4,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dd",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1345,
+        "fx": -16,
+        "fy": -9,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/de",
+        "w": 19,
+        "h": 19,
+        "x": 1100,
+        "y": 844,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/df",
+        "w": 4,
+        "h": 4,
+        "x": 1432,
+        "y": 1416
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dg",
+        "w": 49,
+        "h": 49,
+        "x": 1936,
+        "y": 1558,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dh",
+        "w": 38,
+        "h": 38,
+        "x": 1675,
+        "y": 1592,
+        "fx": 0,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/di",
+        "w": 38,
+        "h": 38,
+        "x": 1715,
+        "y": 1592,
+        "fx": 0,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dj",
+        "w": 49,
+        "h": 49,
+        "x": 1998,
+        "y": 1191,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dk",
+        "w": 49,
+        "h": 49,
+        "x": 1998,
+        "y": 1242,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dl",
+        "w": 49,
+        "h": 49,
+        "x": 1998,
+        "y": 1293,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dm",
+        "w": 50,
+        "h": 100,
+        "x": 1027,
+        "y": 752
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dn",
+        "w": 50,
+        "h": 100,
+        "x": 1939,
+        "y": 169
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/do",
+        "w": 4,
+        "h": 4,
+        "x": 816,
+        "y": 426
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dp",
+        "w": 50,
+        "h": 100,
+        "x": 1991,
+        "y": 169
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dq",
+        "w": 100,
+        "h": 50,
+        "x": 167,
+        "y": 1491,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dr",
+        "w": 71,
+        "h": 71,
+        "x": 1855,
+        "y": 1208
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ds",
+        "w": 78,
+        "h": 65,
+        "x": 438,
+        "y": 1459,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dt",
+        "w": 59,
+        "h": 39,
+        "x": 987,
+        "y": 1591,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/du",
+        "w": 19,
+        "h": 4,
+        "x": 1939,
+        "y": 1167,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 4
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dv",
+        "w": 15,
+        "h": 4,
+        "x": 1971,
+        "y": 1199,
+        "fx": -5,
+        "fy": 0,
+        "fw": 20,
+        "fh": 4
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dw",
+        "w": 29,
+        "h": 30,
+        "x": 1928,
+        "y": 1208,
+        "fx": -1,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dx",
+        "w": 16,
+        "h": 16,
+        "x": 2031,
+        "y": 355,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dy",
+        "w": 49,
+        "h": 81,
+        "x": 459,
+        "y": 1526,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 84,
+        "fh": 53
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/dz",
+        "w": 52,
+        "h": 51,
+        "x": 1550,
+        "y": 831,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/e",
+        "w": 14,
+        "h": 13,
+        "x": 538,
+        "y": 1617,
+        "fx": -8,
+        "fy": -2,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ea",
+        "w": 35,
+        "h": 31,
+        "x": 1196,
+        "y": 1384,
+        "fx": -5,
+        "fy": 0,
+        "fw": 45,
+        "fh": 39
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/eb",
+        "w": 4,
+        "h": 4,
+        "x": 1432,
+        "y": 1422
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ec",
+        "w": 70,
+        "h": 30,
+        "x": 1079,
+        "y": 752,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ed",
+        "w": 40,
+        "h": 39,
+        "x": 1048,
+        "y": 1591,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ee",
+        "w": 4,
+        "h": 4,
+        "x": 1988,
+        "y": 1199
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ef",
+        "w": 70,
+        "h": 30,
+        "x": 1079,
+        "y": 784,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/eg",
+        "w": 40,
+        "h": 39,
+        "x": 1090,
+        "y": 1591,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/eh",
+        "w": 29,
+        "h": 29,
+        "x": 666,
+        "y": 1585,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ei",
+        "w": 29,
+        "h": 29,
+        "x": 697,
+        "y": 1585,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ej",
+        "w": 4,
+        "h": 4,
+        "x": 816,
+        "y": 426
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ek",
+        "w": 39,
+        "h": 39,
+        "x": 1132,
+        "y": 1591,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/el",
+        "w": 4,
+        "h": 4,
+        "x": 2010,
+        "y": 159
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/em",
+        "w": 39,
+        "h": 39,
+        "x": 1898,
+        "y": 1167,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/en",
+        "w": 4,
+        "h": 4,
+        "x": 1855,
+        "y": 1334
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/eo",
+        "w": 39,
+        "h": 39,
+        "x": 1395,
+        "y": 1375,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ep",
+        "w": 57,
+        "h": 26,
+        "x": 1079,
+        "y": 816,
+        "fx": -2,
+        "fy": -2,
+        "fw": 59,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/eq",
+        "w": 22,
+        "h": 57,
+        "x": 2025,
+        "y": 501,
+        "fx": -11,
+        "fy": 0,
+        "fw": 38,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/er",
+        "w": 29,
+        "h": 29,
+        "x": 728,
+        "y": 1585,
+        "fx": 0,
+        "fy": -6,
+        "fw": 38,
+        "fh": 35
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/es",
+        "w": 158,
+        "h": 64,
+        "x": 1196,
+        "y": 1442,
+        "fx": -50,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/et",
+        "w": 73,
+        "h": 155,
+        "x": 735,
+        "y": 275,
+        "r": true,
+        "fx": -55,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/eu",
+        "w": 152,
+        "h": 78,
+        "x": 997,
+        "y": 672,
+        "fx": -59,
+        "fy": -82,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ev",
+        "w": 73,
+        "h": 155,
+        "x": 735,
+        "y": 275,
+        "r": true,
+        "fx": -55,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ew",
+        "w": 158,
+        "h": 64,
+        "x": 1196,
+        "y": 1442,
+        "fx": -50,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ex",
+        "w": 60,
+        "h": 158,
+        "x": 1898,
+        "y": 1007,
+        "r": true,
+        "fx": -48,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ey",
+        "w": 158,
+        "h": 60,
+        "x": 1195,
+        "y": 1508,
+        "fx": -47,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ez",
+        "w": 158,
+        "h": 59,
+        "x": 1395,
+        "y": 1431,
+        "fx": -46,
+        "fy": -94,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/f",
+        "w": 16,
+        "h": 11,
+        "x": 987,
+        "y": 1578,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fa",
+        "w": 61,
+        "h": 158,
+        "x": 1898,
+        "y": 847,
+        "r": true,
+        "fx": -47,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fb",
+        "w": 158,
+        "h": 60,
+        "x": 1193,
+        "y": 1570,
+        "fx": -48,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fc",
+        "w": 11,
+        "h": 16,
+        "x": 1138,
+        "y": 816,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fd",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1285,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fe",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1360,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ff",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1285,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fg",
+        "w": 204,
+        "h": 268,
+        "x": 1406,
+        "y": 561,
+        "fx": -34,
+        "fy": -51,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fh",
+        "w": 204,
+        "h": 284,
+        "x": 1406,
+        "y": 275,
+        "fx": -35,
+        "fy": -38,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fi",
+        "w": 277,
+        "h": 205,
+        "x": 548,
+        "y": 1378,
+        "r": true,
+        "fx": -34,
+        "fy": -40,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fj",
+        "w": 204,
+        "h": 266,
+        "x": 1027,
+        "y": 865,
+        "fx": -34,
+        "fy": -52,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fk",
+        "w": 202,
+        "h": 270,
+        "x": 827,
+        "y": 1306,
+        "fx": -35,
+        "fy": -50,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fl",
+        "w": 203,
+        "h": 323,
+        "x": 997,
+        "y": 275,
+        "fx": -34,
+        "fy": 0,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fm",
+        "w": 202,
+        "h": 283,
+        "x": 823,
+        "y": 752,
+        "fx": -35,
+        "fy": -36,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fn",
+        "w": 203,
+        "h": 256,
+        "x": 1233,
+        "y": 865,
+        "fx": -36,
+        "fy": -63,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fo",
+        "w": 253,
+        "h": 203,
+        "x": 1438,
+        "y": 1091,
+        "r": true,
+        "fx": -36,
+        "fy": -62,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fp",
+        "w": 203,
+        "h": 250,
+        "x": 1233,
+        "y": 1123,
+        "fx": -35,
+        "fy": -58,
+        "fw": 272,
+        "fh": 323
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fq",
+        "w": 5,
+        "h": 6,
+        "x": 269,
+        "y": 1500,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fr",
+        "w": 6,
+        "h": 6,
+        "x": 1163,
+        "y": 664,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fs",
+        "w": 12,
+        "h": 16,
+        "x": 1996,
+        "y": 1173,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ft",
+        "w": 14,
+        "h": 14,
+        "x": 683,
+        "y": 1616,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fu",
+        "w": 15,
+        "h": 14,
+        "x": 666,
+        "y": 1616,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fv",
+        "w": 28,
+        "h": 32,
+        "x": 299,
+        "y": 1526,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fw",
+        "w": 34,
+        "h": 33,
+        "x": 1978,
+        "y": 1425
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fx",
+        "w": 30,
+        "h": 32,
+        "x": 1998,
+        "y": 1495,
+        "fx": 0,
+        "fy": 0,
+        "fw": 32,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fy",
+        "w": 20,
+        "h": 20,
+        "x": 1528,
+        "y": 865
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/fz",
+        "w": 29,
+        "h": 29,
+        "x": 759,
+        "y": 1585,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/g",
+        "w": 10,
+        "h": 14,
+        "x": 1978,
+        "y": 1375,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ga",
+        "w": 49,
+        "h": 162,
+        "x": 1151,
+        "y": 672,
+        "r": true,
+        "fx": -47,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gb",
+        "w": 20,
+        "h": 20,
+        "x": 1882,
+        "y": 1610
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gc",
+        "w": 10,
+        "h": 33,
+        "x": 536,
+        "y": 1549,
+        "fx": 0,
+        "fy": 0,
+        "fw": 11,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gd",
+        "w": 30,
+        "h": 32,
+        "x": 1987,
+        "y": 1561,
+        "fx": 0,
+        "fy": 0,
+        "fw": 32,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ge",
+        "w": 16,
+        "h": 31,
+        "x": 2031,
+        "y": 271
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gf",
+        "w": 33,
+        "h": 34,
+        "x": 2014,
+        "y": 1425,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gg",
+        "w": 20,
+        "h": 20,
+        "x": 1904,
+        "y": 1610
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gh",
+        "w": 16,
+        "h": 31,
+        "x": 2031,
+        "y": 304
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gi",
+        "w": 37,
+        "h": 62,
+        "x": 1163,
+        "y": 600,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 69,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gj",
+        "w": 50,
+        "h": 50,
+        "x": 1894,
+        "y": 1506
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gk",
+        "w": 55,
+        "h": 51,
+        "x": 1855,
+        "y": 1281
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gl",
+        "w": 30,
+        "h": 30,
+        "x": 1928,
+        "y": 1240
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gm",
+        "w": 30,
+        "h": 30,
+        "x": 1939,
+        "y": 1173
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gn",
+        "w": 50,
+        "h": 50,
+        "x": 1946,
+        "y": 1506
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/go",
+        "w": 49,
+        "h": 49,
+        "x": 1998,
+        "y": 1344,
+        "fx": 0,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gp",
+        "w": 29,
+        "h": 30,
+        "x": 1959,
+        "y": 1205,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gq",
+        "w": 29,
+        "h": 30,
+        "x": 1960,
+        "y": 1237,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gr",
+        "w": 53,
+        "h": 50,
+        "x": 1600,
+        "y": 1434
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gs",
+        "w": 50,
+        "h": 50,
+        "x": 1884,
+        "y": 1558
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gt",
+        "w": 33,
+        "h": 39,
+        "x": 1356,
+        "y": 1442,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gu",
+        "w": 4,
+        "h": 4,
+        "x": 816,
+        "y": 426
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gv",
+        "w": 30,
+        "h": 30,
+        "x": 538,
+        "y": 1585
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gw",
+        "w": 4,
+        "h": 4,
+        "x": 1832,
+        "y": 1474
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gx",
+        "w": 43,
+        "h": 49,
+        "x": 1555,
+        "y": 1431
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gy",
+        "w": 18,
+        "h": 13,
+        "x": 1395,
+        "y": 1416,
+        "fx": -127,
+        "fy": -184,
+        "fw": 272,
+        "fh": 640
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/gz",
+        "w": 20,
+        "h": 26,
+        "x": 516,
+        "y": 1604,
+        "r": true,
+        "fx": -123,
+        "fy": -180,
+        "fw": 272,
+        "fh": 640
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/h",
+        "w": 13,
+        "h": 11,
+        "x": 1151,
+        "y": 836
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ha",
+        "w": 12,
+        "h": 13,
+        "x": 1978,
+        "y": 1406,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hb",
+        "w": 12,
+        "h": 13,
+        "x": 2030,
+        "y": 1545,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hc",
+        "w": 11,
+        "h": 13,
+        "x": 1978,
+        "y": 1391,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hd",
+        "w": 12,
+        "h": 13,
+        "x": 2019,
+        "y": 1576,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/he",
+        "w": 5,
+        "h": 5,
+        "x": 269,
+        "y": 1508,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hf",
+        "w": 7,
+        "h": 7,
+        "x": 1356,
+        "y": 1483,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hg",
+        "w": 3,
+        "h": 3,
+        "x": 329,
+        "y": 1627,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hh",
+        "w": 23,
+        "h": 21,
+        "x": 491,
+        "y": 1609,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hi",
+        "w": 3,
+        "h": 3,
+        "x": 329,
+        "y": 1627,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hj",
+        "w": 3,
+        "h": 3,
+        "x": 329,
+        "y": 1627,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hk",
+        "w": 158,
+        "h": 63,
+        "x": 1356,
+        "y": 1492,
+        "fx": -49,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hl",
+        "w": 65,
+        "h": 160,
+        "x": 1960,
+        "y": 1011,
+        "r": true,
+        "fx": -48,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hm",
+        "w": 164,
+        "h": 68,
+        "x": 1438,
+        "y": 1296,
+        "fx": -46,
+        "fy": -92,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hn",
+        "w": 69,
+        "h": 166,
+        "x": 1939,
+        "y": 1,
+        "r": true,
+        "fx": -45,
+        "fy": -89,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ho",
+        "w": 69,
+        "h": 158,
+        "x": 1891,
+        "y": 687,
+        "r": true,
+        "fx": -49,
+        "fy": -87,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hp",
+        "w": 154,
+        "h": 65,
+        "x": 1516,
+        "y": 1492,
+        "fx": -51,
+        "fy": -86,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hq",
+        "w": 158,
+        "h": 49,
+        "x": 827,
+        "y": 1578,
+        "fx": -49,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hr",
+        "w": 142,
+        "h": 32,
+        "x": 1406,
+        "y": 831,
+        "fx": -57,
+        "fy": -106,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hs",
+        "w": 28,
+        "h": 88,
+        "x": 518,
+        "y": 1459,
+        "r": true,
+        "fx": -85,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ht",
+        "w": 26,
+        "h": 88,
+        "x": 2010,
+        "y": 69,
+        "r": true,
+        "fx": -85,
+        "fy": -119,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hu",
+        "w": 88,
+        "h": 20,
+        "x": 1438,
+        "y": 865,
+        "fx": -85,
+        "fy": -125,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hv",
+        "w": 4,
+        "h": 40,
+        "x": 1683,
+        "y": 1296,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hw",
+        "w": 88,
+        "h": 18,
+        "x": 167,
+        "y": 1543,
+        "fx": -85,
+        "fy": -128,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hx",
+        "w": 20,
+        "h": 88,
+        "x": 2027,
+        "y": 1011,
+        "r": true,
+        "fx": -85,
+        "fy": -128,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hy",
+        "w": 20,
+        "h": 88,
+        "x": 2027,
+        "y": 1101,
+        "r": true,
+        "fx": -85,
+        "fy": -128,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/hz",
+        "w": 16,
+        "h": 15,
+        "x": 2031,
+        "y": 391,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/i",
+        "w": 158,
+        "h": 63,
+        "x": 1355,
+        "y": 1557,
+        "fx": -49,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ia",
+        "w": 13,
+        "h": 13,
+        "x": 804,
+        "y": 1585,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ib",
+        "w": 15,
+        "h": 11,
+        "x": 1005,
+        "y": 1578,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ic",
+        "w": 16,
+        "h": 10,
+        "x": 2031,
+        "y": 425,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/id",
+        "w": 3,
+        "h": 8,
+        "x": 1599,
+        "y": 1366,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ie",
+        "w": 12,
+        "h": 16,
+        "x": 2030,
+        "y": 1495
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/if",
+        "w": 14,
+        "h": 13,
+        "x": 554,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ig",
+        "w": 272,
+        "h": 736,
+        "x": 549,
+        "y": 432,
+        "fx": -232,
+        "fy": 0,
+        "fw": 736,
+        "fh": 736
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ih",
+        "w": 12,
+        "h": 14,
+        "x": 783,
+        "y": 1616,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ii",
+        "w": 16,
+        "h": 15,
+        "x": 2031,
+        "y": 408,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ij",
+        "w": 15,
+        "h": 15,
+        "x": 269,
+        "y": 1526
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ik",
+        "w": 16,
+        "h": 10,
+        "x": 1960,
+        "y": 1269,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/il",
+        "w": 12,
+        "h": 16,
+        "x": 790,
+        "y": 1585
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/im",
+        "w": 11,
+        "h": 15,
+        "x": 810,
+        "y": 341
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/in",
+        "w": 12,
+        "h": 14,
+        "x": 797,
+        "y": 1616
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/io",
+        "w": 13,
+        "h": 13,
+        "x": 1948,
+        "y": 1609,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ip",
+        "w": 12,
+        "h": 14,
+        "x": 804,
+        "y": 1600,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/iq",
+        "w": 15,
+        "h": 15,
+        "x": 2010,
+        "y": 1173
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ir",
+        "w": 11,
+        "h": 15,
+        "x": 810,
+        "y": 358
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/is",
+        "w": 12,
+        "h": 14,
+        "x": 783,
+        "y": 1616,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/it",
+        "w": 12,
+        "h": 14,
+        "x": 811,
+        "y": 1616
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/iu",
+        "w": 13,
+        "h": 13,
+        "x": 1963,
+        "y": 1609,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/iv",
+        "w": 12,
+        "h": 14,
+        "x": 2030,
+        "y": 1513,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/iw",
+        "w": 15,
+        "h": 15,
+        "x": 1894,
+        "y": 1484
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ix",
+        "w": 13,
+        "h": 13,
+        "x": 1948,
+        "y": 1609,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/iy",
+        "w": 11,
+        "h": 15,
+        "x": 810,
+        "y": 375
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/iz",
+        "w": 12,
+        "h": 14,
+        "x": 2030,
+        "y": 1529
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/j",
+        "w": 63,
+        "h": 158,
+        "x": 1913,
+        "y": 1281,
+        "r": true,
+        "fx": -49,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ja",
+        "w": 13,
+        "h": 13,
+        "x": 2019,
+        "y": 1591,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jb",
+        "w": 10,
+        "h": 10,
+        "x": 2029,
+        "y": 598
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jc",
+        "w": 20,
+        "h": 20,
+        "x": 1926,
+        "y": 1610
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jd",
+        "w": 10,
+        "h": 4,
+        "x": 2019,
+        "y": 431,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/je",
+        "w": 16,
+        "h": 16,
+        "x": 2031,
+        "y": 373
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jf",
+        "w": 5,
+        "h": 7,
+        "x": 269,
+        "y": 1491,
+        "r": true,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jg",
+        "w": 7,
+        "h": 11,
+        "x": 1022,
+        "y": 1578,
+        "r": true,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jh",
+        "w": 9,
+        "h": 15,
+        "x": 2038,
+        "y": 69,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ji",
+        "w": 11,
+        "h": 15,
+        "x": 810,
+        "y": 392
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jj",
+        "w": 11,
+        "h": 15,
+        "x": 810,
+        "y": 409
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jk",
+        "w": 3,
+        "h": 3,
+        "x": 510,
+        "y": 1604
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jl",
+        "w": 11,
+        "h": 13,
+        "x": 2019,
+        "y": 1561,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jm",
+        "w": 11,
+        "h": 13,
+        "x": 2032,
+        "y": 1560,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jn",
+        "w": 11,
+        "h": 13,
+        "x": 2019,
+        "y": 1561,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jo",
+        "w": 11,
+        "h": 13,
+        "x": 2033,
+        "y": 1575,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jp",
+        "w": 14,
+        "h": 13,
+        "x": 618,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jq",
+        "w": 11,
+        "h": 13,
+        "x": 1138,
+        "y": 834,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jr",
+        "w": 14,
+        "h": 13,
+        "x": 554,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/js",
+        "w": 11,
+        "h": 13,
+        "x": 2033,
+        "y": 1575,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jt",
+        "w": 14,
+        "h": 13,
+        "x": 634,
+        "y": 1617,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ju",
+        "w": 13,
+        "h": 11,
+        "x": 1166,
+        "y": 836,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jv",
+        "w": 12,
+        "h": 13,
+        "x": 2019,
+        "y": 1606,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jw",
+        "w": 10,
+        "h": 11,
+        "x": 1187,
+        "y": 849,
+        "fx": -10,
+        "fy": -9,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jx",
+        "w": 18,
+        "h": 10,
+        "x": 1978,
+        "y": 1494,
+        "fx": -5,
+        "fy": -10,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jy",
+        "w": 23,
+        "h": 29,
+        "x": 1857,
+        "y": 1598,
+        "r": true,
+        "fx": -1,
+        "fy": -6,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/jz",
+        "w": 30,
+        "h": 21,
+        "x": 459,
+        "y": 1609,
+        "fx": 0,
+        "fy": -4,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/k",
+        "w": 158,
+        "h": 63,
+        "x": 1515,
+        "y": 1559,
+        "fx": -49,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ka",
+        "w": 26,
+        "h": 33,
+        "x": 1655,
+        "y": 1434,
+        "fx": -2,
+        "fy": 0,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kb",
+        "w": 30,
+        "h": 30,
+        "x": 570,
+        "y": 1585,
+        "fx": 0,
+        "fy": 0,
+        "fw": 30,
+        "fh": 33
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kc",
+        "w": 12,
+        "h": 13,
+        "x": 2019,
+        "y": 1606,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kd",
+        "w": 13,
+        "h": 12,
+        "x": 2034,
+        "y": 1590,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ke",
+        "w": 13,
+        "h": 12,
+        "x": 2034,
+        "y": 1604,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kf",
+        "w": 13,
+        "h": 12,
+        "x": 2033,
+        "y": 1618,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kg",
+        "w": 11,
+        "h": 12,
+        "x": 1148,
+        "y": 849,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kh",
+        "w": 23,
+        "h": 24,
+        "x": 1971,
+        "y": 1173,
+        "fx": 0,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ki",
+        "w": 11,
+        "h": 14,
+        "x": 1978,
+        "y": 1269,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kj",
+        "w": 18,
+        "h": 36,
+        "x": 2025,
+        "y": 560,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kk",
+        "w": 428,
+        "h": 272,
+        "x": 1509,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -312,
+        "fw": 272,
+        "fh": 740
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kl",
+        "w": 272,
+        "h": 740,
+        "x": 275,
+        "y": 432
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/km",
+        "w": 11,
+        "h": 12,
+        "x": 1161,
+        "y": 849,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kn",
+        "w": 11,
+        "h": 12,
+        "x": 1174,
+        "y": 849,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ko",
+        "w": 13,
+        "h": 11,
+        "x": 1181,
+        "y": 836,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kp",
+        "w": 11,
+        "h": 13,
+        "x": 1135,
+        "y": 849,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kq",
+        "w": 12,
+        "h": 19,
+        "x": 1121,
+        "y": 844,
+        "fx": -12,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kr",
+        "w": 4,
+        "h": 4,
+        "x": 816,
+        "y": 426
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ks",
+        "w": 32,
+        "h": 32,
+        "x": 1823,
+        "y": 1598
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kt",
+        "w": 4,
+        "h": 4,
+        "x": 1555,
+        "y": 1486
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ku",
+        "w": 30,
+        "h": 30,
+        "x": 602,
+        "y": 1585
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kv",
+        "w": 32,
+        "h": 32,
+        "x": 1978,
+        "y": 1460
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kw",
+        "w": 32,
+        "h": 32,
+        "x": 2012,
+        "y": 1461
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/kx",
+        "w": 30,
+        "h": 30,
+        "x": 634,
+        "y": 1585
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/ky",
+        "w": 4,
+        "h": 4,
+        "x": 1604,
+        "y": 831
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/l",
+        "w": 160,
+        "h": 65,
+        "x": 1233,
+        "y": 1375,
+        "fx": -48,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/m",
+        "w": 162,
+        "h": 67,
+        "x": 165,
+        "y": 1563,
+        "fx": -47,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/n",
+        "w": 164,
+        "h": 70,
+        "x": 1,
+        "y": 1491,
+        "fx": -46,
+        "fy": -94,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/o",
+        "w": 163,
+        "h": 68,
+        "x": 1031,
+        "y": 1384,
+        "fx": -47,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/p",
+        "w": 163,
+        "h": 65,
+        "x": 1693,
+        "y": 1139,
+        "fx": -48,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/q",
+        "w": 159,
+        "h": 63,
+        "x": 1438,
+        "y": 1366,
+        "fx": -49,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/r",
+        "w": 158,
+        "h": 63,
+        "x": 1672,
+        "y": 1474,
+        "fx": -49,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/s",
+        "w": 63,
+        "h": 158,
+        "x": 1966,
+        "y": 271,
+        "r": true,
+        "fx": -49,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/t",
+        "w": 160,
+        "h": 65,
+        "x": 1031,
+        "y": 1524,
+        "fx": -48,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/u",
+        "w": 162,
+        "h": 67,
+        "x": 1,
+        "y": 1563,
+        "fx": -47,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/v",
+        "w": 164,
+        "h": 70,
+        "x": 997,
+        "y": 600,
+        "fx": -46,
+        "fy": -94,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/w",
+        "w": 162,
+        "h": 68,
+        "x": 1031,
+        "y": 1454,
+        "fx": -47,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/x",
+        "w": 65,
+        "h": 160,
+        "x": 1899,
+        "y": 275,
+        "r": true,
+        "fx": -48,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/y",
+        "w": 158,
+        "h": 63,
+        "x": 1355,
+        "y": 1557,
+        "fx": -49,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie/z",
+        "w": 63,
+        "h": 158,
+        "x": 1966,
+        "y": 271,
+        "r": true,
+        "fx": -49,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie_ui_scale/a",
+        "w": 270,
+        "h": 283,
+        "x": 276,
+        "y": 1174
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie_ui_scale/b",
+        "w": 732,
+        "h": 429,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 732,
+        "fh": 430
+    },
+    {
+        "n": "story/story_event_quest/desert_bonds_01/desert_bonds_01_010/.gen/movie_ui_scale/c",
+        "w": 273,
+        "h": 283,
+        "x": 1,
+        "y": 1206
+    }
+]

@@ -1,0 +1,1984 @@
+[
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 978,
+        "y": 690
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/aa",
+        "w": 13,
+        "h": 16,
+        "x": 859,
+        "y": 835,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ab",
+        "w": 13,
+        "h": 16,
+        "x": 925,
+        "y": 812,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ac",
+        "w": 13,
+        "h": 16,
+        "x": 859,
+        "y": 835,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ad",
+        "w": 13,
+        "h": 16,
+        "x": 925,
+        "y": 830,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ae",
+        "w": 13,
+        "h": 13,
+        "x": 948,
+        "y": 746,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/af",
+        "w": 13,
+        "h": 13,
+        "x": 925,
+        "y": 848,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ag",
+        "w": 13,
+        "h": 16,
+        "x": 946,
+        "y": 663,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ah",
+        "w": 13,
+        "h": 16,
+        "x": 948,
+        "y": 692,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ai",
+        "w": 13,
+        "h": 16,
+        "x": 946,
+        "y": 663,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/aj",
+        "w": 13,
+        "h": 16,
+        "x": 948,
+        "y": 710,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ak",
+        "w": 13,
+        "h": 15,
+        "x": 901,
+        "y": 861,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/al",
+        "w": 15,
+        "h": 13,
+        "x": 949,
+        "y": 449,
+        "r": true,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/am",
+        "w": 13,
+        "h": 15,
+        "x": 901,
+        "y": 861,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/an",
+        "w": 13,
+        "h": 15,
+        "x": 949,
+        "y": 464,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ao",
+        "w": 12,
+        "h": 13,
+        "x": 971,
+        "y": 792,
+        "r": true,
+        "fx": -21,
+        "fy": -16,
+        "fw": 54,
+        "fh": 54
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ap",
+        "w": 14,
+        "h": 13,
+        "x": 909,
+        "y": 846,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/aq",
+        "w": 13,
+        "h": 14,
+        "x": 962,
+        "y": 547,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ar",
+        "w": 13,
+        "h": 14,
+        "x": 962,
+        "y": 563,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/as",
+        "w": 24,
+        "h": 29,
+        "x": 936,
+        "y": 550,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/at",
+        "w": 48,
+        "h": 55,
+        "x": 874,
+        "y": 635,
+        "fx": -6,
+        "fy": -3,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/au",
+        "w": 10,
+        "h": 10,
+        "x": 978,
+        "y": 854
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/av",
+        "w": 20,
+        "h": 20,
+        "x": 924,
+        "y": 635
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/aw",
+        "w": 4,
+        "h": 10,
+        "x": 984,
+        "y": 145
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ax",
+        "w": 16,
+        "h": 16,
+        "x": 925,
+        "y": 774
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ay",
+        "w": 13,
+        "h": 15,
+        "x": 949,
+        "y": 481,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/az",
+        "w": 15,
+        "h": 16,
+        "x": 973,
+        "y": 254,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/b",
+        "w": 13,
+        "h": 13,
+        "x": 959,
+        "y": 648,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ba",
+        "w": 50,
+        "h": 100,
+        "x": 823,
+        "y": 529
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bb",
+        "w": 50,
+        "h": 100,
+        "x": 822,
+        "y": 631
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bc",
+        "w": 50,
+        "h": 100,
+        "x": 822,
+        "y": 733
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bd",
+        "w": 50,
+        "h": 100,
+        "x": 868,
+        "y": 256
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/be",
+        "w": 4,
+        "h": 3,
+        "x": 977,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bf",
+        "w": 6,
+        "h": 3,
+        "x": 798,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bg",
+        "w": 15,
+        "h": 10,
+        "x": 973,
+        "y": 341,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bh",
+        "w": 4,
+        "h": 4,
+        "x": 984,
+        "y": 690
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bi",
+        "w": 272,
+        "h": 300,
+        "x": 1,
+        "y": 1,
+        "fx": -14,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bj",
+        "w": 272,
+        "h": 300,
+        "x": 1,
+        "y": 303,
+        "fx": -14,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bk",
+        "w": 300,
+        "h": 272,
+        "x": 1,
+        "y": 605,
+        "r": true,
+        "fx": -14,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bl",
+        "w": 272,
+        "h": 300,
+        "x": 275,
+        "y": 1,
+        "fx": -14,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bm",
+        "w": 272,
+        "h": 300,
+        "x": 275,
+        "y": 303,
+        "fx": -14,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bn",
+        "w": 300,
+        "h": 272,
+        "x": 303,
+        "y": 605,
+        "r": true,
+        "fx": -14,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bo",
+        "w": 272,
+        "h": 300,
+        "x": 549,
+        "y": 1,
+        "fx": -14,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bp",
+        "w": 7,
+        "h": 18,
+        "x": 980,
+        "y": 399,
+        "r": true,
+        "fx": -119,
+        "fy": -124,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bq",
+        "w": 15,
+        "h": 13,
+        "x": 946,
+        "y": 761,
+        "fx": -25,
+        "fy": -19,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/br",
+        "w": 10,
+        "h": 24,
+        "x": 859,
+        "y": 853,
+        "r": true,
+        "fx": -116,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bs",
+        "w": 15,
+        "h": 11,
+        "x": 924,
+        "y": 679,
+        "fx": -25,
+        "fy": -21,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bt",
+        "w": 11,
+        "h": 26,
+        "x": 946,
+        "y": 635,
+        "r": true,
+        "fx": -115,
+        "fy": -122,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bu",
+        "w": 11,
+        "h": 28,
+        "x": 971,
+        "y": 145,
+        "r": true,
+        "fx": -114,
+        "fy": -123,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bv",
+        "w": 13,
+        "h": 10,
+        "x": 949,
+        "y": 854
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bw",
+        "w": 5,
+        "h": 12,
+        "x": 983,
+        "y": 199,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bx",
+        "w": 3,
+        "h": 3,
+        "x": 969,
+        "y": 771
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/by",
+        "w": 4,
+        "h": 4,
+        "x": 969,
+        "y": 765
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/bz",
+        "w": 3,
+        "h": 2,
+        "x": 825,
+        "y": 875
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/c",
+        "w": 9,
+        "h": 3,
+        "x": 920,
+        "y": 353
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ca",
+        "w": 3,
+        "h": 4,
+        "x": 985,
+        "y": 866
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cb",
+        "w": 11,
+        "h": 13,
+        "x": 955,
+        "y": 839
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cc",
+        "w": 3,
+        "h": 3,
+        "x": 985,
+        "y": 720
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cd",
+        "w": 14,
+        "h": 11,
+        "x": 974,
+        "y": 651,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ce",
+        "w": 4,
+        "h": 4,
+        "x": 978,
+        "y": 696
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cf",
+        "w": 3,
+        "h": 3,
+        "x": 978,
+        "y": 726
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cg",
+        "w": 11,
+        "h": 15,
+        "x": 977,
+        "y": 515
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ch",
+        "w": 4,
+        "h": 3,
+        "x": 806,
+        "y": 874
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ci",
+        "w": 9,
+        "h": 13,
+        "x": 979,
+        "y": 464
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cj",
+        "w": 4,
+        "h": 6,
+        "x": 963,
+        "y": 765
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ck",
+        "w": 5,
+        "h": 8,
+        "x": 983,
+        "y": 213
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cl",
+        "w": 4,
+        "h": 3,
+        "x": 983,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cm",
+        "w": 13,
+        "h": 11,
+        "x": 957,
+        "y": 810
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cn",
+        "w": 4,
+        "h": 4,
+        "x": 984,
+        "y": 696
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/co",
+        "w": 4,
+        "h": 5,
+        "x": 984,
+        "y": 168,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cp",
+        "w": 21,
+        "h": 27,
+        "x": 933,
+        "y": 581
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cq",
+        "w": 26,
+        "h": 33,
+        "x": 952,
+        "y": 399
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cr",
+        "w": 36,
+        "h": 44,
+        "x": 952,
+        "y": 353
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cs",
+        "w": 11,
+        "h": 15,
+        "x": 959,
+        "y": 631,
+        "r": true,
+        "fx": -4,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ct",
+        "w": 14,
+        "h": 11,
+        "x": 974,
+        "y": 664,
+        "r": true,
+        "fx": -27,
+        "fy": -20,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cu",
+        "w": 12,
+        "h": 15,
+        "x": 956,
+        "y": 581,
+        "fx": -26,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cv",
+        "w": 20,
+        "h": 2,
+        "x": 758,
+        "y": 874
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cw",
+        "w": 20,
+        "h": 20,
+        "x": 924,
+        "y": 657
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cx",
+        "w": 16,
+        "h": 10,
+        "x": 971,
+        "y": 187
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cy",
+        "w": 87,
+        "h": 272,
+        "x": 605,
+        "y": 605,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/cz",
+        "w": 17,
+        "h": 13,
+        "x": 971,
+        "y": 130,
+        "fx": -14,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/d",
+        "w": 4,
+        "h": 4,
+        "x": 978,
+        "y": 702
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/da",
+        "w": 12,
+        "h": 15,
+        "x": 956,
+        "y": 598,
+        "fx": -18,
+        "fy": -4,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/db",
+        "w": 14,
+        "h": 11,
+        "x": 974,
+        "y": 677,
+        "r": true,
+        "fx": -17,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dc",
+        "w": 12,
+        "h": 11,
+        "x": 963,
+        "y": 866,
+        "fx": -18,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dd",
+        "w": 11,
+        "h": 14,
+        "x": 960,
+        "y": 776,
+        "fx": -18,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/de",
+        "w": 12,
+        "h": 10,
+        "x": 964,
+        "y": 854,
+        "fx": -17,
+        "fy": -2,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/df",
+        "w": 12,
+        "h": 14,
+        "x": 956,
+        "y": 615,
+        "fx": -17,
+        "fy": -5,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dg",
+        "w": 15,
+        "h": 15,
+        "x": 973,
+        "y": 290,
+        "fx": -15,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dh",
+        "w": 14,
+        "h": 14,
+        "x": 916,
+        "y": 863,
+        "fx": -16,
+        "fy": -11,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/di",
+        "w": 12,
+        "h": 13,
+        "x": 969,
+        "y": 434,
+        "fx": -18,
+        "fy": -12,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dj",
+        "w": 12,
+        "h": 13,
+        "x": 968,
+        "y": 839,
+        "fx": -13,
+        "fy": -7,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dk",
+        "w": 14,
+        "h": 12,
+        "x": 974,
+        "y": 581,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dl",
+        "w": 14,
+        "h": 12,
+        "x": 974,
+        "y": 595,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dm",
+        "w": 14,
+        "h": 12,
+        "x": 974,
+        "y": 609,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dn",
+        "w": 11,
+        "h": 14,
+        "x": 958,
+        "y": 793,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/do",
+        "w": 14,
+        "h": 11,
+        "x": 941,
+        "y": 810,
+        "r": true,
+        "fx": -28,
+        "fy": -18,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dp",
+        "w": 11,
+        "h": 15,
+        "x": 977,
+        "y": 547,
+        "fx": -28,
+        "fy": -17,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dq",
+        "w": 14,
+        "h": 12,
+        "x": 974,
+        "y": 623,
+        "r": true,
+        "fx": -18,
+        "fy": -9,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dr",
+        "w": 15,
+        "h": 15,
+        "x": 973,
+        "y": 307
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ds",
+        "w": 15,
+        "h": 15,
+        "x": 973,
+        "y": 324
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dt",
+        "w": 13,
+        "h": 13,
+        "x": 940,
+        "y": 823,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/du",
+        "w": 13,
+        "h": 13,
+        "x": 940,
+        "y": 838,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dv",
+        "w": 13,
+        "h": 13,
+        "x": 963,
+        "y": 690,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dw",
+        "w": 13,
+        "h": 15,
+        "x": 949,
+        "y": 498,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dx",
+        "w": 15,
+        "h": 13,
+        "x": 966,
+        "y": 449,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dy",
+        "w": 13,
+        "h": 13,
+        "x": 940,
+        "y": 823,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/dz",
+        "w": 13,
+        "h": 15,
+        "x": 949,
+        "y": 498,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/e",
+        "w": 13,
+        "h": 13,
+        "x": 948,
+        "y": 746,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ea",
+        "w": 13,
+        "h": 16,
+        "x": 948,
+        "y": 728,
+        "fx": -8,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/eb",
+        "w": 5,
+        "h": 5,
+        "x": 983,
+        "y": 231,
+        "fx": -9,
+        "fy": -9,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ec",
+        "w": 9,
+        "h": 7,
+        "x": 979,
+        "y": 494,
+        "r": true,
+        "fx": -8,
+        "fy": -7,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ed",
+        "w": 9,
+        "h": 7,
+        "x": 979,
+        "y": 532,
+        "r": true,
+        "fx": -8,
+        "fy": -7,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ee",
+        "w": 9,
+        "h": 7,
+        "x": 979,
+        "y": 503,
+        "r": true,
+        "fx": -8,
+        "fy": -7,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ef",
+        "w": 3,
+        "h": 3,
+        "x": 985,
+        "y": 725,
+        "fx": -10,
+        "fy": -10,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/eg",
+        "w": 1,
+        "h": 1,
+        "x": 819,
+        "y": 813,
+        "fx": -11,
+        "fy": -11,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/eh",
+        "w": 59,
+        "h": 59,
+        "x": 758,
+        "y": 813,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ei",
+        "w": 80,
+        "h": 80,
+        "x": 870,
+        "y": 358
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ej",
+        "w": 77,
+        "h": 74,
+        "x": 870,
+        "y": 440,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ek",
+        "w": 59,
+        "h": 59,
+        "x": 875,
+        "y": 516,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/el",
+        "w": 49,
+        "h": 49,
+        "x": 874,
+        "y": 744,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/em",
+        "w": 13,
+        "h": 15,
+        "x": 964,
+        "y": 464,
+        "fx": -10,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/en",
+        "w": 13,
+        "h": 15,
+        "x": 964,
+        "y": 481,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/eo",
+        "w": 13,
+        "h": 13,
+        "x": 963,
+        "y": 705,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ep",
+        "w": 13,
+        "h": 13,
+        "x": 963,
+        "y": 720,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/eq",
+        "w": 115,
+        "h": 95,
+        "x": 870,
+        "y": 1,
+        "fx": -34,
+        "fy": 0,
+        "fw": 175,
+        "fh": 104
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/er",
+        "w": 51,
+        "h": 97,
+        "x": 920,
+        "y": 254,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 102,
+        "fh": 51
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/es",
+        "w": 4,
+        "h": 4,
+        "x": 984,
+        "y": 702
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/et",
+        "w": 5,
+        "h": 2,
+        "x": 818,
+        "y": 875,
+        "fx": -11,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/eu",
+        "w": 15,
+        "h": 15,
+        "x": 943,
+        "y": 776
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ev",
+        "w": 13,
+        "h": 15,
+        "x": 964,
+        "y": 498,
+        "fx": -17,
+        "fy": -7,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ew",
+        "w": 13,
+        "h": 13,
+        "x": 963,
+        "y": 735,
+        "fx": -24,
+        "fy": -17,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ex",
+        "w": 1,
+        "h": 2,
+        "x": 933,
+        "y": 577,
+        "fx": -31,
+        "fy": -20,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ey",
+        "w": 17,
+        "h": 14,
+        "x": 971,
+        "y": 114,
+        "r": true,
+        "fx": -17,
+        "fy": -6,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ez",
+        "w": 19,
+        "h": 14,
+        "x": 925,
+        "y": 758,
+        "fx": -18,
+        "fy": -16,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/f",
+        "w": 3,
+        "h": 10,
+        "x": 870,
+        "y": 516,
+        "fx": -3,
+        "fy": 0,
+        "fw": 10,
+        "fh": 10
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fa",
+        "w": 15,
+        "h": 16,
+        "x": 973,
+        "y": 272,
+        "r": true,
+        "fx": -17,
+        "fy": -8,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fb",
+        "w": 14,
+        "h": 18,
+        "x": 925,
+        "y": 792,
+        "r": true,
+        "fx": -19,
+        "fy": -17,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fc",
+        "w": 17,
+        "h": 14,
+        "x": 971,
+        "y": 98,
+        "fx": -20,
+        "fy": -18,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fd",
+        "w": 4,
+        "h": 4,
+        "x": 978,
+        "y": 708
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fe",
+        "w": 9,
+        "h": 13,
+        "x": 979,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ff",
+        "w": 5,
+        "h": 4,
+        "x": 983,
+        "y": 245
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fg",
+        "w": 4,
+        "h": 4,
+        "x": 984,
+        "y": 708
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fh",
+        "w": 2,
+        "h": 2,
+        "x": 830,
+        "y": 875
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fi",
+        "w": 3,
+        "h": 3,
+        "x": 978,
+        "y": 731
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fj",
+        "w": 13,
+        "h": 15,
+        "x": 962,
+        "y": 515
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fk",
+        "w": 4,
+        "h": 4,
+        "x": 978,
+        "y": 714
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fl",
+        "w": 11,
+        "h": 15,
+        "x": 977,
+        "y": 564,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fm",
+        "w": 4,
+        "h": 4,
+        "x": 984,
+        "y": 714
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fn",
+        "w": 11,
+        "h": 14,
+        "x": 955,
+        "y": 823
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fo",
+        "w": 4,
+        "h": 4,
+        "x": 978,
+        "y": 696
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fp",
+        "w": 4,
+        "h": 3,
+        "x": 812,
+        "y": 874
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fq",
+        "w": 11,
+        "h": 14,
+        "x": 968,
+        "y": 823
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fr",
+        "w": 4,
+        "h": 4,
+        "x": 978,
+        "y": 696
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fs",
+        "w": 20,
+        "h": 20,
+        "x": 926,
+        "y": 692
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ft",
+        "w": 49,
+        "h": 49,
+        "x": 874,
+        "y": 795,
+        "fx": -2,
+        "fy": -3,
+        "fw": 58,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fu",
+        "w": 56,
+        "h": 56,
+        "x": 875,
+        "y": 577,
+        "fx": -3,
+        "fy": -5,
+        "fw": 68,
+        "fh": 68
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fv",
+        "w": 38,
+        "h": 38,
+        "x": 819,
+        "y": 835,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fw",
+        "w": 13,
+        "h": 13,
+        "x": 963,
+        "y": 750,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fx",
+        "w": 20,
+        "h": 20,
+        "x": 926,
+        "y": 714
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fy",
+        "w": 20,
+        "h": 20,
+        "x": 926,
+        "y": 736
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/fz",
+        "w": 43,
+        "h": 145,
+        "x": 823,
+        "y": 256,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/g",
+        "w": 99,
+        "h": 99,
+        "x": 870,
+        "y": 98,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ga",
+        "w": 15,
+        "h": 13,
+        "x": 892,
+        "y": 846,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gb",
+        "w": 45,
+        "h": 253,
+        "x": 823,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gc",
+        "w": 62,
+        "h": 206,
+        "x": 758,
+        "y": 605,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gd",
+        "w": 111,
+        "h": 53,
+        "x": 870,
+        "y": 199,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/ge",
+        "w": 11,
+        "h": 15,
+        "x": 961,
+        "y": 663,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gf",
+        "w": 15,
+        "h": 13,
+        "x": 962,
+        "y": 532,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gg",
+        "w": 16,
+        "h": 13,
+        "x": 874,
+        "y": 846,
+        "r": true,
+        "fx": -13,
+        "fy": -4,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gh",
+        "w": 24,
+        "h": 32,
+        "x": 936,
+        "y": 516,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gi",
+        "w": 15,
+        "h": 13,
+        "x": 952,
+        "y": 434
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gj",
+        "w": 15,
+        "h": 15,
+        "x": 941,
+        "y": 793
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gk",
+        "w": 13,
+        "h": 11,
+        "x": 948,
+        "y": 866
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gl",
+        "w": 14,
+        "h": 12,
+        "x": 974,
+        "y": 637,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gm",
+        "w": 7,
+        "h": 3,
+        "x": 780,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gn",
+        "w": 8,
+        "h": 3,
+        "x": 931,
+        "y": 353,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/go",
+        "w": 8,
+        "h": 4,
+        "x": 980,
+        "y": 419,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gp",
+        "w": 4,
+        "h": 9,
+        "x": 984,
+        "y": 157
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gq",
+        "w": 8,
+        "h": 4,
+        "x": 980,
+        "y": 419,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gr",
+        "w": 4,
+        "h": 9,
+        "x": 984,
+        "y": 157
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gs",
+        "w": 8,
+        "h": 3,
+        "x": 941,
+        "y": 353,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gt",
+        "w": 7,
+        "h": 3,
+        "x": 789,
+        "y": 874,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gu",
+        "w": 9,
+        "h": 4,
+        "x": 979,
+        "y": 541,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gv",
+        "w": 8,
+        "h": 4,
+        "x": 980,
+        "y": 425,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gw",
+        "w": 9,
+        "h": 4,
+        "x": 979,
+        "y": 541,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gx",
+        "w": 8,
+        "h": 4,
+        "x": 980,
+        "y": 425,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/gy",
+        "w": 4,
+        "h": 4,
+        "x": 978,
+        "y": 720
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/h",
+        "w": 50,
+        "h": 50,
+        "x": 874,
+        "y": 692
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/i",
+        "w": 62,
+        "h": 272,
+        "x": 694,
+        "y": 605,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/j",
+        "w": 14,
+        "h": 9,
+        "x": 941,
+        "y": 681,
+        "fx": -4,
+        "fy": 0,
+        "fw": 18,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/k",
+        "w": 17,
+        "h": 10,
+        "x": 971,
+        "y": 175,
+        "fx": -3,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/l",
+        "w": 45,
+        "h": 124,
+        "x": 823,
+        "y": 403,
+        "r": true,
+        "fx": -74,
+        "fy": -85,
+        "fw": 272,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/m",
+        "w": 272,
+        "h": 300,
+        "x": 549,
+        "y": 303,
+        "fx": -14,
+        "fy": 0,
+        "fw": 300,
+        "fh": 300
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/n",
+        "w": 13,
+        "h": 13,
+        "x": 972,
+        "y": 807,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/o",
+        "w": 13,
+        "h": 14,
+        "x": 962,
+        "y": 547,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/p",
+        "w": 5,
+        "h": 6,
+        "x": 983,
+        "y": 223,
+        "r": true,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/q",
+        "w": 6,
+        "h": 6,
+        "x": 977,
+        "y": 866,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/r",
+        "w": 12,
+        "h": 16,
+        "x": 871,
+        "y": 861,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/s",
+        "w": 14,
+        "h": 14,
+        "x": 932,
+        "y": 863,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/t",
+        "w": 14,
+        "h": 15,
+        "x": 885,
+        "y": 861,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/u",
+        "w": 5,
+        "h": 5,
+        "x": 983,
+        "y": 238,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/v",
+        "w": 7,
+        "h": 7,
+        "x": 940,
+        "y": 853,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/w",
+        "w": 3,
+        "h": 3,
+        "x": 985,
+        "y": 730,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/x",
+        "w": 21,
+        "h": 23,
+        "x": 933,
+        "y": 610,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/y",
+        "w": 3,
+        "h": 3,
+        "x": 985,
+        "y": 730,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/crown_beasts/crown_beasts_003/.gen/movie/z",
+        "w": 3,
+        "h": 3,
+        "x": 985,
+        "y": 730,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    }
+]

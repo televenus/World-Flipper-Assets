@@ -1,0 +1,2945 @@
+[
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 996,
+        "y": 1078
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/aa",
+        "w": 11,
+        "h": 67,
+        "x": 966,
+        "y": 589
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ab",
+        "w": 65,
+        "h": 41,
+        "x": 733,
+        "y": 1824,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ac",
+        "w": 11,
+        "h": 67,
+        "x": 989,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ad",
+        "w": 65,
+        "h": 41,
+        "x": 800,
+        "y": 1824,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ae",
+        "w": 67,
+        "h": 11,
+        "x": 584,
+        "y": 2030,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/af",
+        "w": 41,
+        "h": 65,
+        "x": 846,
+        "y": 1688
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ag",
+        "w": 67,
+        "h": 11,
+        "x": 266,
+        "y": 2027,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ah",
+        "w": 41,
+        "h": 65,
+        "x": 889,
+        "y": 1688
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ai",
+        "w": 67,
+        "h": 11,
+        "x": 834,
+        "y": 1675,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/aj",
+        "w": 41,
+        "h": 65,
+        "x": 866,
+        "y": 1755
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ak",
+        "w": 11,
+        "h": 67,
+        "x": 989,
+        "y": 70
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/al",
+        "w": 41,
+        "h": 65,
+        "x": 909,
+        "y": 1755
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/am",
+        "w": 67,
+        "h": 11,
+        "x": 335,
+        "y": 2027,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/an",
+        "w": 65,
+        "h": 41,
+        "x": 867,
+        "y": 1822,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ao",
+        "w": 76,
+        "h": 244,
+        "x": 823,
+        "y": 343
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ap",
+        "w": 272,
+        "h": 741,
+        "x": 275,
+        "y": 747,
+        "fx": 0,
+        "fy": -3,
+        "fw": 272,
+        "fh": 744
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/aq",
+        "w": 76,
+        "h": 244,
+        "x": 901,
+        "y": 343
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ar",
+        "w": 244,
+        "h": 76,
+        "x": 221,
+        "y": 1949,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/as",
+        "w": 76,
+        "h": 244,
+        "x": 811,
+        "y": 710
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/at",
+        "w": 76,
+        "h": 244,
+        "x": 811,
+        "y": 956
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/au",
+        "w": 76,
+        "h": 244,
+        "x": 811,
+        "y": 710
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/av",
+        "w": 244,
+        "h": 76,
+        "x": 221,
+        "y": 1949,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/aw",
+        "w": 76,
+        "h": 244,
+        "x": 901,
+        "y": 343
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ax",
+        "w": 76,
+        "h": 244,
+        "x": 823,
+        "y": 343
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ay",
+        "w": 26,
+        "h": 50,
+        "x": 840,
+        "y": 1867
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/az",
+        "w": 33,
+        "h": 40,
+        "x": 661,
+        "y": 1932,
+        "fx": -1,
+        "fy": 0,
+        "fw": 35,
+        "fh": 41
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/b",
+        "w": 647,
+        "h": 230,
+        "x": 1,
+        "y": 1493,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 234,
+        "fh": 649
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ba",
+        "w": 31,
+        "h": 26,
+        "x": 932,
+        "y": 1644
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bb",
+        "w": 272,
+        "h": 744,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bc",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 1078
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bd",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 40
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/be",
+        "w": 10,
+        "h": 16,
+        "x": 834,
+        "y": 1688
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bf",
+        "w": 33,
+        "h": 33,
+        "x": 724,
+        "y": 1933
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bg",
+        "w": 8,
+        "h": 3,
+        "x": 977,
+        "y": 1396
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bh",
+        "w": 12,
+        "h": 14,
+        "x": 853,
+        "y": 2016
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bi",
+        "w": 3,
+        "h": 9,
+        "x": 216,
+        "y": 1994,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bj",
+        "w": 11,
+        "h": 15,
+        "x": 983,
+        "y": 1912
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bk",
+        "w": 4,
+        "h": 26,
+        "x": 1002,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bl",
+        "w": 10,
+        "h": 10,
+        "x": 786,
+        "y": 2037
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bm",
+        "w": 10,
+        "h": 5,
+        "x": 941,
+        "y": 336
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bn",
+        "w": 9,
+        "h": 12,
+        "x": 878,
+        "y": 1972,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bo",
+        "w": 10,
+        "h": 4,
+        "x": 784,
+        "y": 1706
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bp",
+        "w": 12,
+        "h": 12,
+        "x": 928,
+        "y": 2017
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bq",
+        "w": 13,
+        "h": 10,
+        "x": 817,
+        "y": 1958
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/br",
+        "w": 11,
+        "h": 11,
+        "x": 902,
+        "y": 2031
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bs",
+        "w": 8,
+        "h": 5,
+        "x": 661,
+        "y": 1974
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bt",
+        "w": 13,
+        "h": 10,
+        "x": 826,
+        "y": 2020
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bu",
+        "w": 8,
+        "h": 5,
+        "x": 661,
+        "y": 1974
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bv",
+        "w": 12,
+        "h": 14,
+        "x": 994,
+        "y": 1965
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bw",
+        "w": 15,
+        "h": 11,
+        "x": 976,
+        "y": 1966,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bx",
+        "w": 16,
+        "h": 10,
+        "x": 979,
+        "y": 646,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/by",
+        "w": 12,
+        "h": 16,
+        "x": 908,
+        "y": 1940
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/bz",
+        "w": 10,
+        "h": 10,
+        "x": 841,
+        "y": 2020
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/c",
+        "w": 260,
+        "h": 631,
+        "x": 549,
+        "y": 710
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ca",
+        "w": 20,
+        "h": 20,
+        "x": 404,
+        "y": 2027
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cb",
+        "w": 4,
+        "h": 10,
+        "x": 889,
+        "y": 1175
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cc",
+        "w": 16,
+        "h": 16,
+        "x": 934,
+        "y": 1856
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cd",
+        "w": 8,
+        "h": 16,
+        "x": 998,
+        "y": 937
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ce",
+        "w": 8,
+        "h": 16,
+        "x": 998,
+        "y": 955
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cf",
+        "w": 15,
+        "h": 11,
+        "x": 959,
+        "y": 1972,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cg",
+        "w": 10,
+        "h": 15,
+        "x": 996,
+        "y": 1889
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ch",
+        "w": 10,
+        "h": 15,
+        "x": 996,
+        "y": 1906
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ci",
+        "w": 14,
+        "h": 11,
+        "x": 923,
+        "y": 1988,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cj",
+        "w": 14,
+        "h": 11,
+        "x": 939,
+        "y": 1988,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ck",
+        "w": 15,
+        "h": 11,
+        "x": 976,
+        "y": 1966,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cl",
+        "w": 14,
+        "h": 12,
+        "x": 906,
+        "y": 1974,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cm",
+        "w": 15,
+        "h": 11,
+        "x": 976,
+        "y": 1979,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cn",
+        "w": 16,
+        "h": 10,
+        "x": 768,
+        "y": 2037,
+        "r": true,
+        "fx": -11,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/co",
+        "w": 49,
+        "h": 63,
+        "x": 957,
+        "y": 1401,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 63,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cp",
+        "w": 30,
+        "h": 51,
+        "x": 976,
+        "y": 1084,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 53,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cq",
+        "w": 48,
+        "h": 67,
+        "x": 784,
+        "y": 1637,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 69,
+        "fh": 49
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cr",
+        "w": 66,
+        "h": 67,
+        "x": 909,
+        "y": 1332,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 69,
+        "fh": 68
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cs",
+        "w": 32,
+        "h": 47,
+        "x": 966,
+        "y": 658,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 48,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ct",
+        "w": 63,
+        "h": 37,
+        "x": 904,
+        "y": 1523,
+        "fx": -1,
+        "fy": 0,
+        "fw": 64,
+        "fh": 37
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cu",
+        "w": 67,
+        "h": 53,
+        "x": 115,
+        "y": 1994
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cv",
+        "w": 50,
+        "h": 28,
+        "x": 868,
+        "y": 1865
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cw",
+        "w": 31,
+        "h": 36,
+        "x": 932,
+        "y": 1606
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cx",
+        "w": 79,
+        "h": 45,
+        "x": 823,
+        "y": 1510,
+        "fx": -1,
+        "fy": -1,
+        "fw": 81,
+        "fh": 47
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cy",
+        "w": 30,
+        "h": 53,
+        "x": 184,
+        "y": 1994,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 55,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/cz",
+        "w": 41,
+        "h": 25,
+        "x": 687,
+        "y": 1905,
+        "fx": 0,
+        "fy": 0,
+        "fw": 42,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/d",
+        "w": 46,
+        "h": 74,
+        "x": 909,
+        "y": 1401,
+        "fx": -13,
+        "fy": -11,
+        "fw": 68,
+        "fh": 97
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/da",
+        "w": 27,
+        "h": 42,
+        "x": 979,
+        "y": 336,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/db",
+        "w": 66,
+        "h": 82,
+        "x": 895,
+        "y": 1175,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dc",
+        "w": 42,
+        "h": 66,
+        "x": 953,
+        "y": 847,
+        "fx": -1,
+        "fy": 0,
+        "fw": 43,
+        "fh": 67
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dd",
+        "w": 62,
+        "h": 42,
+        "x": 901,
+        "y": 1562,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/de",
+        "w": 141,
+        "h": 116,
+        "x": 823,
+        "y": 589,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 116,
+        "fh": 143
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/df",
+        "w": 116,
+        "h": 340,
+        "x": 823,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 116,
+        "fh": 341
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dg",
+        "w": 144,
+        "h": 186,
+        "x": 454,
+        "y": 1725,
+        "fx": -3,
+        "fy": -3,
+        "fw": 149,
+        "fh": 190
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dh",
+        "w": 218,
+        "h": 267,
+        "x": 1,
+        "y": 1725
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/di",
+        "w": 16,
+        "h": 17,
+        "x": 822,
+        "y": 1912,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dj",
+        "w": 67,
+        "h": 47,
+        "x": 832,
+        "y": 1557,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dk",
+        "w": 27,
+        "h": 36,
+        "x": 979,
+        "y": 380,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dl",
+        "w": 54,
+        "h": 23,
+        "x": 868,
+        "y": 1895
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dm",
+        "w": 12,
+        "h": 23,
+        "x": 920,
+        "y": 1865,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dn",
+        "w": 29,
+        "h": 36,
+        "x": 976,
+        "y": 1137,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/do",
+        "w": 272,
+        "h": 707,
+        "x": 549,
+        "y": 1,
+        "fx": 0,
+        "fy": -11,
+        "fw": 272,
+        "fh": 718
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dp",
+        "w": 16,
+        "h": 17,
+        "x": 822,
+        "y": 1912,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dq",
+        "w": 67,
+        "h": 47,
+        "x": 523,
+        "y": 1913,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dr",
+        "w": 27,
+        "h": 36,
+        "x": 979,
+        "y": 418,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ds",
+        "w": 54,
+        "h": 23,
+        "x": 952,
+        "y": 1696
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dt",
+        "w": 12,
+        "h": 23,
+        "x": 817,
+        "y": 1933,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/du",
+        "w": 29,
+        "h": 36,
+        "x": 977,
+        "y": 1327,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dv",
+        "w": 16,
+        "h": 17,
+        "x": 934,
+        "y": 1874,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dw",
+        "w": 67,
+        "h": 47,
+        "x": 515,
+        "y": 1962,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dx",
+        "w": 27,
+        "h": 36,
+        "x": 979,
+        "y": 456,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dy",
+        "w": 54,
+        "h": 23,
+        "x": 952,
+        "y": 1721
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/dz",
+        "w": 16,
+        "h": 17,
+        "x": 845,
+        "y": 1978,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/e",
+        "w": 46,
+        "h": 74,
+        "x": 467,
+        "y": 1949,
+        "fx": -13,
+        "fy": -11,
+        "fw": 68,
+        "fh": 97
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ea",
+        "w": 47,
+        "h": 67,
+        "x": 797,
+        "y": 1706,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/eb",
+        "w": 27,
+        "h": 36,
+        "x": 979,
+        "y": 494,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ec",
+        "w": 54,
+        "h": 23,
+        "x": 952,
+        "y": 1746
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ed",
+        "w": 16,
+        "h": 17,
+        "x": 847,
+        "y": 1997,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ee",
+        "w": 67,
+        "h": 47,
+        "x": 797,
+        "y": 1775,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ef",
+        "w": 27,
+        "h": 36,
+        "x": 979,
+        "y": 532,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/eg",
+        "w": 54,
+        "h": 23,
+        "x": 952,
+        "y": 1771
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/eh",
+        "w": 16,
+        "h": 17,
+        "x": 916,
+        "y": 1920,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ei",
+        "w": 67,
+        "h": 47,
+        "x": 600,
+        "y": 1883,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ej",
+        "w": 27,
+        "h": 36,
+        "x": 979,
+        "y": 570,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ek",
+        "w": 54,
+        "h": 23,
+        "x": 952,
+        "y": 1796
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/el",
+        "w": 16,
+        "h": 17,
+        "x": 953,
+        "y": 1917,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/em",
+        "w": 67,
+        "h": 47,
+        "x": 592,
+        "y": 1932,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/en",
+        "w": 27,
+        "h": 36,
+        "x": 979,
+        "y": 608,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/eo",
+        "w": 54,
+        "h": 23,
+        "x": 952,
+        "y": 1821
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ep",
+        "w": 16,
+        "h": 17,
+        "x": 922,
+        "y": 1939,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/eq",
+        "w": 67,
+        "h": 47,
+        "x": 584,
+        "y": 1981,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/er",
+        "w": 27,
+        "h": 36,
+        "x": 759,
+        "y": 1933,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/es",
+        "w": 54,
+        "h": 23,
+        "x": 952,
+        "y": 1846
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/et",
+        "w": 16,
+        "h": 17,
+        "x": 940,
+        "y": 1936,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/eu",
+        "w": 47,
+        "h": 67,
+        "x": 834,
+        "y": 1606,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ev",
+        "w": 36,
+        "h": 27,
+        "x": 678,
+        "y": 1974
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ew",
+        "w": 23,
+        "h": 54,
+        "x": 653,
+        "y": 1981,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ex",
+        "w": 16,
+        "h": 17,
+        "x": 958,
+        "y": 1936,
+        "fx": 0,
+        "fy": -1,
+        "fw": 17,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ey",
+        "w": 47,
+        "h": 67,
+        "x": 883,
+        "y": 1606,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 67,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ez",
+        "w": 27,
+        "h": 36,
+        "x": 979,
+        "y": 380,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/f",
+        "w": 46,
+        "h": 74,
+        "x": 784,
+        "y": 1561,
+        "fx": -13,
+        "fy": -11,
+        "fw": 68,
+        "fh": 97
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fa",
+        "w": 54,
+        "h": 23,
+        "x": 730,
+        "y": 1908
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fb",
+        "w": 272,
+        "h": 148,
+        "x": 549,
+        "y": 1343
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fc",
+        "w": 272,
+        "h": 744,
+        "x": 1,
+        "y": 747
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fd",
+        "w": 29,
+        "h": 29,
+        "x": 977,
+        "y": 1365,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fe",
+        "w": 29,
+        "h": 29,
+        "x": 768,
+        "y": 2006,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ff",
+        "w": 5,
+        "h": 5,
+        "x": 671,
+        "y": 1974,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fg",
+        "w": 7,
+        "h": 7,
+        "x": 325,
+        "y": 2040,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fh",
+        "w": 9,
+        "h": 11,
+        "x": 878,
+        "y": 1986,
+        "fx": -7,
+        "fy": -6,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fi",
+        "w": 21,
+        "h": 23,
+        "x": 985,
+        "y": 984,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fj",
+        "w": 14,
+        "h": 13,
+        "x": 922,
+        "y": 1973,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fk",
+        "w": 20,
+        "h": 18,
+        "x": 832,
+        "y": 1958
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fl",
+        "w": 27,
+        "h": 22,
+        "x": 932,
+        "y": 1672
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fm",
+        "w": 25,
+        "h": 33,
+        "x": 716,
+        "y": 2014,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fn",
+        "w": 27,
+        "h": 35,
+        "x": 788,
+        "y": 1933,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fo",
+        "w": 36,
+        "h": 27,
+        "x": 678,
+        "y": 2003
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fp",
+        "w": 14,
+        "h": 12,
+        "x": 970,
+        "y": 1992,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fq",
+        "w": 10,
+        "h": 16,
+        "x": 996,
+        "y": 1871
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fr",
+        "w": 12,
+        "h": 16,
+        "x": 994,
+        "y": 1929
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fs",
+        "w": 6,
+        "h": 5,
+        "x": 962,
+        "y": 336,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ft",
+        "w": 6,
+        "h": 6,
+        "x": 824,
+        "y": 1970,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fu",
+        "w": 12,
+        "h": 16,
+        "x": 994,
+        "y": 1947,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fv",
+        "w": 14,
+        "h": 14,
+        "x": 906,
+        "y": 1958,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fw",
+        "w": 15,
+        "h": 14,
+        "x": 872,
+        "y": 1956,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fx",
+        "w": 82,
+        "h": 138,
+        "x": 811,
+        "y": 1202,
+        "fx": -18,
+        "fy": -16,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fy",
+        "w": 94,
+        "h": 167,
+        "x": 889,
+        "y": 915,
+        "fx": -16,
+        "fy": -16,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/fz",
+        "w": 84,
+        "h": 166,
+        "x": 823,
+        "y": 1342,
+        "fx": -16,
+        "fy": -17,
+        "fw": 200,
+        "fh": 200
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/g",
+        "w": 52,
+        "h": 74,
+        "x": 953,
+        "y": 771,
+        "fx": -7,
+        "fy": -11,
+        "fw": 68,
+        "fh": 97
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ga",
+        "w": 12,
+        "h": 14,
+        "x": 867,
+        "y": 2006
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gb",
+        "w": 15,
+        "h": 11,
+        "x": 889,
+        "y": 1975,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gc",
+        "w": 15,
+        "h": 13,
+        "x": 669,
+        "y": 1917,
+        "r": true,
+        "fx": -9,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gd",
+        "w": 11,
+        "h": 15,
+        "x": 865,
+        "y": 1989
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ge",
+        "w": 38,
+        "h": 38,
+        "x": 968,
+        "y": 1262,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gf",
+        "w": 13,
+        "h": 13,
+        "x": 941,
+        "y": 2001,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gg",
+        "w": 20,
+        "h": 20,
+        "x": 426,
+        "y": 2027
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gh",
+        "w": 20,
+        "h": 20,
+        "x": 952,
+        "y": 1871
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gi",
+        "w": 13,
+        "h": 11,
+        "x": 672,
+        "y": 1712
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gj",
+        "w": 44,
+        "h": 146,
+        "x": 687,
+        "y": 1712,
+        "fx": 0,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gk",
+        "w": 46,
+        "h": 253,
+        "x": 941,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gl",
+        "w": 62,
+        "h": 206,
+        "x": 889,
+        "y": 707,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gm",
+        "w": 112,
+        "h": 53,
+        "x": 1,
+        "y": 1994,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gn",
+        "w": 14,
+        "h": 13,
+        "x": 938,
+        "y": 1973,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/go",
+        "w": 14,
+        "h": 13,
+        "x": 922,
+        "y": 1973,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gp",
+        "w": 13,
+        "h": 14,
+        "x": 955,
+        "y": 1985,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gq",
+        "w": 12,
+        "h": 14,
+        "x": 956,
+        "y": 2001
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gr",
+        "w": 14,
+        "h": 11,
+        "x": 970,
+        "y": 2006,
+        "r": true,
+        "fx": -19,
+        "fy": -10,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gs",
+        "w": 2,
+        "h": 19,
+        "x": 1004,
+        "y": 1518,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 2
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gt",
+        "w": 18,
+        "h": 26,
+        "x": 932,
+        "y": 1726,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gu",
+        "w": 26,
+        "h": 18,
+        "x": 840,
+        "y": 1919,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gv",
+        "w": 3,
+        "h": 6,
+        "x": 216,
+        "y": 2005,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gw",
+        "w": 53,
+        "h": 62,
+        "x": 953,
+        "y": 707,
+        "r": true,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gx",
+        "w": 12,
+        "h": 12,
+        "x": 956,
+        "y": 2017
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gy",
+        "w": 11,
+        "h": 17,
+        "x": 983,
+        "y": 1893,
+        "fx": -20,
+        "fy": -8,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/gz",
+        "w": 4,
+        "h": 4,
+        "x": 1002,
+        "y": 40
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/h",
+        "w": 38,
+        "h": 39,
+        "x": 968,
+        "y": 1221,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 41,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ha",
+        "w": 4,
+        "h": 4,
+        "x": 762,
+        "y": 2040
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hb",
+        "w": 15,
+        "h": 15,
+        "x": 855,
+        "y": 2032
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hc",
+        "w": 15,
+        "h": 15,
+        "x": 959,
+        "y": 1955
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hd",
+        "w": 15,
+        "h": 15,
+        "x": 889,
+        "y": 1958
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/he",
+        "w": 19,
+        "h": 19,
+        "x": 824,
+        "y": 1978,
+        "fx": -1,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hf",
+        "w": 20,
+        "h": 11,
+        "x": 650,
+        "y": 1712,
+        "r": true,
+        "fx": -20,
+        "fy": -3,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hg",
+        "w": 19,
+        "h": 11,
+        "x": 903,
+        "y": 1675,
+        "r": true,
+        "fx": -20,
+        "fy": -4,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hh",
+        "w": 11,
+        "h": 16,
+        "x": 855,
+        "y": 1939,
+        "fx": -20,
+        "fy": -10,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hi",
+        "w": 16,
+        "h": 11,
+        "x": 976,
+        "y": 1953,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hj",
+        "w": 30,
+        "h": 30,
+        "x": 741,
+        "y": 1971
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hk",
+        "w": 67,
+        "h": 34,
+        "x": 454,
+        "y": 1913,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hl",
+        "w": 67,
+        "h": 34,
+        "x": 515,
+        "y": 2011,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 34,
+        "fh": 68
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hm",
+        "w": 14,
+        "h": 11,
+        "x": 881,
+        "y": 2017,
+        "r": true,
+        "fx": -18,
+        "fy": 0,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hn",
+        "w": 13,
+        "h": 15,
+        "x": 993,
+        "y": 1981
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ho",
+        "w": 15,
+        "h": 13,
+        "x": 922,
+        "y": 1958,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hp",
+        "w": 8,
+        "h": 33,
+        "x": 998,
+        "y": 902,
+        "r": true,
+        "fx": -3,
+        "fy": -6,
+        "fw": 38,
+        "fh": 19
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hq",
+        "w": 132,
+        "h": 217,
+        "x": 650,
+        "y": 1493,
+        "r": true,
+        "fx": -16,
+        "fy": -5,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hr",
+        "w": 85,
+        "h": 89,
+        "x": 889,
+        "y": 1084
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hs",
+        "w": 231,
+        "h": 222,
+        "x": 221,
+        "y": 1725,
+        "fx": -11,
+        "fy": -28,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ht",
+        "w": 44,
+        "h": 7,
+        "x": 266,
+        "y": 2040,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 7,
+        "fh": 46
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hu",
+        "w": 9,
+        "h": 53,
+        "x": 997,
+        "y": 847,
+        "fx": 0,
+        "fy": 0,
+        "fw": 9,
+        "fh": 70
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hv",
+        "w": 38,
+        "h": 10,
+        "x": 653,
+        "y": 2037,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 10,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hw",
+        "w": 17,
+        "h": 27,
+        "x": 989,
+        "y": 208,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 32,
+        "fh": 21
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hx",
+        "w": 18,
+        "h": 28,
+        "x": 932,
+        "y": 1696,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 32,
+        "fh": 21
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hy",
+        "w": 37,
+        "h": 66,
+        "x": 784,
+        "y": 1493,
+        "fx": 0,
+        "fy": -1,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/hz",
+        "w": 20,
+        "h": 20,
+        "x": 974,
+        "y": 1871
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/i",
+        "w": 16,
+        "h": 32,
+        "x": 934,
+        "y": 1822,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 34,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ia",
+        "w": 43,
+        "h": 44,
+        "x": 963,
+        "y": 1175,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ib",
+        "w": 44,
+        "h": 44,
+        "x": 909,
+        "y": 1477
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ic",
+        "w": 44,
+        "h": 43,
+        "x": 687,
+        "y": 1860,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/id",
+        "w": 44,
+        "h": 43,
+        "x": 794,
+        "y": 1867,
+        "fx": 0,
+        "fy": -1,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ie",
+        "w": 23,
+        "h": 35,
+        "x": 743,
+        "y": 2003,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/if",
+        "w": 71,
+        "h": 71,
+        "x": 895,
+        "y": 1259
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ig",
+        "w": 59,
+        "h": 39,
+        "x": 733,
+        "y": 1867,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ih",
+        "w": 65,
+        "h": 78,
+        "x": 941,
+        "y": 256
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ii",
+        "w": 2,
+        "h": 2,
+        "x": 823,
+        "y": 1557
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ij",
+        "w": 22,
+        "h": 18,
+        "x": 868,
+        "y": 1920,
+        "r": true,
+        "fx": -20,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ik",
+        "w": 22,
+        "h": 18,
+        "x": 892,
+        "y": 1920,
+        "r": true,
+        "fx": -20,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/il",
+        "w": 17,
+        "h": 22,
+        "x": 964,
+        "y": 1893,
+        "fx": -21,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/im",
+        "w": 13,
+        "h": 12,
+        "x": 913,
+        "y": 2017,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/in",
+        "w": 12,
+        "h": 13,
+        "x": 942,
+        "y": 2016,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/io",
+        "w": 13,
+        "h": 12,
+        "x": 970,
+        "y": 2019,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ip",
+        "w": 13,
+        "h": 12,
+        "x": 986,
+        "y": 2014,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/iq",
+        "w": 13,
+        "h": 12,
+        "x": 970,
+        "y": 2019,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ir",
+        "w": 13,
+        "h": 12,
+        "x": 985,
+        "y": 2028,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/is",
+        "w": 12,
+        "h": 14,
+        "x": 994,
+        "y": 1965
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/it",
+        "w": 15,
+        "h": 11,
+        "x": 889,
+        "y": 1988,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/iu",
+        "w": 12,
+        "h": 14,
+        "x": 986,
+        "y": 1998
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/iv",
+        "w": 15,
+        "h": 11,
+        "x": 906,
+        "y": 1988,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/iw",
+        "w": 14,
+        "h": 12,
+        "x": 897,
+        "y": 2017,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ix",
+        "w": 5,
+        "h": 5,
+        "x": 671,
+        "y": 1974,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/iy",
+        "w": 7,
+        "h": 7,
+        "x": 325,
+        "y": 2040,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/iz",
+        "w": 3,
+        "h": 3,
+        "x": 889,
+        "y": 1197,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/j",
+        "w": 38,
+        "h": 23,
+        "x": 968,
+        "y": 1302,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ja",
+        "w": 21,
+        "h": 23,
+        "x": 985,
+        "y": 984,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jb",
+        "w": 3,
+        "h": 3,
+        "x": 889,
+        "y": 1197,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jc",
+        "w": 3,
+        "h": 3,
+        "x": 889,
+        "y": 1197,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jd",
+        "w": 13,
+        "h": 14,
+        "x": 881,
+        "y": 2001,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/je",
+        "w": 7,
+        "h": 5,
+        "x": 953,
+        "y": 336,
+        "fx": -6,
+        "fy": -5,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jf",
+        "w": 11,
+        "h": 7,
+        "x": 312,
+        "y": 2040,
+        "fx": -4,
+        "fy": -3,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jg",
+        "w": 9,
+        "h": 15,
+        "x": 971,
+        "y": 1917,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 18,
+        "fh": 11
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jh",
+        "w": 85,
+        "h": 156,
+        "x": 600,
+        "y": 1725,
+        "fx": -17,
+        "fy": -15,
+        "fw": 120,
+        "fh": 180
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ji",
+        "w": 62,
+        "h": 110,
+        "x": 733,
+        "y": 1712,
+        "r": true,
+        "fx": -27,
+        "fy": -25,
+        "fw": 218,
+        "fh": 267
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jj",
+        "w": 19,
+        "h": 14,
+        "x": 868,
+        "y": 1940,
+        "fx": -3,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jk",
+        "w": 18,
+        "h": 15,
+        "x": 846,
+        "y": 1755,
+        "fx": -4,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jl",
+        "w": 16,
+        "h": 15,
+        "x": 837,
+        "y": 2032,
+        "fx": -7,
+        "fy": -3,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jm",
+        "w": 17,
+        "h": 16,
+        "x": 889,
+        "y": 1940,
+        "fx": -6,
+        "fy": -4,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jn",
+        "w": 17,
+        "h": 20,
+        "x": 448,
+        "y": 2027,
+        "r": true,
+        "fx": 0,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jo",
+        "w": 17,
+        "h": 15,
+        "x": 799,
+        "y": 2032,
+        "fx": -9,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jp",
+        "w": 49,
+        "h": 50,
+        "x": 957,
+        "y": 1466,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jq",
+        "w": 17,
+        "h": 15,
+        "x": 818,
+        "y": 2032,
+        "fx": -9,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jr",
+        "w": 5,
+        "h": 5,
+        "x": 970,
+        "y": 336,
+        "fx": -11,
+        "fy": -18,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/js",
+        "w": 7,
+        "h": 7,
+        "x": 753,
+        "y": 2040,
+        "fx": -10,
+        "fy": -14,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jt",
+        "w": 13,
+        "h": 13,
+        "x": 872,
+        "y": 2030,
+        "fx": -7,
+        "fy": -8,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ju",
+        "w": 17,
+        "h": 17,
+        "x": 989,
+        "y": 237,
+        "fx": -5,
+        "fy": -3,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jv",
+        "w": 16,
+        "h": 17,
+        "x": 976,
+        "y": 1934,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jw",
+        "w": 17,
+        "h": 16,
+        "x": 940,
+        "y": 1955,
+        "fx": -10,
+        "fy": -1,
+        "fw": 36,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jx",
+        "w": 7,
+        "h": 3,
+        "x": 968,
+        "y": 1327,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jy",
+        "w": 3,
+        "h": 8,
+        "x": 963,
+        "y": 1221
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/jz",
+        "w": 8,
+        "h": 4,
+        "x": 724,
+        "y": 1968,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/k",
+        "w": 23,
+        "h": 38,
+        "x": 716,
+        "y": 1974,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 41,
+        "fh": 25
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ka",
+        "w": 9,
+        "h": 4,
+        "x": 985,
+        "y": 1078,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kb",
+        "w": 8,
+        "h": 4,
+        "x": 724,
+        "y": 1968,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kc",
+        "w": 9,
+        "h": 4,
+        "x": 985,
+        "y": 1078,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kd",
+        "w": 3,
+        "h": 8,
+        "x": 904,
+        "y": 1510
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ke",
+        "w": 7,
+        "h": 3,
+        "x": 678,
+        "y": 2032,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kf",
+        "w": 4,
+        "h": 9,
+        "x": 1002,
+        "y": 29
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kg",
+        "w": 4,
+        "h": 8,
+        "x": 889,
+        "y": 1187
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kh",
+        "w": 4,
+        "h": 9,
+        "x": 1002,
+        "y": 29
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ki",
+        "w": 4,
+        "h": 8,
+        "x": 889,
+        "y": 1187
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kj",
+        "w": 8,
+        "h": 7,
+        "x": 743,
+        "y": 2040,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kk",
+        "w": 21,
+        "h": 21,
+        "x": 985,
+        "y": 1034,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kl",
+        "w": 19,
+        "h": 19,
+        "x": 826,
+        "y": 1999,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/km",
+        "w": 5,
+        "h": 4,
+        "x": 734,
+        "y": 1968,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kn",
+        "w": 7,
+        "h": 7,
+        "x": 753,
+        "y": 2040,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ko",
+        "w": 8,
+        "h": 9,
+        "x": 998,
+        "y": 973,
+        "fx": -6,
+        "fy": -4,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kp",
+        "w": 17,
+        "h": 17,
+        "x": 934,
+        "y": 1917,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kq",
+        "w": 13,
+        "h": 12,
+        "x": 887,
+        "y": 2031,
+        "fx": -6,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kr",
+        "w": 12,
+        "h": 13,
+        "x": 942,
+        "y": 2016,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ks",
+        "w": 15,
+        "h": 13,
+        "x": 855,
+        "y": 1957,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kt",
+        "w": 6,
+        "h": 19,
+        "x": 507,
+        "y": 2025,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ku",
+        "w": 13,
+        "h": 14,
+        "x": 896,
+        "y": 2001
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kv",
+        "w": 13,
+        "h": 15,
+        "x": 863,
+        "y": 1972
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kw",
+        "w": 6,
+        "h": 19,
+        "x": 507,
+        "y": 2025,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kx",
+        "w": 21,
+        "h": 19,
+        "x": 985,
+        "y": 1057,
+        "r": true,
+        "fx": -19,
+        "fy": -2,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ky",
+        "w": 13,
+        "h": 14,
+        "x": 911,
+        "y": 2001
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/kz",
+        "w": 19,
+        "h": 15,
+        "x": 693,
+        "y": 2032
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/l",
+        "w": 38,
+        "h": 22,
+        "x": 467,
+        "y": 2025,
+        "fx": -1,
+        "fy": -1,
+        "fw": 41,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/la",
+        "w": 13,
+        "h": 14,
+        "x": 926,
+        "y": 2001
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/lb",
+        "w": 18,
+        "h": 22,
+        "x": 924,
+        "y": 1893,
+        "fx": -20,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/lc",
+        "w": 18,
+        "h": 22,
+        "x": 944,
+        "y": 1893,
+        "fx": -20,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/ld",
+        "w": 22,
+        "h": 17,
+        "x": 831,
+        "y": 1939,
+        "r": true,
+        "fx": -21,
+        "fy": 0,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/m",
+        "w": 22,
+        "h": 33,
+        "x": 773,
+        "y": 1971,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 35,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/n",
+        "w": 21,
+        "h": 23,
+        "x": 985,
+        "y": 1009,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 27,
+        "fh": 23
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/o",
+        "w": 33,
+        "h": 41,
+        "x": 969,
+        "y": 1518,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 44,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/p",
+        "w": 26,
+        "h": 40,
+        "x": 696,
+        "y": 1932,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 44,
+        "fh": 29
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/q",
+        "w": 48,
+        "h": 20,
+        "x": 216,
+        "y": 2027,
+        "fx": -2,
+        "fy": -1,
+        "fw": 51,
+        "fh": 22
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/r",
+        "w": 16,
+        "h": 32,
+        "x": 669,
+        "y": 1883,
+        "fx": -1,
+        "fy": -2,
+        "fw": 18,
+        "fh": 36
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/s",
+        "w": 34,
+        "h": 19,
+        "x": 786,
+        "y": 1912,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 21,
+        "fh": 38
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/t",
+        "w": 25,
+        "h": 29,
+        "x": 797,
+        "y": 1970,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/u",
+        "w": 11,
+        "h": 67,
+        "x": 989,
+        "y": 139
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/v",
+        "w": 41,
+        "h": 65,
+        "x": 965,
+        "y": 1562
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/w",
+        "w": 272,
+        "h": 744,
+        "x": 275,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/x",
+        "w": 11,
+        "h": 67,
+        "x": 985,
+        "y": 915
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/y",
+        "w": 41,
+        "h": 65,
+        "x": 965,
+        "y": 1629
+    },
+    {
+        "n": "story/story_event_quest/cyberpunk01/cyberpunk01_002/.gen/movie/z",
+        "w": 25,
+        "h": 29,
+        "x": 799,
+        "y": 2001,
+        "r": true
+    }
+]
