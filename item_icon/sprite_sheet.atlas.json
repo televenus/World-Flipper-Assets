@@ -1,0 +1,408 @@
+[
+    {
+        "n": "item_icon/materials/boss_coin/boss_coin_1",
+        "w": 41,
+        "h": 41,
+        "x": 137,
+        "y": 1
+    },
+    {
+        "n": "item_icon/materials/boss_coin/boss_coin_2",
+        "w": 41,
+        "h": 41,
+        "x": 174,
+        "y": 46
+    },
+    {
+        "n": "item_icon/materials/boss_coin/boss_coin_3",
+        "w": 41,
+        "h": 41,
+        "x": 182,
+        "y": 1
+    },
+    {
+        "n": "item_icon/materials/encyclopedia/icon_encyclopedia_logkey",
+        "w": 40,
+        "h": 40,
+        "x": 227,
+        "y": 1
+    },
+    {
+        "n": "item_icon/materials/event/advent_hw20/hw20_cookies_1",
+        "w": 37,
+        "h": 37,
+        "x": 438,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/advent_hw20/hw20_cookies_2",
+        "w": 33,
+        "h": 36,
+        "x": 450,
+        "y": 85,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/advent_hw20/hw20_cookies_3",
+        "w": 38,
+        "h": 34,
+        "x": 117,
+        "y": 93,
+        "fx": 0,
+        "fy": -2,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/advent_xm20/xm20_exchange_item_01",
+        "w": 39,
+        "h": 45,
+        "x": 49,
+        "y": 50,
+        "fx": -4,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "item_icon/materials/event/advent_xm20/xm20_exchange_item_02",
+        "w": 44,
+        "h": 45,
+        "x": 1,
+        "y": 50,
+        "fx": -1,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "item_icon/materials/event/advent_xm20/xm20_exchange_item_03",
+        "w": 37,
+        "h": 45,
+        "x": 50,
+        "y": 1,
+        "fx": -5,
+        "fy": -1,
+        "fw": 46,
+        "fh": 46
+    },
+    {
+        "n": "item_icon/materials/event/anv2/box_token_anv2_01",
+        "w": 36,
+        "h": 26,
+        "x": 77,
+        "y": 99,
+        "r": true,
+        "fx": -8,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "item_icon/materials/event/anv_story_01/box_token_icon_001",
+        "w": 32,
+        "h": 36,
+        "x": 458,
+        "y": 42,
+        "fx": -3,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/challenge_dungeon/event_abyss_matter",
+        "w": 40,
+        "h": 40,
+        "x": 254,
+        "y": 45
+    },
+    {
+        "n": "item_icon/materials/event/challenge_dungeon/event_chaos_matter",
+        "w": 32,
+        "h": 32,
+        "x": 523,
+        "y": 39,
+        "fx": -4,
+        "fy": -4,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "item_icon/materials/event/challenge_dungeon/event_dark_matter",
+        "w": 40,
+        "h": 40,
+        "x": 271,
+        "y": 1
+    },
+    {
+        "n": "item_icon/materials/event/challenge_dungeon/event_shadow_matter",
+        "w": 28,
+        "h": 28,
+        "x": 45,
+        "y": 99,
+        "fx": -6,
+        "fy": -6,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "item_icon/materials/event/crown_beasts/box_token_crown_beasts",
+        "w": 31,
+        "h": 33,
+        "x": 523,
+        "y": 75,
+        "r": true,
+        "fx": -2,
+        "fy": -6,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/cyberpunk01/box_token_icon_001",
+        "w": 38,
+        "h": 38,
+        "x": 315,
+        "y": 1
+    },
+    {
+        "n": "item_icon/materials/event/cyberpunk02_hero/box_token_icon_001",
+        "w": 40,
+        "h": 36,
+        "x": 201,
+        "y": 91,
+        "fx": 0,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "item_icon/materials/event/desert_bonds_01/box_token_icon_001",
+        "w": 34,
+        "h": 34,
+        "x": 479,
+        "y": 1,
+        "fx": -2,
+        "fy": -4,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "item_icon/materials/event/fakeprincess01/box_token_icon_001",
+        "w": 38,
+        "h": 36,
+        "x": 245,
+        "y": 91
+    },
+    {
+        "n": "item_icon/materials/event/Gcollab/gcollab_exchange_item_icon_01",
+        "w": 38,
+        "h": 34,
+        "x": 159,
+        "y": 93,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/Gcollab/gcollab_exchange_item_icon_02",
+        "w": 32,
+        "h": 38,
+        "x": 414,
+        "y": 85,
+        "fx": -4,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/Gcollab/gcollab_exchange_item_icon_03",
+        "w": 38,
+        "h": 38,
+        "x": 331,
+        "y": 89
+    },
+    {
+        "n": "item_icon/materials/event/haniwa_carnival/haniwa_medal_bronze",
+        "w": 40,
+        "h": 28,
+        "x": 1,
+        "y": 99,
+        "r": true,
+        "fx": -6,
+        "fy": 0,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "item_icon/materials/event/haniwa_carnival/haniwa_medal_gold",
+        "w": 40,
+        "h": 38,
+        "x": 287,
+        "y": 89,
+        "r": true,
+        "fx": -2,
+        "fy": 0,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "item_icon/materials/event/haniwa_carnival/haniwa_medal_silver",
+        "w": 40,
+        "h": 40,
+        "x": 298,
+        "y": 45
+    },
+    {
+        "n": "item_icon/materials/event/raid_event/box_token_raid_event_01",
+        "w": 32,
+        "h": 34,
+        "x": 487,
+        "y": 82,
+        "fx": -4,
+        "fy": -4,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "item_icon/materials/event/story_event_valen_21/exchange_item_01",
+        "w": 34,
+        "h": 34,
+        "x": 517,
+        "y": 1,
+        "fx": -1,
+        "fy": -3,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/story_event_valen_21/exchange_item_02",
+        "w": 36,
+        "h": 38,
+        "x": 383,
+        "y": 43,
+        "fx": -1,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/summer_2020/box_token_icon_001",
+        "w": 45,
+        "h": 45,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "item_icon/materials/event/summer_2021/box_token_summer_2021",
+        "w": 36,
+        "h": 38,
+        "x": 398,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/target_item_drop_event/kesshou_icon",
+        "w": 38,
+        "h": 42,
+        "x": 92,
+        "y": 47
+    },
+    {
+        "n": "item_icon/materials/event/target_item_drop_event/mushroom_icon",
+        "w": 36,
+        "h": 42,
+        "x": 134,
+        "y": 47
+    },
+    {
+        "n": "item_icon/materials/event/target_item_drop_event/sizuku_icon",
+        "w": 31,
+        "h": 41,
+        "x": 219,
+        "y": 46
+    },
+    {
+        "n": "item_icon/materials/event/target_item_drop_event/snowman_icon",
+        "w": 42,
+        "h": 42,
+        "x": 91,
+        "y": 1
+    },
+    {
+        "n": "item_icon/materials/event/treasure_cave_quest/treasure_cave_quest_item",
+        "w": 37,
+        "h": 38,
+        "x": 357,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/yokai_emaki_01/box_token_icon_001",
+        "w": 31,
+        "h": 38,
+        "x": 423,
+        "y": 43
+    },
+    {
+        "n": "item_icon/materials/event/Zcollab/exchange_item_icon_01",
+        "w": 37,
+        "h": 38,
+        "x": 342,
+        "y": 43,
+        "fx": -1,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/Zcollab/exchange_item_icon_02",
+        "w": 37,
+        "h": 38,
+        "x": 373,
+        "y": 85,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/Zcollab2/exchange_item_icon_11",
+        "w": 37,
+        "h": 38,
+        "x": 342,
+        "y": 43,
+        "fx": -1,
+        "fy": 0,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "item_icon/materials/event/Zcollab2/exchange_item_icon_12",
+        "w": 37,
+        "h": 38,
+        "x": 373,
+        "y": 85,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    }
+]
