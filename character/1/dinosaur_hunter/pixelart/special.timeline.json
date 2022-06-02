@@ -1,0 +1,19 @@
+{
+    "sequences": [
+        {
+            "name": "special_land",
+            "kind": "pass",
+            "begin": 1,
+            "end": 53
+        },
+        {
+            "name": "special_pose",
+            "kind": "once",
+            "begin": 54,
+            "end": 102
+        }
+    ],
+    "circles": [],
+    "points": [],
+    "sounds": []
+}

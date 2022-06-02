@@ -1,0 +1,151 @@
+[
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0006",
+        "w": 12,
+        "h": 16,
+        "x": 116,
+        "y": 0,
+        "fx": -123,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0012",
+        "w": 11,
+        "h": 16,
+        "x": 116,
+        "y": 17,
+        "fx": -123,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0018",
+        "w": 10,
+        "h": 16,
+        "x": 66,
+        "y": 104,
+        "fx": -124,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0024",
+        "w": 14,
+        "h": 18,
+        "x": 34,
+        "y": 104,
+        "r": true,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0030",
+        "w": 17,
+        "h": 20,
+        "x": 0,
+        "y": 104,
+        "r": true,
+        "fx": -121,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0036",
+        "w": 16,
+        "h": 16,
+        "x": 49,
+        "y": 104,
+        "fx": -117,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0042",
+        "w": 15,
+        "h": 19,
+        "x": 18,
+        "y": 104,
+        "r": true,
+        "fx": -116,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0048",
+        "w": 39,
+        "h": 53,
+        "x": 46,
+        "y": 50,
+        "r": true,
+        "fx": -101,
+        "fy": -101,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0054",
+        "w": 58,
+        "h": 45,
+        "x": 0,
+        "y": 0,
+        "fx": -98,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0060",
+        "w": 56,
+        "h": 45,
+        "x": 59,
+        "y": 0,
+        "fx": -99,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0066",
+        "w": 45,
+        "h": 53,
+        "x": 0,
+        "y": 50,
+        "r": true,
+        "fx": -101,
+        "fy": -98,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0072",
+        "w": 41,
+        "h": 50,
+        "x": 86,
+        "y": 50,
+        "r": true,
+        "fx": -103,
+        "fy": -99,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/dinosaur_hunter/pixelart/special0102",
+        "w": 11,
+        "h": 15,
+        "x": 116,
+        "y": 34,
+        "fx": -123,
+        "fy": -114,
+        "fw": 256,
+        "fh": 256
+    }
+]

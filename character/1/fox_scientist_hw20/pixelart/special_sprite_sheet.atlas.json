@@ -1,0 +1,137 @@
+[
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0006",
+        "w": 21,
+        "h": 28,
+        "x": 104,
+        "y": 53,
+        "fx": -122,
+        "fy": -101,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0012",
+        "w": 21,
+        "h": 26,
+        "x": 104,
+        "y": 82,
+        "fx": -122,
+        "fy": -103,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0018",
+        "w": 47,
+        "h": 34,
+        "x": 56,
+        "y": 52,
+        "fx": -112,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0024",
+        "w": 42,
+        "h": 38,
+        "x": 45,
+        "y": 130,
+        "fx": -101,
+        "fy": -100,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0030",
+        "w": 46,
+        "h": 42,
+        "x": 0,
+        "y": 56,
+        "r": true,
+        "fx": -100,
+        "fy": -95,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0036",
+        "w": 44,
+        "h": 41,
+        "x": 0,
+        "y": 99,
+        "r": true,
+        "fx": -103,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0042",
+        "w": 45,
+        "h": 42,
+        "x": 47,
+        "y": 87,
+        "fx": -100,
+        "fy": -97,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0048",
+        "w": 55,
+        "h": 51,
+        "x": 56,
+        "y": 0,
+        "fx": -96,
+        "fy": -92,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0054",
+        "w": 55,
+        "h": 55,
+        "x": 0,
+        "y": 0,
+        "fx": -96,
+        "fy": -90,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0060",
+        "w": 13,
+        "h": 23,
+        "x": 112,
+        "y": 29,
+        "fx": -122,
+        "fy": -106,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0066",
+        "w": 15,
+        "h": 14,
+        "x": 112,
+        "y": 14,
+        "fx": -121,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/fox_scientist_hw20/pixelart/special0096",
+        "w": 16,
+        "h": 13,
+        "x": 112,
+        "y": 0,
+        "r": true,
+        "fx": -122,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "n": "character/desert_caravans/pixelart/special0006",
+        "w": 20,
+        "h": 18,
+        "x": 108,
+        "y": 101,
+        "fx": -118,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0012",
+        "w": 16,
+        "h": 21,
+        "x": 112,
+        "y": 79,
+        "r": true,
+        "fx": -117,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0018",
+        "w": 38,
+        "h": 33,
+        "x": 41,
+        "y": 74,
+        "fx": -105,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0024",
+        "w": 39,
+        "h": 35,
+        "x": 44,
+        "y": 38,
+        "fx": -105,
+        "fy": -94,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0030",
+        "w": 37,
+        "h": 44,
+        "x": 90,
+        "y": 0,
+        "r": true,
+        "fx": -104,
+        "fy": -94,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0036",
+        "w": 45,
+        "h": 37,
+        "x": 44,
+        "y": 0,
+        "fx": -103,
+        "fy": -94,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0042",
+        "w": 27,
+        "h": 47,
+        "x": 84,
+        "y": 45,
+        "r": true,
+        "fx": -101,
+        "fy": -102,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0048",
+        "w": 43,
+        "h": 40,
+        "x": 0,
+        "y": 0,
+        "fx": -103,
+        "fy": -89,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0054",
+        "w": 40,
+        "h": 27,
+        "x": 0,
+        "y": 101,
+        "r": true,
+        "fx": -114,
+        "fy": -89,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0060",
+        "w": 40,
+        "h": 28,
+        "x": 0,
+        "y": 41,
+        "r": true,
+        "fx": -114,
+        "fy": -89,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0066",
+        "w": 38,
+        "h": 29,
+        "x": 0,
+        "y": 70,
+        "r": true,
+        "fx": -114,
+        "fy": -91,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0072",
+        "w": 27,
+        "h": 33,
+        "x": 80,
+        "y": 93,
+        "fx": -115,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0078",
+        "w": 13,
+        "h": 33,
+        "x": 112,
+        "y": 45,
+        "fx": -122,
+        "fy": -96,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "character/desert_caravans/pixelart/special0096",
+        "w": 12,
+        "h": 14,
+        "x": 41,
+        "y": 108,
+        "fx": -123,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    }
+]
